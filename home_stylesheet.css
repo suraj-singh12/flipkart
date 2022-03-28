@@ -2,6 +2,10 @@ body {
     margin: auto;
     overflow-x: hidden;
     font-family: 'Roboto', 'Arial';
+    font-size: 14px;
+    background-color: #f1f3f6;
+    color: #212121;
+    line-height: 1.4;
 }
 /* header CSS */
 header {
@@ -17,7 +21,7 @@ header > div {
 #logo {
     margin-left: 12%;
     float: left;
-    margin-top: 1%;
+    margin-top: 0.6%;
     width: 7%;
 }
 #logo img {
@@ -55,8 +59,8 @@ header > div {
 }
 #search-bar input {
     width: 90%;    
-    height: 70%;
-    font-size: 14px;
+    height: 65%;
+    /* font-size: 14px; */
     padding: 0 16px;
     border: none;
 }
@@ -137,7 +141,7 @@ input:focus {
 }
 .icons p {
     margin-top: 0;
-    font-size: 14px;
+    /* font-size: 14px; */
     text-align: center;
 }
 .first-icon {
@@ -150,9 +154,10 @@ input:focus {
 /* carousel cell */
 .carousel-cell {
     width: 99%;
-    margin-left: 0.5%;
-    margin-right: 0.5%;
-    margin-top: 0.5%;
+    /* margin-left: 0.5%; */
+    margin-left: 0;
+    /* margin-right: 0.5%; */
+    margin-top: 1%;
 }
 .carousel-cell img {
     width: 100%;
@@ -160,42 +165,76 @@ input:focus {
 
 /* deals of the day */
 #deals-of-day {
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: inline-block;
     width: 99%;
-    margin-left: 0.5%;
-    margin-right: 0.5%;
+    margin-left: 0;
+    /* margin-right: 0.5%; */
 }
-#deals-of-day > p {
-    font-size: 22px;
+#deals-of-day  p, #most_searched p, #top_deals_on_fashion p {
+    /* font-size: 14px; */
     line-height: 32px;
     display: inline-block;
     font-weight: 500;
 }
+.cards-holder {
+    margin-top: 2%;
+    margin-left: 10px !important;
+    background-color: #fff;
+    border-radius: 2px;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 8%);
+    border-top: 1px solid #eaeaea;
+    padding-top: 1%;
+}
 .items-strip {
     display:inline-block;
-    border: 1px solid black;
-    width: 100%; 
+    /* border: 1px solid black; */
+    width: 100%;
 }
-.card {
-    border: 1px solid black;
+.myCard {
+    border: none;
     padding: 25px 15px;
-    float: left;
-    width: 11%;
-    margin-left: 3%;
-    height: auto;
+    display: inline-block;
+    vertical-align: top;
+    width: 14%;
+    max-height: 366px;
     text-align: center;
 }
 .img {
-    border: 1px solid black;
+    /* border: 1px solid black; */
     width: 100%;
     height: 165px;
 }
 .img img {
-    width: 100%;
-    height: 100%;
+    width: 60%;
+    height: 60%;
+}
+#deals-of-day .img img {
+    width: 80%;
+    height: 80%;
 }
 .content {
-    border: 1px solid green;
-    height: auto;
+    height: 80px;
+}
+.cards-heading {
+    margin: 0;
+    padding: 0;
+    margin-left: 1%;
+    font-size: 22px;
+    line-height: 32px;
+    display: inline-block;
+    font-weight: 600;
+}
+.content p {
+    margin: 0;
+    display: block !important;
+}
+.flickity-page-dots {
+    display: none;
+}
+.price {
+    color: #388e3c;
+}
+.brief {
+    opacity: .6;
 }
