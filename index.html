@@ -44,7 +44,7 @@
                 <input type="text" name="search-bar" id="search-bar"
                     placeholder="Search for products, brands, and more">
                 <!-- submit button -->
-                <button type="submit"><i class="fa fa-search"></i></button>
+                <button type="submit"><i class="bi bi-search"></i></button>
             </form>
         </div>
         <div id="cart">
@@ -52,8 +52,27 @@
             <span>Cart</span>
         </div>
         <div id="more">More</div>
-        <div id="login">
-            <p>Login</p>
+        <div id="login" class="dropdown">
+            <button type="button" class="btn text-primary text-center" data-bs-toggle="dropdown">
+                Login
+            </button>
+            <ul class="dropdown-menu dropdown-menu-center">
+                <li><a class="dropdown-item" href="#">
+                    <i class="bi bi-person-circle"></i> <p>My Profile</p> </a></li>
+                <li><hr class="dropdown-divider"></hr></li>
+                <li><a class="dropdown-item" href="#">
+                    <i class="fa-duotone fa-star-christmas"></i> <p>Flipkart Plus Zone</p> </a></li>
+                <li><hr class="dropdown-divider"></hr></li>
+                <li><a class="dropdown-item" href="#">Orders</a></li>
+                <li><hr class="dropdown-divider"></hr></li>
+                <li><a class="dropdown-item" href="#">Wishlist</a></li>
+                <li><hr class="dropdown-divider"></hr></li>
+                <li><a class="dropdown-item" href="#">Rewards</a></li>
+                <li><hr class="dropdown-divider"></hr></li>
+                <li><a class="dropdown-item" href="#">Gift Cards</a></li>
+                
+            </ul>
+        </div>
         </div>
     </header>
 
@@ -544,7 +563,7 @@
             <i class="icon margin-l bi bi-gift"></i><span class="icon-text">Gift Cards</span>
             <i class="icon margin-l bi bi-question-circle-fill"></i><span class="icon-text">Help Center</span>
             <span class="margin-l icon-text">&copy; 2007-2022 Flipkart.com</span>
-            <span class="icon-imgs">
+            <!-- <span class="icon-imgs">
                 <img src="icons/cards/visa.jpg" alt="visa">
                 <img src="icons/cards/card2.png" alt="card2">
                 <img src="icons/cards/card3.png" alt="card3">
@@ -555,6 +574,9 @@
                 <img src="icons/cards/card8.png" alt="card8">
                 <img src="icons/cards/card9.png" alt="card9">
                 <img src="icons/cards/card10.png" alt="card10">
+            </span> -->
+            <span class="all-cards">
+                <img src="icons/cards/all-cards.png" alt="all cards">
             </span>
         </div>
     </footer>

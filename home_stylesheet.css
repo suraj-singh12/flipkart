@@ -67,9 +67,9 @@ header > div {
 form#search button{
     display: inline-block;
     position: absolute; 
-    width: 10%;
+    /* width: 10%; */       /* don't destroy the aspect ratio by giving width, give width or height but not both to any image or icon, always remember */
     height: 69%;
-    padding: 16px;
+    /* padding: 16px; */
     color: rgb(40, 116, 241);
     border: none;
     margin-top: 0.4%;
@@ -86,21 +86,28 @@ input:focus {
 #login {
     float: right;
     background-color: #f6f6f6;
-    width: 7.8%;
-    height: 62%;
-    margin-top: 0.5%;
-    padding: 0;
-    margin-right: 3%;
-    font-weight: bolder;
-    border-radius: 1px;
-    cursor: hand;
-}
-#login p {
-    margin: 0;
-    padding-top: 8px;
+    width: 8%;
     text-align: center;
-    color: #2874f0;
-    cursor: hand;
+    height: 68%;
+    margin-top: 0.5%;
+    /* padding: 0; */
+    margin-right: 3%;
+    /* font-weight: bolder; */
+    border-radius: 2px;
+    /* color: #2874f0; */
+    /* cursor: pointer; */
+    border: 1px solid #dbdbdb;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; /* remove the gap so it doesn't close */
+}
+.dropdown-menu-center {
+    left: 50% !important;
+    right: auto !important;
+    /* text-align: center !important; */
+    min-width: 240px;
+    transform: translate(-50%, 0) !important;
 }
 #more {
     font-weight: bolder;
@@ -320,4 +327,11 @@ footer .last-row .icon {
 }
 .icon-imgs img {
     height: 100%;
+}
+.all-cards {
+    width: 27%;
+    margin-left: 7%;
+}
+.all-cards img {
+    width: 100%;
 }
