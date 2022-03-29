@@ -107,7 +107,20 @@ input:focus {
     right: auto !important;
     /* text-align: center !important; */
     min-width: 240px;
+    font-size: 14px;
     transform: translate(-50%, 0) !important;
+}
+.dropdown-menu-center li {
+    border: none;
+    border-bottom: 1px solid #f0f0f0;
+    padding: 4px;
+}
+.login-icons {
+    color: rgb(77, 77, 243);
+}
+.login-icon-text {
+    display: inline-block;
+    margin-left: 5px;
 }
 #more {
     font-weight: bolder;
