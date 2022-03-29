@@ -98,6 +98,7 @@ input:focus {
     /* cursor: pointer; */
     border: 1px solid #dbdbdb;
 }
+/* this makes dropdown to pop up on hover */
 .dropdown:hover .dropdown-menu {
     display: block;
     margin-top: 0; /* remove the gap so it doesn't close */
@@ -115,19 +116,26 @@ input:focus {
     border-bottom: 1px solid #f0f0f0;
     padding: 4px;
 }
-.login-icons {
+.drop-icons {
     color: rgb(77, 77, 243);
 }
-.login-icon-text {
+.drop-icon-text {
     display: inline-block;
     margin-left: 5px;
 }
 #more {
     font-weight: bolder;
     float: right;
-    color: white;
     margin-right: 4%;
-    cursor: hand;
+    /* width: 8%; */
+    width: auto;
+    text-align: center;
+    height: 68%;
+    margin-top: 0.5%;
+}
+#more button {
+    text-decoration: none;
+    color: white;
 }
 #cart {
     font-weight: bolder;
@@ -142,13 +150,23 @@ input:focus {
 
 /* header CSS FINISH */
 
-/* main content CSS */
+/* ---------------------------------- main content CSS ---------------------------------- */
 /* top strip CSS */
 #top-strip {
     height: 112px;
     display: inline-block;
     width: 100%;
     box-shadow: 0 0px 3px grey;
+    font-weight: 500;
+    font-size: 14px;
+}
+#top-strip a {
+    color: black;
+    text-decoration:none;
+}
+#top-strip a:hover {
+    color: blue;
+    text-decoration: none;
 }
 .icons {
     display: inline-block;
