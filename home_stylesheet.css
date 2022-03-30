@@ -123,6 +123,85 @@ input:focus {
     display: inline-block;
     margin-left: 5px;
 }
+
+/* --------------------------------- Mega Dropdown Menu --------------------------------- */
+/* styling */
+.mega-dropdown-submenu {
+    background-color: #fff !important;
+    border: 1px solid #f0f0f0;
+    border-radius: .25rem;
+    /* border-top: none; */
+    min-width: 240px;
+    transition: opacity .3s ease-in-out;
+    padding: 12px;
+    z-index: 1;
+}
+.mega-dropdown-menu {
+    border: 1px solid #f0f0f0;
+    min-width: 240px;
+    padding: 12px;
+    z-index: 5;
+    box-shadow: 0 4px 16px 0 rgb(0 0 0 / 20%);
+}
+
+/* hide both menus */
+.mega-dropdown-menu .mega-dropdown-submenu {
+    display: none;
+    position: absolute;
+    /* no space will be created for the item, 
+    and will be placed relative to closest positioned ancestor*/
+    top: 0px;
+}
+
+/* ensure submenu is left(in its own left), this makes them come in right hand side of the dropdown-menu*/
+.mega-dropdown-submenu {
+    left: 100.6%;
+}
+
+/* show submenu when hover on item*/
+.mega-dropdown-menu>li:hover>.mega-dropdown-submenu {
+    display: block;
+}
+
+/* show dropdown on hover */
+.mega-dropdown:hover>.mega-dropdown-menu {
+    display: block;
+    margin-top: -7px;
+    /* remove the gap so it doesn't close */
+}
+
+.no-bullet {
+    list-style-type: none;
+    margin-left: -30px;
+}
+.no-bullet a {
+    padding-left: 10px !important;
+}
+.font14 {
+    font-size: 14px;
+}
+.mega-dropdown-menu-left {
+    left: 100% !important;
+    right: auto !important;
+    /* text-align: center !important; */
+    min-width: 240px;
+    font-size: 14px;
+    transform: translate(-100%, 0) !important;
+}
+/* .mega-dropdown-menu-left li {
+    border: none;
+    border-bottom: 1px solid #f0f0f0;
+    padding: 4px;
+} */
+.mega-dropdown-menu  a.dropdown-item {
+    padding: 4px;
+}
+.dropdown-text-enhancement {
+    text-align: left !important ;
+    color: #575757 !important;
+    font-size: 12px;
+}
+/* -------------------------------------------------------- */
 #more {
     font-weight: bolder;
     float: right;
@@ -159,6 +238,7 @@ input:focus {
     box-shadow: 0 0px 3px grey;
     font-weight: 500;
     font-size: 14px;
+    padding-bottom: 1%;
 }
 #top-strip a {
     color: black;
@@ -170,12 +250,13 @@ input:focus {
 }
 .icons {
     display: inline-block;
-    margin-left: 4%;
+    margin-left: 3%;
     height: 100%;
 }
 .icons img {
     margin-top: 10%;
     height: 60%;
+    width: auto;
 }
 .icons p {
     margin-top: 0;
@@ -186,7 +267,7 @@ input:focus {
     margin-left: 9%;
 }
 #fashion, #home, #appliances, #travel, #beauty{
-    margin-left: 5%;
+    margin-left: 3%;
 }
 
 /* carousel cell */
