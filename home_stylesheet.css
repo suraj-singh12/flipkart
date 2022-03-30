@@ -155,7 +155,7 @@ input:focus {
 
 /* ensure submenu is left(in its own left), this makes them come in right hand side of the dropdown-menu*/
 .mega-dropdown-submenu {
-    left: 100.6%;
+    left: 100.2%;
 }
 
 /* show submenu when hover on item*/
