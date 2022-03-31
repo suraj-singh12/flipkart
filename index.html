@@ -4,8 +4,7 @@
     <!-- one of the important thing, to make site responsive -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
-    </title>
+    <title>Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!</title>
 
     <!-- for icons (cart icon) -->
     <script src="https://kit.fontawesome.com/c4338603d0.js" crossorigin="anonymous"></script>
@@ -22,14 +21,15 @@
     <link rel="stylesheet" href="modified-flickity.min.css">
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 
-    
     <!-- my css -->
     <link rel="stylesheet" href="home_stylesheet.css">
 </head>
 
 <body>
+    <!-- ----------------------------------------------------| Header (TOP) start |------------------------------------------------ -->
 
     <header>
+        <!-- -------------------------------- Website Logo (Flipkart) -------------------------------- -->
         <div id="logo">
             <a href="index.html"><img src="icons/flipkart.png" alt="flikart"></a>
             <a href="index.html">Explore
@@ -38,6 +38,7 @@
                 </span>
             </a>
         </div>
+        <!-- -------------------------------- search bar -------------------------------- -->
         <div id="search-bar">
             <form id="search" action="#">
                 <!-- input field -->
@@ -47,11 +48,12 @@
                 <button type="submit"><i class="bi bi-search"></i></button>
             </form>
         </div>
+        <!-- -------------------------------- Cart Icon -------------------------------- -->
         <div id="cart">
             <i class="fa-solid fa-cart-shopping"></i>
             <span>Cart</span>
         </div>
-        <!-- more button -->
+        <!-- -------------------------------- more button -------------------------------- -->
         <div id="more" class="dropdown">
             <button type="button" class="btn text-center dropdown-toggle" data-bs-toggle="dropdown">
                 More
@@ -74,6 +76,8 @@
                     </a></li>
             </ul>
         </div>
+
+        <!-- -------------------------------- Login button -------------------------------- -->
         <div id="login" class="dropdown">
             <button type="button" class="btn text-primary text-center" data-bs-toggle="dropdown">
                 Login
@@ -101,9 +105,13 @@
         </div>
         </div>
     </header>
+    <!-- ----------------------------------------------------| Header (TOP) FINISH |------------------------------------------------ -->
 
+
+    <!-- ----------------------------------------------------| Main Content of Page |---------------------------------------------------- -->
     <div id="main-content">
-        <!-- =========================================================== TOP STRIP ====================================================== -->
+
+        <!-- --------------------------- TOP STRIP (icons Level1 : mega-dropdown menus) -------------------------- -->
         <div id="top-strip">
             <a href="#">
                 <div id="top_offers" class="icons first-icon">
@@ -1347,10 +1355,10 @@
                 </div>
             </a>
         </div>
-        <!-- =========================================================== TOP STRIP FINISH ====================================================== -->
+        <!-- ---------------------------------------------------- TOP STRIP FINISH ---------------------------------------------------- -->
 
-        <!-- image carousel start -->
-        <!-- Carousel -->
+        <!-- ----------------------------------------------------| image carousel start ---------------------------------------------------- -->
+
         <div id="image-slider" class="carousel slide" data-bs-ride="carousel">
             <!-- Indicators/dots -->
             <!-- <div class="carousel-indicators">
@@ -1383,8 +1391,8 @@
             </button>
         </div>
 
-        <!-- outer div (main; covering all) -->
-
+        <!-- ----------------------------------------------------| Cards  container / holder divs start |---------------------------------------------------- -->
+        <!-- --------------------------------- holder 1 ---------------------------------- -->
         <div id="deals-of-day" class="cards-holder container-fluid">
             <h3 class="cards-heading">Deals of the Day</h3>
             <a href="#" class="btn btn-primary btn-right">View All</a>
@@ -1464,7 +1472,7 @@
                 <a href="#">
                     <div class="myCard carousel-cell card">
                         <div class="img">
-                            <img class="card-img-top" src="strips-icons/cushions_and_pillows.jpeg" alt="pillows" />
+                            <img class="card-img-top" src="strips-icons/pillow.jpg" alt="pillows" />
                         </div>
 
                         <div class="content card-text">
@@ -1474,14 +1482,29 @@
                         </div>
                     </div>
                 </a>
+                <!-- myCard 7 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/gardening-essentials.jpeg" alt="gardening essentials" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Gardening Essentials</p>
+                            <p class="price">Min 50% + Extra 10 % Off</p>
+                            <p class="brief">Mind Blowing Discounts</p>
+                        </div>
+                    </div>
+                </a>
             </div>
         </div>
 
+        <!-- ---------------------------------- holder 2 ---------------------------------- -->
         <div id="most_searched" class="cards-holder container-fluid">
             <h3 class="cards-heading">Most Searched</h3>
             <a href="#" class="btn btn-primary btn-right">View All</a>
             <hr />
-            <div class="items-strip" data-flickity='{"groupCells": true }'>
+            <div class="items-strip carousel" data-flickity='{"groupCells": true }'>
                 <!-- myCard 1 -->
                 <a href="#">
                     <div class="myCard carousel-cell card">
@@ -1597,6 +1620,7 @@
             </div>
         </div>
 
+        <!-- ---------------------------------- holder 3 ---------------------------------- -->
         <div id="top_deals_on_fashion" class="cards-holder container-fluid">
             <h3 class="cards-heading">Top Deals on Fashion</h3>
             <a href="#" class="btn btn-primary btn-right">View All</a>
@@ -1714,12 +1738,333 @@
                         </div>
                     </div>
                 </a>
+                <!-- myCard 9 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/birde-shoes.jpeg" alt="shoes" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Sparx, Birde & more</p>
+                            <p class="price">From &#8377;999+Extra 10%Off</p>
+                            <p class="brief">Men's casual shoes and m...</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 10 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/shoes22.jpeg" alt="shoes" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>FCUK, Ducati & more</p>
+                            <p class="price">50-80 % + Extra 5% Off</p>
+                            <p class="brief">Men's casual footwear</p>
+                        </div>
+                    </div>
+                </a>
             </div>
         </div>
 
-        <div id="back_to_office_essentials" class="items-strip"></div>
-        <div id="trending_offers" class="items-strip"></div>
-        <div id="best_battery_phones" class="items-strip"></div>
+        <!-- ---------------------------------- holder 4 ---------------------------------- -->
+        <div id="home_makeover" class="cards-holder container-fluid">
+            <h3 class="cards-heading">Home Makeover</h3>
+            <a href="#" class="btn btn-primary btn-right">View All</a>
+            <hr />
+            <div class="items-strip carousel" data-flickity='{"groupCells": true}'>
+                <!-- myCard 1 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/temple.jpeg" alt="home temple wooden" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Home Temples</p>
+                            <p class="price">From &#8377;399</p>
+                            <p class="brief">Trendy Collection</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 2 -->
+                <a href="#">
+                    <div class="myCard  carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/kettle.jpeg" alt="kettle" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Electric Kettles</p>
+                            <p class="price">From &#8377;375</p>
+                            <p class="brief">Havells, Philips, and more</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 3 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/shoe racks.jpeg" alt="shoe racks" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Shoe Racks</p>
+                            <p class="price">From &#8377;149</p>
+                            <p class="brief">Nilkamal, Ebee & more</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 4 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/induction.jpeg" alt="induction" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Induction Cooktops</p>
+                            <p class="price">Upto 60% Off</p>
+                            <p class="brief">Prestige, Philips and more</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 5 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/egg-cookers.jpeg" alt="egg cookers" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Egg Cookers</p>
+                            <p class="price">From &#8377;299</p>
+                            <p class="brief">Nova, Kent and more</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 6 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/shoe-racks.jpeg" alt="shoe racks" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Shoe Racks</p>
+                            <p class="price">From &#8377;249</p>
+                            <p class="brief">Trendy Collections Made...</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 7 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/sewing-machine.jpeg" alt="sewing machines" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Sewing Machines</p>
+                            <p class="price">Shop Now!</p>
+                            <p class="brief">Usha, Singer & more</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 8 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/hand-blenders.jpeg" alt="hand blenders" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Hand Blenders</p>
+                            <p class="price">From &#8377;149</p>
+                            <p class="brief">Boss, Orpat & more</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 9 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/wardrobes.jpeg" alt="wardrobes" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Wardrobes</p>
+                            <p class="price">From &#8377;6,999</p>
+                            <p class="brief">Go Local Furniture</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 10 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/dining-sets.jpeg" alt="dining sets" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Dining Sets</p>
+                            <p class="price">From &#8377;10,999</p>
+                            <p class="brief">Top Made in India Brands</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <!-- ---------------------------------- holder 5 ---------------------------------- -->
+        <div id="trending_offers" class="cards-holder container-fluid">
+            <h3 class="cards-heading">Home Makeover</h3>
+            <a href="#" class="btn btn-primary btn-right">View All</a>
+            <hr />
+            <div class="items-strip carousel" data-flickity='{"groupCells": true}'>
+                <!-- myCard 1 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/tshirt.jpeg" alt="tshirt" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Men's shirt & Trouser F...</p>
+                            <p class="price">Top Offers</p>
+                            <p class="brief">Great Savings</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 2 -->
+                <a href="#">
+                    <div class="myCard  carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/mobile-stickers.jpeg" alt="mobile skin stickers" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Mobile Skin Stickers</p>
+                            <p class="price">Extra 5% Off</p>
+                            <p class="brief">Shop Now!</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 3 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/smart_watches2.jpeg" alt="smart Watches" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Smart Watches screenguar...</p>
+                            <p class="price">Special Offers</p>
+                            <p class="brief">Grab Now!</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 4 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/headphones.jpeg" alt="headphones" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Headphones</p>
+                            <p class="price">Extra 5% Off</p>
+                            <p class="brief">Explore Now</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 5 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/sunglasses.jpeg" alt="sunglasses" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Sunglasses</p>
+                            <p class="price">Extra 5% Off</p>
+                            <p class="brief">Hurry, Don't Miss Out!</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 6 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/watches2.jpeg" alt="watches" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Wrist Watches</p>
+                            <p class="price">Extra 15% Off</p>
+                            <p class="brief">Hurry, Don't Miss Out!</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 7 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/women_sarees.jpeg" alt="women sarees" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Women Sarees</p>
+                            <p class="price">Top Offers</p>
+                            <p class="brief">Buy Now!</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 8 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/deodrants2.jpeg" alt="deodrants" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Deodorants</p>
+                            <p class="price">Best Deals</p>
+                            <p class="brief">Grab Now</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 9 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/flashlight.jpeg" alt="flashlights" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Flashlights</p>
+                            <p class="price">Min 50% Off</p>
+                            <p class="brief">Discover Now!</p>
+                        </div>
+                    </div>
+                </a>
+                <!-- myCard 10 -->
+                <a href="#">
+                    <div class="myCard carousel-cell card">
+                        <div class="img">
+                            <img class="card-img-top" src="strips-icons/glasses.jpeg" alt="glasses" />
+                        </div>
+
+                        <div class="content card-text">
+                            <p>Royal Son</p>
+                            <p class="price">Under &#8377;599</p>
+                            <p class="brief">#Love What You Wear</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
 
     </div>
 
