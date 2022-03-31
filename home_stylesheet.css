@@ -291,7 +291,7 @@ input:focus {
 #deals-of-day {
     /* border: 1px solid black; */
     display: inline-block;
-    width: 99%;
+    /* width: 99%; */
     margin-left: 0;
     /* margin-right: 0.5%; */
 }
@@ -302,8 +302,9 @@ input:focus {
     font-weight: 500;
 }
 .cards-holder {
+    width: 99%;
     margin-top: 2%;
-    margin-left: 10px !important;
+    margin-left: 1% !important;
     background-color: #fff;
     border-radius: 2px;
     box-shadow: 0 2px 4px 0 rgb(0 0 0 / 8%);
@@ -313,6 +314,11 @@ input:focus {
 .cards-holder a {
     text-decoration: none;
     color: black;
+}
+.cards-holder > .btn-right {
+    float: right;
+    color: #fff;
+    margin-right: 10px;
 }
 .items-strip {
     display:inline-block;
