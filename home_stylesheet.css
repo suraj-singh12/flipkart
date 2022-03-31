@@ -272,7 +272,9 @@ input:focus {
 #fashion, #home, #appliances, #travel, #beauty{
     margin-left: 3%;
 }
-
+#beauty .mega-dropdown-menu {
+    left: 50% !important;
+}
 /* carousel cell */
 .carousel-cell {
     width: 99%;
@@ -462,6 +464,9 @@ footer .last-row .icon {
     #cart {
         margin-right: 2%;
     }
+    #appliances .mega-dropdown-menu {
+        left: 10% !important;
+    }
 }
 @media screen and (max-width: 850px) {
     #appliances {
@@ -477,6 +482,9 @@ footer .last-row .icon {
     #search-bar {
         width: auto;
     }
+    #home .mega-dropdown-menu {
+        left: 10% !important;
+    }
 }
 @media screen and (max-width: 660px) {
     #logo {
@@ -488,6 +496,9 @@ footer .last-row .icon {
     #home {
         display: none;
     }
+    #electronics .mega-dropdown-menu {
+        left: 10% !important;
+    }
 }
 @media screen and (max-width: 536px) {
     #electronics {
@@ -498,5 +509,8 @@ footer .last-row .icon {
     }
     #search-bar {
         margin-left: 5px;
+    }
+    #fashion .mega-dropdown-menu {
+        left: 5% !important;
     }
 }
