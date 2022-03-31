@@ -21,8 +21,8 @@ header > div {
 #logo {
     margin-left: 12%;
     float: left;
-    margin-top: 0.6%;
-    width: 7%;
+    margin-top: 12px;
+    width: 90px;
 }
 #logo img {
     height: 40%;
@@ -51,11 +51,13 @@ header > div {
 
 /* search bar CSS */
 #search-bar {
-    margin-left: -0.5%;
-    margin-top: 0.4%;
+    /* margin-left: -0.5%; */
+    margin-left: 12px;
+    margin-top: 5px;
     width: 38%;
     display:inline-block;
     position:relative;
+    height: auto;
 }
 #search-bar input {
     width: 90%;    
@@ -68,11 +70,11 @@ form#search button{
     display: inline-block;
     position: absolute; 
     /* width: 10%; */       /* don't destroy the aspect ratio by giving width, give width or height but not both to any image or icon, always remember */
-    height: 69%;
+    height: 65%;
     /* padding: 16px; */
     color: rgb(40, 116, 241);
     border: none;
-    margin-top: 0.4%;
+    margin-top: 5px;
     background-color:white;
 }
 /* .fa-search {
@@ -89,7 +91,7 @@ input:focus {
     width: 8%;
     text-align: center;
     height: 68%;
-    margin-top: 0.5%;
+    margin-top: 10px;
     /* padding: 0; */
     margin-right: 3%;
     /* font-weight: bolder; */
@@ -210,7 +212,7 @@ input:focus {
     width: auto;
     text-align: center;
     height: 68%;
-    margin-top: 0.5%;
+    margin-top: 10px;
 }
 #more button {
     text-decoration: none;
@@ -222,6 +224,7 @@ input:focus {
     color: white;
     margin-right: 9%;
     cursor: hand;
+    margin-top: 20px;
 }
 #cart span {
     margin-left: 2px; 
@@ -446,4 +449,54 @@ footer .last-row .icon {
 }
 .all-cards img {
     width: 100%;
+}
+@media screen and (max-width: 1270px) {
+    #beauty { 
+        display: none;
+    }
+}
+@media screen and (max-width: 970px ) {
+    #travel {
+        display: none;
+    }
+    #cart {
+        margin-right: 2%;
+    }
+}
+@media screen and (max-width: 850px) {
+    #appliances {
+        display: none;
+    }
+    #more {
+        margin-right: 1%;
+    }
+    #login {
+        margin-right: 1%;
+        width: auto;
+    }
+    #search-bar {
+        width: auto;
+    }
+}
+@media screen and (max-width: 660px) {
+    #logo {
+        margin-left: 5%;
+    }
+    #search-bar {
+        width: 25%;
+    }
+    #home {
+        display: none;
+    }
+}
+@media screen and (max-width: 536px) {
+    #electronics {
+        display: none;
+    }
+    .icons {
+        margin-right: 3%;
+    }
+    #search-bar {
+        margin-left: 5px;
+    }
 }
