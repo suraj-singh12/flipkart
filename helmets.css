@@ -167,7 +167,8 @@ input:focus {
 .btn-mega-menu {
     float: left;
     font-size: 14px;
-    font-weight: 600;
+    /* font-weight: 600; */
+    text-shadow: 2px;
     color: black;
     font-family: Roboto,Arial,sans-serif;
     letter-spacing: 0;
@@ -175,6 +176,7 @@ input:focus {
 .mega-dropdown-menu-enhancement {
     display: none; 
 }
+
 /* dropdown on hover */
 .mega-menu:hover .mega-dropdown-menu-enhancement {
     display: block;
@@ -189,18 +191,17 @@ ul.remove-style {
 div.mega-dropdown-menu-row-enhancement {
     font-size: 12px;
 }
-
 a.mega-dropdown-item-enhancement {
     text-decoration: none;
     color: #666;
     padding: 25px;
     font-size: 13px;
     text-align: left;
-    line-height: 26.5px;
+    line-height: 2.1em;
 }
 
 .mega-dropdown-menu-enhancement {
-    transform: translate(45px, 35px) !important;
+    transform: translate(-25px, 35px) !important;
     width: 95%;
 }
 .separate-row {
@@ -221,6 +222,7 @@ strong {
     color: black;
     min-height: 40px;
     box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
+    padding-left: 10%;
 }
 /* ----------------.-------------------------------------- footer CSS ------------------------------------------------------ */
 footer {
