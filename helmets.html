@@ -1,0 +1,326 @@
+<html>
+
+<head>
+    <!-- one of the important thing, to make site responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!</title>
+
+    <!-- for icons (cart icon) -->
+    <script src="https://kit.fontawesome.com/c4338603d0.js" crossorigin="anonymous"></script>
+
+    <!-- bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- bootstrap icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+
+    <!-- Flickity (for slider/carousel) -->
+    <!-- <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css"> -->
+    <link rel="stylesheet" href="modified-flickity.min.css">
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+
+    <!-- my css -->
+    <link rel="stylesheet" href="helmets.css">
+</head>
+
+<body>
+    <!-- ----------------------------------------------------| Header (TOP) start |------------------------------------------------ -->
+
+    <header>
+        <!-- -------------------------------- Website Logo (Flipkart) -------------------------------- -->
+        <div id="logo">
+            <a href="index.html"><img src="icons/flipkart.png" alt="flikart"></a>
+            <a href="index.html">Explore
+                <span id="plus">Plus
+                    <img src="icons/flipkart-logo-last-part.png" alt="plus">
+                </span>
+            </a>
+        </div>
+        <!-- -------------------------------- search bar -------------------------------- -->
+        <div id="search-bar">
+            <form id="search" action="#">
+                <!-- input field -->
+                <input type="text" name="search-bar" id="search-bar"
+                    placeholder="Search for products, brands, and more">
+                <!-- submit button -->
+                <button type="submit"><i class="bi bi-search"></i></button>
+            </form>
+        </div>
+        <!-- -------------------------------- Cart Icon -------------------------------- -->
+        <div id="cart">
+            <i class="fa-solid fa-cart-shopping"></i>
+            <span>Cart</span>
+        </div>
+        <!-- -------------------------------- more button -------------------------------- -->
+        <div id="more" class="dropdown hover-dropdown-small">
+            <button type="button" class="btn text-center dropdown-toggle">
+                More
+            </button>
+            <ul class="dropdown-menu dropdown-menu-small dropdown-menu-center font14">
+                <li><a class="dropdown-item" href="#"><i class="dropdown-menu-small-icons bi bi-bell-fill"></i>
+                        <p class="dropdown-menu-small-text">Notification Preferences</p>
+                    </a></li>
+                <li><a class="dropdown-item" href="#"><i class="dropdown-menu-small-icons bi bi-inboxes-fill"></i>
+                        <p class="dropdown-menu-small-text">Sell on Flipkart</p>
+                    </a></li>
+                <li><a class="dropdown-item" href="#"><i class="dropdown-menu-small-icons bi bi-question-square-fill"></i>
+                        <p class="dropdown-menu-small-text">24x7 Customer Care</p>
+                    </a></li>
+                <li><a class="dropdown-item" href="#"><i class="dropdown-menu-small-icons fa-solid fa-arrow-trend-up"></i>
+                        <p class="dropdown-menu-small-text">Advertise</p>
+                    </a></li>
+                <li><a class="dropdown-item" href="#"><i class="dropdown-menu-small-icons bi bi-download"></i>
+                        <p class="dropdown-menu-small-text">Download App</p>
+                    </a></li>
+            </ul>
+        </div>
+
+        <!-- -------------------------------- Login button -------------------------------- -->
+        <div id="login" class="dropdown hover-dropdown-small">
+            <button type="button" class="btn text-primary text-center">
+                Login
+            </button>
+            <ul class="dropdown-menu dropdown-menu-small dropdown-menu-center font14">
+                <li><a class="dropdown-item" href="#"><i class="dropdown-menu-small-icons bi bi-person-circle"></i>
+                        <p class="dropdown-menu-small-text">My Profile</p>
+                    </a></li>
+                <li><a class="dropdown-item" href="#"><i class="dropdown-menu-small-icons bi bi-plus-lg"></i>
+                        <p class="dropdown-menu-small-text">Flipkart Plus Zone</p>
+                    </a></li>
+                <li><a class="dropdown-item" href="#"><i class="dropdown-menu-small-icons bi bi-box-arrow-in-up"></i>
+                        <p class="dropdown-menu-small-text">Orders</p>
+                    </a></li>
+                <li><a class="dropdown-item" href="#"><i class="dropdown-menu-small-icons bi bi-suit-heart-fill"></i>
+                        <p class="dropdown-menu-small-text">Wishlist</p>
+                    </a></li>
+                <li><a class="dropdown-item" href="#"><i class="dropdown-menu-small-icons bi bi-hdd-stack-fill"></i>
+                        <p class="dropdown-menu-small-text">Rewards</p>
+                    </a></li>
+                <li><a class="dropdown-item" href="#"><i class="dropdown-menu-small-icons bi bi-gift"></i>
+                        <p class="dropdown-menu-small-text">Gift Cards</p>
+                    </a></li>
+            </ul>
+        </div>
+    </header>
+    <!-- ----------------------------------------------------| Header (TOP) FINISH |------------------------------------------------ -->
+
+    <!-- ----------------------------------------------------| Main Content of Page |---------------------------------------------------- -->
+    
+    <div id="main-content text-center container-fluid">
+        <div class="top-strip2">
+            <div class="dropdown mega-menu">
+                <a href="#" class="btn btn-mega-menu dropdown-toggle" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                Electronics
+                </a>
+                <ul class="dropdown-menu mega-dropdown-menu-enhancement" area-labelledby="dropdownMenuButton1">
+                    <div class="separate-row mega-menu-row-enhancement">
+                        <div class="separate-cols">
+                            <ul class="remove-style">
+                                <li><a href="#" class="mega-dropdown-item-enhancement"><strong>Mobiles</strong></a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Mi</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Realme</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Samsung</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Infinix</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">OPPO</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Apple</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Vivo</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Honor</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Asus</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Poco X2</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">realme Narzo 10</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Infinix Hot 9</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">IQOO 3</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Iphone SE</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Motorola razr</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Realme Narzo 10A</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Motorola g8 Power lite</a></li>
+                            </ul>
+                        </div>
+                        <div class="separate-cols">
+                            <ul class="remove-style">
+                                <li><a href="#" class="mega-dropdown-item-enhancement"><strong>Mobiles</strong></a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Mi</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Realme</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Samsung</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Infinix</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">OPPO</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Apple</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Vivo</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Honor</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Asus</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Poco X2</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">realme Narzo 10</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Infinix Hot 9</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">IQOO 3</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Iphone SE</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Motorola razr</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Realme Narzo 10A</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Motorola g8 Power lite</a></li>
+                            </ul>
+                        </div>
+                        <div class="separate-cols">
+                            <ul class="remove-style">
+                                <li><a href="#" class="mega-dropdown-item-enhancement"><strong>Mobiles</strong></a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Mi</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Realme</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Samsung</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Infinix</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">OPPO</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Apple</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Vivo</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Honor</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Asus</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Poco X2</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">realme Narzo 10</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Infinix Hot 9</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">IQOO 3</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Iphone SE</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Motorola razr</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Realme Narzo 10A</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Motorola g8 Power lite</a></li>
+                            </ul>
+                        </div>
+                        <div class="separate-cols">
+                            <ul class="remove-style">
+                                <li><a href="#" class="mega-dropdown-item-enhancement"><strong>Mobiles</strong></a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Mi</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Realme</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Samsung</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Infinix</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">OPPO</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Apple</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Vivo</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Honor</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Asus</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Poco X2</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">realme Narzo 10</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Infinix Hot 9</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">IQOO 3</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Iphone SE</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Motorola razr</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Realme Narzo 10A</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Motorola g8 Power lite</a></li>
+                            </ul>
+                        </div>
+                        <div class="separate-cols">
+                            <ul class="remove-style">
+                                <li><a href="#" class="mega-dropdown-item-enhancement"><strong>Mobiles</strong></a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Mi</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Realme</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Samsung</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Infinix</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">OPPO</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Apple</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Vivo</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Honor</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Asus</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Poco X2</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">realme Narzo 10</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Infinix Hot 9</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">IQOO 3</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Iphone SE</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Motorola razr</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Realme Narzo 10A</a></li>
+                                <li><a href="#" class="mega-dropdown-item-enhancement">Motorola g8 Power lite</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+    <!------------------------------------------------------| footer ------------------------------------------------------>
+    <!-- <div id="lower_links"></div> -->
+
+    <!-- footer -->
+    <footer>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col">
+                    <p class="footer-headings">ABOUT</p>
+                    <a href="#">Contact Us</a>
+                    <a href="#">About Us</a>
+                    <a href="#">Careers</a>
+                    <a href="#">Flipkart Stories</a>
+                    <a href="#">Press</a>
+                    <a href="#">Flipkart Wholesale</a>
+                    <a href="#">Cooperate Information</a>
+                </div>
+                <div class="col">
+                    <p class="footer-headings">HELP</p>
+                    <a href="#">Payment</a>
+                    <a href="#">Shipping</a>
+                    <a href="#">Cancellation & Returns</a>
+                    <a href="#">FAQ</a>
+                    <a href="#">Report Infringement</a>
+                </div>
+                <div class="col">
+                    <p class="footer-headings">POLICY</p>
+                    <a href="#">Return Policy</a>
+                    <a href="#">Terms Of Use</a>
+                    <a href="#">Security</a>
+                    <a href="#">Privacy</a>
+                    <a href="#">Sitemap</a>
+                    <a href="#">EPR Compliance</a>
+                </div>
+                <div class="col">
+                    <p class="footer-headings">SOCIAL</p>
+                    <a href="#">Facebook</a>
+                    <a href="#">Twitter</a>
+                    <a href="#">Youtube</a>
+                </div>
+                <div class="col normal-line-height">
+                    <p class="footer-headings">Mail Us:</p>
+                    <p>Flipkart Internet Private Limited,</p>
+                    <p>Buildings Alyssa, Begonia &</p>
+                    <p>Clove Embassy Tech Village,</p>
+                    <p>Outer Ring Road, </p>
+                    <p>Devarabeesanahalli Village,</p>
+                    <p>Bengaluru, 560103,</p>
+                    <p>Karnataka, India</p>
+                </div>
+                <div class="col normal-line-height">
+                    <p class="footer-headings">Registered Office Address:</p>
+                    <p>Flipkart Internet Private Limited,</p>
+                    <p>Buldings Alyssa, Begonia &</p>
+                    <p>Clove Embassy Tech Village,</p>
+                    <p>Outer Ring Road,</p>
+                    <p>Devarabeesanahalli Village,</p>
+                    <p>Bengaluru, 560103,</p>
+                    <p>Karnataka, India</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid last-row">
+            <i class="icon bi bi-bag-fill"></i><span class="icon-text">Sell On Flipkart</span>
+            <i class="icon margin-l bi bi-star"></i><span class="icon-text">Advertise</span>
+            <i class="icon margin-l bi bi-gift"></i><span class="icon-text">Gift Cards</span>
+            <i class="icon margin-l bi bi-question-circle-fill"></i><span class="icon-text">Help Center</span>
+            <span class="margin-l icon-text">&copy; 2007-2022 Flipkart.com</span>
+            <!-- <span class="icon-imgs">
+                <img src="icons/cards/visa.jpg" alt="visa">
+                <img src="icons/cards/card2.png" alt="card2">
+                <img src="icons/cards/card3.png" alt="card3">
+                <img src="icons/cards/card4.png" alt="card4">
+                <img src="icons/cards/card5.png" alt="card5">
+                <img src="icons/cards/card6.png" alt="card6">
+                <img src="icons/cards/card7.png" alt="card7">
+                <img src="icons/cards/card8.png" alt="card8">
+                <img src="icons/cards/card9.png" alt="card9">
+                <img src="icons/cards/card10.png" alt="card10">
+            </span> -->
+            <span class="all-cards">
+                <img src="icons/cards/all-cards.png" alt="all cards">
+            </span>
+        </div>
+        <div class="text-center icon-text copyright-protected"><a href="https://github.com/suraj-singh12" target="_blank">&copy; suraj-singh12 (Suraj Singh)</a></div>
+    </footer>
+
+</body>
+
+</html>
