@@ -462,6 +462,9 @@ footer .last-row .icon {
 .all-cards img {
     width: 100%;
 }
+.copyright-protected a {
+    font-size: 14px;
+}
 @media screen and (max-width: 1270px) {
     #beauty { 
         display: none;
