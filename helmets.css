@@ -224,6 +224,86 @@ strong {
     box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
     padding-left: 10%;
 }
+
+/* main content */
+.main {
+    width: 100%;
+    height: auto;
+}
+.filters {
+    margin-top: 10px;
+    width: 18%;
+    height: auto;
+    margin-left: 15px;
+    padding: 12px;
+    border-bottom: 1px solid #f0f0f0;
+    position: relative;
+    top: -61px;
+    background: #fff;
+    box-shadow: 0 1px 8px 0 rgb(0 0 0 / 6%);
+    display:inline-block;
+}
+.content {
+    width: 79%;
+    display: inline-block;
+}
+.filters-heading {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+.filters .sub-heading {
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #212121;
+    margin-bottom: 2px;
+    padding-top: 5px;
+}
+.filters .sub-items {
+    font-size: 14px;
+    font-weight: 500;
+    margin: 12px;
+}
+.sub-items p {
+    padding: 0;
+    margin: 0;
+    padding: 4px;
+}
+.blue {
+    color: blue;
+}
+/* strip above card CSS */
+.results-strip, .results-strip p, .results-strip .strip-of-sort-by {
+    margin: 0;
+}
+.results-strip {
+    padding-left: 10px;
+}
+/* card CSS */
+.flex-box {
+    /* margin-top: 15px; */
+    /* display: flex; */
+    position: relative;
+    /* top: -68px; */
+    -webkit-align-items: stretch; 
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    margin-left: 10px;
+    background: #fff;
+    background-color: #fff;
+    margin-top: 3%;
+    /* width: 78%; */
+}
+.card {
+    border: 1px solid grey;
+    width: 25%;
+    padding: 16px;
+    position: relative;
+    transition: box-shadow .2s ease-in-out;
+}
+.card-img-width {
+    width: 90%;
+}
 /* ----------------.-------------------------------------- footer CSS ------------------------------------------------------ */
 footer {
     background-color: #172337;
