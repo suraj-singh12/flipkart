@@ -4,7 +4,8 @@
     <!-- one of the important thing, to make site responsive -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!</title>
+    <title>Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+    </title>
 
     <!-- for icons (cart icon) -->
     <script src="https://kit.fontawesome.com/c4338603d0.js" crossorigin="anonymous"></script>
@@ -27,9 +28,9 @@
     <script src="home_js.js"></script>
 </head>
 
-<body>
+<body class="no-scroll-y">
     <!-- ----------------------------------------------------| Header (TOP) start |------------------------------------------------ -->
-
+    <div class="overlay"></div>
     <header>
         <!-- -------------------------------- Website Logo (Flipkart) -------------------------------- -->
         <div id="logo">
@@ -56,7 +57,8 @@
             <!-- <i class="bi bi-cloud-moon-fill"></i> -->
             <!-- <i class="bi bi-moon-fill"></i> -->
             <button onclick="toggleNightMode();"><i id="sun-moon" class="bi bi-moon-stars-fill"></i></button>
-            <button onclick="toggleNightMode();"><i id="sun-appear" style="display: none;" class="bi bi-brightness-high"></i></button>
+            <button onclick="toggleNightMode();"><i id="sun-appear" style="display: none;"
+                    class="bi bi-brightness-high"></i></button>
         </div>
         <!-- -------------------------------- Cart Icon -------------------------------- -->
         <div id="cart">
@@ -152,7 +154,7 @@
                         <button class="btn dropdown-toggle font14" data-bs-toggle="dropdown">
                             Fashion
                         </button>
-                
+
                         <ul class="dropdown-menu mega-dropdown-menu mega-dropdown-menu-left font14">
                             <!-- 1 -->
                             <li>
@@ -379,7 +381,7 @@
                                     </ul>
                                 </div>
                             </li>
-                            
+
                         </ul>
                     </div>
                 </div>
@@ -392,7 +394,7 @@
                         <button class="btn dropdown-toggle font14" data-bs-toggle="dropdown">
                             Electronics
                         </button>
-                
+
                         <ul class="dropdown-menu mega-dropdown-menu mega-dropdown-menu-left font14">
                             <!-- 1 -->
                             <li>
@@ -661,7 +663,7 @@
                         <button class="btn dropdown-toggle font14" data-bs-toggle="dropdown">
                             Home
                         </button>
-                
+
                         <ul class="dropdown-menu mega-dropdown-menu mega-dropdown-menu-left font14">
                             <!-- 1 -->
                             <li>
@@ -917,7 +919,7 @@
                         <button class="btn dropdown-toggle font14" data-bs-toggle="dropdown">
                             Appliances
                         </button>
-                
+
                         <ul class="dropdown-menu mega-dropdown-menu mega-dropdown-menu-left font14">
                             <!-- 1 -->
                             <li>
@@ -1131,7 +1133,7 @@
                         <button class="btn dropdown-toggle font14" data-bs-toggle="dropdown">
                             Beauty, Toys & More
                         </button>
-                
+
                         <ul class="dropdown-menu mega-dropdown-menu mega-dropdown-menu-left font14">
                             <!-- 1 -->
                             <li>
@@ -1334,7 +1336,8 @@
                                         <li> <a class="dropdown-item" href="#">Car Vacuum Cleaner</a></li>
                                         <li> <a class="dropdown-item" href="#">Car Media Player</a></li>
                                         <li> <a class="dropdown-item" href="#">Helmet</a></li>
-                                        <li> <a class="dropdown-item" href="#">Vehicle Washing & Cleaning Products</a></li>
+                                        <li> <a class="dropdown-item" href="#">Vehicle Washing & Cleaning Products</a>
+                                        </li>
                                         <li> <a class="dropdown-item" href="#">Tyres</a></li>
                                         <li> <a class="dropdown-item" href="#">Top Brand Deals</a></li>
                                     </ul>
@@ -1359,7 +1362,7 @@
                                     </ul>
                                 </div>
                             </li>
-                            
+
                         </ul>
                     </div>
                 </div>
@@ -1367,6 +1370,17 @@
         </div>
         <!-- ---------------------------------------------------- TOP STRIP FINISH ---------------------------------------------------- -->
 
+        <!-- coupon -->
+
+            <div class="card coupon">
+                <button class="btn coupon-btn" onclick="closeCoupon()"><i class="bi bi-x-circle-fill"></i></button>
+                <img class="card-img-top" src="coupon2.png" alt="coupon" />
+                <div class="card-body coupon-body-enhancements">
+                    <span class="card-title fs-5">Coupon Code: </span>
+                    <span class="card-body fs-5">FREE50OFF</span>
+                </div>
+
+            </div>
         <!-- ----------------------------------------------------| image carousel start ---------------------------------------------------- -->
 
         <div id="image-slider" class="carousel slide" data-bs-ride="carousel">
@@ -1496,7 +1510,8 @@
                 <a href="#">
                     <div class="myCard carousel-cell card">
                         <div class="img">
-                            <img class="card-img-top" src="strips-icons/gardening-essentials.jpeg" alt="gardening essentials" />
+                            <img class="card-img-top" src="strips-icons/gardening-essentials.jpeg"
+                                alt="gardening essentials" />
                         </div>
 
                         <div class="content card-text">
@@ -1951,7 +1966,8 @@
                 <a href="#">
                     <div class="myCard  carousel-cell card">
                         <div class="img">
-                            <img class="card-img-top" src="strips-icons/mobile-stickers.jpeg" alt="mobile skin stickers" />
+                            <img class="card-img-top" src="strips-icons/mobile-stickers.jpeg"
+                                alt="mobile skin stickers" />
                         </div>
 
                         <div class="content card-text">
@@ -2161,7 +2177,8 @@
                 <img src="icons/cards/all-cards.png" alt="all cards">
             </span>
         </div>
-        <div class="text-center icon-text copyright-protected"><a href="https://github.com/suraj-singh12" target="_blank">&copy; suraj-singh12 (Suraj Singh)</a></div>
+        <div class="text-center icon-text copyright-protected"><a href="https://github.com/suraj-singh12"
+                target="_blank">&copy; suraj-singh12 (Suraj Singh)</a></div>
     </footer>
 
 </body>

@@ -7,6 +7,10 @@ body {
     color: #212121;
     line-height: 1.4;
 }
+.no-scroll-y {
+    /* for coupon */
+    overflow-y: hidden;
+}
 /* header CSS */
 header {
     display: inline-block;
@@ -291,6 +295,47 @@ button.font14 {
 }
 #beauty .mega-dropdown-menu {
     left: 50% !important;
+}
+/* overlay */
+.overlay {
+    position: fixed;
+    display: block;             /*was none*/
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 2;
+    cursor: pointer;
+}
+
+/* coupon */
+.coupon-btn {
+    position: absolute;
+    right: 0px;
+    top: -5px;
+    font-size: 2rem;
+}
+.coupon {
+    /* display: none; */
+    opacity: 1;
+    width:55%;
+    z-index: 10;
+    position: absolute;
+    left: 20%;
+    bottom: 9%;
+    /* property duration timing-function delay */
+    transition: opacity 500ms linear;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+.coupon-body-enhancements {
+    /* text-align: center; */
+    position: absolute;
+    bottom: 5px;
+    left: 30%;
+    color: white;
 }
 /* carousel cell */
 .carousel-cell {

@@ -33,3 +33,15 @@ function toggleNightMode() {
         symbol.classList.add('bi-moon-stars-fill');
     }
 }
+
+let closeCoupon = () => {
+    let coupon = document.getElementsByClassName('coupon')[0];
+    coupon.style.opacity = 0;
+    let body = document.getElementsByTagName('body')[0];
+    body.classList.remove('no-scroll-y');
+    body.style.overflowY = 'auto';
+
+    // remove the overlay 
+    let overlay = document.getElementsByClassName('overlay')[0];
+    overlay.style.display = 'none';
+}
