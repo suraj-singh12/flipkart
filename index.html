@@ -23,6 +23,8 @@
 
     <!-- my css -->
     <link rel="stylesheet" href="home_stylesheet.css">
+    <!-- my js -->
+    <script src="home_js.js"></script>
 </head>
 
 <body>
@@ -47,6 +49,14 @@
                 <!-- submit button -->
                 <button type="submit"><i class="bi bi-search"></i></button>
             </form>
+        </div>
+        <!-- --------------------------------- dark/light mode ------------------------- -->
+        <div id="light-dark">
+            <!-- <i class="bi bi-moon-stars-fill"></i> -->
+            <!-- <i class="bi bi-cloud-moon-fill"></i> -->
+            <!-- <i class="bi bi-moon-fill"></i> -->
+            <button onclick="toggleNightMode();"><i id="sun-moon" class="bi bi-moon-stars-fill"></i></button>
+            <button onclick="toggleNightMode();"><i id="sun-appear" style="display: none;" class="bi bi-brightness-high"></i></button>
         </div>
         <!-- -------------------------------- Cart Icon -------------------------------- -->
         <div id="cart">

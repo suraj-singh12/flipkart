@@ -3,7 +3,7 @@ body {
     overflow-x: hidden;
     font-family: 'Roboto', 'Arial';
     font-size: 14px;
-    background-color: #f1f3f6;
+    background-color: rgb(241, 243, 246);
     color: #212121;
     line-height: 1.4;
 }
@@ -164,7 +164,9 @@ input:focus {
 .mega-dropdown-menu>li:hover>.mega-dropdown-submenu {
     display: block;
 }
-
+.mega-dropdown {
+    color: inherit;
+}
 /* show dropdown on hover */
 .mega-dropdown:hover>.mega-dropdown-menu {
     display: block;
@@ -181,6 +183,9 @@ input:focus {
 }
 .font14 {
     font-size: 14px;
+}
+button.font14 {
+    color: inherit !important;
 }
 .mega-dropdown-menu-left {
     left: 100% !important;
@@ -207,7 +212,7 @@ input:focus {
 #more {
     font-weight: bolder;
     float: right;
-    margin-right: 4%;
+    margin-right: 3%;
     /* width: 8%; */
     width: auto;
     text-align: center;
@@ -222,14 +227,24 @@ input:focus {
     font-weight: bolder;
     float: right;
     color: white;
-    margin-right: 9%;
+    margin-right: 3%;
     cursor: hand;
     margin-top: 20px;
 }
 #cart span {
     margin-left: 2px; 
 }
-
+#light-dark {
+    float: right;
+    margin-right: 5%;
+    font-size: 1.6rem;
+    /* color: black; */
+}
+#light-dark > button {
+    text-decoration: none;
+    border: none;
+    background-color:inherit;
+}
 /* header CSS FINISH */
 
 /* ---------------------------------- main content CSS ---------------------------------- */
@@ -245,7 +260,8 @@ input:focus {
     margin-bottom: 1%;
 }
 #top-strip a {
-    color: black;
+    /* color: black; */
+    color: inherit;
     text-decoration:none;
 }
 #top-strip a:hover {
@@ -313,11 +329,13 @@ input:focus {
     border-top: 1px solid #eaeaea;
     padding-top: 1%;
     display: inline-block;
+    /* background-color: inherit; */
     /* padding: 0 0 10px; */
 }
 .cards-holder a {
     text-decoration: none;
-    color: black;
+    /* color: black; */
+    color: inherit;
 }
 .cards-holder > .btn-right {
     float: right;
