@@ -37,6 +37,8 @@ function toggleNightMode() {
 let closeCoupon = () => {
     let coupon = document.getElementsByClassName('coupon')[0];
     coupon.style.opacity = 0;
+    coupon.style.display = 'none';   // important to set `none`, otherwise it breaks the top strip dropdown
+
     let body = document.getElementsByTagName('body')[0];
     body.classList.remove('no-scroll-y');
     body.style.overflowY = 'auto';
