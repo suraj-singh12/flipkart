@@ -240,7 +240,8 @@ button.font14 {
 }
 #weather-box {
     float: right;
-    margin-right: 4%;
+    margin-right: 45px;
+    margin-top: 15px;
     color: white;
     font-size: 1rem;
 }
@@ -255,9 +256,8 @@ button.font14 {
 }
 #light-dark {
     float: right;
-    /* margin-right: 9%; */
     font-size: 1.6rem;
-    /* color: black; */
+    margin-top: 13px;
 }
 #light-dark > button {
     text-decoration: none;
@@ -547,6 +547,17 @@ footer .last-row .icon {
     #beauty { 
         display: none;
     }
+    #login, #more, #cart {
+        margin-right: 1%;
+    }
+    #light-dark {
+        margin-right: -1%;
+    }
+}
+@media screen and (max-width: 1030px) {
+    #search-bar {
+        width: 30%;
+    }
 }
 @media screen and (max-width: 970px ) {
     #travel {
@@ -557,6 +568,9 @@ footer .last-row .icon {
     }
     #appliances .mega-dropdown-menu {
         left: 10% !important;
+    }
+    #logo {
+        margin-left: 9%;
     }
 }
 @media screen and (max-width: 850px) {
@@ -577,6 +591,19 @@ footer .last-row .icon {
         left: 10% !important;
     }
 }
+@media screen and (max-width: 820px) {
+    #more {
+        display: none;
+    }
+    #login {
+        margin-right: 3%;
+    }
+}
+@media screen and (max-width: 750px) {
+    #cart {
+        display: none;
+    }
+}
 @media screen and (max-width: 660px) {
     #logo {
         margin-left: 5%;
@@ -591,7 +618,7 @@ footer .last-row .icon {
         left: 10% !important;
     }
 }
-@media screen and (max-width: 536px) {
+@media screen and (max-width: 549px) {
     #electronics {
         display: none;
     }
@@ -603,5 +630,13 @@ footer .last-row .icon {
     }
     #fashion .mega-dropdown-menu {
         left: 5% !important;
+    }
+}
+@media screen and (max-width: 520px) {
+    #light-dark {
+        margin-right: -4%;
+    }
+    #login {
+        margin-right: 1%;
     }
 }
