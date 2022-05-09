@@ -51,6 +51,16 @@
                 <button type="submit"><i class="bi bi-search"></i></button>
             </form>
         </div>
+        <!-- --------------------------------- weather of your place ------------------------- -->
+        <div id="weather-box">
+            <p id="weather"></p>
+
+            <div id="weather-icon">
+                <img src="https://openweathermap.org/img/w/01d.png" alt="weather-icon">
+            </div>
+        </div>
+        <!-- the p#weather need to exist before the script is loaded, that's why script for weather is loaded here -->
+        <script src="weather-script.js"></script>
         <!-- --------------------------------- dark/light mode ------------------------- -->
         <div id="light-dark">
             <!-- <i class="bi bi-moon-stars-fill"></i> -->

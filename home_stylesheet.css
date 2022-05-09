@@ -238,9 +238,24 @@ button.font14 {
 #cart span {
     margin-left: 2px; 
 }
+#weather-box {
+    float: right;
+    margin-right: 4%;
+    color: white;
+    font-size: 1rem;
+}
+#weather {
+    padding: 7%;
+    color: inherit;
+}
+#weather-icon {
+    float: right;
+    margin-top: -96%;
+    margin-right: -80%;
+}
 #light-dark {
     float: right;
-    margin-right: 5%;
+    /* margin-right: 9%; */
     font-size: 1.6rem;
     /* color: black; */
 }
