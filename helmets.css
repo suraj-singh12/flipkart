@@ -229,6 +229,7 @@ strong {
 .main {
     width: 100%;
     height: auto;
+    display: inline-block;
 }
 .filters {
     margin-top: 10px;
@@ -238,14 +239,15 @@ strong {
     padding: 12px;
     border-bottom: 1px solid #f0f0f0;
     position: relative;
-    top: -61px;
+    top: 30px;
     background: #fff;
     box-shadow: 0 1px 8px 0 rgb(0 0 0 / 6%);
-    display:inline-block;
+    float: left;
 }
 .content {
     width: 79%;
-    display: inline-block;
+    /* display: inline-block; */
+    float: left;
 }
 .filters-heading {
     font-size: 18px;
