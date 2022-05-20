@@ -296,15 +296,17 @@ strong {
     margin-top: 3%;
     /* width: 78%; */
 }
-.card {
+.custom-card {
     border: 1px solid grey;
-    width: 25%;
     padding: 16px;
     position: relative;
     transition: box-shadow .2s ease-in-out;
+    width: 20%;
+    margin: 2%;
 }
 .card-img-width {
-    width: 90%;
+    width: 62% !important;
+    margin: auto;
 }
 /* ----------------.-------------------------------------- footer CSS ------------------------------------------------------ */
 footer {
@@ -382,4 +384,126 @@ footer .last-row .icon {
 }
 .copyright-protected a {
     font-size: 14px;
+}
+
+@media screen and (max-width: 1345px) {
+    .content {
+        width: 72%;
+    }
+    .custom-card {
+        width: 29%;
+    }
+    .filters {
+        width: 22%;
+        margin-left: 2%;
+        margin-right: 2%;
+        padding: 2%;
+        /* background-color: blue;  */
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .top-strip2 {
+        padding-left: 8%;
+    }
+}
+@media screen and (max-width: 1224px) {
+    #button9, #button10 {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1064px) {
+    #button8 {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1025px) {
+    .content {
+        width: 67%;
+    }
+    .filters {
+        width: 27%;
+    }
+    .custom-card {
+        width: 43%;
+        margin-left: 4%;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    #button7 {
+        display: none;
+    }
+    .top-strip2 {
+        padding-left: 14%;
+    }
+    #cart, #more {
+        margin-right: 3%;
+    }
+    #login {
+        margin-right: 1%;
+    }
+}
+
+@media screen and (max-width: 832px) {
+    #button6 {
+        display: none;
+    }
+    #more {
+        margin-right: 1%;
+    }
+    #logo {
+        margin-left: 8%;
+    }
+    #login {
+        width: 70px;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    .custom-card {
+        width: 48%;
+        margin: 1%;
+        padding: 11px;
+    }
+}
+
+@media screen and (max-width: 670px) {
+    .top-strip2 {
+        display: none;
+    }
+    .filters {
+        top: 51px;
+        width: 37%;
+    }
+    .custom-card {
+        width: 91%;
+        margin: 4%;
+    }
+    .content {
+        width: 54%;
+    }
+    #more {
+        display: none;
+    }
+    #search-bar {
+        width: 33%;
+    }
+    #login {
+        margin-right: 3%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .filters {
+        margin-right: 1%;
+        top: 73px;
+        width: 42%;
+    }
+    .content {
+        width: 52%;
+    }
+
 }
