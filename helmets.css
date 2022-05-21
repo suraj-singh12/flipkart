@@ -239,17 +239,25 @@ strong {
     padding: 12px;
     border-bottom: 1px solid #f0f0f0;
     position: relative;
-    top: 30px;
+    top: 41px;
     background: #fff;
     box-shadow: 0 1px 8px 0 rgb(0 0 0 / 6%);
     float: left;
+}
+.price-select select {
+    width: 42%;
+    display:inline-block;
+    font-size: 12px;
+}
+.price-select .upper {
+    width: 48%;
 }
 .content {
     width: 79%;
     /* display: inline-block; */
     float: left;
 }
-.filters-heading {
+/* .filters-heading {
     font-size: 18px;
     margin-bottom: 15px;
 }
@@ -265,6 +273,14 @@ strong {
     font-size: 14px;
     font-weight: 500;
     margin: 12px;
+} */
+.filters {
+    padding-left: 20px;
+}
+.filters > p {
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 500;
 }
 .sub-items p {
     padding: 0;

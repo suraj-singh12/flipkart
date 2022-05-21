@@ -940,7 +940,87 @@
 
         <div class="main">
             <div class="filters">
-                <div class="filters-heading">Filters</div>
+                <p>Price</p>
+                <!-- <input type="range" class="form-range"> -->
+                <div class="price-select">
+                    <select class="form-select lower" aria-label="lower-price-select">
+                        <option value="min" selected>Min</option>
+                        <option value="200">&#8377;200</option>
+                        <option value="500">&#8377;500</option>
+                        <option value="1000">&#8377;1000</option>
+                        <option value="5000">&#8377;500</option>
+                        <option value="10000">&#8377;10000</option>
+                    </select>
+                    <span>to</span>
+                    <select class="form-select upper" aria-label="upper-price-select">
+                        <option value="min">Min</option>
+                        <option value="200">&#8377;200</option>
+                        <option value="500">&#8377;500</option>
+                        <option value="1000">&#8377;1000</option>
+                        <option value="5000">&#8377;500</option>
+                        <option value="10000">&#8377;10000</option>
+                        <option value="max" selected>&#8377;10000+</option>
+                    </select>
+                </div>
+                <hr>
+                <p>Customer Ratings</p>
+                <div class="form-check">
+                    <label for="4star">4 <i class="bi bi-star-fill"></i> & above</label>
+                    <input type="checkbox" class="form-check-input" id="4star" value="4-star+">
+                </div>
+                <div class="form-check">
+                    <label for="3star">3 <i class="bi bi-star-fill"></i> & above</label>
+                    <input type="checkbox" class="form-check-input" id="3star" value="4-star+">
+                </div>
+                <div class="form-check">
+                    <label for="2star">2 <i class="bi bi-star-fill"></i> & above</label>
+                    <input type="checkbox" class="form-check-input" id="2star" value="4-star+">
+                </div>
+                <div class="form-check">
+                    <label for="1star">1 <i class="bi bi-star-fill"></i> & above</label>
+                    <input type="checkbox" class="form-check-input" id="1star" value="4-star+">
+                </div>
+                <hr>
+                <p>Offers</p>
+                <div class="form-check">
+                    <label for="buymore">Buy More, Save More</label>
+                    <input type="checkbox" class="form-check-input" id="buymore">
+                </div>
+                <div class="form-check">
+                    <label for="nocostemi">No Cost EMI</label>
+                    <input type="checkbox" class="form-check-input" id="nocostemi">
+                </div>
+                <div class="form-check">
+                    <label for="specialprice">Special Price</label>
+                    <input type="checkbox" class="form-check-input" id="specialprice">
+                </div>
+                <hr>
+                <p>Discount</p>
+                <div class="form-check">
+                    <label for="50plus">50 &percnt; or more</label>
+                    <input type="checkbox" class="form-check-input" id="50plus">
+                </div>
+                <div class="form-check">
+                    <label for="40plus">40 &percnt; or more</label>
+                    <input type="checkbox" class="form-check-input" id="40plus">
+                </div>
+                <div class="form-check">
+                    <label for="30plus">30 &percnt; or more</label>
+                    <input type="checkbox" class="form-check-input" id="30plus">
+                </div>
+                <div class="form-check">
+                    <label for="20plus">20 &percnt; or more</label>
+                    <input type="checkbox" class="form-check-input" id="20plus">
+                </div>
+                <div class="form-check">
+                    <label for="10plus">10 &percnt; or more</label>
+                    <input type="checkbox" class="form-check-input" id="10plus">
+                </div>
+                <div class="form-check">
+                    <label for="10minus">10 &percnt; and below</label>
+                    <input type="checkbox" class="form-check-input" id="10minus">
+                </div>
+                <!-- <div class="filters-heading">Filters</div>
                 <div class="sub-heading">PICK A CATEGORY</div>
                 <div class="sub-items">
                     <p>Clothing and Accessor...</p>
@@ -949,7 +1029,7 @@
                     <p>Industrial & Scientific ...</p>
                     <p>Health Care</p>
                     <p class="blue">Show 29 more categories</p>
-                </div>
+                </div> -->
             </div>
             <div class="content">
                 <div class="results-strip">
