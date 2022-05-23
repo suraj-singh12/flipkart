@@ -24,6 +24,7 @@
     <!-- my css -->
     <!-- <link rel="stylesheet" href="helmets.css"> -->
     <link rel="stylesheet" href="../styles/common23.css">
+    <link rel="stylesheet" href="../styles/details_page.css">
 </head>
 
 <body>
@@ -32,10 +33,10 @@
     <header>
         <!-- -------------------------------- Website Logo (Flipkart) -------------------------------- -->
         <div id="logo">
-            <a href="index.html"><img src="icons/flipkart.png" alt="flikart"></a>
+            <a href="index.html"><img src="../res/icons/flipkart.png" alt="flikart"></a>
             <a href="index.html">Explore
                 <span id="plus">Plus
-                    <img src="icons/flipkart-logo-last-part.png" alt="plus">
+                    <img src="../res/icons/flipkart-logo-last-part.png" alt="plus">
                 </span>
             </a>
         </div>
@@ -941,12 +942,82 @@
 
         <div class="main">
             <!-- main content here -->
-            <div class="card m-3" style="width: 30%;">
-            <img src="..." alt="...">
-            <div class="card-body">
-                <button class="btn btn-warning btn-lg">Add To Cart</button>
-                <button class="btn btn-danger btn-lg">Buy Now</button>
+
+            <!-- (left) item-card: is a custom class -->
+            <div class="card item-card">
+                <img class="item-card-img" src="../res/helmet-icons/helmet13.jpeg" alt="...">
+                <div class="card-body item-card-body">
+                    <button class="btn btn-warning btn-lg item-card-btn1">Add To Cart</button>
+                    <button class="btn btn-danger btn-lg item-card-btn2">Buy Now</button>
+                </div>
             </div>
+
+            <!-- (right) content -->
+            <div class="content">
+                <div class="description">VEGA Crux Motorbike Helmet  (Black)</div>
+                <div class="rating">
+                    <span class="stars">4.3 <i class="bi bi-star-fill"></i></span>
+                    <span class="ratings">1,08,693 Ratings</span>
+                    <span class="reviews">15,135 Reviews</span>
+                </div>
+                <div class="price">
+                    <span class="new-price">₹1,184</span>
+                    <span class="old-price">₹1,358</span>
+                    <span class="discount">12% off</span>
+                </div>
+                <div class="offer">
+                    <div class="offer1">Available offers</div>
+                    <div class="offer2"><i class="bi tags-color bi-tag-fill"></i> <span class="offer-header">Bank Offer</span> 5% Cashback on Flipkart Axis Bank CardT&C</div>
+                    <div class="offer3"><i class="bi tags-color bi-tag-fill"></i> <span class="offer-header">Bank Offer</span> Extra 10% off on Prepaid TransactionsT&C</div>
+                    <div class="offer4"><i class="bi tags-color bi-tag-fill"></i> <span class="offer-header">Combo Offer</span> Buy 2 items save 3%;Buy 3-4 save 7%;Buy 5+ save 10%See all productsT&C</div>
+                    <div class="offer5"><i class="bi tags-color bi-tag-fill"></i> <span class="offer-header">Partner Offer</span> Sign up for Flipkart Pay Later and get Flipkart Gift Card worth ₹100*Know More</div>
+                </div>
+
+            <div class="delivery-bar">
+                <label for="delivery-to">
+                    Delivery
+                </label>
+                <input type="text" id="delivery-to" class="form-control form-control-sm">
+                <button class="btn btn-sm">Change</button>
+            </div>
+
+            <div class="size">
+                <span>Size</span>
+                <label for="medium" class="btn btn-outline-primary">M
+                    <input type="checkbox" class="btn-check" autocomplete="on" id="medium">
+                </label>
+                
+                <label for="large" class="btn btn-outline-primary">L
+                    <input type="checkbox" class="btn-check" autocomplete="off" id="large">
+                </label>
+            </div>
+
+            <div class="highlight-services">
+                <div class="highlights">
+                    <span>Highlights: </span>
+                    <ul>
+                        <li>Type: Flip-up</li>
+                        <li>For Men, Women</li>
+                        <li>Visor Present</li>
+                        <li>Size: M</li>
+                        <li>Quick Release Buckle</li>
+                    </ul>
+                </div>
+
+                <div class="services">
+                    <div><i class="bi bi-recycle"></i> 7 day replacement policy</div>
+                    <div><i class="fa fa-rupee" style="color:blue"></i> Cash on delivery available</div>
+                </div>
+            </div>
+
+            <div class="summary">
+                <div>Description</div>
+                <p>Keeping yourself safe while riding your bike is of utmost importance.</p>
+                <p> Wear this sturdy motorbike helmet from VEGA Crux as you make your way through the crowded city streets.</p>
+                <p>Scratch-resistant Visor</p>
+                <p>This flip-up motorbike helmet comes with a scratch-resistant visor which shields your eyes from sun rays and dust particles.</p>
+                <p>Leather Finish</p>
+                <p>This black helmet has a cool leather finish on the outside and a nice padded channeling for proper ventilation on the inside.</p>
             </div>
         </div>
 
@@ -1022,19 +1093,19 @@
             <i class="icon margin-l bi bi-question-circle-fill"></i><span class="icon-text">Help Center</span>
             <span class="margin-l icon-text">&copy; 2007-2022 Flipkart.com</span>
             <!-- <span class="icon-imgs">
-                <img src="icons/cards/visa.jpg" alt="visa">
-                <img src="icons/cards/card2.png" alt="card2">
-                <img src="icons/cards/card3.png" alt="card3">
-                <img src="icons/cards/card4.png" alt="card4">
-                <img src="icons/cards/card5.png" alt="card5">
-                <img src="icons/cards/card6.png" alt="card6">
-                <img src="icons/cards/card7.png" alt="card7">
-                <img src="icons/cards/card8.png" alt="card8">
-                <img src="icons/cards/card9.png" alt="card9">
-                <img src="icons/cards/card10.png" alt="card10">
+                <img src="../res/icons/cards/visa.jpg" alt="visa">
+                <img src="../res/icons/cards/card2.png" alt="card2">
+                <img src="../res/icons/cards/card3.png" alt="card3">
+                <img src="../res/icons/cards/card4.png" alt="card4">
+                <img src="../res/icons/cards/card5.png" alt="card5">
+                <img src="../res/icons/cards/card6.png" alt="card6">
+                <img src="../res/icons/cards/card7.png" alt="card7">
+                <img src="../res/icons/cards/card8.png" alt="card8">
+                <img src="../res/icons/cards/card9.png" alt="card9">
+                <img src="../res/icons/cards/card10.png" alt="card10">
             </span> -->
             <span class="all-cards">
-                <img src="icons/cards/all-cards.png" alt="all cards">
+                <img src="../res/icons/cards/all-cards.png" alt="all cards">
             </span>
         </div>
         <div class="text-center icon-text copyright-protected"><a href="https://github.com/suraj-singh12" target="_blank">&copy; suraj-singh12 (Suraj Singh)</a></div>

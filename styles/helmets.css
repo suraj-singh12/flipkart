@@ -25,6 +25,9 @@
 .price-select .upper {
     width: 48%;
 }
+.price-select > .upper:hover, .price-select > .lower:hover {
+    box-shadow: 1px 1px 1px lightblue, 1px 1px 2px lightgreen;
+}
 .content {
     width: 79%;
     float: left;
@@ -109,13 +112,20 @@
     flex-grow: 1;
 }
 .custom-card:hover {
-    box-shadow: 0 3px 16px 0 rgb(0 0 0 / 11%);
+    /* box-shadow: 0 3px 16px 0 rgb(0 0 0 / 11%); */
+    box-shadow: 1px 1px 12px lightgrey, 2px 2px 2px lightgreen;
 }
 .card-img-width {
     width: 62% !important;
     margin: auto;
 }
-
+.custom-card-anchor {
+    text-decoration: none;
+    color: inherit;
+}
+.custom-card-anchor:hover {
+    color: inherit;
+}
 
 @media screen and (max-width: 1345px) {
     .content {
