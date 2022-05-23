@@ -1,0 +1,23 @@
+[
+    {
+        "image": "img", 
+        "description": "div",
+        "brand": "div",
+        "color": "div",
+
+        "start1": "div",
+        "stars": "span",
+        "ratings": "span",
+        "reviews": "span",
+        "end1": "div",
+
+        "start2": "div",
+        "new-price": "span",
+        "old-price": "span",
+        "discount": "span",
+        "end2": "div",
+        
+        "delivery-type": "div",
+        "offer": "div"
+    }
+]
