@@ -15,20 +15,20 @@ cd flipkart-project/
 ```
 
 ## Dependencies 
-```npm
+```git
 npm install express
 ```
 
 ## Run the project
-```npm
-npm  install 
-
 ```npm 
 npm start
 ```
 
-# Check the terminal window for connected port number and do in browser
+## Check the terminal window for connected port number and link like below: 
 ```
-localhost:port-number
+http://localhost:port-number
 ```
+
+## Paste the link in browser and done !
+
 
