@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suraj-singh12/flipkart.git"
+    "url": "git+https://github.com/suraj-singh12/flipkart-project.git"
   },
   "author": "suraj-singh12",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/suraj-singh12/flipkart/issues"
+    "url": "https://github.com/suraj-singh12/flipkart-project/issues"
   },
-  "homepage": "https://github.com/suraj-singh12/flipkart#readme"
+  "homepage": "https://github.com/suraj-singh12/flipkart-project#readme"
 }
