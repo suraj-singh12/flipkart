@@ -11,5 +11,6 @@ app.use('/', express.static('./'));
 
 
 app.listen(port, () => {
-    console.log('Server connected at: ' + port)
-})
+    console.log('Server connected at: ' + port);
+    console.log('http://localhost:' + port);
+});

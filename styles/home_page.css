@@ -338,7 +338,7 @@ button.font14 {
     opacity: 1;
     width:55%;
     z-index: 10;
-    position: absolute;
+    position: fixed;        /* this ensures even after page scroll & refresh, the coupon comes in center of the page*/
     left: 20%;
     bottom: 9%;
     /* property duration timing-function delay */
