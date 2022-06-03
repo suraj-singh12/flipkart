@@ -5,10 +5,10 @@
         "color": "Black",
         "stars": "4.2",
         "reviews": "(6,926)",
-        "new-price": "₹556",
-        "old-price": "₹1,199",
-        "discount": "53% off",
-        "delivery-type": "Free delivery"
+        "new_price": "556",
+        "old_price": "1199",
+        "discount": "53",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/cliff-1-clf-k-58-full-face-vega-original-imaedhrvhhuzsfhz.jpeg",
@@ -16,10 +16,10 @@
         "color": "Black",
         "stars": "4.2",
         "reviews": "(64,263)",
-        "new-price": "₹878",
-        "old-price": "₹998",
-        "discount": "12% off",
-        "delivery-type": "Free delivery"
+        "new_price": "878",
+        "old_price": "998",
+        "discount": "12",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/na-1-vega-60-open-face-crux-original-imaebvpyemxjc6zh.jpeg",
@@ -27,10 +27,10 @@
         "color": "Black",
         "stars": "4.2",
         "reviews": "(1,26,072)",
-        "new-price": "₹930",
-        "old-price": "₹998",
-        "discount": "6% off",
-        "delivery-type": "Free delivery"
+        "new_price": "93",
+        "old_price": "998",
+        "discount": "6",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/crux-of-open-face-crx-of-k-open-face-vega-original-imafwwy4pyr4rzwz.jpeg",
@@ -38,10 +38,10 @@
         "color": "Black",
         "stars": "4.2",
         "reviews": "(1,26,072)",
-        "new-price": "₹878",
-        "old-price": "₹998",
-        "discount": "12% off",
-        "delivery-type": "Free delivery"
+        "new_price": "878",
+        "old_price": "998",
+        "discount": "12",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/indianas-01b-na-full-face-sonik-original-imagfc4hxzsz6hnh.jpeg",
@@ -49,10 +49,10 @@
         "color": "Black",
         "stars": "4.1",
         "reviews": "(1,863)",
-        "new-price": "₹459",
-        "old-price": "₹999",
-        "discount": "54% off",
-        "delivery-type": "Buy 2 items, save extra 3%"
+        "new_price": "459",
+        "old_price": "999",
+        "discount": "54",
+        "delivery_type": "Buy 2 items, save extra 3%"
     },
     {
         "image": "res/img3/-original-imagczrgdnczvgxj.jpeg",
@@ -60,10 +60,10 @@
         "color": "Black Black Strip",
         "stars": "4.4",
         "reviews": "(7,371)",
-        "new-price": "₹853",
-        "old-price": "₹1,075",
-        "discount": "20% off",
-        "delivery-type": "Free delivery"
+        "new_price": "853",
+        "old_price": "175",
+        "discount": "20",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/sb-50-adonis-classic-sb-50-full-face-steelbird-original-imafw2z5r23nsqzf.jpeg",
@@ -71,10 +71,10 @@
         "color": "Black",
         "stars": "4.2",
         "reviews": "(27,796)",
-        "new-price": "₹737",
-        "old-price": "₹959",
-        "discount": "23% off",
-        "delivery-type": "Free delivery"
+        "new_price": "737",
+        "old_price": "959",
+        "discount": "23",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/thunder-thn-m-open-face-flipkart-smartbuy-original-imafvmahjbg7mjhp.jpeg",
@@ -82,10 +82,10 @@
         "color": "Black",
         "stars": "4",
         "reviews": "(3,037)",
-        "new-price": "₹666",
-        "old-price": "₹1,299",
-        "discount": "48% off",
-        "delivery-type": "Free delivery"
+        "new_price": "666",
+        "old_price": "1299",
+        "discount": "48",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/thunder-thn-m-open-face-flipkart-smartbuy-original-imafvmahjbg7mjhp.jpeg",
@@ -93,10 +93,10 @@
         "color": "Black",
         "stars": "4",
         "reviews": "(3,037)",
-        "new-price": "₹604",
-        "old-price": "₹1,299",
-        "discount": "53% off",
-        "delivery-type": "Free delivery"
+        "new_price": "64",
+        "old_price": "1299",
+        "discount": "53",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/crux-1-crx-k-57-flip-up-vega-original-imafk4ybgecwkrjh.jpeg",
@@ -104,10 +104,10 @@
         "color": "Black",
         "stars": "4.3",
         "reviews": "(1,08,693)",
-        "new-price": "₹1,184",
-        "old-price": "₹1,358",
-        "discount": "12% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1184",
+        "old_price": "1358",
+        "discount": "12",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/bolt-blt-l-open-face-flipkart-smartbuy-original-imafvmahkf5hqwur.jpeg",
@@ -115,10 +115,10 @@
         "color": "Black",
         "stars": "4.2",
         "reviews": "(6,247)",
-        "new-price": "₹614",
-        "old-price": "₹1,199",
-        "discount": "48% off",
-        "delivery-type": "Free delivery"
+        "new_price": "614",
+        "old_price": "1199",
+        "discount": "48",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/crux-1-920-60-full-face-vega-original-imafvyg2qmhsh2g7.jpeg",
@@ -126,10 +126,10 @@
         "color": "Black",
         "stars": "4.2",
         "reviews": "(28,703)",
-        "new-price": "₹1,139",
-        "old-price": "₹1,358",
-        "discount": "16% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1139",
+        "old_price": "1358",
+        "discount": "16",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/edge-l-1-edge-k-58-full-face-vega-original-imaf46aqyvdzg2z6.jpeg",
@@ -137,10 +137,10 @@
         "color": "Black",
         "stars": "4.3",
         "reviews": "(14,810)",
-        "new-price": "₹893",
-        "old-price": "₹998",
-        "discount": "10% off",
-        "delivery-type": "Free delivery"
+        "new_price": "893",
+        "old_price": "998",
+        "discount": "10",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/crux-1-920-60-full-face-vega-original-imafvyg2qmhsh2g7.jpeg",
@@ -148,10 +148,10 @@
         "color": "Black",
         "stars": "4.2",
         "reviews": "(28,703)",
-        "new-price": "₹1,139",
-        "old-price": "₹1,358",
-        "discount": "16% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1139",
+        "old_price": "1358",
+        "discount": "16",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/atom-1-atm-k-57-open-face-vega-original-imafgzbhyh725vqd.jpeg",
@@ -159,10 +159,10 @@
         "color": "Black",
         "stars": "4.2",
         "reviews": "(16,111)",
-        "new-price": "₹783",
-        "old-price": "₹890",
-        "discount": "12% off",
-        "delivery-type": "Free delivery"
+        "new_price": "783",
+        "old_price": "89",
+        "discount": "12",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/crux-of-open-face-crx-of-r-open-face-vega-original-imafuhyuc7vvr7hh.jpeg",
@@ -170,19 +170,20 @@
         "color": "Red",
         "stars": "4.2",
         "reviews": "(1,26,072)",
-        "new-price": "₹869",
-        "old-price": "₹998",
-        "discount": "12% off",
-        "delivery-type": "Free delivery"
+        "new_price": "869",
+        "old_price": "998",
+        "discount": "12",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/-original-imagedu7jsthcezk.jpeg",
         "description": "VEGA Jet Marvel Captain America Edition Motorbike Helme...",
         "color": "White Red",
-        "new-price": "₹1,284",
-        "old-price": "₹1,804",
-        "discount": "28% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1284",
+        "old_price": "184",
+        "discount": "28",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img3/-original-imagczrgdnczvgxj.jpeg",
@@ -190,10 +191,10 @@
         "color": "Black Black Strip",
         "stars": "4.3",
         "reviews": "(3,783)",
-        "new-price": "₹853",
-        "old-price": "₹1,075",
-        "discount": "20% off",
-        "delivery-type": "Free delivery"
+        "new_price": "853",
+        "old_price": "175",
+        "discount": "20",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/crux-1-crx-k-57-flip-up-vega-original-imafk4ybgecwkrjh.jpeg",
@@ -201,10 +202,10 @@
         "color": "Black",
         "stars": "4.3",
         "reviews": "(1,08,693)",
-        "new-price": "₹1,179",
-        "old-price": "₹1,358",
-        "discount": "13% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1179",
+        "old_price": "1358",
+        "discount": "13",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/cyborg-double-visor-full-face-helmet-inner-smoke-sun-shield-and-original-imafvgs8zsm9zdv8.jpeg",
@@ -212,10 +213,10 @@
         "color": "Dashing Black",
         "stars": "4.3",
         "reviews": "(7,070)",
-        "new-price": "₹979",
-        "old-price": "₹1,299",
-        "discount": "24% off",
-        "delivery-type": "Free delivery"
+        "new_price": "979",
+        "old_price": "1299",
+        "discount": "24",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/-original-imagc4gegdc34kyh.jpeg",
@@ -223,10 +224,10 @@
         "color": "Black",
         "stars": "4.3",
         "reviews": "(18,273)",
-        "new-price": "₹853",
-        "old-price": "₹1,075",
-        "discount": "20% off",
-        "delivery-type": "Free delivery"
+        "new_price": "853",
+        "old_price": "175",
+        "discount": "20",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/sba-7-7wings-isi-certified-flip-up-helmet-for-men-and-women-1-original-imag94sgnz8c9tnx.jpeg",
@@ -234,10 +235,10 @@
         "color": "Dashing Black",
         "stars": "4.3",
         "reviews": "(3,032)",
-        "new-price": "₹1,419",
-        "old-price": "₹1,849",
-        "discount": "23% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1419",
+        "old_price": "1849",
+        "discount": "23",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/-original-imagbxzngzuaxa8g.jpeg",
@@ -245,10 +246,10 @@
         "color": "CHERRY RED",
         "stars": "4.4",
         "reviews": "(8,797)",
-        "new-price": "₹1,040",
-        "old-price": "₹1,295",
-        "discount": "19% off",
-        "delivery-type": "Free delivery"
+        "new_price": "14",
+        "old_price": "1295",
+        "discount": "19",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/sba-1-classic-rk016-full-face-steelbird-original-imafw2z4gzysdkz5.jpeg",
@@ -256,10 +257,10 @@
         "color": "Black",
         "stars": "4.3",
         "reviews": "(14,666)",
-        "new-price": "₹949",
-        "old-price": "₹1,339",
-        "discount": "29% off",
-        "delivery-type": "Free delivery"
+        "new_price": "949",
+        "old_price": "1339",
+        "discount": "29",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/off-road-d-v-gangster-1201-or-d-v-gng-dkmb-motocross-vega-original-imafu3y3kztptnz2.jpeg",
@@ -267,10 +268,10 @@
         "color": "Dull Black, Blue",
         "stars": "4.3",
         "reviews": "(11,263)",
-        "new-price": "₹1,860",
-        "old-price": "₹2,114",
-        "discount": "12% off",
-        "delivery-type": "Free delivery"
+        "new_price": "186",
+        "old_price": "2114",
+        "discount": "12",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/sb-50-adonis-dashing-4613951598-full-face-steelbird-original-imafw2z5usfrfrz2.jpeg",
@@ -278,10 +279,10 @@
         "color": "BLACK | RED",
         "stars": "4.2",
         "reviews": "(28,459)",
-        "new-price": "₹760",
-        "old-price": "₹1,089",
-        "discount": "30% off",
-        "delivery-type": "Free delivery"
+        "new_price": "76",
+        "old_price": "189",
+        "discount": "30",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/atom-1-atm-dk-57-open-face-vega-original-imafgzbh6swdyczy.jpeg",
@@ -289,10 +290,10 @@
         "color": "Dull Black",
         "stars": "4.2",
         "reviews": "(16,111)",
-        "new-price": "₹783",
-        "old-price": "₹890",
-        "discount": "12% off",
-        "delivery-type": "Free delivery"
+        "new_price": "783",
+        "old_price": "89",
+        "discount": "12",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/adonis-dashing-8901667501027-full-face-steelbird-original-imaffyb9gwfqjxkv.jpeg",
@@ -300,10 +301,10 @@
         "color": "BLACK | GOLD",
         "stars": "4.2",
         "reviews": "(28,459)",
-        "new-price": "₹756",
-        "old-price": "₹1,089",
-        "discount": "30% off",
-        "delivery-type": "Free delivery"
+        "new_price": "756",
+        "old_price": "189",
+        "discount": "30",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/off-road-d-v-of-d-v-k-full-face-vega-original-imafu2ya9fwhrbae.jpeg",
@@ -311,10 +312,10 @@
         "color": "Black",
         "stars": "4.3",
         "reviews": "(47,139)",
-        "new-price": "₹1,630",
-        "old-price": "₹1,871",
-        "discount": "12% off",
-        "delivery-type": "Free delivery"
+        "new_price": "163",
+        "old_price": "1871",
+        "discount": "12",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/-original-imagc4gdwafdkz2w.jpeg",
@@ -322,10 +323,10 @@
         "color": "Black",
         "stars": "4.3",
         "reviews": "(2,374)",
-        "new-price": "₹955",
-        "old-price": "₹1,195",
-        "discount": "20% off",
-        "delivery-type": "Free delivery"
+        "new_price": "955",
+        "old_price": "1195",
+        "discount": "20",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/urban-open-face-pink-m-8902613054758-open-face-studds-original-imafx3c7vvvm8djy.jpeg",
@@ -333,10 +334,10 @@
         "color": "Pink White Strip",
         "stars": "4.4",
         "reviews": "(697)",
-        "new-price": "₹853",
-        "old-price": "₹1,075",
-        "discount": "20% off",
-        "delivery-type": "Free delivery"
+        "new_price": "853",
+        "old_price": "175",
+        "discount": "20",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/anymal-series-eagle-flip-up-with-clear-visor-1-na-58-flip-up-original-imagfreccw6wjf64.jpeg",
@@ -344,10 +345,10 @@
         "color": "Black",
         "stars": "4",
         "reviews": "(1,332)",
-        "new-price": "₹889",
-        "old-price": "₹1,450",
-        "discount": "38% off",
-        "delivery-type": "Free delivery"
+        "new_price": "889",
+        "old_price": "145",
+        "discount": "38",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/sbh-17-terminator-full-face-graphic-helmet-in-matt-black-grey-original-imafxhc3jmzvwaxv.jpeg",
@@ -355,10 +356,10 @@
         "color": "Matt Black Grey with Smoke Visor",
         "stars": "4.3",
         "reviews": "(5,440)",
-        "new-price": "₹1,779",
-        "old-price": "₹2,299",
-        "discount": "22% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1779",
+        "old_price": "2299",
+        "discount": "22",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/sba-7-7wings-isi-certified-flip-up-helmet-for-men-and-women-1-original-imag94tyrhygqqx9.jpeg",
@@ -366,10 +367,10 @@
         "color": "Dashing Battle Green",
         "stars": "4.3",
         "reviews": "(3,032)",
-        "new-price": "₹1,419",
-        "old-price": "₹1,849",
-        "discount": "23% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1419",
+        "old_price": "1849",
+        "discount": "23",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/cliff-clf-r-full-face-vega-original-imafw9f9qzxh4hzh.jpeg",
@@ -377,10 +378,10 @@
         "color": "Red",
         "stars": "4.2",
         "reviews": "(64,263)",
-        "new-price": "₹858",
-        "old-price": "₹998",
-        "discount": "14% off",
-        "delivery-type": "Free delivery"
+        "new_price": "858",
+        "old_price": "998",
+        "discount": "14",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/sba-21-gt-full-face-isi-certified-helmet-1-sba-21-58-full-face-original-imag3y8zgydfms9w.jpeg",
@@ -388,10 +389,10 @@
         "color": "Dashing Black with Clear Visor",
         "stars": "4.2",
         "reviews": "(251)",
-        "new-price": "₹939",
-        "old-price": "₹1,249",
-        "discount": "24% off",
-        "delivery-type": "Free delivery"
+        "new_price": "939",
+        "old_price": "1249",
+        "discount": "24",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/sba-2-matt-sba-5-full-face-steelbird-air-original-imafvvxgxwnvcqyh.jpeg",
@@ -399,10 +400,10 @@
         "color": "MAT Y.BLUE",
         "stars": "4.3",
         "reviews": "(10,167)",
-        "new-price": "₹1,949",
-        "old-price": "₹2,679",
-        "discount": "27% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1949",
+        "old_price": "2679",
+        "discount": "27",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/ninja-elite-1-123456-30-flip-up-studds-original-imaffgggv7yyzvum.jpeg",
@@ -410,10 +411,10 @@
         "color": "Black",
         "stars": "4.3",
         "reviews": "(12,613)",
-        "new-price": "₹1,125",
-        "old-price": "₹1,395",
-        "discount": "19% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1125",
+        "old_price": "1395",
+        "discount": "19",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/-original-imagd5f93mvtzh45.jpeg",
@@ -421,9 +422,9 @@
         "color": "Black",
         "stars": "4.3",
         "reviews": "(245)",
-        "new-price": "₹1,340",
-        "old-price": "₹1,495",
-        "discount": "10% off"
+        "new_price": "134",
+        "old_price": "1495",
+        "discount": "10"
     },
     {
         "image": "res/img3/sb-50-adonis-dashing-1-gt4794614-60-full-face-steelbird-original-imafnr23f8bpqcdk.jpeg",
@@ -431,10 +432,10 @@
         "color": "BLACK|BLUE",
         "stars": "4.2",
         "reviews": "(28,459)",
-        "new-price": "₹761",
-        "old-price": "₹1,089",
-        "discount": "30% off",
-        "delivery-type": "Free delivery"
+        "new_price": "761",
+        "old_price": "189",
+        "discount": "30",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/cruiser-w-p-cr-w-p-dk-open-face-vega-original-imafwrd2ewwpwuz6.jpeg",
@@ -442,10 +443,10 @@
         "color": "Dull Black",
         "stars": "4.3",
         "reviews": "(43,114)",
-        "new-price": "₹995",
-        "old-price": "₹1,142",
-        "discount": "12% off",
-        "delivery-type": "Free delivery"
+        "new_price": "995",
+        "old_price": "1142",
+        "discount": "12",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/cliff-1-clf-dx-da-60-full-face-vega-original-imaeshx5fhcptjfr.jpeg",
@@ -453,10 +454,10 @@
         "color": "Dull Anthracite",
         "stars": "4.1",
         "reviews": "(16,790)",
-        "new-price": "₹934",
-        "old-price": "₹1,097",
-        "discount": "14% off",
-        "delivery-type": "Free delivery"
+        "new_price": "934",
+        "old_price": "197",
+        "discount": "14",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/urban-o-f-strip-1-8902613054772-58-open-face-studds-original-imafkf4egwkbgm6z.jpeg",
@@ -464,10 +465,10 @@
         "color": "Blue Black Strip",
         "stars": "4.5",
         "reviews": "(676)",
-        "new-price": "₹853",
-        "old-price": "₹1,075",
-        "discount": "20% off",
-        "delivery-type": "Free delivery"
+        "new_price": "853",
+        "old_price": "175",
+        "discount": "20",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/-original-imagdtutnwrgmad7.jpeg",
@@ -475,10 +476,10 @@
         "color": "Red Gold",
         "stars": "4.5",
         "reviews": "(4)",
-        "new-price": "₹1,855",
-        "old-price": "₹2,645",
-        "discount": "29% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1855",
+        "old_price": "2645",
+        "discount": "29",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/or-d-v-mb-1-vega-off-road-d-v-monster-original-imadwhzeycj9vjrh.jpeg",
@@ -486,10 +487,10 @@
         "color": "M.Blue",
         "stars": "4.3",
         "reviews": "(47,139)",
-        "new-price": "₹1,628",
-        "old-price": "₹1,844",
-        "discount": "11% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1628",
+        "old_price": "1844",
+        "discount": "11",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/sba-3-r2k-classic-helmet-in-black-sba-3-r2k-open-face-steelbird-original-imafxzhdryhcvmbd.jpeg",
@@ -497,10 +498,10 @@
         "color": "Black With Plain Visor",
         "stars": "4.3",
         "reviews": "(2,986)",
-        "new-price": "₹939",
-        "old-price": "₹1,249",
-        "discount": "24% off",
-        "delivery-type": "Free delivery"
+        "new_price": "939",
+        "old_price": "1249",
+        "discount": "24",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/sba-7-7wings-isi-certified-flip-up-helmet-for-men-and-women-1-original-imag94sgnz8c9tnx.jpeg",
@@ -508,10 +509,10 @@
         "color": "Dashing Black with Outer Clear and Inner Smoke Sun Shield",
         "stars": "4.3",
         "reviews": "(3,032)",
-        "new-price": "₹1,419",
-        "old-price": "₹1,849",
-        "discount": "23% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1419",
+        "old_price": "1849",
+        "discount": "23",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/-original-imagbxzzgeyq2ke4.jpeg",
@@ -519,10 +520,10 @@
         "color": "White",
         "stars": "4.1",
         "reviews": "(1,360)",
-        "new-price": "₹853",
-        "old-price": "₹1,075",
-        "discount": "20% off",
-        "delivery-type": "Free delivery"
+        "new_price": "853",
+        "old_price": "175",
+        "discount": "20",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/chrome-elite-na-full-face-studds-original-imafyutzzgkznbfg.jpeg",
@@ -530,10 +531,10 @@
         "color": "Black",
         "stars": "4.2",
         "reviews": "(2,578)",
-        "new-price": "₹832",
-        "old-price": "₹1,050",
-        "discount": "20% off",
-        "delivery-type": "Free delivery"
+        "new_price": "832",
+        "old_price": "15",
+        "discount": "20",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/atom-1-atm-r-57-open-face-vega-original-imafgzbhmduz4kqs.jpeg",
@@ -541,10 +542,10 @@
         "color": "Red",
         "stars": "4.2",
         "reviews": "(16,111)",
-        "new-price": "₹783",
-        "old-price": "₹890",
-        "discount": "12% off",
-        "delivery-type": "Free delivery"
+        "new_price": "783",
+        "old_price": "89",
+        "discount": "12",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/sba-1-7wings-classic-1-sba-1-60-full-face-steelbird-original-imaf9p7cserrcefh.jpeg",
@@ -552,10 +553,10 @@
         "color": "Black With Clear Visor",
         "stars": "4.3",
         "reviews": "(1,203)",
-        "new-price": "₹1,139",
-        "old-price": "₹1,499",
-        "discount": "24% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1139",
+        "old_price": "1499",
+        "discount": "24",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/crux-1-crx-r-60-full-face-vega-original-imafk4ybzpymx6zz.jpeg",
@@ -563,10 +564,10 @@
         "color": "Red",
         "stars": "4.3",
         "reviews": "(1,08,693)",
-        "new-price": "₹1,167",
-        "old-price": "₹1,358",
-        "discount": "14% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1167",
+        "old_price": "1358",
+        "discount": "14",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/ninja-elite-super-full-face-matt-gun-grey-l-8902613034323-full-original-imafzfjvbnwzayyq.jpeg",
@@ -574,9 +575,9 @@
         "color": "Gun Grey",
         "stars": "4.3",
         "reviews": "(85)",
-        "new-price": "₹1,390",
-        "old-price": "₹1,495",
-        "discount": "7% off"
+        "new_price": "139",
+        "old_price": "1495",
+        "discount": "7"
     },
     {
         "image": "res/img3/supreme-sba-2-1-5999jks-60-full-face-steelbird-original-imaezgucqjt3qckz.jpeg",
@@ -584,10 +585,10 @@
         "color": "MAT BLACK",
         "stars": "4.3",
         "reviews": "(10,167)",
-        "new-price": "₹1,954",
-        "old-price": "₹2,679",
-        "discount": "27% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1954",
+        "old_price": "2679",
+        "discount": "27",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/sba-1-beast-sbabmbg-full-face-steelbird-air-original-imaftndt4gwhg5qg.jpeg",
@@ -595,10 +596,10 @@
         "color": "MAT BLACK GREY",
         "stars": "4.2",
         "reviews": "(3,047)",
-        "new-price": "₹1,484",
-        "old-price": "₹2,079",
-        "discount": "28% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1484",
+        "old_price": "279",
+        "discount": "28",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/-original-imagbygtvsxcegkf.jpeg",
@@ -606,10 +607,10 @@
         "color": "Black",
         "stars": "4.3",
         "reviews": "(425)",
-        "new-price": "₹614",
-        "old-price": "₹1,199",
-        "discount": "48% off",
-        "delivery-type": "Free delivery"
+        "new_price": "614",
+        "old_price": "1199",
+        "discount": "48",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/power-gpd-1-gpd06mgm-58-full-face-flipkart-smartbuy-original-imagefz745jghf8z.jpeg",
@@ -617,10 +618,10 @@
         "color": "Military Green Matt",
         "stars": "4.6",
         "reviews": "(7)",
-        "new-price": "₹509",
-        "old-price": "₹1,049",
-        "discount": "51% off",
-        "delivery-type": "Free delivery"
+        "new_price": "59",
+        "old_price": "149",
+        "discount": "51",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/crux-dx-checks-dull-black-orange-helmet-l-1-crux-dx-cck-dko-58-original-imafhb4zfn7eu9ss.jpeg",
@@ -628,19 +629,20 @@
         "color": "Dull Black, Orange",
         "stars": "4.2",
         "reviews": "(7,221)",
-        "new-price": "₹1,454",
-        "old-price": "₹1,691",
-        "discount": "14% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1454",
+        "old_price": "1691",
+        "discount": "14",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/-original-image3ueetrsxad3.jpeg",
         "description": "VEGA Crux Marvel Deadpool Edition Motorbike Helmet",
         "color": "Red Black",
-        "new-price": "₹1,671",
-        "old-price": "₹2,356",
-        "discount": "29% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1671",
+        "old_price": "2356",
+        "discount": "29",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img3/-original-imagbxzzuu4etxcp.jpeg",
@@ -648,10 +650,10 @@
         "color": "Gun grey",
         "stars": "4.4",
         "reviews": "(8,797)",
-        "new-price": "₹1,040",
-        "old-price": "₹1,295",
-        "discount": "19% off",
-        "delivery-type": "Free delivery"
+        "new_price": "14",
+        "old_price": "1295",
+        "discount": "19",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/sba-1-glossy-matt-black-1-mb-58-full-face-steelbird-original-imagfpf72k2drat2.jpeg",
@@ -659,19 +661,20 @@
         "color": "Black",
         "stars": "4.3",
         "reviews": "(27,738)",
-        "new-price": "₹1,225",
-        "old-price": "₹1,399",
-        "discount": "12% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1225",
+        "old_price": "1399",
+        "discount": "12",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/-original-image3ueqfxxzgdg.jpeg",
         "description": "VEGA Off Road Marvel Thor Edition Motorbike Helmet",
         "color": "Blue Red",
-        "new-price": "₹2,043",
-        "old-price": "₹2,946",
-        "discount": "30% off",
-        "delivery-type": "Free delivery"
+        "new_price": "243",
+        "old_price": "2946",
+        "discount": "30",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img3/thunder-d1-full-face-with-mirror-visor-matt-n2-l-8902613045244-original-imafx3cfx7xfyppg.jpeg",
@@ -679,10 +682,10 @@
         "color": "Matt Black",
         "stars": "4.4",
         "reviews": "(2,119)",
-        "new-price": "₹1,614",
-        "old-price": "₹1,970",
-        "discount": "18% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1614",
+        "old_price": "197",
+        "discount": "18",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/sbh-17-terminator-full-face-graphic-helmet-in-matt-black-grey-original-imafxhc3ztgwryxz.jpeg",
@@ -690,10 +693,10 @@
         "color": "Matt Black Grey with Chrome Blue Visor",
         "stars": "4.4",
         "reviews": "(1,621)",
-        "new-price": "₹1,843",
-        "old-price": "₹2,379",
-        "discount": "22% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1843",
+        "old_price": "2379",
+        "discount": "22",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/-original-imagd5f9pquzfqvg.jpeg",
@@ -701,10 +704,10 @@
         "color": "BLACK WITH CARBON CENTER STRIP",
         "stars": "4.3",
         "reviews": "(12,613)",
-        "new-price": "₹1,239",
-        "old-price": "₹1,330",
-        "discount": "6% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1239",
+        "old_price": "133",
+        "discount": "6",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/jetstar-classic-1-8902613011782-60-open-face-studds-original-imafjhq2gdzqfyac.jpeg",
@@ -712,10 +715,10 @@
         "color": "Black",
         "stars": "3.8",
         "reviews": "(154)",
-        "new-price": "₹870",
-        "old-price": "₹1,095",
-        "discount": "20% off",
-        "delivery-type": "Free delivery"
+        "new_price": "87",
+        "old_price": "195",
+        "discount": "20",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/mlg-helmet-matt-black-l-1-rrghel000038-58-open-face-royal-original-imag37ezreumbefr.jpeg",
@@ -723,10 +726,10 @@
         "color": "Matt Black",
         "stars": "4.4",
         "reviews": "(108)",
-        "new-price": "₹1,673",
-        "old-price": "₹1,825",
-        "discount": "8% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1673",
+        "old_price": "1825",
+        "discount": "8",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/flip-up-helmet-decor-red-1-crx-dx-kr-58-flip-up-vega-original-imaf3rndswpkzz9t.jpeg",
@@ -734,10 +737,10 @@
         "color": "Dull Black, Red",
         "stars": "4.2",
         "reviews": "(7,221)",
-        "new-price": "₹1,456",
-        "old-price": "₹1,691",
-        "discount": "13% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1456",
+        "old_price": "1691",
+        "discount": "13",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/cyborg-double-visor-full-face-helmet-inner-smoke-sun-shield-and-original-imafvgs8dqsrmute.jpeg",
@@ -745,10 +748,10 @@
         "color": "Dashing Red",
         "stars": "4.3",
         "reviews": "(7,070)",
-        "new-price": "₹979",
-        "old-price": "₹1,299",
-        "discount": "24% off",
-        "delivery-type": "Free delivery"
+        "new_price": "979",
+        "old_price": "1299",
+        "discount": "24",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/cliff-dx-1-clf-dx-dk-60-full-face-vega-original-imaeshx5jzngf9hz.jpeg",
@@ -756,10 +759,10 @@
         "color": "Dull Black",
         "stars": "4.1",
         "reviews": "(16,790)",
-        "new-price": "₹958",
-        "old-price": "₹1,097",
-        "discount": "12% off",
-        "delivery-type": "Free delivery"
+        "new_price": "958",
+        "old_price": "197",
+        "discount": "12",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/-original-imagccheuegmqvcg.jpeg",
@@ -767,10 +770,10 @@
         "color": "MAT BLACK RED",
         "stars": "4.2",
         "reviews": "(291)",
-        "new-price": "₹1,529",
-        "old-price": "₹2,270",
-        "discount": "32% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1529",
+        "old_price": "227",
+        "discount": "32",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/cruiser-1-cr-w-p-da-60-open-face-vega-original-imafbdzrbzstx2fy.jpeg",
@@ -778,10 +781,10 @@
         "color": "Dull Anthracite",
         "stars": "4.3",
         "reviews": "(43,114)",
-        "new-price": "₹972",
-        "old-price": "₹1,142",
-        "discount": "14% off",
-        "delivery-type": "Free delivery"
+        "new_price": "972",
+        "old_price": "1142",
+        "discount": "14",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/sba-1-r2k-na-full-face-steelbird-air-original-imafxmcv94sgve4t.jpeg",
@@ -789,10 +792,10 @@
         "color": "Matt Black/Grey with Smoke Visor",
         "stars": "4.4",
         "reviews": "(20,114)",
-        "new-price": "₹1,859",
-        "old-price": "₹2,399",
-        "discount": "22% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1859",
+        "old_price": "2399",
+        "discount": "22",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/sba-7-7wings-isi-certified-flip-up-helmet-for-men-and-women-1-original-imag9hfqgu6gsjjc.jpeg",
@@ -800,10 +803,10 @@
         "color": "Dashing Black with Clear Visor",
         "stars": "4.3",
         "reviews": "(3,032)",
-        "new-price": "₹1,339",
-        "old-price": "₹1,749",
-        "discount": "23% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1339",
+        "old_price": "1749",
+        "discount": "23",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/terminator-full-face-graphic-helmet-in-matt-black-red-with-gold-original-imafxhc87wffczbs.jpeg",
@@ -811,10 +814,10 @@
         "color": "Matt Black Red with Chrome Gold Visor",
         "stars": "4.4",
         "reviews": "(653)",
-        "new-price": "₹1,843",
-        "old-price": "₹2,379",
-        "discount": "22% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1843",
+        "old_price": "2379",
+        "discount": "22",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/sba-7-7wings-isi-certified-flip-up-helmet-for-men-and-women-1-original-imag9h5hrfruydgx.jpeg",
@@ -822,19 +825,20 @@
         "color": "Dashing Battle Green with Clear Visor",
         "stars": "4.3",
         "reviews": "(3,032)",
-        "new-price": "₹1,339",
-        "old-price": "₹1,749",
-        "discount": "23% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1339",
+        "old_price": "1749",
+        "discount": "23",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/-original-imageeratttmffuy.jpeg",
         "description": "VEGA Off Road Marvel Thor Edition Motorbike Helmet",
         "color": "Dull Blue Red",
-        "new-price": "₹2,034",
-        "old-price": "₹2,946",
-        "discount": "30% off",
-        "delivery-type": "Free delivery"
+        "new_price": "234",
+        "old_price": "2946",
+        "discount": "30",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img3/jet-w-visor-1-na-57-half-face-vega-original-imaf3pz3h9hfdtkz.jpeg",
@@ -842,10 +846,10 @@
         "color": "Dull Black",
         "stars": "4.3",
         "reviews": "(2,673)",
-        "new-price": "₹1,028",
-        "old-price": "₹1,196",
-        "discount": "14% off",
-        "delivery-type": "Free delivery"
+        "new_price": "128",
+        "old_price": "1196",
+        "discount": "14",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/crux-of-open-face-crx-of-w-open-face-vega-original-imafup8wqfqf3ggy.jpeg",
@@ -853,10 +857,10 @@
         "color": "White",
         "stars": "4.2",
         "reviews": "(1,26,072)",
-        "new-price": "₹878",
-        "old-price": "₹998",
-        "discount": "12% off",
-        "delivery-type": "Free delivery"
+        "new_price": "878",
+        "old_price": "998",
+        "discount": "12",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img3/sba-3-r2k-classic-open-face-helmet-in-white-sba-3-r2k-open-face-original-imafxzhdhghmh8cp.jpeg",
@@ -864,9 +868,9 @@
         "color": "White With Plain Visor",
         "stars": "4.3",
         "reviews": "(2,487)",
-        "new-price": "₹939",
-        "old-price": "₹1,249",
-        "discount": "24% off",
-        "delivery-type": "Free delivery"
+        "new_price": "939",
+        "old_price": "1249",
+        "discount": "24",
+        "delivery_type": "Free delivery"
     }
 ]

@@ -3,21 +3,23 @@
         "image": "res/img0/-original-imagax58esjwvzmx.jpeg",
         "description": "Meetion MT-M990S Wired Optical  Gaming Mouse",
         "color": "USB 3.0, Black, Silver",
-        "new-price": "₹2,499",
-        "old-price": "₹4,999",
-        "discount": "50% off",
-        "delivery-type": "Free delivery",
-        "offer": "Bank Offer"
+        "new_price": "2499",
+        "old_price": "4999",
+        "discount": "50",
+        "delivery_type": "Free delivery",
+        "offer": "Bank Offer",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img0/-original-imagdyahchkc9bw5.jpeg",
         "description": "Meetion MT-GM22 Wired Optical  Gaming Mouse",
         "color": "USB 3.0, Black",
-        "new-price": "₹999",
-        "old-price": "₹2,299",
-        "discount": "56% off",
-        "delivery-type": "Free delivery",
-        "offer": "Bank Offer"
+        "new_price": "999",
+        "old_price": "2299",
+        "discount": "56",
+        "delivery_type": "Free delivery",
+        "offer": "Bank Offer",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img0/zeb-transformer-m-zebronics-original-imafxrugfftphbkk.jpeg",
@@ -25,9 +27,9 @@
         "color": "USB 3.0, Black",
         "stars": "4.5",
         "reviews": "(13,895)",
-        "new-price": "₹349",
-        "old-price": "₹549",
-        "discount": "36% off",
+        "new_price": "349",
+        "old_price": "549",
+        "discount": "36",
         "offer": "Bank Offer"
     },
     {
@@ -36,9 +38,9 @@
         "color": "USB 2.0, Black",
         "stars": "4.2",
         "reviews": "(1,307)",
-        "new-price": "₹299",
-        "old-price": "₹899",
-        "discount": "66% off",
+        "new_price": "299",
+        "old_price": "899",
+        "discount": "66",
         "offer": "Bank Offer"
     },
     {
@@ -47,10 +49,10 @@
         "color": "USB 2.0, Multicolor",
         "stars": "4.3",
         "reviews": "(3,554)",
-        "new-price": "₹549",
-        "old-price": "₹999",
-        "discount": "45% off",
-        "delivery-type": "Free delivery",
+        "new_price": "549",
+        "old_price": "999",
+        "discount": "45",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -59,10 +61,10 @@
         "color": "USB 2.0, Black",
         "stars": "4.6",
         "reviews": "(3,615)",
-        "new-price": "₹1,495",
-        "old-price": "₹1,995",
-        "discount": "25% off",
-        "delivery-type": "Free delivery",
+        "new_price": "1495",
+        "old_price": "1995",
+        "discount": "25",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -71,20 +73,21 @@
         "color": "USB 2.0, USB 3.0, Black",
         "stars": "4.5",
         "reviews": "(4,943)",
-        "new-price": "₹299",
-        "old-price": "₹699",
-        "discount": "57% off",
+        "new_price": "299",
+        "old_price": "699",
+        "discount": "57",
         "offer": "Bank Offer"
     },
     {
         "image": "res/img0/-original-imagax58smy9pane.jpeg",
         "description": "Meetion MT-M975 Wired Optical  Gaming Mouse",
         "color": "USB 3.0, Black, Silver",
-        "new-price": "₹1,699",
-        "old-price": "₹3,499",
-        "discount": "51% off",
-        "delivery-type": "Free delivery",
-        "offer": "Bank Offer"
+        "new_price": "1699",
+        "old_price": "3499",
+        "discount": "51",
+        "delivery_type": "Free delivery",
+        "offer": "Bank Offer",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img0/f-15-redgear-original-imag4gf8pzgwzxyt.jpeg",
@@ -92,9 +95,9 @@
         "color": "USB 2.0, USB 3.0, Black",
         "stars": "4.3",
         "reviews": "(2,255)",
-        "new-price": "₹399",
-        "old-price": "₹999",
-        "discount": "60% off",
+        "new_price": "399",
+        "old_price": "999",
+        "discount": "60",
         "offer": "Bank Offer"
     },
     {
@@ -103,10 +106,10 @@
         "color": "USB 3.0, Black",
         "stars": "4.5",
         "reviews": "(2,244)",
-        "new-price": "₹1,499",
-        "old-price": "₹4,499",
-        "discount": "66% off",
-        "delivery-type": "Free delivery",
+        "new_price": "1499",
+        "old_price": "4499",
+        "discount": "66",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -115,20 +118,21 @@
         "color": "USB 2.0, Multicolor",
         "stars": "4.4",
         "reviews": "(1,474)",
-        "new-price": "₹390",
-        "old-price": "₹999",
-        "discount": "60% off",
-        "delivery-type": "Free delivery",
+        "new_price": "39",
+        "old_price": "999",
+        "discount": "60",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
         "image": "res/img0/-original-imagdyahrrpjzyzx.jpeg",
         "description": "Meetion MT-M371 Wired Optical  Gaming Mouse",
         "color": "USB 3.0, Black, Grey",
-        "new-price": "₹359",
-        "old-price": "₹799",
-        "discount": "55% off",
-        "offer": "Bank Offer"
+        "new_price": "359",
+        "old_price": "799",
+        "discount": "55",
+        "offer": "Bank Offer",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img0/gaming-mouse-wired-for-pc-and-laptops-corsor-original-imagbumrh4zt3n4e.jpeg",
@@ -136,10 +140,10 @@
         "color": "USB 2.0, USB 3.0, Black",
         "stars": "4.1",
         "reviews": "(1,103)",
-        "new-price": "₹349",
-        "old-price": "₹999",
-        "discount": "65% off",
-        "delivery-type": "Free delivery",
+        "new_price": "349",
+        "old_price": "999",
+        "discount": "65",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -148,9 +152,9 @@
         "color": "USB 2.0, USB 3.0, Black",
         "stars": "4.4",
         "reviews": "(162)",
-        "new-price": "₹449",
-        "old-price": "₹799",
-        "discount": "43% off",
+        "new_price": "449",
+        "old_price": "799",
+        "discount": "43",
         "offer": "Bank Offer"
     },
     {
@@ -159,10 +163,10 @@
         "color": "USB 2.0, Black",
         "stars": "4.1",
         "reviews": "(263)",
-        "new-price": "₹345",
-        "old-price": "₹999",
-        "discount": "65% off",
-        "delivery-type": "Free delivery",
+        "new_price": "345",
+        "old_price": "999",
+        "discount": "65",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -171,10 +175,10 @@
         "color": "USB 3.0, Black",
         "stars": "4.6",
         "reviews": "(556)",
-        "new-price": "₹899",
-        "old-price": "₹2,499",
-        "discount": "64% off",
-        "delivery-type": "Free delivery",
+        "new_price": "899",
+        "old_price": "2499",
+        "discount": "64",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -183,9 +187,9 @@
         "color": "USB 3.0, White",
         "stars": "4.5",
         "reviews": "(95)",
-        "new-price": "₹449",
-        "old-price": "₹799",
-        "discount": "43% off",
+        "new_price": "449",
+        "old_price": "799",
+        "discount": "43",
         "offer": "Bank Offer"
     },
     {
@@ -194,9 +198,9 @@
         "color": "USB 2.0, Black",
         "stars": "4.4",
         "reviews": "(509)",
-        "new-price": "₹289",
-        "old-price": "₹899",
-        "discount": "67% off",
+        "new_price": "289",
+        "old_price": "899",
+        "discount": "67",
         "offer": "Bank Offer"
     },
     {
@@ -205,21 +209,22 @@
         "color": "USB, Black, Grey",
         "stars": "4.4",
         "reviews": "(10,027)",
-        "new-price": "₹799",
-        "old-price": "₹1,370",
-        "discount": "41% off",
-        "delivery-type": "Free delivery",
+        "new_price": "799",
+        "old_price": "137",
+        "discount": "41",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
         "image": "res/img0/-original-imagax58cyymc8jr.jpeg",
         "description": "Meetion MT-M940 Wired Optical  Gaming Mouse",
         "color": "USB 3.0, Black, Grey",
-        "new-price": "₹699",
-        "old-price": "₹1,199",
-        "discount": "41% off",
-        "delivery-type": "Free delivery",
-        "offer": "Bank Offer"
+        "new_price": "699",
+        "old_price": "1199",
+        "discount": "41",
+        "delivery_type": "Free delivery",
+        "offer": "Bank Offer",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img0/usb-wired-optical-gaming-mouse-with-6-keys-rgb-lights-life-original-imag6fyy2zpgudx3.jpeg",
@@ -227,10 +232,10 @@
         "color": "USB 2.0, Black",
         "stars": "4.4",
         "reviews": "(246)",
-        "new-price": "₹449",
-        "old-price": "₹1,299",
-        "discount": "65% off",
-        "delivery-type": "Free delivery",
+        "new_price": "449",
+        "old_price": "1299",
+        "discount": "65",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -239,10 +244,10 @@
         "color": "USB 3.0, Black",
         "stars": "4.6",
         "reviews": "(97)",
-        "new-price": "₹506",
-        "old-price": "₹1,399",
-        "discount": "63% off",
-        "delivery-type": "Free delivery",
+        "new_price": "56",
+        "old_price": "1399",
+        "discount": "63",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -251,10 +256,10 @@
         "color": "USB 2.0, Black",
         "stars": "4.7",
         "reviews": "(4,177)",
-        "new-price": "₹1,995",
-        "old-price": "₹2,895",
-        "discount": "31% off",
-        "delivery-type": "Free delivery",
+        "new_price": "1995",
+        "old_price": "2895",
+        "discount": "31",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -263,10 +268,10 @@
         "color": "USB 3.0, orang, Blue",
         "stars": "4.5",
         "reviews": "(179)",
-        "new-price": "₹549",
-        "old-price": "₹999",
-        "discount": "45% off",
-        "delivery-type": "Free delivery",
+        "new_price": "549",
+        "old_price": "999",
+        "discount": "45",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -275,10 +280,10 @@
         "color": "USB 3.0, White",
         "stars": "4.5",
         "reviews": "(2,244)",
-        "new-price": "₹1,586",
-        "old-price": "₹4,499",
-        "discount": "64% off",
-        "delivery-type": "Free delivery",
+        "new_price": "1586",
+        "old_price": "4499",
+        "discount": "64",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -287,9 +292,9 @@
         "color": "USB 3.0, Black",
         "stars": "4.5",
         "reviews": "(190)",
-        "new-price": "₹447",
-        "old-price": "₹1,199",
-        "discount": "62% off",
+        "new_price": "447",
+        "old_price": "1199",
+        "discount": "62",
         "offer": "Bank Offer"
     },
     {
@@ -298,19 +303,20 @@
         "color": "USB 2.0, Black",
         "stars": "4.3",
         "reviews": "(8,656)",
-        "new-price": "₹349",
-        "old-price": "₹499",
-        "discount": "30% off",
+        "new_price": "349",
+        "old_price": "499",
+        "discount": "30",
         "offer": "Bank Offer"
     },
     {
         "image": "res/img0/blade-hawks-rgb-wired-usb-mouse-for-computers-60g-ultra-original-image76ygmszchy6.jpeg",
         "description": "Beyond Imagine Blade Hawks RGB Wired USB Mouse for Comp...",
         "color": "USB 3.0, Black",
-        "new-price": "₹749",
-        "old-price": "₹1,599",
-        "discount": "53% off",
-        "offer": "Bank Offer"
+        "new_price": "749",
+        "old_price": "1599",
+        "discount": "53",
+        "offer": "Bank Offer",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img0/gaming-mouse-rgb-multi-colour-3200dpi-wired-silent-mice-computer-original-imag8wfyqzhpsc3t.jpeg",
@@ -318,10 +324,10 @@
         "color": "USB 2.0, back",
         "stars": "4",
         "reviews": "(21)",
-        "new-price": "₹926",
-        "old-price": "₹1,332",
-        "discount": "30% off",
-        "delivery-type": "Free delivery",
+        "new_price": "926",
+        "old_price": "1332",
+        "discount": "30",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -330,10 +336,10 @@
         "color": "USB 3.0, Black",
         "stars": "4.7",
         "reviews": "(88)",
-        "new-price": "₹600",
-        "old-price": "₹1,499",
-        "discount": "59% off",
-        "delivery-type": "Free delivery",
+        "new_price": "6",
+        "old_price": "1499",
+        "discount": "59",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -342,10 +348,10 @@
         "color": "USB 2.0, Black",
         "stars": "4.6",
         "reviews": "(478)",
-        "new-price": "₹3,995",
-        "old-price": "₹6,495",
-        "discount": "38% off",
-        "delivery-type": "Free delivery",
+        "new_price": "3995",
+        "old_price": "6495",
+        "discount": "38",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -354,10 +360,10 @@
         "color": "USB 2.0, USB 3.0, Black",
         "stars": "4.8",
         "reviews": "(5)",
-        "new-price": "₹759",
-        "old-price": "₹1,099",
-        "discount": "30% off",
-        "delivery-type": "Free delivery",
+        "new_price": "759",
+        "old_price": "199",
+        "discount": "30",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -366,9 +372,9 @@
         "color": "USB 2.0, Black",
         "stars": "4.1",
         "reviews": "(91)",
-        "new-price": "₹228",
-        "old-price": "₹229",
-        "delivery-type": "Free delivery",
+        "new_price": "228",
+        "old_price": "229",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -377,10 +383,10 @@
         "color": "USB 2.0, Black",
         "stars": "4.6",
         "reviews": "(582)",
-        "new-price": "₹2,195",
-        "old-price": "₹3,584",
-        "discount": "38% off",
-        "delivery-type": "Free delivery",
+        "new_price": "2195",
+        "old_price": "3584",
+        "discount": "38",
+        "delivery_type": "Free delivery",
         "offer": "Hot Deal"
     },
     {
@@ -389,10 +395,10 @@
         "color": "USB 2.0, Multicolor",
         "stars": "4.4",
         "reviews": "(1,078)",
-        "new-price": "₹539",
-        "old-price": "₹1,299",
-        "discount": "58% off",
-        "delivery-type": "Free delivery",
+        "new_price": "539",
+        "old_price": "1299",
+        "discount": "58",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -401,9 +407,9 @@
         "color": "2.4GHz Wireless, Red/Blue/Yellow",
         "stars": "3.9",
         "reviews": "(623)",
-        "new-price": "₹329",
-        "old-price": "₹999",
-        "discount": "67% off",
+        "new_price": "329",
+        "old_price": "999",
+        "discount": "67",
         "offer": "Bank Offer"
     },
     {
@@ -412,10 +418,10 @@
         "color": "USB 2.0, Black",
         "stars": "4.4",
         "reviews": "(610)",
-        "new-price": "₹549",
-        "old-price": "₹799",
-        "discount": "31% off",
-        "delivery-type": "Free delivery",
+        "new_price": "549",
+        "old_price": "799",
+        "discount": "31",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -424,9 +430,9 @@
         "color": "USB 2.0, Black",
         "stars": "4.4",
         "reviews": "(48)",
-        "new-price": "₹499",
-        "old-price": "₹1,299",
-        "discount": "61% off",
+        "new_price": "499",
+        "old_price": "1299",
+        "discount": "61",
         "offer": "Bank Offer"
     },
     {
@@ -435,21 +441,22 @@
         "color": "USB 2.0, Black",
         "stars": "4.2",
         "reviews": "(130)",
-        "new-price": "₹345",
-        "old-price": "₹799",
-        "discount": "56% off",
-        "delivery-type": "Free delivery",
+        "new_price": "345",
+        "old_price": "799",
+        "discount": "56",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
         "image": "res/img0/colorclick-rgb-computer-mouse-wired-usb-7-color-backlit-4-adjust-original-image6yfvypjfx2a.jpeg",
         "description": "DRUMZZ ColorClick RGB Computer Mouse Wired USB 7 Color ...",
         "color": "USB 2.0, Multicolor",
-        "new-price": "₹1,299",
-        "old-price": "₹2,499",
-        "discount": "48% off",
-        "delivery-type": "Free delivery",
-        "offer": "Bank Offer"
+        "new_price": "1299",
+        "old_price": "2499",
+        "discount": "48",
+        "delivery_type": "Free delivery",
+        "offer": "Bank Offer",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img0/mobilegear-mechanical-mouse-6-buttons-1600-dpi-video-gamer-pro-original-imagefvz75573d6r.jpeg",
@@ -457,10 +464,10 @@
         "color": "USB 2.0, Multicolor",
         "stars": "4.2",
         "reviews": "(126)",
-        "new-price": "₹397",
-        "old-price": "₹1,499",
-        "discount": "73% off",
-        "delivery-type": "Free delivery",
+        "new_price": "397",
+        "old_price": "1499",
+        "discount": "73",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -469,10 +476,10 @@
         "color": "USB 2.0, Black and Grey",
         "stars": "4.4",
         "reviews": "(1,006)",
-        "new-price": "₹449",
-        "old-price": "₹999",
-        "discount": "55% off",
-        "delivery-type": "Free delivery",
+        "new_price": "449",
+        "old_price": "999",
+        "discount": "55",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -481,9 +488,9 @@
         "color": "USB 2.0, Black",
         "stars": "4",
         "reviews": "(269)",
-        "new-price": "₹219",
-        "old-price": "₹245",
-        "discount": "10% off",
+        "new_price": "219",
+        "old_price": "245",
+        "discount": "10",
         "offer": "Bank Offer"
     },
     {
@@ -492,20 +499,21 @@
         "color": "USB 2.0, Black",
         "stars": "3.4",
         "reviews": "(37)",
-        "new-price": "₹570",
-        "old-price": "₹1,099",
-        "discount": "48% off",
-        "delivery-type": "Free delivery",
+        "new_price": "57",
+        "old_price": "199",
+        "discount": "48",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
         "image": "res/img0/gaming-mouse-wired-for-pc-and-laptops-corsor-original-imagbumrh4zt3n4e.jpeg",
         "description": "Ddice Gaming Mouse Wired For PC and Laptops Wired Optic...",
         "color": "USB 2.0, USB 3.0, Black",
-        "new-price": "₹249",
-        "old-price": "₹999",
-        "discount": "75% off",
-        "offer": "Bank Offer"
+        "new_price": "249",
+        "old_price": "999",
+        "discount": "75",
+        "offer": "Bank Offer",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img0/evofox-shadow-with-3600-dpi-gaming-sensor-6-buttons-design-and-original-imag9psgatcf2wuk.jpeg",
@@ -513,10 +521,10 @@
         "color": "USB 2.0, USB 3.0, Black",
         "stars": "4.8",
         "reviews": "(86)",
-        "new-price": "₹474",
-        "old-price": "₹799",
-        "discount": "40% off",
-        "delivery-type": "Free delivery",
+        "new_price": "474",
+        "old_price": "799",
+        "discount": "40",
+        "delivery_type": "Free delivery",
         "offer": "Lowest Price in 15 days"
     },
     {
@@ -525,10 +533,10 @@
         "color": "USB 2.0, Black",
         "stars": "4.6",
         "reviews": "(15,705)",
-        "new-price": "₹735",
-        "old-price": "₹899",
-        "discount": "18% off",
-        "delivery-type": "Free delivery",
+        "new_price": "735",
+        "old_price": "899",
+        "discount": "18",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -537,9 +545,9 @@
         "color": "USB 2.0, Black",
         "stars": "4",
         "reviews": "(4)",
-        "new-price": "₹185",
-        "old-price": "₹599",
-        "discount": "69% off",
+        "new_price": "185",
+        "old_price": "599",
+        "discount": "69",
         "offer": "Bank Offer"
     },
     {
@@ -548,9 +556,9 @@
         "color": "USB 3.0, Black",
         "stars": "4.3",
         "reviews": "(2,467)",
-        "new-price": "₹460",
-        "old-price": "₹599",
-        "discount": "23% off",
+        "new_price": "46",
+        "old_price": "599",
+        "discount": "23",
         "offer": "Hot Deal"
     },
     {
@@ -559,10 +567,10 @@
         "color": "Bluetooth, 2.4GHz Wireless, Black",
         "stars": "4.7",
         "reviews": "(13)",
-        "new-price": "₹773",
-        "old-price": "₹1,499",
-        "discount": "48% off",
-        "delivery-type": "Free delivery",
+        "new_price": "773",
+        "old_price": "1499",
+        "discount": "48",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -571,20 +579,21 @@
         "color": "USB 3.0, Black",
         "stars": "4.3",
         "reviews": "(3)",
-        "new-price": "₹3,449",
-        "old-price": "₹8,999",
-        "discount": "61% off",
-        "delivery-type": "Free delivery",
+        "new_price": "3449",
+        "old_price": "8999",
+        "discount": "61",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
         "image": "res/img0/mw200-wireless-optical-mouese-blue-astrum-original-imagebvsev84yzej.jpeg",
         "description": "ASTRUM MW200 Wireless Optical Mouese - Blue Wireless Op...",
         "color": "2.4GHz Wireless, Blue",
-        "new-price": "₹689",
-        "old-price": "₹849",
-        "discount": "18% off",
-        "offer": "Bank Offer"
+        "new_price": "689",
+        "old_price": "849",
+        "discount": "18",
+        "offer": "Bank Offer",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img0/zeb-transformer-m-zebronics-original-imagbmxjqqw624pa.jpeg",
@@ -592,9 +601,9 @@
         "color": "USB 3.0, White",
         "stars": "4.6",
         "reviews": "(48)",
-        "new-price": "₹449",
-        "old-price": "₹749",
-        "discount": "40% off",
+        "new_price": "449",
+        "old_price": "749",
+        "discount": "40",
         "offer": "Bank Offer"
     },
     {
@@ -603,10 +612,10 @@
         "color": "2.4GHz Wireless, White",
         "stars": "3.8",
         "reviews": "(42)",
-        "new-price": "₹789",
-        "old-price": "₹1,999",
-        "discount": "60% off",
-        "delivery-type": "Free delivery",
+        "new_price": "789",
+        "old_price": "1999",
+        "discount": "60",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -615,19 +624,20 @@
         "color": "USB 2.0, Black",
         "stars": "4.5",
         "reviews": "(6,576)",
-        "new-price": "₹475",
-        "old-price": "₹899",
-        "discount": "47% off",
+        "new_price": "475",
+        "old_price": "899",
+        "discount": "47",
         "offer": "Bank Offer"
     },
     {
         "image": "res/img0/mw200-wireless-optical-mouese-red-astrum-original-imagebw885fgcnjb.jpeg",
         "description": "ASTRUM MW200 Wireless Optical Mouese - RED Wireless Opt...",
         "color": "2.4GHz Wireless, Red",
-        "new-price": "₹689",
-        "old-price": "₹849",
-        "discount": "18% off",
-        "offer": "Bank Offer"
+        "new_price": "689",
+        "old_price": "849",
+        "discount": "18",
+        "offer": "Bank Offer",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img0/dragon-war-ele-g11-original-imaesctbfudvgzgm.jpeg",
@@ -635,9 +645,9 @@
         "color": "USB, Dark Blue",
         "stars": "4.3",
         "reviews": "(8,656)",
-        "new-price": "₹349",
-        "old-price": "₹499",
-        "discount": "30% off",
+        "new_price": "349",
+        "old_price": "499",
+        "discount": "30",
         "offer": "Bank Offer"
     },
     {
@@ -646,10 +656,10 @@
         "color": "2.4GHz Wireless, Bluetooth, Black",
         "stars": "3.7",
         "reviews": "(63)",
-        "new-price": "₹427",
-        "old-price": "₹786",
-        "discount": "45% off",
-        "delivery-type": "Free delivery",
+        "new_price": "427",
+        "old_price": "786",
+        "discount": "45",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -658,10 +668,10 @@
         "color": "USB 2.0, Black",
         "stars": "4.3",
         "reviews": "(78)",
-        "new-price": "₹1,090",
-        "old-price": "₹1,290",
-        "discount": "15% off",
-        "delivery-type": "Free delivery",
+        "new_price": "19",
+        "old_price": "129",
+        "discount": "15",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -670,10 +680,10 @@
         "color": "2.4GHz Wireless, Black",
         "stars": "5",
         "reviews": "(2)",
-        "new-price": "₹1,168",
-        "old-price": "₹3,999",
-        "discount": "70% off",
-        "delivery-type": "Free delivery",
+        "new_price": "1168",
+        "old_price": "3999",
+        "discount": "70",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -682,10 +692,10 @@
         "color": "USB 3.0, back",
         "stars": "4.6",
         "reviews": "(11)",
-        "new-price": "₹679",
-        "old-price": "₹1,262",
-        "discount": "46% off",
-        "delivery-type": "Free delivery",
+        "new_price": "679",
+        "old_price": "1262",
+        "discount": "46",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -694,21 +704,22 @@
         "color": "USB 2.0, Black",
         "stars": "4.6",
         "reviews": "(84)",
-        "new-price": "₹649",
-        "old-price": "₹2,099",
-        "discount": "69% off",
-        "delivery-type": "Free delivery",
+        "new_price": "649",
+        "old_price": "299",
+        "discount": "69",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
         "image": "res/img0/t-wolf-g530-wired-gaming-mouse-6400-dpi-7-button-led-with-original-imag9uguzthpndzz.jpeg",
         "description": "VIBOTON T-WOLF G530 Wired Gaming Mouse 6400 DPI , 7 But...",
         "color": "USB 2.0, Black",
-        "new-price": "₹889",
-        "old-price": "₹1,999",
-        "discount": "55% off",
-        "delivery-type": "Free delivery",
-        "offer": "Bank Offer"
+        "new_price": "889",
+        "old_price": "1999",
+        "discount": "55",
+        "delivery_type": "Free delivery",
+        "offer": "Bank Offer",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img0/techon-to-b66-original-imaft6h7z2rzjcfd.jpeg",
@@ -716,10 +727,10 @@
         "color": "USB 2.0, Black",
         "stars": "3.6",
         "reviews": "(365)",
-        "new-price": "₹199",
-        "old-price": "₹299",
-        "discount": "33% off",
-        "delivery-type": "Free delivery",
+        "new_price": "199",
+        "old_price": "299",
+        "discount": "33",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -728,18 +739,19 @@
         "color": "USB 2.0, Yellow",
         "stars": "4.1",
         "reviews": "(257)",
-        "new-price": "₹134",
-        "old-price": "₹300",
-        "discount": "55% off",
+        "new_price": "134",
+        "old_price": "3",
+        "discount": "55",
         "offer": "Bank Offer"
     },
     {
         "image": "res/img0/basilisk-v3-ergonomic-rz01-04000100-r3m1-razer-original-imag9bezeum95bbf.jpeg",
         "description": "Razer Basilisk V3 - Ergonomic RZ01-04000100-R3M1 Wired ...",
         "color": "USB 3.0, Black",
-        "new-price": "₹7,499",
-        "delivery-type": "Free delivery",
-        "offer": "Bank Offer"
+        "new_price": "7499",
+        "delivery_type": "Free delivery",
+        "offer": "Bank Offer",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img0/2-4ghz-ultra-slim-optical-wireless-mouse-compatible-with-original-imagf77fsfqcz88f.jpeg",
@@ -747,10 +759,10 @@
         "color": "USB 2.0, Black",
         "stars": "4.1",
         "reviews": "(31)",
-        "new-price": "₹398",
-        "old-price": "₹600",
-        "discount": "33% off",
-        "delivery-type": "Free delivery",
+        "new_price": "398",
+        "old_price": "6",
+        "discount": "33",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -759,10 +771,10 @@
         "color": "USB 2.0, USB 3.0, Black",
         "stars": "4.5",
         "reviews": "(208)",
-        "new-price": "₹599",
-        "old-price": "₹899",
-        "discount": "33% off",
-        "delivery-type": "Free delivery",
+        "new_price": "599",
+        "old_price": "899",
+        "discount": "33",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -771,20 +783,21 @@
         "color": "USB 2.0, Black",
         "stars": "4.6",
         "reviews": "(47)",
-        "new-price": "₹3,599",
-        "old-price": "₹6,999",
-        "discount": "48% off",
-        "delivery-type": "Free delivery",
+        "new_price": "3599",
+        "old_price": "6999",
+        "discount": "48",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
         "image": "res/img0/imicex7-gaming-mouse-7-buttons-rgb-light-sports-design-for-original-imagchfmbzjkphhk.jpeg",
         "description": "ENTWINO iMiceX7 Gaming Mouse 7 Buttons RGB Light Sports...",
         "color": "USB 2.0, USB 3.0, Black",
-        "new-price": "₹449",
-        "old-price": "₹1,690",
-        "discount": "73% off",
-        "offer": "Bank Offer"
+        "new_price": "449",
+        "old_price": "169",
+        "discount": "73",
+        "offer": "Bank Offer",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img0/zeb-reaper-pro-zebronics-original-imag5n4gs8hhdgcz.jpeg",
@@ -792,10 +805,10 @@
         "color": "2.4GHz Wireless, USB 2.0, Black",
         "stars": "4",
         "reviews": "(6)",
-        "new-price": "₹2,505",
-        "old-price": "₹5,199",
-        "discount": "51% off",
-        "delivery-type": "Free delivery",
+        "new_price": "255",
+        "old_price": "5199",
+        "discount": "51",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -804,10 +817,10 @@
         "color": "USB 2.0, Black",
         "stars": "3.9",
         "reviews": "(171)",
-        "new-price": "₹220",
-        "old-price": "₹249",
-        "discount": "11% off",
-        "delivery-type": "Free delivery",
+        "new_price": "22",
+        "old_price": "249",
+        "discount": "11",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -816,10 +829,10 @@
         "color": "2.4GHz Wireless, Black",
         "stars": "4.5",
         "reviews": "(86)",
-        "new-price": "₹2,999",
-        "old-price": "₹5,499",
-        "discount": "45% off",
-        "delivery-type": "Free delivery",
+        "new_price": "2999",
+        "old_price": "5499",
+        "discount": "45",
+        "delivery_type": "Free delivery",
         "offer": "Lowest price since launch"
     },
     {
@@ -828,10 +841,10 @@
         "color": "USB 2.0, Black",
         "stars": "4.7",
         "reviews": "(218)",
-        "new-price": "₹1,599",
-        "old-price": "₹2,500",
-        "discount": "36% off",
-        "delivery-type": "Free delivery",
+        "new_price": "1599",
+        "old_price": "25",
+        "discount": "36",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -840,21 +853,22 @@
         "color": "USB 3.0, Black",
         "stars": "4.4",
         "reviews": "(19)",
-        "new-price": "₹1,639",
-        "old-price": "₹2,999",
-        "discount": "45% off",
-        "delivery-type": "Free delivery",
+        "new_price": "1639",
+        "old_price": "2999",
+        "discount": "45",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
         "image": "res/img0/aw950-rgb-gaming-mouse-singhtech-original-image83aqggfzqgc.jpeg",
         "description": "SINGHTECH AW950 RGB GAMING MOUSE Wired Optical  Gaming ...",
         "color": "USB 2.0, BLACK /RGB",
-        "new-price": "₹349",
-        "old-price": "₹499",
-        "discount": "30% off",
-        "delivery-type": "Free delivery",
-        "offer": "Bank Offer"
+        "new_price": "349",
+        "old_price": "499",
+        "discount": "30",
+        "delivery_type": "Free delivery",
+        "offer": "Bank Offer",
+        "hidden_stars": "4.5"
     },
     {
         "image": "res/img0/pulsefire-haste-hyper-x-original-imag7es2gn5f7axw.jpeg",
@@ -862,20 +876,21 @@
         "color": "USB 2.0, Black",
         "stars": "4.7",
         "reviews": "(3)",
-        "new-price": "₹3,890",
-        "old-price": "₹4,890",
-        "discount": "20% off",
-        "delivery-type": "Free delivery",
+        "new_price": "389",
+        "old_price": "489",
+        "discount": "20",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
         "image": "res/img0/imicex5-gaming-mouse-6-buttons-rgb-lights-laptop-computer-mouse-original-imagche65tt2rthz.jpeg",
         "description": "ENTWINO iMiceX5 Gaming Mouse, 6 Buttons, RGB Lights, La...",
         "color": "USB 2.0, USB 3.0, Black",
-        "new-price": "₹449",
-        "old-price": "₹1,495",
-        "discount": "69% off",
-        "offer": "Bank Offer"
+        "new_price": "449",
+        "old_price": "1495",
+        "discount": "69",
+        "offer": "Bank Offer",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img0/edust-6d-optical-wireless-gaming-mouse-2-4g-usb-interface-original-imafwsgetvgqhf4r.jpeg",
@@ -883,10 +898,10 @@
         "color": "Bluetooth, 2.4GHz Wireless, Black",
         "stars": "4",
         "reviews": "(96)",
-        "new-price": "₹474",
-        "old-price": "₹786",
-        "discount": "39% off",
-        "delivery-type": "Free delivery",
+        "new_price": "474",
+        "old_price": "786",
+        "discount": "39",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -895,10 +910,10 @@
         "color": "USB 2.0, Black",
         "stars": "4.2",
         "reviews": "(225)",
-        "new-price": "₹379",
-        "old-price": "₹999",
-        "discount": "62% off",
-        "delivery-type": "Free delivery",
+        "new_price": "379",
+        "old_price": "999",
+        "discount": "62",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     }
 ]

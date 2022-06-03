@@ -3,707 +3,787 @@
         "image": "res/img3/slider-wallet-22-casuel-wallet-samtroh-original-imafc9qfj8kngbnv.jpeg",
         "brand": "SAMTROH",
         "description": "Men Casual Black Artificial Leather Wallet - Regular Si...",
-        "new-price": "₹197",
-        "old-price": "₹999",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "197",
+        "old_price": "999",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img3/slidegift1256brown-wildhorn-original-imafukrkwxnzqrs8.jpeg",
         "description": "WILDHORN Wallet & Belt Combo",
-        "new-price": "₹999",
-        "old-price": "₹2,199",
-        "discount": "54% off",
-        "delivery-type": "Free delivery"
+        "new_price": "999",
+        "old_price": "2199",
+        "discount": "54",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img3/sam-17-brw-pln-alb-samtroh-original-imafgf56fvf6aybb.jpeg",
         "brand": "SAMTROH",
         "description": "Men Casual Brown Artificial Leather Money Clip - Mini",
-        "new-price": "₹219",
-        "old-price": "₹999",
-        "discount": "78% off",
-        "delivery-type": "Free delivery"
+        "new_price": "219",
+        "old_price": "999",
+        "discount": "78",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img3/sld01-samtroh-beige-slide-original-imafdg9ymwdzfwea.jpeg",
         "brand": "SAMTROH",
         "description": "Men Casual Beige Artificial Leather Wallet - Regular Si...",
-        "new-price": "₹219",
-        "old-price": "₹999",
-        "discount": "78% off",
-        "delivery-type": "Free delivery"
+        "new_price": "219",
+        "old_price": "999",
+        "discount": "78",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img3/sam-17-brw-pln-alb-samtroh-original-imafgf56fvf6aybb.jpeg",
         "brand": "SAMTROH",
         "description": "Men Casual Brown Artificial Leather Money Clip - Mini",
-        "new-price": "₹219",
-        "old-price": "₹999",
-        "discount": "78% off",
-        "delivery-type": "Free delivery"
+        "new_price": "219",
+        "old_price": "999",
+        "discount": "78",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img3/sld04-samtroh-tan-slide-original-imafc2y9hyk7gt4x.jpeg",
         "brand": "SAMTROH",
         "description": "Men Tan Artificial Leather Money Clip - Mini",
-        "new-price": "₹219",
-        "old-price": "₹628",
-        "discount": "65% off",
-        "delivery-type": "Free delivery"
+        "new_price": "219",
+        "old_price": "628",
+        "discount": "65",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.5"
     },
     {
         "image": "res/img3/genuine-leather-card-wallets-dcswal089-wallet-dezire-crafts-original-imagf75zcwhzfrdy.jpeg",
         "brand": "DEZiRE CRAfTS",
         "description": "Men Formal, Casual Green Artificial Leather Wallet - Re...",
-        "new-price": "₹276",
-        "old-price": "₹1,199",
-        "discount": "76% off",
-        "delivery-type": "Free delivery"
+        "new_price": "276",
+        "old_price": "1199",
+        "discount": "76",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img3/protected-100-genuine-high-quality-mens-crunch-leather-wallet-original-imafzsxt57bzzegu.jpeg",
         "brand": "napa hide",
         "description": "Men Tan Genuine Leather RFID  Wallet - Regular Size",
-        "new-price": "₹399",
-        "old-price": "₹1,499",
-        "discount": "73% off",
-        "delivery-type": "Free delivery"
+        "new_price": "399",
+        "old_price": "1499",
+        "discount": "73",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img3/patti-classic-wallet-wildedge-original-imafbbezksbwtfsr.jpeg",
         "brand": "Wildedge",
         "description": "Men Casual Black Artificial Leather Wallet - Regular Si...",
-        "new-price": "₹229",
-        "old-price": "₹999",
-        "discount": "77% off",
-        "delivery-type": "Free delivery"
+        "new_price": "229",
+        "old_price": "999",
+        "discount": "77",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img3/tan-album-casual-wallet-wild-edge-original-imafez3fgnavh83f.jpeg",
         "brand": "SAMTROH",
         "description": "Men Casual Tan Artificial Leather Money Clip - Mini",
-        "new-price": "₹197",
-        "old-price": "₹999",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "197",
+        "old_price": "999",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img3/doger-4-5-1-rg170gr-10-wallet-rigohill-3-5-original-imaganfuyqjz6zzn.jpeg",
         "brand": "Rigohill",
         "description": "Men Green Genuine Leather Wallet",
-        "new-price": "₹499",
-        "old-price": "₹2,499",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "499",
+        "old_price": "2499",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.5"
     },
     {
         "image": "res/img3/brown-three-fold-wallet-brw3f-brw-wallet-samtroh-original-imafzkzqhqp3zyfu.jpeg",
         "brand": "SAMTROH",
         "description": "Men Brown Artificial Leather Wallet - Mini",
-        "new-price": "₹206",
-        "old-price": "₹599",
-        "discount": "65% off",
-        "delivery-type": "Free delivery"
+        "new_price": "26",
+        "old_price": "599",
+        "discount": "65",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img3/sty-born-1o7-loopa-original-imafzxuychsstdaj.jpeg",
         "description": "LOOPA Wallet & Belt Combo",
-        "new-price": "₹211",
-        "old-price": "₹999",
-        "discount": "78% off",
-        "delivery-type": "Free delivery"
+        "new_price": "211",
+        "old_price": "999",
+        "discount": "78",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img3/chain-album-beige-casuel-wallet-samtroh-original-imafg8y9zyezfqhg.jpeg",
         "brand": "SAMTROH",
         "description": "Men Tan Artificial Leather Wallet - Mini",
-        "new-price": "₹197",
-        "old-price": "₹999",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "197",
+        "old_price": "999",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img3/at508-at508-wallet-highlark-original-imag2hrbxn9htans.jpeg",
         "brand": "Highlark",
         "description": "Men Trendy Tan Artificial Leather Wallet - Regular Size",
-        "new-price": "₹219",
-        "old-price": "₹999",
-        "discount": "78% off",
-        "delivery-type": "Free delivery"
+        "new_price": "219",
+        "old_price": "999",
+        "discount": "78",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.5"
     },
     {
         "image": "res/img3/rakhi-pwk-1173-blu-huntr-wildhorn-original-imag4r8qmgmyfqfv.jpeg",
         "description": "WILDHORN Wallet & Belt Combo",
-        "new-price": "₹650",
-        "old-price": "₹1,999",
-        "discount": "67% off",
-        "delivery-type": "Free delivery"
+        "new_price": "65",
+        "old_price": "1999",
+        "discount": "67",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.5"
     },
     {
         "image": "res/img3/sam-beige-gittak-samtroh-beige-gittak-original-imafdgadjm9zb7js.jpeg",
         "brand": "SAMTROH",
         "description": "Men Casual Beige Artificial Leather Wallet - Regular Si...",
-        "new-price": "₹197",
-        "old-price": "₹999",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "197",
+        "old_price": "999",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img3/sld04-samtroh-tan-slide-original-imafc2y9hyk7gt4x.jpeg",
         "brand": "SAMTROH",
         "description": "Men Tan Artificial Leather Wallet - Regular Size",
-        "new-price": "₹197",
-        "old-price": "₹999",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "197",
+        "old_price": "999",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img3/album-wallet-casuel-wallet-samtroh-original-imaf8ktumzz6bhsj.jpeg",
         "brand": "SAMTROH",
         "description": "Men Casual, Trendy Tan Artificial Leather Wallet - Mini",
-        "new-price": "₹219",
-        "old-price": "₹999",
-        "discount": "78% off",
-        "delivery-type": "Free delivery"
+        "new_price": "219",
+        "old_price": "999",
+        "discount": "78",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img3/brown-casual-wallet-samtroh-original-imafeqn8bzyhsqrb.jpeg",
         "brand": "SAMTROH",
         "description": "Men Brown Artificial Leather Wallet - Mini",
-        "new-price": "₹206",
-        "old-price": "₹999",
-        "discount": "79% off",
-        "delivery-type": "Free delivery"
+        "new_price": "26",
+        "old_price": "999",
+        "discount": "79",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img3/combo-of-2-silver-stainless-steel-blue-leather-debit-credit-card-original-imafk59smtvwzkkh.jpeg",
         "description": "StealODeal Protected Slim Stainless Steel Debit/Credit ...",
-        "new-price": "₹219",
-        "old-price": "₹499",
-        "discount": "56% off",
-        "delivery-type": "Free delivery"
+        "new_price": "219",
+        "old_price": "499",
+        "discount": "56",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img3/beige-atm-formal-wallet-wildedge-original-imafyyq7zzmtbvu9.jpeg",
         "brand": "Wildedge",
         "description": "Men Casual Beige Artificial Leather Wallet - Regular Si...",
-        "new-price": "₹229",
-        "old-price": "₹999",
-        "discount": "77% off",
-        "delivery-type": "Free delivery"
+        "new_price": "229",
+        "old_price": "999",
+        "discount": "77",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img3/black-contener-casual-wallet-samtroh-original-imaf3a4yhrcrhbct.jpeg",
         "brand": "SAMTROH",
         "description": "Men Formal Black Artificial Leather Wallet - Mini",
-        "new-price": "₹197",
-        "old-price": "₹999",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "197",
+        "old_price": "999",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img3/fuzi001-solid-wallet-wild-edge-original-imafy7ryuhq4ajyy.jpeg",
         "brand": "WILD EDGE",
         "description": "Men Green Artificial Leather Wallet - Regular Size",
-        "new-price": "₹239",
-        "old-price": "₹999",
-        "discount": "76% off",
-        "delivery-type": "Free delivery"
+        "new_price": "239",
+        "old_price": "999",
+        "discount": "76",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img3/combo-of-2-black-stainless-steel-pink-leather-debit-credit-card-original-imafk59skkcygrq8.jpeg",
         "description": "StealODeal Protected Black Slim Stainless Steel Debit/C...",
-        "new-price": "₹249",
-        "old-price": "₹499",
-        "discount": "50% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "499",
+        "discount": "50",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img3/rfid-protected-100-genuine-high-quality-mens-leather-wallet-original-imafx6pf5ggtuz4e.jpeg",
         "brand": "WILDHORN",
         "description": "Men Brown Genuine Leather RFID  Wallet - Regular Size",
-        "new-price": "₹540",
-        "old-price": "₹1,999",
-        "discount": "72% off",
-        "delivery-type": "Free delivery"
+        "new_price": "54",
+        "old_price": "1999",
+        "discount": "72",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img3/spw-4060-brown-spw-4060-brown-wallet-piraso-original-imafy8qnbwhgc3ad.jpeg",
         "brand": "PIRASO",
         "description": "Men Brown Artificial Leather Wallet - Mini",
-        "new-price": "₹251",
-        "old-price": "₹1,599",
-        "discount": "84% off",
-        "delivery-type": "Free delivery"
+        "new_price": "251",
+        "old_price": "1599",
+        "discount": "84",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img3/albbrw2-all-type-wallet-wild-edge-original-imafxztuf8qw57mn.jpeg",
         "brand": "WILD EDGE",
         "description": "Men Brown Artificial Leather Money Clip - Regular Size",
-        "new-price": "₹229",
-        "old-price": "₹999",
-        "discount": "77% off",
-        "delivery-type": "Free delivery"
+        "new_price": "229",
+        "old_price": "999",
+        "discount": "77",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img3/oliver-ubf130rew1017-wallet-urban-forest-original-imafpcq5ee6dvrjb.jpeg",
         "brand": "URBAN FOREST",
         "description": "Men Tan Genuine Leather Wallet - Mini",
-        "new-price": "₹569",
-        "old-price": "₹2,000",
-        "discount": "71% off",
-        "delivery-type": "Free delivery"
+        "new_price": "569",
+        "old_price": "2",
+        "discount": "71",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img3/sam-10-blk-pln-alb-samtroh-original-imaffzxwdxry3awg.jpeg",
         "brand": "SAMTROH",
         "description": "Men Formal Black Artificial Leather Money Clip - Mini",
-        "new-price": "₹219",
-        "old-price": "₹999",
-        "discount": "78% off",
-        "delivery-type": "Free delivery"
+        "new_price": "219",
+        "old_price": "999",
+        "discount": "78",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img3/oliver-ubf130blu1017-wallet-urban-forest-original-imagfz73dfm3wbmj.jpeg",
         "brand": "URBAN FOREST",
         "description": "Men Blue Genuine Leather Wallet - Mini",
-        "new-price": "₹569",
-        "old-price": "₹2,000",
-        "discount": "71% off",
-        "delivery-type": "Free delivery"
+        "new_price": "569",
+        "old_price": "2",
+        "discount": "71",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img3/wildhorn-men-black-genuine-leather-wallet-combo-giftbox178-original-imag4abb9gysgpgu.jpeg",
         "brand": "WILDHORN",
         "description": "Men Black Genuine Leather Wallet - Mini",
-        "new-price": "₹499",
-        "old-price": "₹1,999",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "499",
+        "old_price": "1999",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img3/black-casual-wallet-samtroh-original-imaf9v3ynza36vuh.jpeg",
         "brand": "SAMTROH",
         "description": "Men Casual Black Artificial Leather Wallet - Mini",
-        "new-price": "₹197",
-        "old-price": "₹999",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "197",
+        "old_price": "999",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img3/silver-steel-aluma-card-holder-stealodeal-original-imafvt9jjhzzwrkz.jpeg",
         "description": "StealODeal Stainless Steel Front Pocket Business Credit...",
-        "new-price": "₹219",
-        "old-price": "₹499",
-        "discount": "56% off",
-        "delivery-type": "Free delivery"
+        "new_price": "219",
+        "old_price": "499",
+        "discount": "56",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img3/protected-slim-blue-stainless-steel-debit-credit-card-holder-original-imafk59shkzpxjhz.jpeg",
         "description": "StealODeal Protected Slim Blue Stainless Steel Debit/Cr...",
-        "new-price": "₹249",
-        "old-price": "₹499",
-        "discount": "50% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "499",
+        "discount": "50",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img3/wildhorn-men-blue-genuine-leather-wallet-combo-giftbox183-wallet-original-imaeuhmahsga4chq.jpeg",
         "brand": "WILDHORN",
         "description": "Men Blue Genuine Leather Wallet - Mini",
-        "new-price": "₹499",
-        "old-price": "₹1,999",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "499",
+        "old_price": "1999",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.5"
     },
     {
         "image": "res/img3/button-brown-card-atm-holder-02-dr-rg-02-card-holder-rage-gaze-original-imag774uvgmsfxsn.jpeg",
         "brand": "RAGE GAZE",
         "description": "Men & Women Brown Artificial Leather Card Holder - Mini",
-        "new-price": "₹209",
-        "old-price": "₹999",
-        "discount": "79% off",
-        "delivery-type": "Free delivery"
+        "new_price": "29",
+        "old_price": "999",
+        "discount": "79",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img3/mdl-siddle-2-sty-siddle-2-wallet-sunshopping-original-imagyegqrey5ebqm.jpeg",
         "brand": "SunShopping",
         "description": "Men Tan Artificial Leather Wallet - Mini",
-        "new-price": "₹140",
-        "old-price": "₹499",
-        "discount": "71% off"
+        "new_price": "14",
+        "old_price": "499",
+        "discount": "71",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img3/wildhorn-men-black-genuine-leather-wallet-combo-giftbox178-original-imag4abb9gysgpgu.jpeg",
         "brand": "WILDHORN",
         "description": "Men Formal Black Genuine Leather Wallet - Mini",
-        "new-price": "₹499",
-        "old-price": "₹1,999",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "499",
+        "old_price": "1999",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img3/new-high-quality-genuine-men-s-leather-wallet-12-1-wh2055-5-original-imag68hpn7dpzvca.jpeg",
         "brand": "WILDHORN",
         "description": "Men Casual Brown Genuine Leather Wallet - Mini",
-        "new-price": "₹399",
-        "old-price": "₹1,999",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "399",
+        "old_price": "1999",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img3/cp01-samtroh-green-cp-original-imafc3vzfgmu3mar.jpeg",
         "brand": "SAMTROH",
         "description": "Men Casual Green Artificial Leather Wallet - Mini",
-        "new-price": "₹197",
-        "old-price": "₹999",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "197",
+        "old_price": "999",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img3/beige-chain-album-casuel-wallet-wildedge-original-imafg7sdgfcffamv.jpeg",
         "brand": "Wildedge",
         "description": "Men Tan Artificial Leather Wallet - Mini",
-        "new-price": "₹229",
-        "old-price": "₹999",
-        "discount": "77% off",
-        "delivery-type": "Free delivery"
+        "new_price": "229",
+        "old_price": "999",
+        "discount": "77",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img3/gw-gw120-brown-53-gw-gw120-brown-53-wallet-keviv-original-imafzwmdy6cjxpzf.jpeg",
         "brand": "Keviv",
         "description": "Men Casual Brown Genuine Leather Wallet - Mini",
-        "new-price": "₹261",
-        "old-price": "₹1,499",
-        "discount": "82% off",
-        "delivery-type": "Free delivery"
+        "new_price": "261",
+        "old_price": "1499",
+        "discount": "82",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img3/rfid-protected-100-genuine-high-quality-mens-brown-leather-original-imafx6p2awnkjyzg.jpeg",
         "brand": "napa hide",
         "description": "Men Black Genuine Leather Wallet - Regular Size",
-        "new-price": "₹399",
-        "old-price": "₹1,499",
-        "discount": "73% off",
-        "delivery-type": "Free delivery"
+        "new_price": "399",
+        "old_price": "1499",
+        "discount": "73",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img3/black-pocket-fit-wallet-casual-stylish-wallet-wallet-wildedge-original-imafbzgagvhv8kpx.jpeg",
         "brand": "Wildedge",
         "description": "Men Black Artificial Leather Wallet - Mini",
-        "new-price": "₹239",
-        "old-price": "₹999",
-        "discount": "76% off",
-        "delivery-type": "Free delivery"
+        "new_price": "239",
+        "old_price": "999",
+        "discount": "76",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img3/hand-crafted-elegant-superior-quality-genuine-leather-wallet-for-original-imaf9ga6vdhh8jmv.jpeg",
         "brand": "FAWNLINK",
         "description": "Men Brown Genuine Leather RFID  Wallet - Mini",
-        "new-price": "₹297",
-        "old-price": "₹2,230",
-        "discount": "86% off",
-        "delivery-type": "Free delivery"
+        "new_price": "297",
+        "old_price": "223",
+        "discount": "86",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img3/coin-zip-closer-album-caw-wallet-walletin-original-imaffzxkph5zss5z.jpeg",
         "brand": "Wildedge",
         "description": "Men Beige Artificial Leather Wallet - Mini",
-        "new-price": "₹229",
-        "old-price": "₹999",
-        "discount": "77% off",
-        "delivery-type": "Free delivery"
+        "new_price": "229",
+        "old_price": "999",
+        "discount": "77",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img3/rakhi-pwk-1173-blk-wildhorn-original-imag4r8qtgznewtr.jpeg",
         "description": "WILDHORN Wallet & Belt Combo",
-        "new-price": "₹699",
-        "old-price": "₹1,999",
-        "discount": "65% off",
-        "delivery-type": "Free delivery"
+        "new_price": "699",
+        "old_price": "1999",
+        "discount": "65",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img3/rfid-protected-bifold-antitheft-wallet-tw250lm1bk-wallet-titan-original-imafvv7hz3myc9zg.jpeg",
         "brand": "Titan",
         "description": "Men Black Genuine Leather RFID  Wallet - Mini",
-        "new-price": "₹539",
-        "old-price": "₹1,599",
-        "discount": "66% off",
-        "delivery-type": "Free delivery"
+        "new_price": "539",
+        "old_price": "1599",
+        "discount": "66",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img3/album1-solid-wallet-wildedge-original-imafmghevmgggxnd.jpeg",
         "brand": "WILD EDGE",
         "description": "Men Casual Brown Artificial Leather Wallet - Mini",
-        "new-price": "₹229",
-        "old-price": "₹999",
-        "discount": "77% off",
-        "delivery-type": "Free delivery"
+        "new_price": "229",
+        "old_price": "999",
+        "discount": "77",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img3/premium-black-eight-slot-rfid-blocking-credit-debit-card-holder-original-imag4z3s5kuracqa.jpeg",
         "description": "Flipkart SmartBuy New Black 8 Slot RFID Blocking Credit...",
-        "new-price": "₹299",
-        "old-price": "₹499",
-        "discount": "40% off",
-        "delivery-type": "Free delivery"
+        "new_price": "299",
+        "old_price": "499",
+        "discount": "40",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img3/tan-casual-wallet-samtroh-original-imafeqnbzd5ybczh.jpeg",
         "brand": "SAMTROH",
         "description": "Men Formal Black Artificial Leather Wallet - Mini",
-        "new-price": "₹197",
-        "old-price": "₹999",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "197",
+        "old_price": "999",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img3/sty-born-1o6-loopa-original-imafzxuwdgyytqbz.jpeg",
         "description": "LOOPA Wallet & Belt Combo",
-        "new-price": "₹211",
-        "old-price": "₹999",
-        "discount": "78% off",
-        "delivery-type": "Free delivery"
+        "new_price": "211",
+        "old_price": "999",
+        "discount": "78",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img3/classic-premium-quality-zip-genuine-leather-wallets-les015-original-imafhfmycqgmdhgt.jpeg",
         "brand": "DEZiRE CRAfTS",
         "description": "Men Formal, Casual Tan Artificial Leather Wallet - Regu...",
-        "new-price": "₹272",
-        "old-price": "₹1,299",
-        "discount": "79% off",
-        "delivery-type": "Free delivery"
+        "new_price": "272",
+        "old_price": "1299",
+        "discount": "79",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img3/toronto-1004-wallet-urban-forest-original-imafpucfhcsck3b3.jpeg",
         "brand": "URBAN FOREST",
         "description": "Men Casual, Formal Maroon Genuine Leather Wallet - Regu...",
-        "new-price": "₹521",
-        "old-price": "₹2,000",
-        "discount": "73% off",
-        "delivery-type": "Free delivery"
+        "new_price": "521",
+        "old_price": "2",
+        "discount": "73",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img3/bw9295-hornbull-original-imafgffbkhu8azuz.jpeg",
         "description": "Hornbull Wallet & Belt Combo",
-        "new-price": "₹899",
-        "old-price": "₹3,299",
-        "discount": "72% off",
-        "delivery-type": "Free delivery"
+        "new_price": "899",
+        "old_price": "3299",
+        "discount": "72",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img3/sam-25-crm-r-zip-samtroh-original-imafgf5nxhhuyexj.jpeg",
         "brand": "Wildedge",
         "description": "Men Casual Beige Artificial Leather Wallet - Mini",
-        "new-price": "₹239",
-        "old-price": "₹999",
-        "discount": "76% off",
-        "delivery-type": "Free delivery"
+        "new_price": "239",
+        "old_price": "999",
+        "discount": "76",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img3/wzkaanblack-01-wzbk01-wallet-wenzest-original-imafbkdhg8eppshy.jpeg",
         "brand": "WENZEST",
         "description": "Men Tan Artificial Leather Wallet - Mini",
-        "new-price": "₹219",
-        "old-price": "₹699",
-        "discount": "68% off",
-        "delivery-type": "Free delivery"
+        "new_price": "219",
+        "old_price": "699",
+        "discount": "68",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img3/albbrw2-all-type-wallet-wild-edge-original-imafxztuf8qw57mn.jpeg",
         "brand": "WILD EDGE",
         "description": "Men Brown Artificial Leather Money Clip - Regular Size",
-        "new-price": "₹229",
-        "old-price": "₹999",
-        "discount": "77% off",
-        "delivery-type": "Free delivery"
+        "new_price": "229",
+        "old_price": "999",
+        "discount": "77",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img3/sld04-samtroh-tan-slide-original-imafc2y9hyk7gt4x.jpeg",
         "brand": "SAMTROH",
         "description": "Men Tan Artificial Leather Money Clip - Mini",
-        "new-price": "₹219",
-        "old-price": "₹628",
-        "discount": "65% off",
-        "delivery-type": "Free delivery"
+        "new_price": "219",
+        "old_price": "628",
+        "discount": "65",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img3/sam-17-brw-pln-alb-samtroh-original-imafgf56fvf6aybb.jpeg",
         "brand": "WILD EDGE",
         "description": "Men Brown Artificial Leather Money Clip - Mini",
-        "new-price": "₹229",
-        "old-price": "₹999",
-        "discount": "77% off",
-        "delivery-type": "Free delivery"
+        "new_price": "229",
+        "old_price": "999",
+        "discount": "77",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img3/kwrf15026-rfid-protected-kwrf15026-rfid-protected-wallet-original-imafzfhgru6genfx.jpeg",
         "brand": "Krosshorn",
         "description": "Men Casual Brown Artificial Leather RFID  Wallet - Regu...",
-        "new-price": "₹299",
-        "old-price": "₹1,099",
-        "discount": "72% off",
-        "delivery-type": "Free delivery"
+        "new_price": "299",
+        "old_price": "199",
+        "discount": "72",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img3/casual-tan-artificial-leather-wallet-8-card-slots-ts-1-wallet-original-imafw3f8fzfaxesf.jpeg",
         "brand": "The shot",
         "description": "Men Tan Artificial Leather Wallet - Mini",
-        "new-price": "₹198",
-        "old-price": "₹998",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "198",
+        "old_price": "998",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img3/genuine-leather-card-wallets-dcswal089-wallet-dezire-crafts-original-imagf75zcwhzfrdy.jpeg",
         "brand": "DEZiRE CRAfTS",
         "description": "Men Formal, Casual Green Artificial Leather Wallet - Re...",
-        "new-price": "₹276",
-        "old-price": "₹1,199",
-        "discount": "76% off",
-        "delivery-type": "Free delivery"
+        "new_price": "276",
+        "old_price": "1199",
+        "discount": "76",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.5"
     },
     {
         "image": "res/img3/dc-branded-classic-hidelink01-quality-genuine-leather-wallet-original-imagfjdx2sygffkq.jpeg",
         "brand": "DEZiRE CRAfTS",
         "description": "Men Formal, Casual Black Artificial Leather Wallet - Re...",
-        "new-price": "₹225",
-        "old-price": "₹1,199",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "225",
+        "old_price": "1199",
+        "discount": "81",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img3/mah-m-w-t-al-12-12-1-tan-pkt-12-3-card-holder-mahboob-9-original-imag69uefuap3brv.jpeg",
         "brand": "GULLAK",
         "description": "Men Casual Tan Artificial Leather Wallet - Regular Size",
-        "new-price": "₹130",
-        "old-price": "₹999",
-        "discount": "86% off"
+        "new_price": "13",
+        "old_price": "999",
+        "discount": "86",
+        "hidden_stars": "4.5"
     },
     {
         "image": "res/img3/tanonblklevii-casual-wallet-wildedge-original-imafy6hdkfzymsc4.jpeg",
         "brand": "Wildedge",
         "description": "Men Casual Black Artificial Leather Wallet - Mini",
-        "new-price": "₹229",
-        "old-price": "₹999",
-        "discount": "77% off",
-        "delivery-type": "Free delivery"
+        "new_price": "229",
+        "old_price": "999",
+        "discount": "77",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img3/stylish-all-type-money-clip-wild-edge-original-imaf569uvbv7y4xm.jpeg",
         "brand": "WILD EDGE",
         "description": "Boys Casual Black, Tan Artificial Leather Money Clip - ...",
-        "new-price": "₹229",
-        "old-price": "₹999",
-        "discount": "77% off",
-        "delivery-type": "Free delivery"
+        "new_price": "229",
+        "old_price": "999",
+        "discount": "77",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img3/zeus-ubf108brn1041-wallet-urban-forest-original-imafygf3zbdtczza.jpeg",
         "brand": "URBAN FOREST",
         "description": "Men Brown Genuine Leather RFID  Wallet - Regular Size",
-        "new-price": "₹616",
-        "old-price": "₹2,000",
-        "discount": "69% off",
-        "delivery-type": "Free delivery"
+        "new_price": "616",
+        "old_price": "2",
+        "discount": "69",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img3/wal-m-w-a-t-95-black-album-zip-95-wallet-walleto-original-imafzvt2hnmtx3hj.jpeg",
         "brand": "Mahboob",
         "description": "Men Casual Black Artificial Leather Card Holder - Regul...",
-        "new-price": "₹242",
-        "old-price": "₹1,050",
-        "discount": "76% off",
-        "delivery-type": "Free delivery"
+        "new_price": "242",
+        "old_price": "15",
+        "discount": "76",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img3/mdl-sid-2-sak-sid-2-wallet-sunshopping-original-imafn8z3yxgnjzka.jpeg",
         "brand": "LOOPA",
         "description": "Men Tan Artificial Leather Wallet - Regular Size",
-        "new-price": "₹170",
-        "old-price": "₹399",
-        "discount": "57% off",
-        "delivery-type": "Free delivery"
+        "new_price": "17",
+        "old_price": "399",
+        "discount": "57",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img3/fz-cp-brown-latest-stylish-wallet-for-men-wallet-ilw-original-imagdzcebnfdbzsp.jpeg",
         "brand": "ilw",
         "description": "Boys Casual Brown Artificial Leather Wallet",
-        "new-price": "₹211",
-        "old-price": "₹1,299",
-        "discount": "83% off",
-        "delivery-type": "Free delivery"
+        "new_price": "211",
+        "old_price": "1299",
+        "discount": "83",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img3/mdl-sid-2-tan-sty-sid-2-tan-wallet-loopa-original-imafzypqdf6gzgwm.jpeg",
         "brand": "LOOPA",
         "description": "Men Tan Artificial Leather Wallet - Regular Size",
-        "new-price": "₹179",
-        "old-price": "₹599",
-        "discount": "70% off",
-        "delivery-type": "Free delivery"
+        "new_price": "179",
+        "old_price": "599",
+        "discount": "70",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img3/oliver-ubf130blk1017-wallet-urban-forest-original-imafzg4xuvgpntdu.jpeg",
         "brand": "URBAN FOREST",
         "description": "Men Black Genuine Leather RFID  Wallet - Mini",
-        "new-price": "₹569",
-        "old-price": "₹2,000",
-        "discount": "71% off",
-        "delivery-type": "Free delivery"
+        "new_price": "569",
+        "old_price": "2",
+        "discount": "71",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img3/wl08-lr-wl08-wallet-jay-ramdev-creation-original-imafhcmfgqtrxa6h.jpeg",
         "brand": "LOREM",
         "description": "Men Casual Black Artificial Leather Wallet - Mini",
-        "new-price": "₹259",
-        "old-price": "₹999",
-        "discount": "74% off",
-        "delivery-type": "Free delivery"
+        "new_price": "259",
+        "old_price": "999",
+        "discount": "74",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img3/rfid-protected-100-genuine-high-quality-mens-blue-hunter-leather-original-imafzxmsr9zg45vk.jpeg",
         "brand": "napa hide",
         "description": "Men Blue Genuine Leather Wallet - Regular Size",
-        "new-price": "₹499",
-        "old-price": "₹1,499",
-        "discount": "66% off",
-        "delivery-type": "Free delivery"
+        "new_price": "499",
+        "old_price": "1499",
+        "discount": "66",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img3/coahwaln42-coahwaln42-brown-wallet-contacts-original-imafmtz9mzuz5rwt.jpeg",
         "brand": "CONTACTS",
         "description": "Men Casual Brown Genuine Leather Wallet - Regular Size",
-        "new-price": "₹996",
-        "old-price": "₹2,499",
-        "discount": "60% off",
-        "delivery-type": "Free delivery"
+        "new_price": "996",
+        "old_price": "2499",
+        "discount": "60",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img3/mag-m-w-a-t-77-tan-flip-id-77-card-holder-magic-original-imafyzz9p72zfa4y.jpeg",
         "brand": "MAGIC",
         "description": "Men Tan Artificial Leather Card Holder - Regular Size",
-        "new-price": "₹199",
-        "old-price": "₹999",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "199",
+        "old_price": "999",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.5"
     },
     {
         "image": "res/img3/sam-bdswm-26-sam-bdswm-26-wallet-samtroh-original-imafb96hzgakw5xg.jpeg",
         "brand": "SAMTROH",
         "description": "Men Black Artificial Leather Wallet - Mini",
-        "new-price": "₹219",
-        "old-price": "₹999",
-        "discount": "78% off",
-        "delivery-type": "Free delivery"
+        "new_price": "219",
+        "old_price": "999",
+        "discount": "78",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img3/gvn-blu2lin01-gvn-blu2lin01-wallet-giovanny-original-imafzb997eak9dz2.jpeg",
         "brand": "GIOVANNY",
         "description": "Men Blue Artificial Leather Wallet - Mini",
-        "new-price": "₹224",
-        "old-price": "₹1,549",
-        "discount": "85% off",
-        "delivery-type": "Free delivery"
+        "new_price": "224",
+        "old_price": "1549",
+        "discount": "85",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     }
 ]

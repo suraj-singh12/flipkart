@@ -5,10 +5,10 @@
         "color": "2000 W, Black",
         "stars": "4",
         "reviews": "(23,402)",
-        "new-price": "₹399",
-        "old-price": "₹1,422",
-        "discount": "71% off",
-        "delivery-type": "Free delivery",
+        "new_price": "399",
+        "old_price": "1422",
+        "discount": "71",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -17,10 +17,10 @@
         "color": "2000 W, Black",
         "stars": "4",
         "reviews": "(10,017)",
-        "new-price": "₹545",
-        "old-price": "₹2,277",
-        "discount": "76% off",
-        "delivery-type": "Free delivery",
+        "new_price": "545",
+        "old_price": "2277",
+        "discount": "76",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -29,10 +29,10 @@
         "color": "1000 W, Purple",
         "stars": "4.3",
         "reviews": "(2,67,198)",
-        "new-price": "₹699",
-        "old-price": "₹875",
-        "discount": "20% off",
-        "delivery-type": "Free delivery",
+        "new_price": "699",
+        "old_price": "875",
+        "discount": "20",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -41,10 +41,10 @@
         "color": "1800 W, Black",
         "stars": "4.3",
         "reviews": "(5,409)",
-        "new-price": "₹805",
-        "old-price": "₹1,599",
-        "discount": "49% off",
-        "delivery-type": "Free delivery",
+        "new_price": "85",
+        "old_price": "1599",
+        "discount": "49",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -53,10 +53,10 @@
         "color": "1200 W, Black",
         "stars": "4.1",
         "reviews": "(61,721)",
-        "new-price": "₹466",
-        "old-price": "₹945",
-        "discount": "50% off",
-        "delivery-type": "Free delivery",
+        "new_price": "466",
+        "old_price": "945",
+        "discount": "50",
+        "delivery_type": "Free delivery",
         "offer": "Dhamaal Deal"
     },
     {
@@ -65,10 +65,10 @@
         "color": "1200 W, Black, Blue",
         "stars": "4",
         "reviews": "(4,03,098)",
-        "new-price": "₹449",
-        "old-price": "₹845",
-        "discount": "46% off",
-        "delivery-type": "Free delivery",
+        "new_price": "449",
+        "old_price": "845",
+        "discount": "46",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -77,10 +77,10 @@
         "color": "1200 W, Black",
         "stars": "4",
         "reviews": "(4,03,098)",
-        "new-price": "₹399",
-        "old-price": "₹845",
-        "discount": "52% off",
-        "delivery-type": "Free delivery",
+        "new_price": "399",
+        "old_price": "845",
+        "discount": "52",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -89,10 +89,10 @@
         "color": "2800 W, Black",
         "stars": "4",
         "reviews": "(1,656)",
-        "new-price": "₹545",
-        "old-price": "₹1,499",
-        "discount": "63% off",
-        "delivery-type": "Free delivery",
+        "new_price": "545",
+        "old_price": "1499",
+        "discount": "63",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -101,10 +101,10 @@
         "color": "1000 W, Pink, White",
         "stars": "3.8",
         "reviews": "(262)",
-        "new-price": "₹470",
-        "old-price": "₹1,299",
-        "discount": "63% off",
-        "delivery-type": "Free delivery",
+        "new_price": "47",
+        "old_price": "1299",
+        "discount": "63",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -113,10 +113,10 @@
         "color": "1200 W, Blue",
         "stars": "4.4",
         "reviews": "(12,467)",
-        "new-price": "₹899",
-        "old-price": "₹1,295",
-        "discount": "30% off",
-        "delivery-type": "Free delivery",
+        "new_price": "899",
+        "old_price": "1295",
+        "discount": "30",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -125,9 +125,9 @@
         "color": "1000 W, Multicolor",
         "stars": "3.8",
         "reviews": "(402)",
-        "new-price": "₹209",
-        "old-price": "₹599",
-        "discount": "65% off",
+        "new_price": "29",
+        "old_price": "599",
+        "discount": "65",
         "offer": "Bank Offer"
     },
     {
@@ -136,9 +136,9 @@
         "color": "1000 W, Pink, Blue",
         "stars": "4.2",
         "reviews": "(5)",
-        "new-price": "₹499",
-        "old-price": "₹1,199",
-        "discount": "58% off",
+        "new_price": "499",
+        "old_price": "1199",
+        "discount": "58",
         "offer": "Bank Offer"
     },
     {
@@ -147,10 +147,10 @@
         "color": "1000 W, Blue",
         "stars": "4.3",
         "reviews": "(2,67,198)",
-        "new-price": "₹699",
-        "old-price": "₹875",
-        "discount": "20% off",
-        "delivery-type": "Free delivery",
+        "new_price": "699",
+        "old_price": "875",
+        "discount": "20",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -159,10 +159,10 @@
         "color": "1000 W, Pink, Black",
         "stars": "4.3",
         "reviews": "(44,919)",
-        "new-price": "₹1,499",
-        "old-price": "₹1,970",
-        "discount": "23% off",
-        "delivery-type": "Free delivery",
+        "new_price": "1499",
+        "old_price": "197",
+        "discount": "23",
+        "delivery_type": "Free delivery",
         "offer": "Hot Deal"
     },
     {
@@ -171,10 +171,10 @@
         "color": "1800 W, Black",
         "stars": "4.3",
         "reviews": "(48,571)",
-        "new-price": "₹806",
-        "old-price": "₹1,699",
-        "discount": "52% off",
-        "delivery-type": "Free delivery",
+        "new_price": "86",
+        "old_price": "1699",
+        "discount": "52",
+        "delivery_type": "Free delivery",
         "offer": "Dhamaal Deal"
     },
     {
@@ -183,9 +183,9 @@
         "color": "1400 W, Purple",
         "stars": "4.2",
         "reviews": "(27,098)",
-        "new-price": "₹699",
-        "old-price": "₹1,095",
-        "discount": "36% off",
+        "new_price": "699",
+        "old_price": "195",
+        "discount": "36",
         "offer": "Bank Offer"
     },
     {
@@ -194,10 +194,10 @@
         "color": "1000 W, Pink",
         "stars": "4.2",
         "reviews": "(30,098)",
-        "new-price": "₹675",
-        "old-price": "₹899",
-        "discount": "24% off",
-        "delivery-type": "Free delivery",
+        "new_price": "675",
+        "old_price": "899",
+        "discount": "24",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -206,10 +206,10 @@
         "color": "1500 W, Black",
         "stars": "4",
         "reviews": "(1,560)",
-        "new-price": "₹399",
-        "old-price": "₹999",
-        "discount": "60% off",
-        "delivery-type": "Free delivery",
+        "new_price": "399",
+        "old_price": "999",
+        "discount": "60",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -218,10 +218,10 @@
         "color": "1800 W, Black",
         "stars": "4.3",
         "reviews": "(48,571)",
-        "new-price": "₹764",
-        "old-price": "₹1,498",
-        "discount": "48% off",
-        "delivery-type": "Free delivery",
+        "new_price": "764",
+        "old_price": "1498",
+        "discount": "48",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -230,10 +230,10 @@
         "color": "4000 W, Black",
         "stars": "4",
         "reviews": "(89)",
-        "new-price": "₹849",
-        "old-price": "₹1,040",
-        "discount": "18% off",
-        "delivery-type": "Free delivery",
+        "new_price": "849",
+        "old_price": "14",
+        "discount": "18",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -242,10 +242,10 @@
         "color": "1000 W, Pink & White",
         "stars": "3.7",
         "reviews": "(389)",
-        "new-price": "₹258",
-        "old-price": "₹999",
-        "discount": "74% off",
-        "delivery-type": "Free delivery",
+        "new_price": "258",
+        "old_price": "999",
+        "discount": "74",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -254,10 +254,10 @@
         "color": "1000 W, Pink",
         "stars": "3.7",
         "reviews": "(13,106)",
-        "new-price": "₹274",
-        "old-price": "₹698",
-        "discount": "60% off",
-        "delivery-type": "Free delivery",
+        "new_price": "274",
+        "old_price": "698",
+        "discount": "60",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -266,10 +266,10 @@
         "color": "1200 W, Purple",
         "stars": "4.3",
         "reviews": "(29,283)",
-        "new-price": "₹782",
-        "old-price": "₹1,045",
-        "discount": "25% off",
-        "delivery-type": "Free delivery",
+        "new_price": "782",
+        "old_price": "145",
+        "discount": "25",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -278,9 +278,9 @@
         "color": "1400 W, Pink",
         "stars": "4.2",
         "reviews": "(27,098)",
-        "new-price": "₹679",
-        "old-price": "₹1,095",
-        "discount": "37% off",
+        "new_price": "679",
+        "old_price": "195",
+        "discount": "37",
         "offer": "Dhamaal Deal"
     },
     {
@@ -289,10 +289,10 @@
         "color": "1600 W, Gold",
         "stars": "4.4",
         "reviews": "(21,295)",
-        "new-price": "₹1,149",
-        "old-price": "₹1,695",
-        "discount": "32% off",
-        "delivery-type": "Free delivery",
+        "new_price": "1149",
+        "old_price": "1695",
+        "discount": "32",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -301,10 +301,10 @@
         "color": "1500 W, Black",
         "stars": "4",
         "reviews": "(8,436)",
-        "new-price": "₹399",
-        "old-price": "₹999",
-        "discount": "60% off",
-        "delivery-type": "Free delivery",
+        "new_price": "399",
+        "old_price": "999",
+        "discount": "60",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -313,10 +313,10 @@
         "color": "1200 W, Black",
         "stars": "4.4",
         "reviews": "(1,262)",
-        "new-price": "₹1,275",
-        "old-price": "₹1,345",
-        "discount": "5% off",
-        "delivery-type": "Free delivery",
+        "new_price": "1275",
+        "old_price": "1345",
+        "discount": "5",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -325,10 +325,10 @@
         "color": "2000 W, Black",
         "stars": "4.1",
         "reviews": "(2,047)",
-        "new-price": "₹825",
-        "old-price": "₹1,999",
-        "discount": "58% off",
-        "delivery-type": "Free delivery",
+        "new_price": "825",
+        "old_price": "1999",
+        "discount": "58",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -337,10 +337,10 @@
         "color": "1000 W, White",
         "stars": "4.2",
         "reviews": "(30,098)",
-        "new-price": "₹675",
-        "old-price": "₹899",
-        "discount": "24% off",
-        "delivery-type": "Free delivery",
+        "new_price": "675",
+        "old_price": "899",
+        "discount": "24",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -349,10 +349,10 @@
         "color": "1000 W, Teal",
         "stars": "4.2",
         "reviews": "(25,418)",
-        "new-price": "₹649",
-        "old-price": "₹819",
-        "discount": "20% off",
-        "delivery-type": "Free delivery",
+        "new_price": "649",
+        "old_price": "819",
+        "discount": "20",
+        "delivery_type": "Free delivery",
         "offer": "Hot Deal"
     },
     {
@@ -361,10 +361,10 @@
         "color": "1000 W, Blue",
         "stars": "4.2",
         "reviews": "(55,680)",
-        "new-price": "₹799",
-        "old-price": "₹845",
-        "discount": "5% off",
-        "delivery-type": "Free delivery",
+        "new_price": "799",
+        "old_price": "845",
+        "discount": "5",
+        "delivery_type": "Free delivery",
         "offer": "Lowest Price in 15 days"
     },
     {
@@ -373,9 +373,9 @@
         "color": "1400 W, Blue",
         "stars": "4.2",
         "reviews": "(27,098)",
-        "new-price": "₹679",
-        "old-price": "₹995",
-        "discount": "31% off",
+        "new_price": "679",
+        "old_price": "995",
+        "discount": "31",
         "offer": "Dhamaal Deal"
     },
     {
@@ -384,9 +384,9 @@
         "color": "1000 W, Multicolor",
         "stars": "4",
         "reviews": "(59)",
-        "new-price": "₹209",
-        "old-price": "₹799",
-        "discount": "73% off",
+        "new_price": "29",
+        "old_price": "799",
+        "discount": "73",
         "offer": "Bank Offer"
     },
     {
@@ -395,10 +395,10 @@
         "color": "1200 W, White",
         "stars": "4.3",
         "reviews": "(24,890)",
-        "new-price": "₹749",
-        "old-price": "₹1,179",
-        "discount": "36% off",
-        "delivery-type": "Free delivery",
+        "new_price": "749",
+        "old_price": "1179",
+        "discount": "36",
+        "delivery_type": "Free delivery",
         "offer": "Lowest Price in 15 days"
     },
     {
@@ -407,10 +407,10 @@
         "color": "1800 W, Black, Purple",
         "stars": "4.3",
         "reviews": "(388)",
-        "new-price": "₹618",
-        "old-price": "₹1,299",
-        "discount": "52% off",
-        "delivery-type": "Free delivery",
+        "new_price": "618",
+        "old_price": "1299",
+        "discount": "52",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -419,10 +419,10 @@
         "color": "2000 W, Black",
         "stars": "4.1",
         "reviews": "(2,322)",
-        "new-price": "₹825",
-        "old-price": "₹1,998",
-        "discount": "58% off",
-        "delivery-type": "Free delivery",
+        "new_price": "825",
+        "old_price": "1998",
+        "discount": "58",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -431,10 +431,10 @@
         "color": "1500 W, Black",
         "stars": "3.7",
         "reviews": "(54)",
-        "new-price": "₹395",
-        "old-price": "₹1,397",
-        "discount": "71% off",
-        "delivery-type": "Free delivery",
+        "new_price": "395",
+        "old_price": "1397",
+        "discount": "71",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -443,10 +443,10 @@
         "color": "1200 W, White, Pink",
         "stars": "4.3",
         "reviews": "(16,213)",
-        "new-price": "₹1,126",
-        "old-price": "₹1,345",
-        "discount": "16% off",
-        "delivery-type": "Free delivery",
+        "new_price": "1126",
+        "old_price": "1345",
+        "discount": "16",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -455,10 +455,10 @@
         "color": "1000 W, HD1600 Purple",
         "stars": "4.2",
         "reviews": "(9,359)",
-        "new-price": "₹654",
-        "old-price": "₹899",
-        "discount": "27% off",
-        "delivery-type": "Free delivery",
+        "new_price": "654",
+        "old_price": "899",
+        "discount": "27",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -467,10 +467,10 @@
         "color": "2000 W, Black",
         "stars": "5",
         "reviews": "(13)",
-        "new-price": "₹699",
-        "old-price": "₹1,299",
-        "discount": "46% off",
-        "delivery-type": "Free delivery",
+        "new_price": "699",
+        "old_price": "1299",
+        "discount": "46",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -479,10 +479,10 @@
         "color": "1000 W, Multicolor",
         "stars": "3.7",
         "reviews": "(2,481)",
-        "new-price": "₹474",
-        "old-price": "₹1,573",
-        "discount": "69% off",
-        "delivery-type": "Free delivery",
+        "new_price": "474",
+        "old_price": "1573",
+        "discount": "69",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -491,21 +491,22 @@
         "color": "4000 W, Black, Red",
         "stars": "3.8",
         "reviews": "(18)",
-        "new-price": "₹699",
-        "old-price": "₹2,599",
-        "discount": "73% off",
-        "delivery-type": "Free delivery",
+        "new_price": "699",
+        "old_price": "2599",
+        "discount": "73",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
         "description": "JMALL Professional Stylish 1800 Watt Uniqe Hair Dryer H...",
         "image": "res/img1/ch-1500-vesone-original-imag8anutymvy93s.jpeg",
         "color": "1800 W, Black",
-        "new-price": "₹399",
-        "old-price": "₹1,399",
-        "discount": "71% off",
-        "delivery-type": "Free delivery",
-        "offer": "Bank Offer"
+        "new_price": "399",
+        "old_price": "1399",
+        "discount": "71",
+        "delivery_type": "Free delivery",
+        "offer": "Bank Offer",
+        "hidden_stars": "4.3"
     },
     {
         "description": "Nirvani 2888/2 black Hair Dryer",
@@ -513,9 +514,9 @@
         "color": "1800 W, Black",
         "stars": "4.2",
         "reviews": "(72)",
-        "new-price": "₹349",
-        "old-price": "₹899",
-        "discount": "61% off",
+        "new_price": "349",
+        "old_price": "899",
+        "discount": "61",
         "offer": "Bank Offer"
     },
     {
@@ -524,10 +525,10 @@
         "color": "220, Black",
         "stars": "4",
         "reviews": "(747)",
-        "new-price": "₹385",
-        "old-price": "₹1,000",
-        "discount": "61% off",
-        "delivery-type": "Free delivery",
+        "new_price": "385",
+        "old_price": "1",
+        "discount": "61",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -536,9 +537,9 @@
         "color": "1000 W, Multicolor",
         "stars": "3.7",
         "reviews": "(130)",
-        "new-price": "₹209",
-        "old-price": "₹599",
-        "discount": "65% off",
+        "new_price": "29",
+        "old_price": "599",
+        "discount": "65",
         "offer": "Bank Offer"
     },
     {
@@ -547,9 +548,9 @@
         "color": "1800 W, Black",
         "stars": "3.8",
         "reviews": "(3,295)",
-        "new-price": "₹399",
-        "old-price": "₹999",
-        "discount": "60% off",
+        "new_price": "399",
+        "old_price": "999",
+        "discount": "60",
         "offer": "Bank Offer"
     },
     {
@@ -558,10 +559,10 @@
         "color": "1500 W, Black",
         "stars": "4",
         "reviews": "(574)",
-        "new-price": "₹399",
-        "old-price": "₹999",
-        "discount": "60% off",
-        "delivery-type": "Free delivery",
+        "new_price": "399",
+        "old_price": "999",
+        "discount": "60",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -570,10 +571,10 @@
         "color": "2000 W, Black",
         "stars": "4.1",
         "reviews": "(79,355)",
-        "new-price": "₹539",
-        "old-price": "₹1,099",
-        "discount": "50% off",
-        "delivery-type": "Free delivery",
+        "new_price": "539",
+        "old_price": "199",
+        "discount": "50",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -582,9 +583,9 @@
         "color": "1000 W, Multicolor",
         "stars": "3.9",
         "reviews": "(25)",
-        "new-price": "₹209",
-        "old-price": "₹800",
-        "discount": "73% off",
+        "new_price": "29",
+        "old_price": "8",
+        "discount": "73",
         "offer": "Bank Offer"
     },
     {
@@ -593,10 +594,10 @@
         "color": "1000 W, White",
         "stars": "3.7",
         "reviews": "(234)",
-        "new-price": "₹276",
-        "old-price": "₹999",
-        "discount": "72% off",
-        "delivery-type": "Free delivery",
+        "new_price": "276",
+        "old_price": "999",
+        "discount": "72",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -605,10 +606,10 @@
         "color": "3500 W, Silver",
         "stars": "3.9",
         "reviews": "(465)",
-        "new-price": "₹799",
-        "old-price": "₹1,895",
-        "discount": "57% off",
-        "delivery-type": "Free delivery",
+        "new_price": "799",
+        "old_price": "1895",
+        "discount": "57",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -617,10 +618,10 @@
         "color": "1000 W, Blue",
         "stars": "4.2",
         "reviews": "(41)",
-        "new-price": "₹880",
-        "old-price": "₹945",
-        "discount": "6% off",
-        "delivery-type": "Free delivery",
+        "new_price": "88",
+        "old_price": "945",
+        "discount": "6",
+        "delivery_type": "Free delivery",
         "offer": "Lowest Price in 15 days"
     },
     {
@@ -629,9 +630,9 @@
         "color": "1200 W, pink & white",
         "stars": "4.3",
         "reviews": "(16,213)",
-        "new-price": "₹1,493",
-        "old-price": "₹1,495",
-        "delivery-type": "Free delivery",
+        "new_price": "1493",
+        "old_price": "1495",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -640,20 +641,21 @@
         "color": "1200 W, Peach",
         "stars": "4",
         "reviews": "(4,013)",
-        "new-price": "₹404",
-        "old-price": "₹999",
-        "discount": "59% off",
-        "delivery-type": "Free delivery",
+        "new_price": "44",
+        "old_price": "999",
+        "discount": "59",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
         "description": "quktion hair dryer with522 Hair Dryer",
         "image": "res/img1/hair-dryer-with522-quktion-original-image69kjbhhnffh.jpeg",
         "color": "1500 W, Black",
-        "new-price": "₹599",
-        "old-price": "₹1,299",
-        "discount": "53% off",
-        "offer": "Bank Offer"
+        "new_price": "599",
+        "old_price": "1299",
+        "discount": "53",
+        "offer": "Bank Offer",
+        "hidden_stars": "4.3"
     },
     {
         "description": "Covetcart NOVA (NV-1290) Professional Electric Foldable...",
@@ -661,9 +663,9 @@
         "color": "1000 W, Pink",
         "stars": "3.1",
         "reviews": "(65)",
-        "new-price": "₹196",
-        "old-price": "₹999",
-        "discount": "80% off",
+        "new_price": "196",
+        "old_price": "999",
+        "discount": "80",
         "offer": "Bank Offer"
     },
     {
@@ -672,10 +674,10 @@
         "color": "2000 W, Multicolor",
         "stars": "4.1",
         "reviews": "(944)",
-        "new-price": "₹699",
-        "old-price": "₹1,999",
-        "discount": "65% off",
-        "delivery-type": "Free delivery",
+        "new_price": "699",
+        "old_price": "1999",
+        "discount": "65",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -684,10 +686,10 @@
         "color": "1600 W, Black",
         "stars": "4.1",
         "reviews": "(928)",
-        "new-price": "₹999",
-        "old-price": "₹1,399",
-        "discount": "28% off",
-        "delivery-type": "Free delivery",
+        "new_price": "999",
+        "old_price": "1399",
+        "discount": "28",
+        "delivery_type": "Free delivery",
         "offer": "Hot Deal"
     },
     {
@@ -696,9 +698,9 @@
         "color": "1500 W, Black",
         "stars": "4",
         "reviews": "(1,298)",
-        "new-price": "₹349",
-        "old-price": "₹799",
-        "discount": "56% off",
+        "new_price": "349",
+        "old_price": "799",
+        "discount": "56",
         "offer": "Bank Offer"
     },
     {
@@ -707,10 +709,10 @@
         "color": "1000 W, Multicolor",
         "stars": "4",
         "reviews": "(4)",
-        "new-price": "₹695",
-        "old-price": "₹1,699",
-        "discount": "59% off",
-        "delivery-type": "Free delivery",
+        "new_price": "695",
+        "old_price": "1699",
+        "discount": "59",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -719,9 +721,9 @@
         "color": "33 W, Pink, White, Black",
         "stars": "3.8",
         "reviews": "(122)",
-        "new-price": "₹495",
-        "old-price": "₹499",
-        "delivery-type": "Free delivery",
+        "new_price": "495",
+        "old_price": "499",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -730,10 +732,10 @@
         "color": "2000 W, Black",
         "stars": "4",
         "reviews": "(959)",
-        "new-price": "₹595",
-        "old-price": "₹999",
-        "discount": "40% off",
-        "delivery-type": "Free delivery",
+        "new_price": "595",
+        "old_price": "999",
+        "discount": "40",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -742,10 +744,10 @@
         "color": "1500 W, Black",
         "stars": "4.1",
         "reviews": "(559)",
-        "new-price": "₹399",
-        "old-price": "₹999",
-        "discount": "60% off",
-        "delivery-type": "Free delivery",
+        "new_price": "399",
+        "old_price": "999",
+        "discount": "60",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -754,10 +756,10 @@
         "color": "1200 W, Purple",
         "stars": "4",
         "reviews": "(4,013)",
-        "new-price": "₹431",
-        "old-price": "₹999",
-        "discount": "56% off",
-        "delivery-type": "Free delivery",
+        "new_price": "431",
+        "old_price": "999",
+        "discount": "56",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -766,10 +768,10 @@
         "color": "1800 W, Black",
         "stars": "4.2",
         "reviews": "(794)",
-        "new-price": "₹764",
-        "old-price": "₹1,495",
-        "discount": "48% off",
-        "delivery-type": "Free delivery",
+        "new_price": "764",
+        "old_price": "1495",
+        "discount": "48",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -778,10 +780,10 @@
         "color": "1600 W, Black",
         "stars": "4.3",
         "reviews": "(1,048)",
-        "new-price": "₹1,599",
-        "old-price": "₹1,699",
-        "discount": "5% off",
-        "delivery-type": "Free delivery",
+        "new_price": "1599",
+        "old_price": "1699",
+        "discount": "5",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -790,10 +792,10 @@
         "color": "1000 W, Multicolor",
         "stars": "3.8",
         "reviews": "(47)",
-        "new-price": "₹299",
-        "old-price": "₹899",
-        "discount": "66% off",
-        "delivery-type": "Free delivery",
+        "new_price": "299",
+        "old_price": "899",
+        "discount": "66",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -802,10 +804,10 @@
         "color": "1200 W, Turquoise Blue",
         "stars": "4.4",
         "reviews": "(78,677)",
-        "new-price": "₹1,044",
-        "old-price": "₹1,295",
-        "discount": "19% off",
-        "delivery-type": "Free delivery",
+        "new_price": "144",
+        "old_price": "1295",
+        "discount": "19",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -814,10 +816,10 @@
         "color": "2000 W, Black",
         "stars": "4",
         "reviews": "(529)",
-        "new-price": "₹598",
-        "old-price": "₹999",
-        "discount": "40% off",
-        "delivery-type": "Free delivery",
+        "new_price": "598",
+        "old_price": "999",
+        "discount": "40",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -826,9 +828,9 @@
         "color": "1000 W, Pink, White",
         "stars": "3.7",
         "reviews": "(3,479)",
-        "new-price": "₹249",
-        "old-price": "₹899",
-        "discount": "72% off",
+        "new_price": "249",
+        "old_price": "899",
+        "discount": "72",
         "offer": "Bank Offer"
     },
     {
@@ -837,10 +839,10 @@
         "color": "3500 W, White+Purple",
         "stars": "4.4",
         "reviews": "(25)",
-        "new-price": "₹999",
-        "old-price": "₹1,999",
-        "discount": "50% off",
-        "delivery-type": "Free delivery",
+        "new_price": "999",
+        "old_price": "1999",
+        "discount": "50",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -849,10 +851,10 @@
         "color": "1800 W, Black",
         "stars": "3.9",
         "reviews": "(966)",
-        "new-price": "₹399",
-        "old-price": "₹500",
-        "discount": "20% off",
-        "delivery-type": "Free delivery",
+        "new_price": "399",
+        "old_price": "5",
+        "discount": "20",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -861,10 +863,10 @@
         "color": "1800 W, Multicolor",
         "stars": "3.6",
         "reviews": "(7)",
-        "new-price": "₹399",
-        "old-price": "₹999",
-        "discount": "60% off",
-        "delivery-type": "Free delivery",
+        "new_price": "399",
+        "old_price": "999",
+        "discount": "60",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -873,10 +875,10 @@
         "color": "1200 W, Pink",
         "stars": "4.4",
         "reviews": "(1,146)",
-        "new-price": "₹1,480",
-        "old-price": "₹1,595",
-        "discount": "7% off",
-        "delivery-type": "Free delivery",
+        "new_price": "148",
+        "old_price": "1595",
+        "discount": "7",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -885,10 +887,10 @@
         "color": "2000 W, Black + Red",
         "stars": "4",
         "reviews": "(1,114)",
-        "new-price": "₹825",
-        "old-price": "₹1,999",
-        "discount": "58% off",
-        "delivery-type": "Free delivery",
+        "new_price": "825",
+        "old_price": "1999",
+        "discount": "58",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -897,10 +899,10 @@
         "color": "1000 W, White Pink, White Blue",
         "stars": "3.8",
         "reviews": "(93)",
-        "new-price": "₹299",
-        "old-price": "₹799",
-        "discount": "62% off",
-        "delivery-type": "Free delivery",
+        "new_price": "299",
+        "old_price": "799",
+        "discount": "62",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -909,9 +911,9 @@
         "color": "1800 W, Black",
         "stars": "3.7",
         "reviews": "(556)",
-        "new-price": "₹335",
-        "old-price": "₹999",
-        "discount": "66% off",
+        "new_price": "335",
+        "old_price": "999",
+        "discount": "66",
         "offer": "Bank Offer"
     },
     {
@@ -920,10 +922,10 @@
         "color": "2000 W, Black, Brown",
         "stars": "4.4",
         "reviews": "(337)",
-        "new-price": "₹1,499",
-        "old-price": "₹2,595",
-        "discount": "42% off",
-        "delivery-type": "Free delivery",
+        "new_price": "1499",
+        "old_price": "2595",
+        "discount": "42",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -932,10 +934,10 @@
         "color": "1200 W, Blue",
         "stars": "4.4",
         "reviews": "(12,467)",
-        "new-price": "₹899",
-        "old-price": "₹1,295",
-        "discount": "30% off",
-        "delivery-type": "Free delivery",
+        "new_price": "899",
+        "old_price": "1295",
+        "discount": "30",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     }
 ]

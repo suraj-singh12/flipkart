@@ -9,8 +9,8 @@ for (let i = 0; i < files.length; i++) {
     let file = './' + files[i];
     // console.log(file);
 
-    if(file.includes('json') == false) continue;
-    
+    if (file.includes('json') == false) continue;
+
     let page = require(file);
     // console.log(page[0].description);
     // console.log(page.length);

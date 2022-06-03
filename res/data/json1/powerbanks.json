@@ -4,9 +4,9 @@
         "color": "Blue, Lithium Polymer",
         "description": "Croma 10000 mAh Power Bank",
         "reviews": "(130)",
-        "new-price": "₹499",
-        "old-price": "₹1,000",
-        "discount": "50% off",
+        "new_price": "499",
+        "old_price": "1",
+        "discount": "50",
         "stars": "4.3"
     },
     {
@@ -14,9 +14,9 @@
         "color": "Red, Lithium Polymer",
         "description": "Callmate 20000 mAh Power Bank (15 W, Fast Charging)",
         "reviews": "(427)",
-        "new-price": "₹1,234",
-        "old-price": "₹1,999",
-        "discount": "38% off",
+        "new_price": "1234",
+        "old_price": "1999",
+        "discount": "38",
         "stars": "3.8"
     },
     {
@@ -24,9 +24,9 @@
         "color": "Blue,Black,Midnight Black, Lithium Polymer",
         "description": "Mi 3i 10000 mAh Power Bank (Fast Charging, 18W)",
         "reviews": "(2,28,335)",
-        "new-price": "₹999",
-        "old-price": "₹1,299",
-        "discount": "23% off",
+        "new_price": "999",
+        "old_price": "1299",
+        "discount": "23",
         "stars": "4.3"
     },
     {
@@ -34,9 +34,9 @@
         "color": "Blue, Lithium Polymer",
         "description": "Mi 3i 10000 mAh Power Bank (Fast Charging, 18W)",
         "reviews": "(2,28,335)",
-        "new-price": "₹999",
-        "old-price": "₹1,299",
-        "discount": "23% off",
+        "new_price": "999",
+        "old_price": "1299",
+        "discount": "23",
         "stars": "4.3"
     },
     {
@@ -44,9 +44,9 @@
         "color": "Black, Lithium Polymer",
         "description": "Mi 3i 20000 mAh Power Bank (Fast Charging, 18W)",
         "reviews": "(1,80,370)",
-        "new-price": "₹1,899",
-        "old-price": "₹2,199",
-        "discount": "13% off",
+        "new_price": "1899",
+        "old_price": "2199",
+        "discount": "13",
         "stars": "4.3"
     },
     {
@@ -54,9 +54,9 @@
         "color": "Blue, Lithium Polymer",
         "description": "Ambrane 10000 mAh Power Bank (12 W, Fast Charging)",
         "reviews": "(2,18,137)",
-        "new-price": "₹599",
-        "old-price": "₹1,499",
-        "discount": "60% off",
+        "new_price": "599",
+        "old_price": "1499",
+        "discount": "60",
         "stars": "4.2"
     },
     {
@@ -64,9 +64,9 @@
         "color": "Black, Lithium Polymer",
         "description": "realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",
         "reviews": "(50,143)",
-        "new-price": "₹1,799",
-        "old-price": "₹2,499",
-        "discount": "28% off",
+        "new_price": "1799",
+        "old_price": "2499",
+        "discount": "28",
         "stars": "4.3"
     },
     {
@@ -74,9 +74,9 @@
         "color": "Black, Lithium-ion",
         "description": "PunnkFunnk 10000 mAh Power Bank (18 W, Fast Charging)",
         "reviews": "(266)",
-        "new-price": "₹899",
-        "old-price": "₹1,999",
-        "discount": "55% off",
+        "new_price": "899",
+        "old_price": "1999",
+        "discount": "55",
         "stars": "4.1"
     },
     {
@@ -84,9 +84,9 @@
         "color": "Black, Lithium Polymer",
         "description": "Mi 10000 mAh Power Bank (22.5 W, Fast Charging)",
         "reviews": "(10,504)",
-        "new-price": "₹1,499",
-        "old-price": "₹1,699",
-        "discount": "11% off",
+        "new_price": "1499",
+        "old_price": "1699",
+        "discount": "11",
         "stars": "4.3"
     },
     {
@@ -94,9 +94,9 @@
         "color": "Yellow, Lithium Polymer",
         "description": "realme 20000 mAh Power Bank (18 W, Quick Charge 2.0)",
         "reviews": "(50,143)",
-        "new-price": "₹1,799",
-        "old-price": "₹2,499",
-        "discount": "28% off",
+        "new_price": "1799",
+        "old_price": "2499",
+        "discount": "28",
         "stars": "4.3"
     },
     {
@@ -104,9 +104,9 @@
         "color": "Black, Lithium Polymer",
         "description": "Mi 30000 mAh Power Bank (18 W, Fast Charging, Power Del...",
         "reviews": "(16,338)",
-        "new-price": "₹2,699",
-        "old-price": "₹3,499",
-        "discount": "22% off",
+        "new_price": "2699",
+        "old_price": "3499",
+        "discount": "22",
         "stars": "4.2"
     },
     {
@@ -114,9 +114,9 @@
         "color": "White, Lithium Polymer",
         "description": "I Kall 10000 mAh Power Bank (10 W, Fast Charging)",
         "reviews": "(8)",
-        "new-price": "₹649",
-        "old-price": "₹1,399",
-        "discount": "53% off",
+        "new_price": "649",
+        "old_price": "1399",
+        "discount": "53",
         "stars": "3.8"
     },
     {
@@ -124,9 +124,9 @@
         "color": "Blue, Lithium-ion",
         "description": "Pomics 30000 mAh Power Bank",
         "reviews": "(4,665)",
-        "new-price": "₹599",
-        "old-price": "₹1,999",
-        "discount": "70% off",
+        "new_price": "599",
+        "old_price": "1999",
+        "discount": "70",
         "stars": "3.5"
     },
     {
@@ -134,9 +134,9 @@
         "color": "Black, Lithium Polymer",
         "description": "realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",
         "reviews": "(72,223)",
-        "new-price": "₹1,199",
-        "old-price": "₹1,299",
-        "discount": "7% off",
+        "new_price": "1199",
+        "old_price": "1299",
+        "discount": "7",
         "stars": "4.2"
     },
     {
@@ -144,9 +144,9 @@
         "color": "White, Lithium Polymer",
         "description": "REDMI 10000 mAh Power Bank (10 W, Fast Charging)",
         "reviews": "(37,013)",
-        "new-price": "₹899",
-        "old-price": "₹999",
-        "discount": "10% off",
+        "new_price": "899",
+        "old_price": "999",
+        "discount": "10",
         "stars": "4.2"
     },
     {
@@ -154,9 +154,9 @@
         "color": "White, Lithium Polymer",
         "description": "I Kall 10000 mAh Power Bank (10 W, Fast Charging)",
         "reviews": "(13)",
-        "new-price": "₹598",
-        "old-price": "₹1,199",
-        "discount": "50% off",
+        "new_price": "598",
+        "old_price": "1199",
+        "discount": "50",
         "stars": "4.1"
     },
     {
@@ -164,9 +164,9 @@
         "color": "Black, Lithium Polymer",
         "description": "REDMI 10000 mAh Power Bank (10 W, Fast Charging)",
         "reviews": "(37,013)",
-        "new-price": "₹899",
-        "old-price": "₹1,999",
-        "discount": "55% off",
+        "new_price": "899",
+        "old_price": "1999",
+        "discount": "55",
         "stars": "4.2"
     },
     {
@@ -174,9 +174,9 @@
         "color": "Black, Lithium Polymer",
         "description": "Croma 10000 mAh Power Bank (18 W, Fast Charging)",
         "reviews": "(2,353)",
-        "new-price": "₹849",
-        "old-price": "₹2,000",
-        "discount": "57% off",
+        "new_price": "849",
+        "old_price": "2",
+        "discount": "57",
         "stars": "4.1"
     },
     {
@@ -184,27 +184,28 @@
         "color": "Green, Lithium Polymer",
         "description": "Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",
         "reviews": "(20,891)",
-        "new-price": "₹1,499",
-        "old-price": "₹1,999",
-        "discount": "25% off",
+        "new_price": "1499",
+        "old_price": "1999",
+        "discount": "25",
         "stars": "4.1"
     },
     {
         "image": "res/img1/ikpb10-10000-ikpb10-i-kall-original-imagafmrmzhmdd6h.jpeg",
         "color": "Black, Lithium Polymer",
         "description": "I Kall 10000 mAh Power Bank (10 W, Fast Charging)",
-        "new-price": "₹598",
-        "old-price": "₹1,199",
-        "discount": "50% off"
+        "new_price": "598",
+        "old_price": "1199",
+        "discount": "50",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img1/stylo-10k-10000-stylo-10k-ambrane-original-imag6gcafxabstmy.jpeg",
         "color": "Blue, Lithium Polymer",
         "description": "Ambrane 10000 mAh Power Bank (20 W, Quick Charge 3.0, P...",
         "reviews": "(21,099)",
-        "new-price": "₹899",
-        "old-price": "₹1,599",
-        "discount": "43% off",
+        "new_price": "899",
+        "old_price": "1599",
+        "discount": "43",
         "stars": "4.2"
     },
     {
@@ -212,9 +213,9 @@
         "color": "Blue, Lithium Polymer",
         "description": "Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",
         "reviews": "(20,891)",
-        "new-price": "₹1,499",
-        "old-price": "₹1,999",
-        "discount": "25% off",
+        "new_price": "1499",
+        "old_price": "1999",
+        "discount": "25",
         "stars": "4.1"
     },
     {
@@ -222,27 +223,28 @@
         "color": "Black, Lithium Polymer",
         "description": "Callmate 10000 mAh Power Bank (15 W, Fast Charging)",
         "reviews": "(1,069)",
-        "new-price": "₹699",
-        "old-price": "₹1,999",
-        "discount": "65% off",
+        "new_price": "699",
+        "old_price": "1999",
+        "discount": "65",
         "stars": "3.9"
     },
     {
         "image": "res/img1/slim91-plus-10000-slim91-plus-punnkfunnk-original-imagcjfffgszxjk4.jpeg",
         "color": "Black, Lithium-ion",
         "description": "PunnkFunnk 10000 mAh Power Bank (18 W, Fast Charging)",
-        "new-price": "₹809",
-        "old-price": "₹1,999",
-        "discount": "59% off"
+        "new_price": "89",
+        "old_price": "1999",
+        "discount": "59",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img1/crca0083-10000-crca0083-croma-original-imag2ehythvggefh.jpeg",
         "color": "Black, Lithium Polymer",
         "description": "Croma 10000 mAh Power Bank (10 W)",
         "reviews": "(4,155)",
-        "new-price": "₹699",
-        "old-price": "₹1,300",
-        "discount": "46% off",
+        "new_price": "699",
+        "old_price": "13",
+        "discount": "46",
         "stars": "4.1"
     },
     {
@@ -250,9 +252,9 @@
         "color": "Green, Lithium Polymer",
         "description": "Ambrane 10000 mAh Power Bank (20 W, Quick Charge 3.0, P...",
         "reviews": "(21,099)",
-        "new-price": "₹799",
-        "old-price": "₹1,599",
-        "discount": "50% off",
+        "new_price": "799",
+        "old_price": "1599",
+        "discount": "50",
         "stars": "4.2"
     },
     {
@@ -260,27 +262,28 @@
         "color": "Blue, Lithium-ion",
         "description": "Iqoniqe 37000 mAh Power Bank (18 W, Fast Charging)",
         "reviews": "(7)",
-        "new-price": "₹599",
-        "old-price": "₹2,499",
-        "discount": "76% off",
+        "new_price": "599",
+        "old_price": "2499",
+        "discount": "76",
         "stars": "2.9"
     },
     {
         "image": "res/img1/pf20k-20000-pf20k-punnkfunnk-original-imag8hsyvyxgy3pr.jpeg",
         "color": "Black, Lithium-ion",
         "description": "PunnkFunnk 20000 mAh Power Bank (Fast Charging)",
-        "new-price": "₹1,439",
-        "old-price": "₹2,299",
-        "discount": "37% off"
+        "new_price": "1439",
+        "old_price": "2299",
+        "discount": "37",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img1/p055ox-bk-5000-p055ox-bk-syska-original-imafuv8hs27apbgh.jpeg",
         "color": "Black, Lithium Polymer",
         "description": "Syska 5000 mAh Power Bank",
         "reviews": "(26)",
-        "new-price": "₹499",
-        "old-price": "₹799",
-        "discount": "37% off",
+        "new_price": "499",
+        "old_price": "799",
+        "discount": "37",
         "stars": "3.8"
     },
     {
@@ -288,9 +291,9 @@
         "color": "Blue, Lithium-ion",
         "description": "AHINOAM 35000 mAh Power Bank (10 W, Fast Charging)",
         "reviews": "(274)",
-        "new-price": "₹588",
-        "old-price": "₹2,599",
-        "discount": "77% off",
+        "new_price": "588",
+        "old_price": "2599",
+        "discount": "77",
         "stars": "3.5"
     },
     {
@@ -298,9 +301,9 @@
         "color": "Red, Lithium-ion",
         "description": "AHINOAM 35000 mAh Power Bank (10 W, Fast Charging)",
         "reviews": "(274)",
-        "new-price": "₹588",
-        "old-price": "₹2,599",
-        "discount": "77% off",
+        "new_price": "588",
+        "old_price": "2599",
+        "discount": "77",
         "stars": "3.5"
     },
     {
@@ -308,9 +311,9 @@
         "color": "White, Lithium Polymer",
         "description": "Ambrane 10000 mAh Power Bank (20 W, Quick Charge 3.0, P...",
         "reviews": "(21,099)",
-        "new-price": "₹899",
-        "old-price": "₹1,599",
-        "discount": "43% off",
+        "new_price": "899",
+        "old_price": "1599",
+        "discount": "43",
         "stars": "4.2"
     },
     {
@@ -318,9 +321,9 @@
         "color": "Green, Lithium Polymer",
         "description": "Sansui 10000 mAh Power Bank (12 W, Fast Charging)",
         "reviews": "(6,489)",
-        "new-price": "₹699",
-        "old-price": "₹1,499",
-        "discount": "53% off",
+        "new_price": "699",
+        "old_price": "1499",
+        "discount": "53",
         "stars": "4.1"
     },
     {
@@ -328,9 +331,9 @@
         "color": "Yellow, Lithium Polymer",
         "description": "realme 10000 mAh Power Bank (18 W, Quick Charge 3.0)",
         "reviews": "(72,223)",
-        "new-price": "₹1,199",
-        "old-price": "₹1,299",
-        "discount": "7% off",
+        "new_price": "1199",
+        "old_price": "1299",
+        "discount": "7",
         "stars": "4.2"
     },
     {
@@ -338,9 +341,9 @@
         "color": "Black, Lithium Polymer",
         "description": "conekt 10000 mAh Power Bank (12 W, Fast Charging)",
         "reviews": "(1,405)",
-        "new-price": "₹499",
-        "old-price": "₹2,499",
-        "discount": "80% off",
+        "new_price": "499",
+        "old_price": "2499",
+        "discount": "80",
         "stars": "4"
     },
     {
@@ -348,9 +351,9 @@
         "color": "Yellow, Lithium Polymer",
         "description": "PHILIPS 10000 mAh Power Bank (10.5 W, Fast Charging)",
         "reviews": "(1,01,371)",
-        "new-price": "₹949",
-        "old-price": "₹2,499",
-        "discount": "62% off",
+        "new_price": "949",
+        "old_price": "2499",
+        "discount": "62",
         "stars": "4.2"
     },
     {
@@ -358,9 +361,9 @@
         "color": "Black, Lithium Polymer",
         "description": "Ambrane 27000 mAh Power Bank (18 W, Fast Charging)",
         "reviews": "(23,948)",
-        "new-price": "₹1,799",
-        "old-price": "₹3,499",
-        "discount": "48% off",
+        "new_price": "1799",
+        "old_price": "3499",
+        "discount": "48",
         "stars": "4.3"
     },
     {
@@ -368,9 +371,9 @@
         "color": "Black, Lithium Polymer",
         "description": "Ambrane 10000 mAh Power Bank (20 W, Quick Charge 3.0, P...",
         "reviews": "(21,099)",
-        "new-price": "₹699",
-        "old-price": "₹1,599",
-        "discount": "56% off",
+        "new_price": "699",
+        "old_price": "1599",
+        "discount": "56",
         "stars": "4.2"
     },
     {
@@ -378,9 +381,9 @@
         "color": "Black, Lithium Polymer",
         "description": "Syska 20000 mAh Power Bank (10 W, Fast Charging)",
         "reviews": "(96,796)",
-        "new-price": "₹1,399",
-        "old-price": "₹2,999",
-        "discount": "53% off",
+        "new_price": "1399",
+        "old_price": "2999",
+        "discount": "53",
         "stars": "4.1"
     },
     {
@@ -388,9 +391,9 @@
         "color": "Black, Lithium-ion",
         "description": " MI ZZEN 20000 mAh Power Bank (Fast Charging)",
         "reviews": "(23)",
-        "new-price": "₹599",
-        "old-price": "₹2,499",
-        "discount": "76% off",
+        "new_price": "599",
+        "old_price": "2499",
+        "discount": "76",
         "stars": "3"
     },
     {
@@ -398,9 +401,9 @@
         "color": "Black, Lithium-ion",
         "description": "Iqoniqe 40000 mAh Power Bank (Fast Charging)",
         "reviews": "(27)",
-        "new-price": "₹599",
-        "old-price": "₹2,499",
-        "discount": "76% off",
+        "new_price": "599",
+        "old_price": "2499",
+        "discount": "76",
         "stars": "3.2"
     },
     {
@@ -408,27 +411,28 @@
         "color": "Black, Lithium Polymer",
         "description": "Ambrane 20000 mAh Power Bank (20 W, Quick Charge 3.0, P...",
         "reviews": "(20,891)",
-        "new-price": "₹1,299",
-        "old-price": "₹1,999",
-        "discount": "35% off",
+        "new_price": "1299",
+        "old_price": "1999",
+        "discount": "35",
         "stars": "4.1"
     },
     {
         "image": "res/img1/wsolid-p-15-30000-p15-wingfi-original-imafyb2gxu88dg6p.jpeg",
         "color": "White, Blue, Lithium-ion",
         "description": "QIZMI 27000 mAh Power Bank (10 W, Power Delivery 2.0)",
-        "new-price": "₹599",
-        "old-price": "₹1,999",
-        "discount": "70% off"
+        "new_price": "599",
+        "old_price": "1999",
+        "discount": "70",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img1/p3-new-fast-charging-trps-original-imafxyryd7mgwf8g.jpeg",
         "color": "Green, Lithium-ion",
         "description": "QIZMI 33000 mAh Power Bank (10 W, Power Delivery 2.0)",
         "reviews": "(39)",
-        "new-price": "₹599",
-        "old-price": "₹2,399",
-        "discount": "75% off",
+        "new_price": "599",
+        "old_price": "2399",
+        "discount": "75",
         "stars": "3.3"
     },
     {
@@ -436,9 +440,9 @@
         "color": "Black, Lithium Polymer",
         "description": "conekt 10000 mAh Power Bank (12 W, Fast Charging)",
         "reviews": "(3,367)",
-        "new-price": "₹549",
-        "old-price": "₹2,499",
-        "discount": "78% off",
+        "new_price": "549",
+        "old_price": "2499",
+        "discount": "78",
         "stars": "3.9"
     },
     {
@@ -446,9 +450,9 @@
         "color": "Green, Lithium Polymer",
         "description": "Ambrane 27000 mAh Power Bank (20 W, Quick Charge 3.0, P...",
         "reviews": "(23,948)",
-        "new-price": "₹1,999",
-        "old-price": "₹2,999",
-        "discount": "33% off",
+        "new_price": "1999",
+        "old_price": "2999",
+        "discount": "33",
         "stars": "4.3"
     },
     {
@@ -456,9 +460,9 @@
         "color": "Red, Lithium Polymer",
         "description": "Flipkart SmartBuy 10000 mAh Power Bank (22.5 W)",
         "reviews": "(295)",
-        "new-price": "₹799",
-        "old-price": "₹1,299",
-        "discount": "38% off",
+        "new_price": "799",
+        "old_price": "1299",
+        "discount": "38",
         "stars": "4.1"
     },
     {
@@ -466,9 +470,9 @@
         "color": "Yellow, Black, Lithium Polymer",
         "description": "realme 10000 mAh Power Bank (30 W, Fast Charging)",
         "reviews": "(11,383)",
-        "new-price": "₹1,999",
-        "old-price": "₹2,399",
-        "discount": "16% off",
+        "new_price": "1999",
+        "old_price": "2399",
+        "discount": "16",
         "stars": "4.3"
     },
     {
@@ -476,9 +480,9 @@
         "color": "WHITE & RED, Lithium-ion",
         "description": "QIZMI 33000 mAh Power Bank (10 W, Power Delivery 2.0)",
         "reviews": "(39)",
-        "new-price": "₹599",
-        "old-price": "₹1,999",
-        "discount": "70% off",
+        "new_price": "599",
+        "old_price": "1999",
+        "discount": "70",
         "stars": "3.3"
     },
     {
@@ -486,9 +490,9 @@
         "color": "Black, Lithium-ion",
         "description": "QIZMI 30000 mAh Power Bank (10 W, Power Delivery 2.0)",
         "reviews": "(39)",
-        "new-price": "₹599",
-        "old-price": "₹2,299",
-        "discount": "73% off",
+        "new_price": "599",
+        "old_price": "2299",
+        "discount": "73",
         "stars": "3.3"
     },
     {
@@ -496,9 +500,9 @@
         "color": "White, Lithium-ion",
         "description": "PoMiFi 32500 mAh Power Bank",
         "reviews": "(24)",
-        "new-price": "₹629",
-        "old-price": "₹1,999",
-        "discount": "68% off",
+        "new_price": "629",
+        "old_price": "1999",
+        "discount": "68",
         "stars": "3.9"
     },
     {
@@ -506,9 +510,9 @@
         "color": "Pink, Lithium-ion",
         "description": "Iqoniqe 35000 mAh Power Bank (18 W, Quick Charge 4.0)",
         "reviews": "(38)",
-        "new-price": "₹599",
-        "old-price": "₹2,499",
-        "discount": "76% off",
+        "new_price": "599",
+        "old_price": "2499",
+        "discount": "76",
         "stars": "3.3"
     },
     {
@@ -516,9 +520,9 @@
         "color": "White, Lithium Polymer",
         "description": "Syska 20000 mAh Power Bank (10 W, Fast Charging)",
         "reviews": "(96,796)",
-        "new-price": "₹1,399",
-        "old-price": "₹3,199",
-        "discount": "56% off",
+        "new_price": "1399",
+        "old_price": "3199",
+        "discount": "56",
         "stars": "4.1"
     },
     {
@@ -526,9 +530,9 @@
         "color": "Black, Lithium-ion",
         "description": "AHINOAM 35000 mAh Power Bank (10 W, Fast Charging)",
         "reviews": "(274)",
-        "new-price": "₹599",
-        "old-price": "₹2,599",
-        "discount": "76% off",
+        "new_price": "599",
+        "old_price": "2599",
+        "discount": "76",
         "stars": "3.5"
     },
     {
@@ -536,9 +540,9 @@
         "color": "Black, Lithium Polymer",
         "description": "Callmate 20000 mAh Power Bank (15 W, Fast Charging)",
         "reviews": "(1,069)",
-        "new-price": "₹1,029",
-        "old-price": "₹1,999",
-        "discount": "48% off",
+        "new_price": "129",
+        "old_price": "1999",
+        "discount": "48",
         "stars": "3.9"
     },
     {
@@ -546,9 +550,9 @@
         "color": "Blue, Lithium-ion",
         "description": "PoMiFi 32500 mAh Power Bank",
         "reviews": "(24)",
-        "new-price": "₹629",
-        "old-price": "₹1,999",
-        "discount": "68% off",
+        "new_price": "629",
+        "old_price": "1999",
+        "discount": "68",
         "stars": "3.9"
     },
     {
@@ -556,9 +560,9 @@
         "color": "Black, Lithium-ion",
         "description": "PoMiFi 32500 mAh Power Bank",
         "reviews": "(24)",
-        "new-price": "₹629",
-        "old-price": "₹1,999",
-        "discount": "68% off",
+        "new_price": "629",
+        "old_price": "1999",
+        "discount": "68",
         "stars": "3.9"
     },
     {
@@ -566,9 +570,9 @@
         "color": "Green, Lithium-ion",
         "description": "PoMiFi 32500 mAh Power Bank",
         "reviews": "(24)",
-        "new-price": "₹629",
-        "old-price": "₹1,999",
-        "discount": "68% off",
+        "new_price": "629",
+        "old_price": "1999",
+        "discount": "68",
         "stars": "3.9"
     },
     {
@@ -576,27 +580,28 @@
         "color": "Red, Lithium Polymer",
         "description": "Callmate 10000 mAh Power Bank (18 W, Fast Charging)",
         "reviews": "(1,205)",
-        "new-price": "₹699",
-        "old-price": "₹1,999",
-        "discount": "65% off",
+        "new_price": "699",
+        "old_price": "1999",
+        "discount": "65",
         "stars": "3.8"
     },
     {
         "image": "res/img1/smart-power-pack-20000-m5-zofia-original-imag7quym32ba2sa.jpeg",
         "color": "Pink, Lithium-ion",
         "description": "Iqoniqe 41000 mAh Power Bank",
-        "new-price": "₹699",
-        "old-price": "₹2,499",
-        "discount": "72% off"
+        "new_price": "699",
+        "old_price": "2499",
+        "discount": "72",
+        "hidden_stars": "3.5"
     },
     {
         "image": "res/img1/fast-charge-good-back-up-20000-1223-maxmi-original-imafyggtq3vzy3gn.jpeg",
         "color": "White, Lithium-ion",
         "description": "QIZMI 30000 mAh Power Bank (10 W, Power Delivery 2.0)",
         "reviews": "(39)",
-        "new-price": "₹599",
-        "old-price": "₹2,299",
-        "discount": "73% off",
+        "new_price": "599",
+        "old_price": "2299",
+        "discount": "73",
         "stars": "3.3"
     },
     {
@@ -604,9 +609,9 @@
         "color": "Grey, Lithium-ion",
         "description": "Callmate 10000 mAh Power Bank (15 W, Fast Charging)",
         "reviews": "(217)",
-        "new-price": "₹569",
-        "old-price": "₹2,299",
-        "discount": "75% off",
+        "new_price": "569",
+        "old_price": "2299",
+        "discount": "75",
         "stars": "3.4"
     },
     {
@@ -614,9 +619,9 @@
         "color": "Black, Lithium Polymer",
         "description": "iball 10000 mAh Power Bank (18 W)",
         "reviews": "(1,704)",
-        "new-price": "₹799",
-        "old-price": "₹2,499",
-        "discount": "68% off",
+        "new_price": "799",
+        "old_price": "2499",
+        "discount": "68",
         "stars": "3.9"
     },
     {
@@ -624,9 +629,9 @@
         "color": "White, Lithium-ion",
         "description": "misspro 50000 mAh Power Bank (15 W, Power Delivery 3.0)",
         "reviews": "(27)",
-        "new-price": "₹1,499",
-        "old-price": "₹4,299",
-        "discount": "65% off",
+        "new_price": "1499",
+        "old_price": "4299",
+        "discount": "65",
         "stars": "3.4"
     },
     {
@@ -634,9 +639,9 @@
         "color": "White, Lithium Polymer",
         "description": "Flipkart SmartBuy 10000 mAh Power Bank (12 W, NA)",
         "reviews": "(82,924)",
-        "new-price": "₹699",
-        "old-price": "₹1,149",
-        "discount": "39% off",
+        "new_price": "699",
+        "old_price": "1149",
+        "discount": "39",
         "stars": "4.1"
     },
     {
@@ -644,9 +649,9 @@
         "color": "Black, Lithium-ion",
         "description": "misspro 20000 mAh Power Bank (15 W, Power Delivery 3.0)",
         "reviews": "(72)",
-        "new-price": "₹599",
-        "old-price": "₹2,299",
-        "discount": "73% off",
+        "new_price": "599",
+        "old_price": "2299",
+        "discount": "73",
         "stars": "3.6"
     },
     {
@@ -654,9 +659,9 @@
         "color": "Black, Lithium Polymer",
         "description": "Ambrane 27000 mAh Power Bank (20 W, Quick Charge 3.0, P...",
         "reviews": "(23,948)",
-        "new-price": "₹1,999",
-        "old-price": "₹2,999",
-        "discount": "33% off",
+        "new_price": "1999",
+        "old_price": "2999",
+        "discount": "33",
         "stars": "4.3"
     },
     {
@@ -664,9 +669,9 @@
         "color": "Pink, Lithium-ion",
         "description": "Pomics 30000 mAh Power Bank",
         "reviews": "(775)",
-        "new-price": "₹619",
-        "old-price": "₹2,999",
-        "discount": "79% off",
+        "new_price": "619",
+        "old_price": "2999",
+        "discount": "79",
         "stars": "3.4"
     },
     {
@@ -674,9 +679,9 @@
         "color": "Blue, Lithium-ion",
         "description": "slainte 12000 mAh Power Bank (Fast Charging)",
         "reviews": "(4)",
-        "new-price": "₹399",
-        "old-price": "₹899",
-        "discount": "55% off",
+        "new_price": "399",
+        "old_price": "899",
+        "discount": "55",
         "stars": "2.3"
     },
     {
@@ -684,9 +689,9 @@
         "color": "Black, Lithium Polymer",
         "description": "Philips 10000 mAh Power Bank (Fast Charging)",
         "reviews": "(1,01,371)",
-        "new-price": "₹1,139",
-        "old-price": "₹2,499",
-        "discount": "54% off",
+        "new_price": "1139",
+        "old_price": "2499",
+        "discount": "54",
         "stars": "4.2"
     },
     {
@@ -694,9 +699,9 @@
         "color": "Midnight Green, Lithium Polymer",
         "description": "Ambrane 20000 mAh Power Bank (10.5 W, Fast Charging)",
         "reviews": "(7,396)",
-        "new-price": "₹1,299",
-        "old-price": "₹2,499",
-        "discount": "48% off",
+        "new_price": "1299",
+        "old_price": "2499",
+        "discount": "48",
         "stars": "4"
     },
     {
@@ -704,9 +709,9 @@
         "color": "Elegant Black, Lithium Polymer",
         "description": "Syska 30000 mAh Power Bank (18 W, Quick Charge 3.0, Pow...",
         "reviews": "(309)",
-        "new-price": "₹1,999",
-        "old-price": "₹3,499",
-        "discount": "42% off",
+        "new_price": "1999",
+        "old_price": "3499",
+        "discount": "42",
         "stars": "3.7"
     },
     {
@@ -714,9 +719,9 @@
         "color": "Black, Lithium Polymer",
         "description": "Syska 10000 mAh Power Bank",
         "reviews": "(53)",
-        "new-price": "₹799",
-        "old-price": "₹1,599",
-        "discount": "50% off",
+        "new_price": "799",
+        "old_price": "1599",
+        "discount": "50",
         "stars": "3.9"
     },
     {
@@ -724,9 +729,9 @@
         "color": "ELEGANT BLACK, Lithium Polymer",
         "description": "Syska 10000 mAh Power Bank (10 W, Fast Charging)",
         "reviews": "(72)",
-        "new-price": "₹1,095",
-        "old-price": "₹1,599",
-        "discount": "31% off",
+        "new_price": "195",
+        "old_price": "1599",
+        "discount": "31",
         "stars": "3.9"
     },
     {
@@ -734,9 +739,9 @@
         "color": "Blue, Lithium Polymer",
         "description": "Flipkart SmartBuy 10000 mAh Power Bank (12 W, NA)",
         "reviews": "(82,924)",
-        "new-price": "₹599",
-        "old-price": "₹1,149",
-        "discount": "47% off",
+        "new_price": "599",
+        "old_price": "1149",
+        "discount": "47",
         "stars": "4.1"
     },
     {
@@ -744,9 +749,9 @@
         "color": "Black, Lithium-ion",
         "description": "MITILU GADGET 20000 mAh Power Bank (Fast Charging)",
         "reviews": "(61)",
-        "new-price": "₹699",
-        "old-price": "₹2,499",
-        "discount": "72% off",
+        "new_price": "699",
+        "old_price": "2499",
+        "discount": "72",
         "stars": "3.2"
     },
     {
@@ -754,9 +759,9 @@
         "color": "Black, Lithium-ion",
         "description": "Iqoniqe 40000 mAh Power Bank (Fast Charging)",
         "reviews": "(56)",
-        "new-price": "₹699",
-        "old-price": "₹2,499",
-        "discount": "72% off",
+        "new_price": "699",
+        "old_price": "2499",
+        "discount": "72",
         "stars": "3.2"
     },
     {
@@ -764,9 +769,9 @@
         "color": "Black, Lithium-ion",
         "description": "Iqoniqe 30000 mAh Power Bank",
         "reviews": "(52)",
-        "new-price": "₹599",
-        "old-price": "₹2,499",
-        "discount": "76% off",
+        "new_price": "599",
+        "old_price": "2499",
+        "discount": "76",
         "stars": "3"
     },
     {
@@ -774,9 +779,9 @@
         "color": "Black, Lithium Polymer",
         "description": "ZEBRONICS 10000 mAh Power Bank (12 W, Fast Charging)",
         "reviews": "(26,863)",
-        "new-price": "₹699",
-        "old-price": "₹1,599",
-        "discount": "56% off",
+        "new_price": "699",
+        "old_price": "1599",
+        "discount": "56",
         "stars": "4"
     },
     {
@@ -784,9 +789,9 @@
         "color": "WHITE & BLACK, Lithium-ion",
         "description": "QIZMI 33000 mAh Power Bank (10 W, Power Delivery 2.0)",
         "reviews": "(39)",
-        "new-price": "₹599",
-        "old-price": "₹1,999",
-        "discount": "70% off",
+        "new_price": "599",
+        "old_price": "1999",
+        "discount": "70",
         "stars": "3.3"
     }
 ]

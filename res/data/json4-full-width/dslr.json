@@ -10,10 +10,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "1080p recording at 30p",
         "more-data5": "2 Year Warranty (1 year standard warranty + 1 year additional warranty from the date of purchase made by the customer.)",
-        "new-price": "₹36,499",
-        "old-price": "₹39,995",
-        "discount": "8% off",
-        "delivery-type": "Free delivery"
+        "new_price": "36499",
+        "old_price": "39995",
+        "discount": "8",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "Canon EOS 200D II DSLR Camera EF-S18-55mm IS STM",
@@ -26,10 +26,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "Full HD",
         "more-data5": "2 Year Warranty (1 year standard warranty + 1 year additional warranty from the date of purchase made by the customer.)",
-        "new-price": "₹56,499",
-        "old-price": "₹59,995",
-        "discount": "5% off",
-        "delivery-type": "Free delivery"
+        "new_price": "56499",
+        "old_price": "59995",
+        "discount": "5",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "FUJIFILM X Series X-T200 Mirrorless Camera Body with 15-45 mm Lens",
@@ -42,10 +42,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹61,999",
-        "old-price": "₹66,999",
-        "discount": "7% off",
-        "delivery-type": "Free delivery"
+        "new_price": "61999",
+        "old_price": "66999",
+        "discount": "7",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "Canon EOS M50 Mark II Mirrorless Camera EF-M15-45mm is STM Lens",
@@ -58,10 +58,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "MP4",
         "more-data5": "2 Year Warranty (1 year standard warranty + 1 year additional warranty from the date of purchase made by the customer.)",
-        "new-price": "₹57,890",
-        "old-price": "₹58,995",
-        "discount": "1% off",
-        "delivery-type": "Free delivery"
+        "new_price": "5789",
+        "old_price": "58995",
+        "discount": "1",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "SONY ILCE-7M4/BQ IN5 Mirrorless Camera Body Only",
@@ -74,10 +74,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K",
         "more-data5": "2 Years Warranty",
-        "new-price": "₹2,24,990",
-        "old-price": "₹2,42,490",
-        "discount": "7% off",
-        "delivery-type": "Free delivery"
+        "new_price": "22499",
+        "old_price": "24249",
+        "discount": "7",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "NIKON Z 50 Mirrorless Camera Body with 16-50mm Lens",
@@ -90,8 +90,8 @@
         "more-data3": "WiFi Available",
         "more-data4": "UHD 4K",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹85,995",
-        "delivery-type": "Free delivery"
+        "new_price": "85995",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "POZUB New Arrival 3in1 Selfie Stick Stand With Dustproof Bag PZB-XT012 Travel Tripod Stand Flexible Ha...",
@@ -103,8 +103,8 @@
         "more-data2": "Optical Zoom: 0",
         "more-data3": "Sensor Type: CCD | LCD Size: 0 inch",
         "more-data4": "Max Shutter Speed: 0",
-        "new-price": "₹396",
-        "old-price": "₹397"
+        "new_price": "396",
+        "old_price": "397"
     },
     {
         "description": "Panasonic G Series DC-G95MGW-K Mirrorless Camera Body with Single Lens: 12-60mm lens",
@@ -114,10 +114,11 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹90,189",
-        "old-price": "₹94,990",
-        "discount": "5% off",
-        "delivery-type": "Free delivery"
+        "new_price": "9189",
+        "old_price": "9499",
+        "discount": "5",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.5"
     },
     {
         "description": "SONY ILCE-7SM3/BQ IN5 Mirrorless Camera Mirrorless",
@@ -130,10 +131,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹2,96,990",
-        "old-price": "₹3,34,990",
-        "discount": "11% off",
-        "delivery-type": "Free delivery"
+        "new_price": "29699",
+        "old_price": "33499",
+        "discount": "11",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "POZUB High Quality Portable Multi-Purpose Selfie Stick Stand With Dustproof Bag PZB-XT012 Travel Tripo...",
@@ -145,7 +146,7 @@
         "more-data2": "Optical Zoom: 0",
         "more-data3": "Sensor Type: CCD | LCD Size: 0 inch",
         "more-data4": "Max Shutter Speed: 0",
-        "new-price": "₹398"
+        "new_price": "398"
     },
     {
         "description": "POZUB Best Buy 3in1 Stand Selfie Stick With Dustproof Bag Travel Tripod Stand PZB-XT012 Flexible Handh...",
@@ -157,7 +158,7 @@
         "more-data2": "Optical Zoom: 0",
         "more-data3": "Sensor Type: CCD | LCD Size: 0 inch",
         "more-data4": "Max Shutter Speed: 0",
-        "new-price": "₹397"
+        "new_price": "397"
     },
     {
         "description": "SONY Alpha ILCE-7RM4 Alpha ILCE-7RM4 Full-Frame 61.0MP Mirrorless Digital SLR Camera Body DSLR Camera ...",
@@ -167,10 +168,11 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K UHD",
         "more-data5": "2 Years Warranty",
-        "new-price": "₹3,10,990",
-        "old-price": "₹3,21,990",
-        "discount": "3% off",
-        "delivery-type": "Free delivery"
+        "new_price": "3199",
+        "old_price": "32199",
+        "discount": "3",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "description": "NIKON D5600 DSLR Camera Body with Dual Lens: AF-P DX Nikkor 18 - 55 MM F/3.5-5.6G VR and 70-300 MM F/4...",
@@ -183,9 +185,9 @@
         "more-data3": "WiFi Available",
         "more-data4": "1080p recording upto 60p",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹64,644",
-        "old-price": "₹66,750",
-        "discount": "3% off"
+        "new_price": "64644",
+        "old_price": "6675",
+        "discount": "3"
     },
     {
         "description": "POZUB 3 in1 Multi-Purpose Bluetooth Extendable Wireless Remote Selfie Stick Tripod Stand + Dustproof B...",
@@ -197,7 +199,7 @@
         "more-data2": "Optical Zoom: 0",
         "more-data3": "Sensor Type: CCD | LCD Size: 0 inch",
         "more-data4": "Max Shutter Speed: 0",
-        "new-price": "₹397"
+        "new_price": "397"
     },
     {
         "description": "Panasonic G Series DC-G95HGW-K Mirrorless Camera G95 with 14-140mm lens",
@@ -210,10 +212,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K",
         "more-data5": "2 Years Warranty Provided by the Manufacturer from Date of Purchase",
-        "new-price": "₹99,251",
-        "old-price": "₹1,09,990",
-        "discount": "9% off",
-        "delivery-type": "Free delivery"
+        "new_price": "99251",
+        "old_price": "1999",
+        "discount": "9",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "NIKON D3500 DSLR Camera AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR",
@@ -225,7 +227,7 @@
         "more-data2": "Sensor Type: CMOS",
         "more-data3": "1080p recording at 60p",
         "more-data4": "2 Year Warranty",
-        "new-price": "₹36,250"
+        "new_price": "3625"
     },
     {
         "description": "OLYMPUS OM-D E-M1 Mark II Mirrorless Camera digital ED 12-40mm f2.8 PRO Lens",
@@ -235,10 +237,11 @@
         "more-data3": "WiFi Available",
         "more-data4": "1920 x 1080p at 24/25/30/50/60 fps, 1280 x 720p at 24/25/30/50/60 fps, 640 x 480p at 30 fps (M-JPEG), 1280 x 720p at 30 fps (M-JPEG)",
         "more-data5": "1 year",
-        "new-price": "₹1,48,314",
-        "old-price": "₹1,81,990",
-        "discount": "18% off",
-        "delivery-type": "Free delivery"
+        "new_price": "148314",
+        "old_price": "18199",
+        "discount": "18",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "description": "NIKON Z6 II Kit Mirrorless Camera 24-70mm F/4S with 64GB UHS-II High Speed SD Card",
@@ -251,10 +254,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "H.264/MPEG-4 Advanced Video Coding",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹1,86,074",
-        "old-price": "₹2,09,995",
-        "discount": "11% off",
-        "delivery-type": "Free delivery"
+        "new_price": "18674",
+        "old_price": "29995",
+        "discount": "11",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "NIKON Z7 II Kit Mirrorless Camera 24-70mm F/4S with 64GB UHS-II SD Card",
@@ -267,10 +270,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "H.264/MPEG-4 Advanced Video Coding",
         "more-data5": "2 Year Limited Nikon India Warranty",
-        "new-price": "₹2,73,599",
-        "old-price": "₹2,94,995",
-        "discount": "7% off",
-        "delivery-type": "Free delivery"
+        "new_price": "273599",
+        "old_price": "294995",
+        "discount": "7",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "FUJIFILM X Series X-S10 Mirrorless Camera Body Only",
@@ -283,10 +286,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹92,999",
-        "old-price": "₹99,999",
-        "discount": "7% off",
-        "delivery-type": "Free delivery"
+        "new_price": "92999",
+        "old_price": "99999",
+        "discount": "7",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "FUJIFILM X-T3 Mirrorless Camera Body with 16-80 Lens Kit",
@@ -299,10 +302,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K (3840 x 2160) & FULL HD (1920 x 1080)",
         "more-data5": "2 Years Warranty",
-        "new-price": "₹1,57,999",
-        "old-price": "₹1,69,999",
-        "discount": "7% off",
-        "delivery-type": "Free delivery"
+        "new_price": "157999",
+        "old_price": "169999",
+        "discount": "7",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "NIKON Z 7 Mirrorless Camera Body + 24-70mm Lens and Mount Adapter",
@@ -315,10 +318,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "Full HD",
         "more-data5": "2 Years Warranty",
-        "new-price": "₹2,69,999",
-        "old-price": "₹2,82,950",
-        "discount": "4% off",
-        "delivery-type": "Free delivery"
+        "new_price": "269999",
+        "old_price": "28295",
+        "discount": "4",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "Canon EOS 7D Mark II DSLR Camera (Body only)",
@@ -330,10 +333,10 @@
         "more-data2": "Sensor Type: CMOS",
         "more-data3": "Full HD",
         "more-data4": "2 Years Canon India Warranty and Free Transit Insurance",
-        "new-price": "₹99,999",
-        "old-price": "₹1,24,995",
-        "discount": "19% off",
-        "delivery-type": "Free delivery"
+        "new_price": "99999",
+        "old_price": "124995",
+        "discount": "19",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "NIKON Z 7 Mirrorless Camera Body with Mount Adapter FTZ",
@@ -346,10 +349,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "Full HD",
         "more-data5": "2 Years Warranty",
-        "new-price": "₹2,29,999",
-        "old-price": "₹2,41,450",
-        "discount": "4% off",
-        "delivery-type": "Free delivery"
+        "new_price": "229999",
+        "old_price": "24145",
+        "discount": "4",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "FUJIFILM FX-X-PRO3DS Mirrorless Camera FX-X-PRO3DS",
@@ -359,10 +362,11 @@
         "more-data3": "WiFi Available",
         "more-data4": "DCI 4K, 4K and Full HD",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹1,61,999",
-        "old-price": "₹1,73,999",
-        "discount": "6% off",
-        "delivery-type": "Free delivery"
+        "new_price": "161999",
+        "old_price": "173999",
+        "discount": "6",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "description": "NIKON Z5 Mirrorless Camera 24-200 mm",
@@ -375,10 +379,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K UHD",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹1,61,251",
-        "old-price": "₹1,69,995",
-        "discount": "5% off",
-        "delivery-type": "Free delivery"
+        "new_price": "161251",
+        "old_price": "169995",
+        "discount": "5",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "NIKON Z 6 Mirrorless Camera Body with 24-70mm Lens and Mount Adapter FTZ",
@@ -391,10 +395,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "Full HD",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹1,74,999",
-        "old-price": "₹1,88,950",
-        "discount": "7% off",
-        "delivery-type": "Free delivery"
+        "new_price": "174999",
+        "old_price": "18895",
+        "discount": "7",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "FUJIFILM X-Series X-E4 Mirrorless Camera Body Only",
@@ -407,9 +411,9 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K, Full HD",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹74,499",
-        "old-price": "₹74,999",
-        "delivery-type": "Free delivery"
+        "new_price": "74499",
+        "old_price": "74999",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "FUJIFILM X-Series X-E4 Mirrorless Camera Body with Accessories - Metal Hand Grip (MHG-XE4) and Thumb R...",
@@ -422,10 +426,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K, Full HD",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹82,999",
-        "old-price": "₹83,999",
-        "discount": "1% off",
-        "delivery-type": "Free delivery"
+        "new_price": "82999",
+        "old_price": "83999",
+        "discount": "1",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "Panasonic Lumix G DC-G95H with 14-140 mm Lens kit Mirrorless Camera Body, Lens",
@@ -434,10 +438,11 @@
         "more-data2": "Sensor Type: MOS",
         "more-data3": "WiFi Available",
         "more-data4": "4K, Full HD, HD",
-        "new-price": "₹1,21,990",
-        "old-price": "₹1,29,990",
-        "discount": "6% off",
-        "delivery-type": "Free delivery"
+        "new_price": "12199",
+        "old_price": "12999",
+        "discount": "6",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "description": "FUJIFILM X-Series X-E4 Mirrorless Camera Body with Accessories - Metal Hand Grip (MHG-XE4) and Thumb R...",
@@ -450,10 +455,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K, Full HD",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹82,999",
-        "old-price": "₹83,999",
-        "discount": "1% off",
-        "delivery-type": "Free delivery"
+        "new_price": "82999",
+        "old_price": "83999",
+        "discount": "1",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "FUJIFILM X-T3 Mirrorless Camera Body Only",
@@ -466,10 +471,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K (3840 x 2160) & FULL HD (1920 x 1080)",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹1,00,999",
-        "old-price": "₹1,08,699",
-        "discount": "7% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1999",
+        "old_price": "18699",
+        "discount": "7",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "Panasonic DC-GH5GA-K DC-GH5GA-K Mirroless Camera Body only Mirrorless Camera Body only",
@@ -479,10 +484,11 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K UHD",
         "more-data5": "2 Years Warranty",
-        "new-price": "₹1,32,990",
-        "old-price": "₹1,39,990",
-        "discount": "5% off",
-        "delivery-type": "Free delivery"
+        "new_price": "13299",
+        "old_price": "13999",
+        "discount": "5",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.6"
     },
     {
         "description": "NIKON Z 50 Mirrorless Camera Body with 16-50mm & 50-250mm Lenses",
@@ -495,9 +501,9 @@
         "more-data3": "WiFi Available",
         "more-data4": "UHD 4K",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹1,00,534",
-        "old-price": "₹1,05,995",
-        "discount": "5% off"
+        "new_price": "1534",
+        "old_price": "15995",
+        "discount": "5"
     },
     {
         "description": "FUJIFILM X Series X-T4 Mirrorless Camera Body Only",
@@ -510,10 +516,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K, Full HD",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹1,43,999",
-        "old-price": "₹1,54,999",
-        "discount": "7% off",
-        "delivery-type": "Free delivery"
+        "new_price": "143999",
+        "old_price": "154999",
+        "discount": "7",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "Panasonic DC LUMIX Series DC-S5 Mirrorless Camera Body, Lens",
@@ -523,9 +529,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "Full HD, 4K Anamorphic, UHD 4K",
         "more-data5": "2 Years Warranty",
-        "new-price": "₹2,08,990",
-        "old-price": "₹2,09,990",
-        "delivery-type": "Free delivery"
+        "new_price": "2899",
+        "old_price": "2999",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "description": "SONY Alpha 7RM3 Mirrorless Camera Body Only",
@@ -538,10 +545,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "XAVC S, AVCHD",
         "more-data5": "2 Years Warranty",
-        "new-price": "₹2,02,990",
-        "old-price": "₹2,32,490",
-        "discount": "12% off",
-        "delivery-type": "Free delivery"
+        "new_price": "2299",
+        "old_price": "23249",
+        "discount": "12",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "NIKON Z50-18-140MM DSLR Camera 18-140MM",
@@ -554,7 +561,7 @@
         "more-data3": "WiFi Available",
         "more-data4": "3840 x 2160",
         "more-data5": "2 Years Warranty",
-        "new-price": "₹72,995"
+        "new_price": "72995"
     },
     {
         "description": "Canon EOS M50 Mark II Vlogger Kit Mirrorless Camera EF-M 15-45mm Lens",
@@ -564,7 +571,8 @@
         "more-data3": "WiFi Available",
         "more-data4": "MP4",
         "more-data5": "2 Year Warranty (1 year standard warranty + 1 year additional warranty from the date of purchase made by the customer.)",
-        "new-price": "₹58,995"
+        "new_price": "58995",
+        "hidden_stars": "4.5"
     },
     {
         "description": "FUJIFILM X-T3 Mirrorless Camera Body Only",
@@ -577,10 +585,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K (3840 x 2160) & FULL HD (1920 x 1080)",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹1,00,999",
-        "old-price": "₹1,08,699",
-        "discount": "7% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1999",
+        "old_price": "18699",
+        "discount": "7",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "FUJIFILM X Series X-T4 Mirrorless Camera Body with XF 18-55mm Lens",
@@ -593,10 +601,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K, Full HD",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹1,71,999",
-        "old-price": "₹1,84,999",
-        "discount": "7% off",
-        "delivery-type": "Free delivery"
+        "new_price": "171999",
+        "old_price": "184999",
+        "discount": "7",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "NIKON Z6 II Body Mirrorless Camera with 64GB SD Card",
@@ -609,10 +617,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "H.264/MPEG-4 Advanced Video Coding",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹1,60,899",
-        "old-price": "₹1,64,995",
-        "discount": "2% off",
-        "delivery-type": "Free delivery"
+        "new_price": "16899",
+        "old_price": "164995",
+        "discount": "2",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "NIKON Z 6 Mirrorless Camera Body with Mount Adapter FTZ",
@@ -625,9 +633,9 @@
         "more-data3": "WiFi Available",
         "more-data4": "Full HD",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹1,67,200",
-        "old-price": "₹1,67,450",
-        "delivery-type": "Free delivery"
+        "new_price": "1672",
+        "old_price": "16745",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "FUJIFILM X-T3 Mirrorless Camera Body with 16-80 Lens Kit",
@@ -640,10 +648,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K (3840 x 2160) & FULL HD (1920 x 1080)",
         "more-data5": "2 Years Warranty",
-        "new-price": "₹1,57,999",
-        "old-price": "₹1,69,999",
-        "discount": "7% off",
-        "delivery-type": "Free delivery"
+        "new_price": "157999",
+        "old_price": "169999",
+        "discount": "7",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "FUJIFILM X Series X-A7 Mirrorless Camera Body With 15-45 mm Lens",
@@ -656,9 +664,9 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹44,999",
-        "old-price": "₹59,999",
-        "discount": "25% off"
+        "new_price": "44999",
+        "old_price": "59999",
+        "discount": "25"
     },
     {
         "description": "Canon EOS 3000D DSLR Camera 1 Camera Body, 18 - 55 mm Lens",
@@ -671,10 +679,10 @@
         "more-data3": "Sensor Type: CMOS",
         "more-data4": "WiFi Available",
         "more-data5": "Full HD",
-        "new-price": "₹26,999",
-        "old-price": "₹29,495",
-        "discount": "8% off",
-        "delivery-type": "Free delivery"
+        "new_price": "26999",
+        "old_price": "29495",
+        "discount": "8",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "NIKON D780 DSLR Camera Body with 24-120 mm",
@@ -687,10 +695,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4k",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹1,83,690",
-        "old-price": "₹1,98,995",
-        "discount": "7% off",
-        "delivery-type": "Free delivery"
+        "new_price": "18369",
+        "old_price": "198995",
+        "discount": "7",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "SONY Alpha 7M3 Mirrorless Camera Body Only",
@@ -703,10 +711,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "XAVC S, AVCHD",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹1,59,990",
-        "old-price": "₹1,67,990",
-        "discount": "4% off",
-        "delivery-type": "Free delivery"
+        "new_price": "15999",
+        "old_price": "16799",
+        "discount": "4",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "Canon EOS 1500D DSLR Camera Body+ 18-55 mm IS II Lens",
@@ -719,10 +727,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "1080p recording at 30p",
         "more-data5": "2 Year Warranty (1 year standard warranty + 1 year additional warranty from the date of purchase made by the customer.)",
-        "new-price": "₹36,499",
-        "old-price": "₹39,995",
-        "discount": "8% off",
-        "delivery-type": "Free delivery"
+        "new_price": "36499",
+        "old_price": "39995",
+        "discount": "8",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "Canon EOS 200D II DSLR Camera EF-S18-55mm IS STM",
@@ -735,10 +743,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "Full HD",
         "more-data5": "2 Year Warranty (1 year standard warranty + 1 year additional warranty from the date of purchase made by the customer.)",
-        "new-price": "₹56,499",
-        "old-price": "₹59,995",
-        "discount": "5% off",
-        "delivery-type": "Free delivery"
+        "new_price": "56499",
+        "old_price": "59995",
+        "discount": "5",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "FUJIFILM X Series X-T200 Mirrorless Camera Body with 15-45 mm Lens",
@@ -751,10 +759,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹61,999",
-        "old-price": "₹66,999",
-        "discount": "7% off",
-        "delivery-type": "Free delivery"
+        "new_price": "61999",
+        "old_price": "66999",
+        "discount": "7",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "Canon EOS M50 Mark II Mirrorless Camera EF-M15-45mm is STM Lens",
@@ -767,10 +775,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "MP4",
         "more-data5": "2 Year Warranty (1 year standard warranty + 1 year additional warranty from the date of purchase made by the customer.)",
-        "new-price": "₹57,890",
-        "old-price": "₹58,995",
-        "discount": "1% off",
-        "delivery-type": "Free delivery"
+        "new_price": "5789",
+        "old_price": "58995",
+        "discount": "1",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "SONY ILCE-7M4/BQ IN5 Mirrorless Camera Body Only",
@@ -783,10 +791,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K",
         "more-data5": "2 Years Warranty",
-        "new-price": "₹2,24,990",
-        "old-price": "₹2,42,490",
-        "discount": "7% off",
-        "delivery-type": "Free delivery"
+        "new_price": "22499",
+        "old_price": "24249",
+        "discount": "7",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "NIKON Z 50 Mirrorless Camera Body with 16-50mm Lens",
@@ -799,8 +807,8 @@
         "more-data3": "WiFi Available",
         "more-data4": "UHD 4K",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹85,995",
-        "delivery-type": "Free delivery"
+        "new_price": "85995",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "POZUB New Arrival 3in1 Selfie Stick Stand With Dustproof Bag PZB-XT012 Travel Tripod Stand Flexible Ha...",
@@ -812,8 +820,8 @@
         "more-data2": "Optical Zoom: 0",
         "more-data3": "Sensor Type: CCD | LCD Size: 0 inch",
         "more-data4": "Max Shutter Speed: 0",
-        "new-price": "₹396",
-        "old-price": "₹397"
+        "new_price": "396",
+        "old_price": "397"
     },
     {
         "description": "Panasonic G Series DC-G95MGW-K Mirrorless Camera Body with Single Lens: 12-60mm lens",
@@ -823,10 +831,11 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹90,189",
-        "old-price": "₹94,990",
-        "discount": "5% off",
-        "delivery-type": "Free delivery"
+        "new_price": "9189",
+        "old_price": "9499",
+        "discount": "5",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "description": "SONY ILCE-7SM3/BQ IN5 Mirrorless Camera Mirrorless",
@@ -839,10 +848,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹2,96,990",
-        "old-price": "₹3,34,990",
-        "discount": "11% off",
-        "delivery-type": "Free delivery"
+        "new_price": "29699",
+        "old_price": "33499",
+        "discount": "11",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "POZUB High Quality Portable Multi-Purpose Selfie Stick Stand With Dustproof Bag PZB-XT012 Travel Tripo...",
@@ -854,7 +863,7 @@
         "more-data2": "Optical Zoom: 0",
         "more-data3": "Sensor Type: CCD | LCD Size: 0 inch",
         "more-data4": "Max Shutter Speed: 0",
-        "new-price": "₹398"
+        "new_price": "398"
     },
     {
         "description": "POZUB Best Buy 3in1 Stand Selfie Stick With Dustproof Bag Travel Tripod Stand PZB-XT012 Flexible Handh...",
@@ -866,7 +875,7 @@
         "more-data2": "Optical Zoom: 0",
         "more-data3": "Sensor Type: CCD | LCD Size: 0 inch",
         "more-data4": "Max Shutter Speed: 0",
-        "new-price": "₹397"
+        "new_price": "397"
     },
     {
         "description": "SONY Alpha ILCE-7RM4 Alpha ILCE-7RM4 Full-Frame 61.0MP Mirrorless Digital SLR Camera Body DSLR Camera ...",
@@ -876,10 +885,11 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K UHD",
         "more-data5": "2 Years Warranty",
-        "new-price": "₹3,10,990",
-        "old-price": "₹3,21,990",
-        "discount": "3% off",
-        "delivery-type": "Free delivery"
+        "new_price": "3199",
+        "old_price": "32199",
+        "discount": "3",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.5"
     },
     {
         "description": "NIKON D5600 DSLR Camera Body with Dual Lens: AF-P DX Nikkor 18 - 55 MM F/3.5-5.6G VR and 70-300 MM F/4...",
@@ -892,9 +902,9 @@
         "more-data3": "WiFi Available",
         "more-data4": "1080p recording upto 60p",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹64,644",
-        "old-price": "₹66,750",
-        "discount": "3% off"
+        "new_price": "64644",
+        "old_price": "6675",
+        "discount": "3"
     },
     {
         "description": "POZUB 3 in1 Multi-Purpose Bluetooth Extendable Wireless Remote Selfie Stick Tripod Stand + Dustproof B...",
@@ -906,7 +916,7 @@
         "more-data2": "Optical Zoom: 0",
         "more-data3": "Sensor Type: CCD | LCD Size: 0 inch",
         "more-data4": "Max Shutter Speed: 0",
-        "new-price": "₹397"
+        "new_price": "397"
     },
     {
         "description": "Panasonic G Series DC-G95HGW-K Mirrorless Camera G95 with 14-140mm lens",
@@ -919,10 +929,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K",
         "more-data5": "2 Years Warranty Provided by the Manufacturer from Date of Purchase",
-        "new-price": "₹99,251",
-        "old-price": "₹1,09,990",
-        "discount": "9% off",
-        "delivery-type": "Free delivery"
+        "new_price": "99251",
+        "old_price": "1999",
+        "discount": "9",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "NIKON D3500 DSLR Camera AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR",
@@ -934,7 +944,7 @@
         "more-data2": "Sensor Type: CMOS",
         "more-data3": "1080p recording at 60p",
         "more-data4": "2 Year Warranty",
-        "new-price": "₹36,250"
+        "new_price": "3625"
     },
     {
         "description": "OLYMPUS OM-D E-M1 Mark II Mirrorless Camera digital ED 12-40mm f2.8 PRO Lens",
@@ -944,10 +954,11 @@
         "more-data3": "WiFi Available",
         "more-data4": "1920 x 1080p at 24/25/30/50/60 fps, 1280 x 720p at 24/25/30/50/60 fps, 640 x 480p at 30 fps (M-JPEG), 1280 x 720p at 30 fps (M-JPEG)",
         "more-data5": "1 year",
-        "new-price": "₹1,48,314",
-        "old-price": "₹1,81,990",
-        "discount": "18% off",
-        "delivery-type": "Free delivery"
+        "new_price": "148314",
+        "old_price": "18199",
+        "discount": "18",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.5"
     },
     {
         "description": "NIKON Z6 II Kit Mirrorless Camera 24-70mm F/4S with 64GB UHS-II High Speed SD Card",
@@ -960,10 +971,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "H.264/MPEG-4 Advanced Video Coding",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹1,86,074",
-        "old-price": "₹2,09,995",
-        "discount": "11% off",
-        "delivery-type": "Free delivery"
+        "new_price": "18674",
+        "old_price": "29995",
+        "discount": "11",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "NIKON Z7 II Kit Mirrorless Camera 24-70mm F/4S with 64GB UHS-II SD Card",
@@ -976,10 +987,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "H.264/MPEG-4 Advanced Video Coding",
         "more-data5": "2 Year Limited Nikon India Warranty",
-        "new-price": "₹2,73,599",
-        "old-price": "₹2,94,995",
-        "discount": "7% off",
-        "delivery-type": "Free delivery"
+        "new_price": "273599",
+        "old_price": "294995",
+        "discount": "7",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "FUJIFILM X Series X-S10 Mirrorless Camera Body Only",
@@ -992,10 +1003,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K",
         "more-data5": "2 Year Warranty",
-        "new-price": "₹92,999",
-        "old-price": "₹99,999",
-        "discount": "7% off",
-        "delivery-type": "Free delivery"
+        "new_price": "92999",
+        "old_price": "99999",
+        "discount": "7",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "FUJIFILM X-T3 Mirrorless Camera Body with 16-80 Lens Kit",
@@ -1008,10 +1019,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "4K (3840 x 2160) & FULL HD (1920 x 1080)",
         "more-data5": "2 Years Warranty",
-        "new-price": "₹1,57,999",
-        "old-price": "₹1,69,999",
-        "discount": "7% off",
-        "delivery-type": "Free delivery"
+        "new_price": "157999",
+        "old_price": "169999",
+        "discount": "7",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "NIKON Z 7 Mirrorless Camera Body + 24-70mm Lens and Mount Adapter",
@@ -1024,10 +1035,10 @@
         "more-data3": "WiFi Available",
         "more-data4": "Full HD",
         "more-data5": "2 Years Warranty",
-        "new-price": "₹2,69,999",
-        "old-price": "₹2,82,950",
-        "discount": "4% off",
-        "delivery-type": "Free delivery"
+        "new_price": "269999",
+        "old_price": "28295",
+        "discount": "4",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "Canon EOS 7D Mark II DSLR Camera (Body only)",
@@ -1039,10 +1050,10 @@
         "more-data2": "Sensor Type: CMOS",
         "more-data3": "Full HD",
         "more-data4": "2 Years Canon India Warranty and Free Transit Insurance",
-        "new-price": "₹99,999",
-        "old-price": "₹1,24,995",
-        "discount": "19% off",
-        "delivery-type": "Free delivery"
+        "new_price": "99999",
+        "old_price": "124995",
+        "discount": "19",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "NIKON Z 7 Mirrorless Camera Body with Mount Adapter FTZ",
@@ -1055,9 +1066,9 @@
         "more-data3": "WiFi Available",
         "more-data4": "Full HD",
         "more-data5": "2 Years Warranty",
-        "new-price": "₹2,29,999",
-        "old-price": "₹2,41,450",
-        "discount": "4% off",
-        "delivery-type": "Free delivery"
+        "new_price": "229999",
+        "old_price": "24145",
+        "discount": "4",
+        "delivery_type": "Free delivery"
     }
 ]

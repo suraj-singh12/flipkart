@@ -11,10 +11,10 @@
         "more-data4": "Brightness: 250 nits",
         "more-data5": "Response Time: 4 ms | Refresh Rate: 60 Hz",
         "more-data6": "HDMI Ports - 1",
-        "new-price": "₹11,819",
-        "old-price": "₹16,510",
-        "discount": "28% off",
-        "delivery-type": "Free delivery"
+        "new_price": "11819",
+        "old_price": "1651",
+        "discount": "28",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "SAMSUNG 27 inch Full HD IPS Panel Gaming Monitor (LS27AG300NWXXL)",
@@ -28,10 +28,10 @@
         "more-data4": "Response Time: 1 ms | Refresh Rate: 144 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 Years Domestic Warranty",
-        "new-price": "₹18,999",
-        "old-price": "₹23,500",
-        "discount": "19% off",
-        "delivery-type": "Free delivery"
+        "new_price": "18999",
+        "old_price": "235",
+        "discount": "19",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "ZEBRONICS 18.5 inch HD HDMI, VGA Input, HD 1366 x 768, 16.7M Colors, Glossy Panel, Slim Design, Wall M...",
@@ -42,10 +42,10 @@
         "more-data": "Screen Resolution Type: HD",
         "more-data2": "Response Time: 8 ms",
         "more-data3": "1 year carry into service center",
-        "new-price": "₹5,699",
-        "old-price": "₹6,999",
-        "discount": "18% off",
-        "delivery-type": "Free delivery"
+        "new_price": "5699",
+        "old_price": "6999",
+        "discount": "18",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "SAMSUNG 24 inch Full HD LED Backlit IPS Panel Monitor (LF24T350FHWXXL)",
@@ -57,10 +57,10 @@
         "more-data2": "Screen Resolution Type: Full HD",
         "more-data3": "Response Time: 5 ms | Refresh Rate: 75 Hz",
         "more-data4": "3 Years Warranty",
-        "new-price": "₹11,699",
-        "old-price": "₹19,100",
-        "discount": "38% off",
-        "delivery-type": "Free delivery"
+        "new_price": "11699",
+        "old_price": "191",
+        "discount": "38",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "ZEBRONICS 21.5 inch Full HD Wall mountable, Anti-Glare display, Sleek Design Monitor (Zeb-A22FHD LED)",
@@ -74,10 +74,10 @@
         "more-data4": "Brightness: 250 nits",
         "more-data5": "Response Time: 5 ms",
         "more-data6": "HDMI Ports - 1",
-        "new-price": "₹7,499",
-        "old-price": "₹21,999",
-        "discount": "65% off",
-        "delivery-type": "Free delivery"
+        "new_price": "7499",
+        "old_price": "21999",
+        "discount": "65",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "DELL 19.5 inch HD Monitor (D2020H)",
@@ -90,10 +90,10 @@
         "more-data3": "Response Time: 5 ms",
         "more-data4": "HDMI Ports - 1",
         "more-data5": "3 YEARS DELL INDIA WARRANTY",
-        "new-price": "₹8,299",
-        "old-price": "₹12,529",
-        "discount": "33% off",
-        "delivery-type": "Free delivery"
+        "new_price": "8299",
+        "old_price": "12529",
+        "discount": "33",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "SAMSUNG 22 inch Full HD IPS Panel Monitor (LF22T354FHWXXL)",
@@ -107,10 +107,10 @@
         "more-data4": "Response Time: 5 ms | Refresh Rate: 75 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 Years Domestic Warranty",
-        "new-price": "₹10,199",
-        "old-price": "₹17,290",
-        "discount": "41% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1199",
+        "old_price": "1729",
+        "discount": "41",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "SAMSUNG 22 inch Full HD LED Backlit IPS Panel Monitor (LF22T352FHWXXL)",
@@ -123,10 +123,10 @@
         "more-data3": "VGA Support | HDMI",
         "more-data4": "Response Time: 5 ms",
         "more-data5": "3 Year Domestic Warranty",
-        "new-price": "₹11,950",
-        "old-price": "₹14,300",
-        "discount": "16% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1195",
+        "old_price": "143",
+        "discount": "16",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "LG 24 inch Full HD LED Backlit IPS Panel White Colour Monitor (24MK600M)",
@@ -140,10 +140,10 @@
         "more-data4": "Brightness: 250 nits",
         "more-data5": "Response Time: 5 ms | Refresh Rate: 75 Hz",
         "more-data6": "HDMI Ports - 2",
-        "new-price": "₹13,499",
-        "old-price": "₹16,500",
-        "discount": "18% off",
-        "delivery-type": "Free delivery"
+        "new_price": "13499",
+        "old_price": "165",
+        "discount": "18",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "ZEBRONICS 27 inch Full HD Monitor (ZEB-A27FHD Ultra slim LED monitor with 68.5cm,75Hz refresh rate)",
@@ -156,10 +156,10 @@
         "more-data3": "Brightness: 250 nits",
         "more-data4": "Response Time: 12 ms",
         "more-data5": "Three year carry into service centre",
-        "new-price": "₹12,999",
-        "old-price": "₹27,999",
-        "discount": "53% off",
-        "delivery-type": "Free delivery"
+        "new_price": "12999",
+        "old_price": "27999",
+        "discount": "53",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "LG 22 inch Full HD LED Backlit IPS Panel Monitor (22MP68VQ)",
@@ -173,10 +173,10 @@
         "more-data4": "Brightness: 250 nits",
         "more-data5": "Response Time: 5 ms | Refresh Rate: 75 Hz",
         "more-data6": "HDMI Ports - 1",
-        "new-price": "₹11,499",
-        "old-price": "₹14,250",
-        "discount": "19% off",
-        "delivery-type": "Free delivery"
+        "new_price": "11499",
+        "old_price": "1425",
+        "discount": "19",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "AOC 23.8 inch Full HD Monitor (24B2XH)",
@@ -187,9 +187,9 @@
         "more-data": "Screen Resolution Type: Full HD",
         "more-data2": "Response Time: 8 ms",
         "more-data3": "3 Years on Site Warranty",
-        "new-price": "₹10,799",
-        "old-price": "₹14,490",
-        "discount": "25% off"
+        "new_price": "1799",
+        "old_price": "1449",
+        "discount": "25"
     },
     {
         "description": "acer 21.5 inch Full HD IPS Panel White Colour Monitor (HA220Q)",
@@ -203,10 +203,10 @@
         "more-data4": "Inbuilt Speaker",
         "more-data5": "Brightness: 250 nits",
         "more-data6": "Response Time: 4 ms | Refresh Rate: 75 Hz",
-        "new-price": "₹11,499",
-        "old-price": "₹15,700",
-        "discount": "26% off",
-        "delivery-type": "Free delivery"
+        "new_price": "11499",
+        "old_price": "157",
+        "discount": "26",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "acer Nitro 23.8 inch Full HD LED Backlit IPS Panel Gaming Monitor (VG240Y)",
@@ -220,10 +220,10 @@
         "more-data4": "Response Time: 0.5 ms | Refresh Rate: 165 Hz",
         "more-data5": "HDMI Ports - 2",
         "more-data6": "3 Years Onsite Warranty from Date of Purchase",
-        "new-price": "₹14,995",
-        "old-price": "₹17,500",
-        "discount": "14% off",
-        "delivery-type": "Free delivery"
+        "new_price": "14995",
+        "old_price": "175",
+        "discount": "14",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "DELL S Series 24 inch Full HD IPS Panel Monitor (S2421HN)",
@@ -236,10 +236,10 @@
         "more-data3": "Response Time: 4 ms | Refresh Rate: 75 Hz",
         "more-data4": "HDMI Ports - 2",
         "more-data5": "3 Years Warranty",
-        "new-price": "₹13,899",
-        "old-price": "₹20,849",
-        "discount": "33% off",
-        "delivery-type": "Free delivery"
+        "new_price": "13899",
+        "old_price": "2849",
+        "discount": "33",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "DELL S Series 27 inch Full HD IPS Panel Ultra Slim Bezel Monitor (S2721HN)",
@@ -252,10 +252,10 @@
         "more-data3": "Response Time: 4 ms | Refresh Rate: 75 Hz",
         "more-data4": "HDMI Ports - 2",
         "more-data5": "3 Years Warranty",
-        "new-price": "₹16,899",
-        "old-price": "₹28,719",
-        "discount": "41% off",
-        "delivery-type": "Free delivery"
+        "new_price": "16899",
+        "old_price": "28719",
+        "discount": "41",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "acer 23.8 inch Full HD LED Backlit IPS Panel Monitor (HA240Y)",
@@ -269,10 +269,10 @@
         "more-data4": "Response Time: 4 ms | Refresh Rate: 75 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 Years on Site",
-        "new-price": "₹12,399",
-        "old-price": "₹13,532",
-        "discount": "8% off",
-        "delivery-type": "Free delivery"
+        "new_price": "12399",
+        "old_price": "13532",
+        "discount": "8",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "SAMSUNG 26.5 inch Curved Full HD VA Panel Frameless Monitor (LC27F390FHWXXL)",
@@ -284,10 +284,10 @@
         "more-data2": "Screen Resolution Type: Full HD",
         "more-data3": "Response Time: 4 ms | Refresh Rate: 60 Hz",
         "more-data4": "3 Years Warranty",
-        "new-price": "₹15,499",
-        "old-price": "₹24,700",
-        "discount": "37% off",
-        "delivery-type": "Free delivery"
+        "new_price": "15499",
+        "old_price": "247",
+        "discount": "37",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "HP 23.8 inch Full HD LED Backlit IPS Panel White Colour Monitor (M24fwa)",
@@ -301,10 +301,10 @@
         "more-data4": "Response Time: 5 ms | Refresh Rate: 60 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 Years Warranty Provided by the Manufacturer from Date of Purchase",
-        "new-price": "₹15,499",
-        "old-price": "₹17,500",
-        "discount": "11% off",
-        "delivery-type": "Free delivery"
+        "new_price": "15499",
+        "old_price": "175",
+        "discount": "11",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "HP M Series 21.5 inch Full HD LED Backlit IPS Panel Monitor (M22f)",
@@ -318,10 +318,10 @@
         "more-data4": "Response Time: 5 ms | Refresh Rate: 75 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 year domestic onsite manufacturer warranty on the device from the date of purchase. In case of any technical/product related queries, please call 1800-258-7170 or 1860-258-3079.",
-        "new-price": "₹13,299",
-        "old-price": "₹14,876",
-        "discount": "10% off",
-        "delivery-type": "Free delivery"
+        "new_price": "13299",
+        "old_price": "14876",
+        "discount": "10",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "BenQ 23.8 inch Full HD LED Backlit IPS Panel Monitor (GW2480)",
@@ -335,10 +335,10 @@
         "more-data4": "Inbuilt Speaker",
         "more-data5": "Brightness: 250 nits",
         "more-data6": "Response Time: 5 ms | Refresh Rate: 60 Hz",
-        "new-price": "₹12,500",
-        "old-price": "₹15,990",
-        "discount": "21% off",
-        "delivery-type": "Free delivery"
+        "new_price": "125",
+        "old_price": "1599",
+        "discount": "21",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "BenQ 27 inch Full HD LED Backlit IPS Panel Monitor (GW2780)",
@@ -352,10 +352,10 @@
         "more-data4": "Response Time: 5 ms | Refresh Rate: 60 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 Years Warranty",
-        "new-price": "₹15,490",
-        "old-price": "₹19,990",
-        "discount": "22% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1549",
+        "old_price": "1999",
+        "discount": "22",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "acer Nitro 21.5 inch Full HD LED Backlit VA Panel Monitor (QG221Q)",
@@ -369,10 +369,10 @@
         "more-data4": "Response Time: 1 ms | Refresh Rate: 75 Hz",
         "more-data5": "HDMI Ports - 2",
         "more-data6": "3 Years Warranty",
-        "new-price": "₹10,599",
-        "old-price": "₹15,600",
-        "discount": "32% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1599",
+        "old_price": "156",
+        "discount": "32",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "acer 19.5 inch HD+ LED Backlit TN Panel Monitor (V206HQL)",
@@ -386,10 +386,10 @@
         "more-data4": "Response Time: 5 ms | Refresh Rate: 60 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 Years Warranty",
-        "new-price": "₹7,999",
-        "old-price": "₹9,000",
-        "discount": "11% off",
-        "delivery-type": "Free delivery"
+        "new_price": "7999",
+        "old_price": "9",
+        "discount": "11",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "ZEBRONICS 27 inch Full HD Gaming Monitor (ZEB-A27FHD Slim Gaming LED monitor with 68.5cm, 165Hz refres...",
@@ -399,10 +399,11 @@
         "more-data3": "Brightness: 300 nits",
         "more-data4": "Response Time: 12 ms",
         "more-data5": "Three year carry into service centre",
-        "new-price": "₹14,999",
-        "old-price": "₹37,999",
-        "discount": "60% off",
-        "delivery-type": "Free delivery"
+        "new_price": "14999",
+        "old_price": "37999",
+        "discount": "60",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "description": "MSI 27 inch Full HD IPS Panel Gaming Monitor (Optix G271)",
@@ -414,10 +415,10 @@
         "more-data2": "Screen Resolution Type: Full HD",
         "more-data3": "Response Time: 1 ms | Refresh Rate: 144 Hz",
         "more-data4": "3 years warranty",
-        "new-price": "₹17,499",
-        "old-price": "₹31,500",
-        "discount": "44% off",
-        "delivery-type": "Free delivery"
+        "new_price": "17499",
+        "old_price": "315",
+        "discount": "44",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "acer 23.8 inch Full HD LED Backlit VA Panel Monitor (EK240Y)",
@@ -431,10 +432,10 @@
         "more-data4": "Response Time: 5 ms | Refresh Rate: 75 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 Years On-site",
-        "new-price": "₹10,999",
-        "old-price": "₹17,500",
-        "discount": "37% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1999",
+        "old_price": "175",
+        "discount": "37",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "acer 19.5 inch HD LED Backlit TN Panel Monitor (K202HQL)",
@@ -448,10 +449,10 @@
         "more-data4": "Brightness: 200 nits",
         "more-data5": "Response Time: 5 ms | Refresh Rate: 60 Hz",
         "more-data6": "3 Years on Site",
-        "new-price": "₹7,999",
-        "old-price": "₹11,600",
-        "discount": "31% off",
-        "delivery-type": "Free delivery"
+        "new_price": "7999",
+        "old_price": "116",
+        "discount": "31",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "HP M Series 23.8 inch Full HD LED Backlit IPS Panel Monitor (M24f)",
@@ -465,10 +466,10 @@
         "more-data4": "Response Time: 5 ms | Refresh Rate: 75 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 year domestic onsite manufacturer warranty on the device from the date of purchase. In case of any technical/product related queries, please call 1800-258-7170 or 1860-258-3079.",
-        "new-price": "₹15,999",
-        "old-price": "₹17,500",
-        "discount": "8% off",
-        "delivery-type": "Free delivery"
+        "new_price": "15999",
+        "old_price": "175",
+        "discount": "8",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "LG 24 inch Full HD LED Backlit IPS Panel Gaming Monitor (24MP60G)",
@@ -481,10 +482,10 @@
         "more-data3": "Response Time: 5 ms",
         "more-data4": "HDMI Ports - 1",
         "more-data5": "3 Year Parts and Labor",
-        "new-price": "₹13,699",
-        "old-price": "₹15,500",
-        "discount": "11% off",
-        "delivery-type": "Free delivery"
+        "new_price": "13699",
+        "old_price": "155",
+        "discount": "11",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "HP 27m 27 inch Full HD LED Backlit IPS Panel Ultra Thin Monitor (27m)",
@@ -498,10 +499,10 @@
         "more-data4": "Response Time: 5 ms | Refresh Rate: 60 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 Years Warranty Provided by the Manufacturer from Date of Purchase",
-        "new-price": "₹15,999",
-        "old-price": "₹19,999",
-        "discount": "20% off",
-        "delivery-type": "Free delivery"
+        "new_price": "15999",
+        "old_price": "19999",
+        "discount": "20",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "LG 19M 18.5 inches HD LED Backlit TN Panel Monitor (19M38AB)",
@@ -515,10 +516,10 @@
         "more-data4": "Brightness: 200 nits",
         "more-data5": "Response Time: 5 ms | Refresh Rate: 60 Hz",
         "more-data6": "3 Years Onsite Warranty",
-        "new-price": "₹7,599",
-        "old-price": "₹8,600",
-        "discount": "11% off",
-        "delivery-type": "Free delivery"
+        "new_price": "7599",
+        "old_price": "86",
+        "discount": "11",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "LG 18.5 inch HD LED Backlit TN Panel Monitor (19M38HB-B.BTRS)",
@@ -532,10 +533,10 @@
         "more-data4": "Brightness: 200 nits",
         "more-data5": "Response Time: 5 ms | Refresh Rate: 60 Hz",
         "more-data6": "HDMI Ports - 1",
-        "new-price": "₹7,859",
-        "old-price": "₹9,200",
-        "discount": "14% off",
-        "delivery-type": "Free delivery"
+        "new_price": "7859",
+        "old_price": "92",
+        "discount": "14",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "BenQ ENTERTAINMENT 27 inch Full HD LED Backlit Ultra Slim Bezel Monitor (EW2780)",
@@ -548,10 +549,10 @@
         "more-data3": "Response Time: 5 ms | Refresh Rate: 75 Hz",
         "more-data4": "HDMI Ports - 3",
         "more-data5": "3 YEARS ONSITE",
-        "new-price": "₹16,990",
-        "old-price": "₹24,990",
-        "discount": "32% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1699",
+        "old_price": "2499",
+        "discount": "32",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "DELL E-Series 24 inch Full HD LED Backlit IPS Panel Monitor (E2422HN)",
@@ -565,10 +566,10 @@
         "more-data4": "Response Time: 5 ms | Refresh Rate: 60 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 Years Domestic Warranty",
-        "new-price": "₹11,999",
-        "old-price": "₹29,599",
-        "discount": "59% off",
-        "delivery-type": "Free delivery"
+        "new_price": "11999",
+        "old_price": "29599",
+        "discount": "59",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "LG M39 19.5 inch HD LED Backlit TN Panel Wall Mountable Monitor (20M39A)",
@@ -582,10 +583,10 @@
         "more-data4": "Brightness: 200 nits",
         "more-data5": "Response Time: 5 ms | Refresh Rate: 60 Hz",
         "more-data6": "3 Years Warranty",
-        "new-price": "₹8,499",
-        "old-price": "₹9,600",
-        "discount": "11% off",
-        "delivery-type": "Free delivery"
+        "new_price": "8499",
+        "old_price": "96",
+        "discount": "11",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "acer 21.5 inch Full HD LED Backlit VA Panel Monitor (22CV1Q)",
@@ -599,10 +600,10 @@
         "more-data4": "Response Time: 5 ms | Refresh Rate: 75 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 Years Warranty",
-        "new-price": "₹9,099",
-        "old-price": "₹13,000",
-        "discount": "30% off",
-        "delivery-type": "Free delivery"
+        "new_price": "999",
+        "old_price": "13",
+        "discount": "30",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "LG UltraGear 24 Inch Full HD IPS Panel Gaming Monitor (24GN600)",
@@ -613,10 +614,11 @@
         "more-data4": "Response Time: 1 ms",
         "more-data5": "HDMI Ports - 2",
         "more-data6": "1 Year Warranty Parts and Labor",
-        "new-price": "₹15,499",
-        "old-price": "₹21,888",
-        "discount": "29% off",
-        "delivery-type": "Free delivery"
+        "new_price": "15499",
+        "old_price": "21888",
+        "discount": "29",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "description": "Lenovo Q - Series 23.8 inch Full HD LED Backlit IPS Panel with TUV Eyesafe Vision Health Board Certifi...",
@@ -630,10 +632,10 @@
         "more-data4": "Response Time: 4 ms",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 Years Warranty",
-        "new-price": "₹14,489",
-        "old-price": "₹17,190",
-        "discount": "15% off",
-        "delivery-type": "Free delivery"
+        "new_price": "14489",
+        "old_price": "1719",
+        "discount": "15",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "BenQ 22 inch Full HD LED Backlit VA Panel Monitor (GW2280)",
@@ -647,10 +649,10 @@
         "more-data4": "Response Time: 5 ms | Refresh Rate: 60 Hz",
         "more-data5": "HDMI Ports - 2",
         "more-data6": "3 Year Limited Warranty",
-        "new-price": "₹10,250",
-        "old-price": "₹12,990",
-        "discount": "21% off",
-        "delivery-type": "Free delivery"
+        "new_price": "125",
+        "old_price": "1299",
+        "discount": "21",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "Enter 19 inch HD LED Backlit Gaming Monitor (E-M0-A01)",
@@ -662,10 +664,10 @@
         "more-data2": "Response Time: 5 ms",
         "more-data3": "HDMI Ports - 1",
         "more-data4": "1 Year, by Brand",
-        "new-price": "₹5,185",
-        "old-price": "₹8,999",
-        "discount": "42% off",
-        "delivery-type": "Free delivery"
+        "new_price": "5185",
+        "old_price": "8999",
+        "discount": "42",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "Enter 15.4 inch HD Monitor (E-MO-A08)",
@@ -676,10 +678,10 @@
         "more-data": "Screen Resolution Type: HD",
         "more-data2": "Response Time: 3 ms | Refresh Rate: 75 Hz",
         "more-data3": "1 Year",
-        "new-price": "₹3,599",
-        "old-price": "₹3,995",
-        "discount": "9% off",
-        "delivery-type": "Free delivery"
+        "new_price": "3599",
+        "old_price": "3995",
+        "discount": "9",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "MSI Optix 23.6 inch Curved Full HD VA Panel Gaming Monitor (Optix G24C4)",
@@ -692,10 +694,10 @@
         "more-data3": "Brightness: 250 nits",
         "more-data4": "Response Time: 1 ms | Refresh Rate: 144 Hz",
         "more-data5": "3 Year Manufucature warranty",
-        "new-price": "₹15,499",
-        "old-price": "₹24,000",
-        "discount": "35% off",
-        "delivery-type": "Free delivery"
+        "new_price": "15499",
+        "old_price": "24",
+        "discount": "35",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "LG 31.5 inch Full HD LED Backlit Monitor (32SP510M-PM.ATRELPN)",
@@ -707,10 +709,10 @@
         "more-data2": "Response Time: 8 ms | Refresh Rate: 75 Hz",
         "more-data3": "HDMI Ports - 2",
         "more-data4": "3 Years Warranty (Parts and Labor)",
-        "new-price": "₹19,190",
-        "old-price": "₹20,000",
-        "discount": "4% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1919",
+        "old_price": "2",
+        "discount": "4",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "LG 21.5 inch Full HD IPS Panel Ultra Thin Monitor (22MK600M)",
@@ -724,10 +726,10 @@
         "more-data4": "Brightness: 250 nits",
         "more-data5": "Response Time: 5 ms | Refresh Rate: 75 Hz",
         "more-data6": "HDMI Ports - 2",
-        "new-price": "₹11,099",
-        "old-price": "₹13,000",
-        "discount": "14% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1199",
+        "old_price": "13",
+        "discount": "14",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "acer 19.5 inch HD LED Backlit TN Panel Monitor (20CH1Q)",
@@ -741,10 +743,10 @@
         "more-data4": "Brightness: 200 nits",
         "more-data5": "Response Time: 5 ms | Refresh Rate: 60 Hz",
         "more-data6": "HDMI Ports - 1",
-        "new-price": "₹7,299",
-        "old-price": "₹11,500",
-        "discount": "36% off",
-        "delivery-type": "Free delivery"
+        "new_price": "7299",
+        "old_price": "115",
+        "discount": "36",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "LG 24 inch Full HD LED Backlit IPS Panel White Colour Monitor (24MP88HV-SB.ATRLMVN)",
@@ -758,10 +760,10 @@
         "more-data4": "Response Time: 5 ms | Refresh Rate: 75 Hz",
         "more-data5": "HDMI Ports - 2",
         "more-data6": "3 Years Onsite Warranty",
-        "new-price": "₹16,999",
-        "old-price": "₹21,000",
-        "discount": "19% off",
-        "delivery-type": "Free delivery"
+        "new_price": "16999",
+        "old_price": "21",
+        "discount": "19",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "Lenovo 18.5 inch HD TN Panel Monitor (D19-10)",
@@ -775,10 +777,10 @@
         "more-data4": "Brightness: 200 nits",
         "more-data5": "Response Time: 5 ms | Refresh Rate: 60 Hz",
         "more-data6": "HDMI Ports - 1",
-        "new-price": "₹7,999",
-        "old-price": "₹11,190",
-        "discount": "28% off",
-        "delivery-type": "Free delivery"
+        "new_price": "7999",
+        "old_price": "1119",
+        "discount": "28",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "SAMSUNG 23.8 inch Curved Full HD LED Backlit VA Panel Monitor (LC24F390FHWXXL)",
@@ -792,10 +794,10 @@
         "more-data4": "Brightness: 250 nits",
         "more-data5": "Response Time: 4 ms | Refresh Rate: 60 Hz",
         "more-data6": "HDMI Ports - 1",
-        "new-price": "₹11,819",
-        "old-price": "₹16,510",
-        "discount": "28% off",
-        "delivery-type": "Free delivery"
+        "new_price": "11819",
+        "old_price": "1651",
+        "discount": "28",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "SAMSUNG 27 inch Full HD IPS Panel Gaming Monitor (LS27AG300NWXXL)",
@@ -809,10 +811,10 @@
         "more-data4": "Response Time: 1 ms | Refresh Rate: 144 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 Years Domestic Warranty",
-        "new-price": "₹18,999",
-        "old-price": "₹23,500",
-        "discount": "19% off",
-        "delivery-type": "Free delivery"
+        "new_price": "18999",
+        "old_price": "235",
+        "discount": "19",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "ZEBRONICS 18.5 inch HD HDMI, VGA Input, HD 1366 x 768, 16.7M Colors, Glossy Panel, Slim Design, Wall M...",
@@ -823,10 +825,10 @@
         "more-data": "Screen Resolution Type: HD",
         "more-data2": "Response Time: 8 ms",
         "more-data3": "1 year carry into service center",
-        "new-price": "₹5,699",
-        "old-price": "₹6,999",
-        "discount": "18% off",
-        "delivery-type": "Free delivery"
+        "new_price": "5699",
+        "old_price": "6999",
+        "discount": "18",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "SAMSUNG 24 inch Full HD LED Backlit IPS Panel Monitor (LF24T350FHWXXL)",
@@ -838,10 +840,10 @@
         "more-data2": "Screen Resolution Type: Full HD",
         "more-data3": "Response Time: 5 ms | Refresh Rate: 75 Hz",
         "more-data4": "3 Years Warranty",
-        "new-price": "₹11,699",
-        "old-price": "₹19,100",
-        "discount": "38% off",
-        "delivery-type": "Free delivery"
+        "new_price": "11699",
+        "old_price": "191",
+        "discount": "38",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "ZEBRONICS 21.5 inch Full HD Wall mountable, Anti-Glare display, Sleek Design Monitor (Zeb-A22FHD LED)",
@@ -855,10 +857,10 @@
         "more-data4": "Brightness: 250 nits",
         "more-data5": "Response Time: 5 ms",
         "more-data6": "HDMI Ports - 1",
-        "new-price": "₹7,499",
-        "old-price": "₹21,999",
-        "discount": "65% off",
-        "delivery-type": "Free delivery"
+        "new_price": "7499",
+        "old_price": "21999",
+        "discount": "65",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "DELL 19.5 inch HD Monitor (D2020H)",
@@ -871,10 +873,10 @@
         "more-data3": "Response Time: 5 ms",
         "more-data4": "HDMI Ports - 1",
         "more-data5": "3 YEARS DELL INDIA WARRANTY",
-        "new-price": "₹8,299",
-        "old-price": "₹12,529",
-        "discount": "33% off",
-        "delivery-type": "Free delivery"
+        "new_price": "8299",
+        "old_price": "12529",
+        "discount": "33",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "SAMSUNG 22 inch Full HD IPS Panel Monitor (LF22T354FHWXXL)",
@@ -888,10 +890,10 @@
         "more-data4": "Response Time: 5 ms | Refresh Rate: 75 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 Years Domestic Warranty",
-        "new-price": "₹10,199",
-        "old-price": "₹17,290",
-        "discount": "41% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1199",
+        "old_price": "1729",
+        "discount": "41",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "SAMSUNG 22 inch Full HD LED Backlit IPS Panel Monitor (LF22T352FHWXXL)",
@@ -904,10 +906,10 @@
         "more-data3": "VGA Support | HDMI",
         "more-data4": "Response Time: 5 ms",
         "more-data5": "3 Year Domestic Warranty",
-        "new-price": "₹11,950",
-        "old-price": "₹14,300",
-        "discount": "16% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1195",
+        "old_price": "143",
+        "discount": "16",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "LG 24 inch Full HD LED Backlit IPS Panel White Colour Monitor (24MK600M)",
@@ -921,10 +923,10 @@
         "more-data4": "Brightness: 250 nits",
         "more-data5": "Response Time: 5 ms | Refresh Rate: 75 Hz",
         "more-data6": "HDMI Ports - 2",
-        "new-price": "₹13,499",
-        "old-price": "₹16,500",
-        "discount": "18% off",
-        "delivery-type": "Free delivery"
+        "new_price": "13499",
+        "old_price": "165",
+        "discount": "18",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "ZEBRONICS 27 inch Full HD Monitor (ZEB-A27FHD Ultra slim LED monitor with 68.5cm,75Hz refresh rate)",
@@ -937,10 +939,10 @@
         "more-data3": "Brightness: 250 nits",
         "more-data4": "Response Time: 12 ms",
         "more-data5": "Three year carry into service centre",
-        "new-price": "₹12,999",
-        "old-price": "₹27,999",
-        "discount": "53% off",
-        "delivery-type": "Free delivery"
+        "new_price": "12999",
+        "old_price": "27999",
+        "discount": "53",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "LG 22 inch Full HD LED Backlit IPS Panel Monitor (22MP68VQ)",
@@ -954,10 +956,10 @@
         "more-data4": "Brightness: 250 nits",
         "more-data5": "Response Time: 5 ms | Refresh Rate: 75 Hz",
         "more-data6": "HDMI Ports - 1",
-        "new-price": "₹11,499",
-        "old-price": "₹14,250",
-        "discount": "19% off",
-        "delivery-type": "Free delivery"
+        "new_price": "11499",
+        "old_price": "1425",
+        "discount": "19",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "AOC 23.8 inch Full HD Monitor (24B2XH)",
@@ -968,9 +970,9 @@
         "more-data": "Screen Resolution Type: Full HD",
         "more-data2": "Response Time: 8 ms",
         "more-data3": "3 Years on Site Warranty",
-        "new-price": "₹10,799",
-        "old-price": "₹14,490",
-        "discount": "25% off"
+        "new_price": "1799",
+        "old_price": "1449",
+        "discount": "25"
     },
     {
         "description": "acer 21.5 inch Full HD IPS Panel White Colour Monitor (HA220Q)",
@@ -984,10 +986,10 @@
         "more-data4": "Inbuilt Speaker",
         "more-data5": "Brightness: 250 nits",
         "more-data6": "Response Time: 4 ms | Refresh Rate: 75 Hz",
-        "new-price": "₹11,499",
-        "old-price": "₹15,700",
-        "discount": "26% off",
-        "delivery-type": "Free delivery"
+        "new_price": "11499",
+        "old_price": "157",
+        "discount": "26",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "acer Nitro 23.8 inch Full HD LED Backlit IPS Panel Gaming Monitor (VG240Y)",
@@ -1001,10 +1003,10 @@
         "more-data4": "Response Time: 0.5 ms | Refresh Rate: 165 Hz",
         "more-data5": "HDMI Ports - 2",
         "more-data6": "3 Years Onsite Warranty from Date of Purchase",
-        "new-price": "₹14,995",
-        "old-price": "₹17,500",
-        "discount": "14% off",
-        "delivery-type": "Free delivery"
+        "new_price": "14995",
+        "old_price": "175",
+        "discount": "14",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "DELL S Series 24 inch Full HD IPS Panel Monitor (S2421HN)",
@@ -1017,10 +1019,10 @@
         "more-data3": "Response Time: 4 ms | Refresh Rate: 75 Hz",
         "more-data4": "HDMI Ports - 2",
         "more-data5": "3 Years Warranty",
-        "new-price": "₹13,899",
-        "old-price": "₹20,849",
-        "discount": "33% off",
-        "delivery-type": "Free delivery"
+        "new_price": "13899",
+        "old_price": "2849",
+        "discount": "33",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "DELL S Series 27 inch Full HD IPS Panel Ultra Slim Bezel Monitor (S2721HN)",
@@ -1033,10 +1035,10 @@
         "more-data3": "Response Time: 4 ms | Refresh Rate: 75 Hz",
         "more-data4": "HDMI Ports - 2",
         "more-data5": "3 Years Warranty",
-        "new-price": "₹16,899",
-        "old-price": "₹28,719",
-        "discount": "41% off",
-        "delivery-type": "Free delivery"
+        "new_price": "16899",
+        "old_price": "28719",
+        "discount": "41",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "acer 23.8 inch Full HD LED Backlit IPS Panel Monitor (HA240Y)",
@@ -1050,10 +1052,10 @@
         "more-data4": "Response Time: 4 ms | Refresh Rate: 75 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 Years on Site",
-        "new-price": "₹12,399",
-        "old-price": "₹13,532",
-        "discount": "8% off",
-        "delivery-type": "Free delivery"
+        "new_price": "12399",
+        "old_price": "13532",
+        "discount": "8",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "SAMSUNG 26.5 inch Curved Full HD VA Panel Frameless Monitor (LC27F390FHWXXL)",
@@ -1065,10 +1067,10 @@
         "more-data2": "Screen Resolution Type: Full HD",
         "more-data3": "Response Time: 4 ms | Refresh Rate: 60 Hz",
         "more-data4": "3 Years Warranty",
-        "new-price": "₹15,499",
-        "old-price": "₹24,700",
-        "discount": "37% off",
-        "delivery-type": "Free delivery"
+        "new_price": "15499",
+        "old_price": "247",
+        "discount": "37",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "HP 23.8 inch Full HD LED Backlit IPS Panel White Colour Monitor (M24fwa)",
@@ -1082,10 +1084,10 @@
         "more-data4": "Response Time: 5 ms | Refresh Rate: 60 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 Years Warranty Provided by the Manufacturer from Date of Purchase",
-        "new-price": "₹15,499",
-        "old-price": "₹17,500",
-        "discount": "11% off",
-        "delivery-type": "Free delivery"
+        "new_price": "15499",
+        "old_price": "175",
+        "discount": "11",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "HP M Series 21.5 inch Full HD LED Backlit IPS Panel Monitor (M22f)",
@@ -1099,10 +1101,10 @@
         "more-data4": "Response Time: 5 ms | Refresh Rate: 75 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 year domestic onsite manufacturer warranty on the device from the date of purchase. In case of any technical/product related queries, please call 1800-258-7170 or 1860-258-3079.",
-        "new-price": "₹13,299",
-        "old-price": "₹14,876",
-        "discount": "10% off",
-        "delivery-type": "Free delivery"
+        "new_price": "13299",
+        "old_price": "14876",
+        "discount": "10",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "BenQ 23.8 inch Full HD LED Backlit IPS Panel Monitor (GW2480)",
@@ -1116,10 +1118,10 @@
         "more-data4": "Inbuilt Speaker",
         "more-data5": "Brightness: 250 nits",
         "more-data6": "Response Time: 5 ms | Refresh Rate: 60 Hz",
-        "new-price": "₹12,500",
-        "old-price": "₹15,990",
-        "discount": "21% off",
-        "delivery-type": "Free delivery"
+        "new_price": "125",
+        "old_price": "1599",
+        "discount": "21",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "BenQ 27 inch Full HD LED Backlit IPS Panel Monitor (GW2780)",
@@ -1133,10 +1135,10 @@
         "more-data4": "Response Time: 5 ms | Refresh Rate: 60 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 Years Warranty",
-        "new-price": "₹15,490",
-        "old-price": "₹19,990",
-        "discount": "22% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1549",
+        "old_price": "1999",
+        "discount": "22",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "acer Nitro 21.5 inch Full HD LED Backlit VA Panel Monitor (QG221Q)",
@@ -1150,10 +1152,10 @@
         "more-data4": "Response Time: 1 ms | Refresh Rate: 75 Hz",
         "more-data5": "HDMI Ports - 2",
         "more-data6": "3 Years Warranty",
-        "new-price": "₹10,599",
-        "old-price": "₹15,600",
-        "discount": "32% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1599",
+        "old_price": "156",
+        "discount": "32",
+        "delivery_type": "Free delivery"
     },
     {
         "description": "acer 19.5 inch HD+ LED Backlit TN Panel Monitor (V206HQL)",
@@ -1167,9 +1169,9 @@
         "more-data4": "Response Time: 5 ms | Refresh Rate: 60 Hz",
         "more-data5": "HDMI Ports - 1",
         "more-data6": "3 Years Warranty",
-        "new-price": "₹7,999",
-        "old-price": "₹9,000",
-        "discount": "11% off",
-        "delivery-type": "Free delivery"
+        "new_price": "7999",
+        "old_price": "9",
+        "discount": "11",
+        "delivery_type": "Free delivery"
     }
 ]

@@ -5,10 +5,10 @@
         "color": "Black, True Wireless",
         "stars": "3.7",
         "reviews": "(8,317)",
-        "new-price": "₹499",
-        "old-price": "₹1,999",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "499",
+        "old_price": "1999",
+        "discount": "75",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/i12s-ma05-plus-shine-original-imag6tkj5eewhqwj.jpeg",
@@ -16,10 +16,10 @@
         "color": "White, True Wireless",
         "stars": "3.7",
         "reviews": "(4,917)",
-        "new-price": "₹356",
-        "old-price": "₹1,599",
-        "discount": "77% off",
-        "delivery-type": "Free delivery"
+        "new_price": "356",
+        "old_price": "1599",
+        "discount": "77",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/air-buds-mini-truly-wireless-noise-original-imag74hycpspckgk.jpeg",
@@ -27,10 +27,10 @@
         "color": "Pearl White, True Wireless",
         "stars": "3.9",
         "reviews": "(1,28,904)",
-        "new-price": "₹1,299",
-        "old-price": "₹2,999",
-        "discount": "56% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1299",
+        "old_price": "2999",
+        "discount": "56",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/air-tune-buds-true-wireless-bluetooth-headset-xtune-avlokan-original-imagd32zhd2ykwjs.jpeg",
@@ -38,10 +38,10 @@
         "color": "Black, True Wireless",
         "stars": "3.6",
         "reviews": "(11,975)",
-        "new-price": "₹399",
-        "old-price": "₹1,299",
-        "discount": "69% off",
-        "delivery-type": "Free delivery"
+        "new_price": "399",
+        "old_price": "1299",
+        "discount": "69",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/earbuds-in-ear-sensor-bluetooth-touch-control-headset-with-original-imagdvyztwhhskn6.jpeg",
@@ -49,10 +49,10 @@
         "color": "White, True Wireless",
         "stars": "3.8",
         "reviews": "(194)",
-        "new-price": "₹449",
-        "old-price": "₹2,299",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "449",
+        "old_price": "2299",
+        "discount": "80",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/airdopes-131-airdopes-138-boat-original-imag5yz96jehyqrg.jpeg",
@@ -60,10 +60,10 @@
         "color": "Active Black, True Wireless",
         "stars": "4.1",
         "reviews": "(8,51,053)",
-        "new-price": "₹1,299",
-        "old-price": "₹2,990",
-        "discount": "56% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1299",
+        "old_price": "299",
+        "discount": "56",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/airdopes-131-boat-original-imag5yzanjduekzn.jpeg",
@@ -71,19 +71,20 @@
         "color": "Ivory White, In the Ear",
         "stars": "4.1",
         "reviews": "(8,51,053)",
-        "new-price": "₹1,299",
-        "old-price": "₹2,990",
-        "discount": "56% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1299",
+        "old_price": "299",
+        "discount": "56",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/new-arrival-xi-aomi-red-mii-handfree-note-8-7-pro-a3-k20-pro-original-imafv7judzxzmzzb.jpeg",
         "description": "Headrick Wired Earphones Powerful HD Sound High Bass Ga...",
         "color": "Black, In the Ear",
-        "new-price": "₹159",
-        "old-price": "₹500",
-        "discount": "68% off",
-        "delivery-type": "Bank Offer"
+        "new_price": "159",
+        "old_price": "5",
+        "discount": "68",
+        "delivery_type": "Bank Offer",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img0/my-dots-series-true-wireless-earbuds-with-20-hours-battery-original-imagcccq3kz4mytz.jpeg",
@@ -91,10 +92,10 @@
         "color": "Black, True Wireless",
         "stars": "3.8",
         "reviews": "(1,058)",
-        "new-price": "₹549",
-        "old-price": "₹2,999",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "549",
+        "old_price": "2999",
+        "discount": "81",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/bassheads-100-boat-original-imag4tgdrpxfh3pk.jpeg",
@@ -102,10 +103,10 @@
         "color": "Black, In the Ear",
         "stars": "4.3",
         "reviews": "(11,46,960)",
-        "new-price": "₹399",
-        "old-price": "₹999",
-        "discount": "60% off",
-        "delivery-type": "Bank Offer"
+        "new_price": "399",
+        "old_price": "999",
+        "discount": "60",
+        "delivery_type": "Bank Offer"
     },
     {
         "image": "res/img0/tws-l-21-dayneo-original-imaftz7gjwt2hzjb.jpeg",
@@ -113,10 +114,10 @@
         "color": "Black, True Wireless",
         "stars": "3.6",
         "reviews": "(8,436)",
-        "new-price": "₹499",
-        "old-price": "₹3,999",
-        "discount": "87% off",
-        "delivery-type": "Free delivery"
+        "new_price": "499",
+        "old_price": "3999",
+        "discount": "87",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/-original-imag8z6gjjnctgqt.jpeg",
@@ -124,10 +125,10 @@
         "color": "Black, True Wireless",
         "stars": "3.9",
         "reviews": "(67,782)",
-        "new-price": "₹1,299",
-        "old-price": "₹4,999",
-        "discount": "74% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1299",
+        "old_price": "4999",
+        "discount": "74",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/s21-truke-original-imag6v6gghe7yhpv.jpeg",
@@ -135,10 +136,10 @@
         "color": "Black, True Wireless",
         "stars": "4",
         "reviews": "(34,977)",
-        "new-price": "₹1,299",
-        "old-price": "₹3,999",
-        "discount": "67% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1299",
+        "old_price": "3999",
+        "discount": "67",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/rma2010-realme-original-imag54ey5mxggzcy.jpeg",
@@ -146,10 +147,10 @@
         "color": "Black, True Wireless",
         "stars": "4",
         "reviews": "(1,03,310)",
-        "new-price": "₹1,399",
-        "old-price": "₹2,499",
-        "discount": "44% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1399",
+        "old_price": "2499",
+        "discount": "44",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/-original-imagdffhsbfz743n.jpeg",
@@ -157,10 +158,10 @@
         "color": "Black, In the Ear",
         "stars": "4.2",
         "reviews": "(15,591)",
-        "new-price": "₹1,599",
-        "old-price": "₹2,999",
-        "discount": "46% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1599",
+        "old_price": "2999",
+        "discount": "46",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/rock-series-single-bluetooth-headset-with-12-hours-of-call-time-original-imag5v8ymyfjqxpg.jpeg",
@@ -168,10 +169,10 @@
         "color": "White, True Wireless",
         "stars": "3.4",
         "reviews": "(81)",
-        "new-price": "₹499",
-        "old-price": "₹1,999",
-        "discount": "75% off",
-        "delivery-type": "Bank Offer"
+        "new_price": "499",
+        "old_price": "1999",
+        "discount": "75",
+        "delivery_type": "Bank Offer"
     },
     {
         "image": "res/img0/2000mah-voice-assistance-led-display-touchpad-tws-earbuds-original-imagcb6pxhjyzwax.jpeg",
@@ -179,10 +180,10 @@
         "color": "Black, True Wireless",
         "stars": "4.1",
         "reviews": "(150)",
-        "new-price": "₹999",
-        "old-price": "₹2,499",
-        "discount": "60% off",
-        "delivery-type": "Free delivery"
+        "new_price": "999",
+        "old_price": "2499",
+        "discount": "60",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/-original-imag8z6gfvsgchzj.jpeg",
@@ -190,10 +191,10 @@
         "color": "Grey, True Wireless",
         "stars": "3.8",
         "reviews": "(12,382)",
-        "new-price": "₹999",
-        "old-price": "₹7,999",
-        "discount": "87% off",
-        "delivery-type": "Free delivery"
+        "new_price": "999",
+        "old_price": "7999",
+        "discount": "87",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/rma2105-realme-original-imagcsfvjhsygg6x.jpeg",
@@ -201,19 +202,20 @@
         "color": "Starry Blue, True Wireless",
         "stars": "4.2",
         "reviews": "(5,357)",
-        "new-price": "₹3,999",
-        "old-price": "₹5,999",
-        "discount": "33% off",
-        "delivery-type": "Free delivery"
+        "new_price": "3999",
+        "old_price": "5999",
+        "discount": "33",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/kluzie-earphone-deep-bass-sound-premium-original-imafg2rhqkfvvmgs.jpeg",
         "description": "Headrick 100% Original Earphone Perfect bass handsfree ...",
         "color": "White, In the Ear",
-        "new-price": "₹168",
-        "old-price": "₹500",
-        "discount": "66% off",
-        "delivery-type": "Bank Offer"
+        "new_price": "168",
+        "old_price": "5",
+        "discount": "66",
+        "delivery_type": "Bank Offer",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img0/bassheads-103-boat-original-imafx6sbc2qmsvzt.jpeg",
@@ -221,10 +223,10 @@
         "color": "Mint Blue, In the Ear",
         "stars": "4.3",
         "reviews": "(4,99,788)",
-        "new-price": "₹499",
-        "old-price": "₹1,290",
-        "discount": "61% off",
-        "delivery-type": "Bank Offer"
+        "new_price": "499",
+        "old_price": "129",
+        "discount": "61",
+        "delivery_type": "Bank Offer"
     },
     {
         "image": "res/img0/in-ear-bluetooth-headsets-catbull-original-imafs8ggypx37pzc.jpeg",
@@ -232,10 +234,10 @@
         "color": "Black, True Wireless",
         "stars": "3.4",
         "reviews": "(73,714)",
-        "new-price": "₹168",
-        "old-price": "₹499",
-        "discount": "66% off",
-        "delivery-type": "Bank Offer"
+        "new_price": "168",
+        "old_price": "499",
+        "discount": "66",
+        "delivery_type": "Bank Offer"
     },
     {
         "image": "res/img0/nord-buds-oneplus-original-imagdmxba5hjgzxd.jpeg",
@@ -243,18 +245,19 @@
         "color": "Black Slate, True Wireless",
         "stars": "4.5",
         "reviews": "(452)",
-        "new-price": "₹2,799",
-        "old-price": "₹2,999",
-        "discount": "6% off"
+        "new_price": "2799",
+        "old_price": "2999",
+        "discount": "6"
     },
     {
         "image": "res/img0/at-x80e-bluetooth-truly-wireless-in-ear-earbuds-with-mic-aiwa-original-imagahtp7tvjzrvy.jpeg",
         "description": "Aiwa AT-X80E Bluetooth Truly Wireless in Ear Earbuds wi...",
         "color": "White, True Wireless",
-        "new-price": "₹995",
-        "old-price": "₹3,350",
-        "discount": "70% off",
-        "delivery-type": "Free delivery"
+        "new_price": "995",
+        "old_price": "335",
+        "discount": "70",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img0/airdopes-131-airdopes-138-boat-original-imag5yzacvxdzu6p.jpeg",
@@ -262,10 +265,10 @@
         "color": "Cherry Blossom, True Wireless",
         "stars": "4.1",
         "reviews": "(8,51,053)",
-        "new-price": "₹1,299",
-        "old-price": "₹2,990",
-        "discount": "56% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1299",
+        "old_price": "299",
+        "discount": "56",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/ydjc01jy-mi-original-imaft7gypyfhhpjr.jpeg",
@@ -273,10 +276,10 @@
         "color": "Blue, Black, In the Ear",
         "stars": "4.3",
         "reviews": "(7,30,292)",
-        "new-price": "₹429",
-        "old-price": "₹599",
-        "discount": "28% off",
-        "delivery-type": "Bank Offer"
+        "new_price": "429",
+        "old_price": "599",
+        "discount": "28",
+        "delivery_type": "Bank Offer"
     },
     {
         "image": "res/img0/eti81-eti82-oppo-original-imag7szsu66kqugv.jpeg",
@@ -284,10 +287,10 @@
         "color": "Blue, True Wireless",
         "stars": "4.2",
         "reviews": "(61,656)",
-        "new-price": "₹1,799",
-        "old-price": "₹3,999",
-        "discount": "55% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1799",
+        "old_price": "3999",
+        "discount": "55",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/storm-4-true-wireless-ear-buds-with-upto-120-hours-playtime-bv5-original-imagct6ufnth2ebx.jpeg",
@@ -295,10 +298,10 @@
         "color": "Black, True Wireless",
         "stars": "3.7",
         "reviews": "(6)",
-        "new-price": "₹1,699",
-        "old-price": "₹7,999",
-        "discount": "78% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1699",
+        "old_price": "7999",
+        "discount": "78",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/nord-buds-oneplus-original-imagdkhgdvwgugx5.jpeg",
@@ -306,10 +309,10 @@
         "color": "White Marble, True Wireless",
         "stars": "4.5",
         "reviews": "(452)",
-        "new-price": "₹2,799",
-        "old-price": "₹2,999",
-        "discount": "6% off",
-        "delivery-type": "Free delivery"
+        "new_price": "2799",
+        "old_price": "2999",
+        "discount": "6",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/-original-imagddshbh6jhbnt.jpeg",
@@ -317,10 +320,10 @@
         "color": "Green, In the Ear",
         "stars": "4.2",
         "reviews": "(15,591)",
-        "new-price": "₹1,599",
-        "old-price": "₹2,999",
-        "discount": "46% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1599",
+        "old_price": "2999",
+        "discount": "46",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/-original-imaga4m7bc96fyrb.jpeg",
@@ -328,9 +331,9 @@
         "color": "White, True Wireless",
         "stars": "4.1",
         "reviews": "(10,479)",
-        "new-price": "₹1,499",
-        "old-price": "₹5,499",
-        "discount": "72% off"
+        "new_price": "1499",
+        "old_price": "5499",
+        "discount": "72"
     },
     {
         "image": "res/img0/b097-truke-original-imag5cf7866egnxp.jpeg",
@@ -338,10 +341,10 @@
         "color": "Blue, True Wireless",
         "stars": "3.9",
         "reviews": "(42,370)",
-        "new-price": "₹899",
-        "old-price": "₹2,799",
-        "discount": "67% off",
-        "delivery-type": "Free delivery"
+        "new_price": "899",
+        "old_price": "2799",
+        "discount": "67",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/grand-with-power-bank-function-upto-75-hours-playtime-hoppup-original-imagbgdxxw55pgar.jpeg",
@@ -349,10 +352,10 @@
         "color": "Black, True Wireless",
         "stars": "3.9",
         "reviews": "(7,448)",
-        "new-price": "₹799",
-        "old-price": "₹2,999",
-        "discount": "73% off",
-        "delivery-type": "Free delivery"
+        "new_price": "799",
+        "old_price": "2999",
+        "discount": "73",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/airdopes-131-boat-original-imag5yzavdqcub9r.jpeg",
@@ -360,10 +363,10 @@
         "color": "Viper Green, In the Ear",
         "stars": "4.1",
         "reviews": "(8,51,053)",
-        "new-price": "₹1,299",
-        "old-price": "₹2,990",
-        "discount": "56% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1299",
+        "old_price": "299",
+        "discount": "56",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/eti81-eti82-oppo-original-imag7szs9dcxyrhs.jpeg",
@@ -371,10 +374,10 @@
         "color": "White, True Wireless",
         "stars": "4.2",
         "reviews": "(61,656)",
-        "new-price": "₹1,799",
-        "old-price": "₹3,999",
-        "discount": "55% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1799",
+        "old_price": "3999",
+        "discount": "55",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/airjams-gamex-bluetooth-5-2-gaming-headphone-wireless-earbuds-original-imaga2agx53gvgxx.jpeg",
@@ -382,10 +385,10 @@
         "color": "Black, True Wireless",
         "stars": "4.1",
         "reviews": "(1,353)",
-        "new-price": "₹1,299",
-        "old-price": "₹3,000",
-        "discount": "56% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1299",
+        "old_price": "3",
+        "discount": "56",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/-original-imag8f6g8fbd3ry2.jpeg",
@@ -393,10 +396,10 @@
         "color": "Active Black, True Wireless",
         "stars": "3.9",
         "reviews": "(2,36,698)",
-        "new-price": "₹1,799",
-        "old-price": "₹5,990",
-        "discount": "69% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1799",
+        "old_price": "599",
+        "discount": "69",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/t-2-tws-with-power-bank-hq-digiclues-original-imagdhw5hxrpgfty.jpeg",
@@ -404,10 +407,10 @@
         "color": "Black, True Wireless",
         "stars": "3.8",
         "reviews": "(188)",
-        "new-price": "₹999",
-        "old-price": "₹3,999",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "999",
+        "old_price": "3999",
+        "discount": "75",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/-original-imagd3xdgq9q5k6f.jpeg",
@@ -415,10 +418,10 @@
         "color": "Raging Red, True Wireless",
         "stars": "4",
         "reviews": "(4,059)",
-        "new-price": "₹1,399",
-        "old-price": "₹2,990",
-        "discount": "53% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1399",
+        "old_price": "299",
+        "discount": "53",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/magnet-k1-i7-pack3-bluetooth-headset-without-mic-black-white-in-original-imagcu5ueuka4pyr.jpeg",
@@ -426,10 +429,10 @@
         "color": "Black, White, In the Ear",
         "stars": "3.6",
         "reviews": "(1,889)",
-        "new-price": "₹445",
-        "old-price": "₹1,999",
-        "discount": "77% off",
-        "delivery-type": "Free delivery"
+        "new_price": "445",
+        "old_price": "1999",
+        "discount": "77",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/-original-imagcyma7kzg97xr.jpeg",
@@ -437,10 +440,10 @@
         "color": "Pearl White, True Wireless",
         "stars": "4.1",
         "reviews": "(69,205)",
-        "new-price": "₹1,099",
-        "old-price": "₹2,999",
-        "discount": "63% off",
-        "delivery-type": "Free delivery"
+        "new_price": "199",
+        "old_price": "2999",
+        "discount": "63",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/pods-true-wireless-with-portable-charging-case-sensor-touch-nkl-original-imagydjgahuk4qdz.jpeg",
@@ -448,10 +451,10 @@
         "color": "White, True Wireless",
         "stars": "3.7",
         "reviews": "(320)",
-        "new-price": "₹399",
-        "old-price": "₹1,999",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "399",
+        "old_price": "1999",
+        "discount": "80",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/-original-imagcymasb9kxfsy.jpeg",
@@ -459,9 +462,9 @@
         "color": "Jet Black, True Wireless",
         "stars": "4.1",
         "reviews": "(69,205)",
-        "new-price": "₹1,099",
-        "old-price": "₹2,999",
-        "discount": "63% off"
+        "new_price": "199",
+        "old_price": "2999",
+        "discount": "63"
     },
     {
         "image": "res/img0/in-ear-bluetooth-headsets-catbull-original-imafs8ggypx37pzc.jpeg",
@@ -469,10 +472,10 @@
         "color": "Black, True Wireless",
         "stars": "3.5",
         "reviews": "(26,681)",
-        "new-price": "₹167",
-        "old-price": "₹699",
-        "discount": "76% off",
-        "delivery-type": "Bank Offer"
+        "new_price": "167",
+        "old_price": "699",
+        "discount": "76",
+        "delivery_type": "Bank Offer"
     },
     {
         "image": "res/img0/airdopes-131-airdopes-138-boat-original-imag5yz9sfz9bzq8.jpeg",
@@ -480,10 +483,10 @@
         "color": "Midnight Blue, True Wireless",
         "stars": "4.1",
         "reviews": "(8,51,053)",
-        "new-price": "₹1,299",
-        "old-price": "₹2,990",
-        "discount": "56% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1299",
+        "old_price": "299",
+        "discount": "56",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/bassheads-242-boat-original-imafvcfg7zepvqps.jpeg",
@@ -491,10 +494,10 @@
         "color": "Red, In the Ear",
         "stars": "4.3",
         "reviews": "(4,66,185)",
-        "new-price": "₹499",
-        "old-price": "₹1,490",
-        "discount": "66% off",
-        "delivery-type": "Bank Offer"
+        "new_price": "499",
+        "old_price": "149",
+        "discount": "66",
+        "delivery_type": "Bank Offer"
     },
     {
         "image": "res/img0/gp-321-champ-earphone-ubon-original-imafuf7pppfqtbs5.jpeg",
@@ -502,10 +505,10 @@
         "color": "Black, In the Ear",
         "stars": "3.8",
         "reviews": "(1,930)",
-        "new-price": "₹179",
-        "old-price": "₹249",
-        "discount": "28% off",
-        "delivery-type": "Free delivery"
+        "new_price": "179",
+        "old_price": "249",
+        "discount": "28",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/381-with-asap-charge-microphone-v5-0-10-hrs-battery-backup-original-imag2ycy2nqzkczn.jpeg",
@@ -513,10 +516,10 @@
         "color": "Black, True Wireless",
         "stars": "3.7",
         "reviews": "(737)",
-        "new-price": "₹799",
-        "old-price": "₹3,495",
-        "discount": "77% off",
-        "delivery-type": "Free delivery"
+        "new_price": "799",
+        "old_price": "3495",
+        "discount": "77",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/rma2003-realme-original-imafzh4g9cmfefgm.jpeg",
@@ -524,10 +527,10 @@
         "color": "Closer Black, True Wireless",
         "stars": "4.1",
         "reviews": "(1,11,713)",
-        "new-price": "₹2,999",
-        "old-price": "₹4,999",
-        "discount": "40% off",
-        "delivery-type": "Free delivery"
+        "new_price": "2999",
+        "old_price": "4999",
+        "discount": "40",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/airdopes-131-boat-original-imag5yz95hccezzd.jpeg",
@@ -535,10 +538,10 @@
         "color": "Crimson Cream, In the Ear",
         "stars": "4.1",
         "reviews": "(8,51,053)",
-        "new-price": "₹1,299",
-        "old-price": "₹2,990",
-        "discount": "56% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1299",
+        "old_price": "299",
+        "discount": "56",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/rma2010-realme-original-imag54eybt7meu7r.jpeg",
@@ -546,10 +549,10 @@
         "color": "Blue, True Wireless",
         "stars": "4",
         "reviews": "(1,03,310)",
-        "new-price": "₹1,599",
-        "old-price": "₹2,499",
-        "discount": "36% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1599",
+        "old_price": "2499",
+        "discount": "36",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/s21-truke-original-imag6y8swhtygkyh.jpeg",
@@ -557,10 +560,10 @@
         "color": "Blue, True Wireless",
         "stars": "4",
         "reviews": "(34,977)",
-        "new-price": "₹1,399",
-        "old-price": "₹3,999",
-        "discount": "65% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1399",
+        "old_price": "3999",
+        "discount": "65",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/freesolo-x3-bluetooth-gaming-earbuds-with-60ms-low-latency-30-original-imagagyyqgqjze3g.jpeg",
@@ -568,10 +571,10 @@
         "color": "Black, True Wireless",
         "stars": "4.2",
         "reviews": "(2,076)",
-        "new-price": "₹1,199",
-        "old-price": "₹4,999",
-        "discount": "76% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1199",
+        "old_price": "4999",
+        "discount": "76",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/bassheads-242-boat-original-imafvcfgxhfysyhh.jpeg",
@@ -579,10 +582,10 @@
         "color": "Blue, In the Ear",
         "stars": "4.3",
         "reviews": "(4,66,185)",
-        "new-price": "₹499",
-        "old-price": "₹1,490",
-        "discount": "66% off",
-        "delivery-type": "Bank Offer"
+        "new_price": "499",
+        "old_price": "149",
+        "discount": "66",
+        "delivery_type": "Bank Offer"
     },
     {
         "image": "res/img0/airdopes-381-airdopes-383-boat-original-imag5ygavs8eryqw.jpeg",
@@ -590,10 +593,10 @@
         "color": "Active Black, True Wireless",
         "stars": "3.9",
         "reviews": "(2,26,594)",
-        "new-price": "₹2,199",
-        "old-price": "₹4,990",
-        "discount": "55% off",
-        "delivery-type": "Free delivery"
+        "new_price": "2199",
+        "old_price": "499",
+        "discount": "55",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/-original-imagcyjmh3abykcy.jpeg",
@@ -601,10 +604,10 @@
         "color": "Navy, True Wireless",
         "stars": "4.1",
         "reviews": "(14)",
-        "new-price": "₹9,999",
-        "old-price": "₹15,999",
-        "discount": "37% off",
-        "delivery-type": "Free delivery"
+        "new_price": "9999",
+        "old_price": "15999",
+        "discount": "37",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/sync-with-bluetooth-5-1-type-c-fast-charging-hoppup-original-imagcrt7jxfgdfyh.jpeg",
@@ -612,10 +615,10 @@
         "color": "Black, True Wireless",
         "stars": "4",
         "reviews": "(1,834)",
-        "new-price": "₹699",
-        "old-price": "₹1,499",
-        "discount": "53% off",
-        "delivery-type": "Free delivery"
+        "new_price": "699",
+        "old_price": "1499",
+        "discount": "53",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/-original-imagcfktmstgpybw.jpeg",
@@ -623,10 +626,10 @@
         "color": "Grey, In the Ear",
         "stars": "3.9",
         "reviews": "(34,136)",
-        "new-price": "₹299",
-        "old-price": "₹999",
-        "discount": "70% off",
-        "delivery-type": "Free delivery"
+        "new_price": "299",
+        "old_price": "999",
+        "discount": "70",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/b097-truke-original-imagfukbrmg3uyde.jpeg",
@@ -634,10 +637,10 @@
         "color": "Black, True Wireless",
         "stars": "3.9",
         "reviews": "(42,370)",
-        "new-price": "₹899",
-        "old-price": "₹2,799",
-        "discount": "67% off",
-        "delivery-type": "Free delivery"
+        "new_price": "899",
+        "old_price": "2799",
+        "discount": "67",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/military-series-true-wireless-headset-with-20-hours-battery-original-imagbammmeqzbsgh.jpeg",
@@ -645,10 +648,10 @@
         "color": "Dark Green, True Wireless",
         "stars": "4.1",
         "reviews": "(31)",
-        "new-price": "₹1,089",
-        "old-price": "₹2,999",
-        "discount": "63% off",
-        "delivery-type": "Free delivery"
+        "new_price": "189",
+        "old_price": "2999",
+        "discount": "63",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/-original-imagcg3rfdfcfh2v.jpeg",
@@ -656,10 +659,10 @@
         "color": "White, True Wireless",
         "stars": "4.1",
         "reviews": "(1,872)",
-        "new-price": "₹1,999",
-        "old-price": "₹3,990",
-        "discount": "49% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1999",
+        "old_price": "399",
+        "discount": "49",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/e21-truke-original-imagfp8fbsz6qbgx.jpeg",
@@ -667,10 +670,10 @@
         "color": "Black, True Wireless",
         "stars": "4",
         "reviews": "(41,873)",
-        "new-price": "₹1,199",
-        "old-price": "₹3,499",
-        "discount": "65% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1199",
+        "old_price": "3499",
+        "discount": "65",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/magnet-k1-i7-pack3-bluetooth-headset-without-mic-black-white-in-original-imagcu5ueuka4pyr.jpeg",
@@ -678,10 +681,10 @@
         "color": "Black, White, In the Ear",
         "stars": "3.6",
         "reviews": "(1,889)",
-        "new-price": "₹445",
-        "old-price": "₹1,999",
-        "discount": "77% off",
-        "delivery-type": "Free delivery"
+        "new_price": "445",
+        "old_price": "1999",
+        "discount": "77",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/-original-imagcye9whgfbhna.jpeg",
@@ -689,10 +692,10 @@
         "color": "Black, True Wireless",
         "stars": "3.7",
         "reviews": "(3,301)",
-        "new-price": "₹1,299",
-        "old-price": "₹5,999",
-        "discount": "78% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1299",
+        "old_price": "5999",
+        "discount": "78",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/rma2008-realme-original-imag6ge7xabedfhg.jpeg",
@@ -700,10 +703,10 @@
         "color": "Black, In the Ear",
         "stars": "4",
         "reviews": "(10,860)",
-        "new-price": "₹1,999",
-        "old-price": "₹3,499",
-        "discount": "42% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1999",
+        "old_price": "3499",
+        "discount": "42",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/-original-imagcpt573zcxx2q.jpeg",
@@ -711,10 +714,10 @@
         "color": "Blue, True Wireless",
         "stars": "4.1",
         "reviews": "(1,872)",
-        "new-price": "₹1,999",
-        "old-price": "₹3,990",
-        "discount": "49% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1999",
+        "old_price": "399",
+        "discount": "49",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/moonwalk-mini-in-ear-true-wireless-bluetooth-earbuds-with-mic-original-imagfz6wme6stkgu.jpeg",
@@ -722,19 +725,20 @@
         "color": "Black, True Wireless",
         "stars": "3.9",
         "reviews": "(23,304)",
-        "new-price": "₹699",
-        "old-price": "₹1,999",
-        "discount": "65% off",
-        "delivery-type": "Free delivery"
+        "new_price": "699",
+        "old_price": "1999",
+        "discount": "65",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/bassbuds-dope-true-wireless-v5-0-bluetooth-earbuds-enter-go-original-imag5wfdb7dhtyyy.jpeg",
         "description": "Enter Go BASSBUDS Dope true wireless v5.0 Bluetooth EAR...",
         "color": "Black, True Wireless",
-        "new-price": "₹949",
-        "old-price": "₹1,495",
-        "discount": "36% off",
-        "delivery-type": "Free delivery"
+        "new_price": "949",
+        "old_price": "1495",
+        "discount": "36",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img0/bassheads-242-boat-original-imafvcfhytrasrhe.jpeg",
@@ -742,10 +746,10 @@
         "color": "Neon Green, In the Ear",
         "stars": "4.3",
         "reviews": "(4,66,185)",
-        "new-price": "₹499",
-        "old-price": "₹1,490",
-        "discount": "66% off",
-        "delivery-type": "Bank Offer"
+        "new_price": "499",
+        "old_price": "149",
+        "discount": "66",
+        "delivery_type": "Bank Offer"
     },
     {
         "image": "res/img0/a6s-tws-bluetooth-earbuds-bluetooth-headset-mp3-player-grostar-original-imagfqf4xfvzehve.jpeg",
@@ -753,10 +757,10 @@
         "color": "Black, True Wireless",
         "stars": "3.5",
         "reviews": "(1,700)",
-        "new-price": "₹499",
-        "old-price": "₹1,999",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "499",
+        "old_price": "1999",
+        "discount": "75",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/led-display-tws-earbuds-royalrich-original-imag7cgdq4sfzymc.jpeg",
@@ -764,10 +768,10 @@
         "color": "Black, True Wireless",
         "stars": "4",
         "reviews": "(821)",
-        "new-price": "₹949",
-        "old-price": "₹2,499",
-        "discount": "62% off",
-        "delivery-type": "Free delivery"
+        "new_price": "949",
+        "old_price": "2499",
+        "discount": "62",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/portable-bassbud-majestic-wireless-bluetooth-headphone-enter-go-original-imafwgftrvffjtqc.jpeg",
@@ -775,10 +779,10 @@
         "color": "Black, True Wireless",
         "stars": "3.3",
         "reviews": "(3)",
-        "new-price": "₹970",
-        "old-price": "₹1,995",
-        "discount": "51% off",
-        "delivery-type": "Free delivery"
+        "new_price": "97",
+        "old_price": "1995",
+        "discount": "51",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/tws-blutooth-headset-with-mic-and-touch-plus-shine-original-imag84dmxh5qg8wx.jpeg",
@@ -786,10 +790,10 @@
         "color": "White, True Wireless",
         "stars": "3.4",
         "reviews": "(2,418)",
-        "new-price": "₹331",
-        "old-price": "₹1,999",
-        "discount": "83% off",
-        "delivery-type": "Free delivery"
+        "new_price": "331",
+        "old_price": "1999",
+        "discount": "83",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/-original-imagcyzhybgpe3yn.jpeg",
@@ -797,10 +801,10 @@
         "color": "Galaxy White, True Wireless",
         "stars": "4.2",
         "reviews": "(5,357)",
-        "new-price": "₹3,999",
-        "old-price": "₹5,999",
-        "discount": "33% off",
-        "delivery-type": "Free delivery"
+        "new_price": "3999",
+        "old_price": "5999",
+        "discount": "33",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/-original-imag9g44yx95cud2.jpeg",
@@ -808,10 +812,10 @@
         "color": "Black, True Wireless",
         "stars": "4.3",
         "reviews": "(5,712)",
-        "new-price": "₹5,999",
-        "old-price": "₹8,499",
-        "discount": "29% off",
-        "delivery-type": "Free delivery"
+        "new_price": "5999",
+        "old_price": "8499",
+        "discount": "29",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/i12-tws-with-charging-case-wireless-bluetooth-headset-royal-scot-original-imag4jvje7pgr4a9.jpeg",
@@ -819,10 +823,10 @@
         "color": "White, True Wireless",
         "stars": "3.3",
         "reviews": "(1,107)",
-        "new-price": "₹474",
-        "old-price": "₹1,199",
-        "discount": "60% off",
-        "delivery-type": "Free delivery"
+        "new_price": "474",
+        "old_price": "1199",
+        "discount": "60",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/buds-z2-truly-wireless-earbuds-oneplus-original-imagapfcp38gzydz.jpeg",
@@ -830,9 +834,9 @@
         "color": "Obsidian Black, In the Ear",
         "stars": "4.2",
         "reviews": "(9,823)",
-        "new-price": "₹4,999",
-        "old-price": "₹5,999",
-        "discount": "16% off"
+        "new_price": "4999",
+        "old_price": "5999",
+        "discount": "16"
     },
     {
         "image": "res/img0/airbass-gearpods-boult-audio-original-imag72hmzxqm9xxs.jpeg",
@@ -840,10 +844,10 @@
         "color": "Black, True Wireless",
         "stars": "3.7",
         "reviews": "(42,327)",
-        "new-price": "₹1,499",
-        "old-price": "₹5,999",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1499",
+        "old_price": "5999",
+        "discount": "75",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/-original-imag8z6gjjnctgqt.jpeg",
@@ -851,10 +855,10 @@
         "color": "Black, True Wireless",
         "stars": "3.9",
         "reviews": "(67,782)",
-        "new-price": "₹1,299",
-        "old-price": "₹4,999",
-        "discount": "74% off",
-        "delivery-type": "Free delivery"
+        "new_price": "1299",
+        "old_price": "4999",
+        "discount": "74",
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img0/airplay-tws-buds-with-digital-display-ipx5-callmate-original-imag3hstwazfgyx9.jpeg",
@@ -862,9 +866,9 @@
         "color": "Black, True Wireless",
         "stars": "3.4",
         "reviews": "(376)",
-        "new-price": "₹901",
-        "old-price": "₹2,499",
-        "discount": "63% off",
-        "delivery-type": "Free delivery"
+        "new_price": "91",
+        "old_price": "2499",
+        "discount": "63",
+        "delivery_type": "Free delivery"
     }
 ]

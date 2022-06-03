@@ -3,1080 +3,1200 @@
         "image": "res/img2/38-dlm035-deelmo-original-imafsh9xgtdhtzwf.jpeg",
         "brand": "DIGIMI",
         "description": "Men Regular Fit Solid Button Down Collar Casual Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,399",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1399",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.5"
     },
     {
         "image": "res/img2/m-sws5103-allan-peter-original-imagak5h27gdtzxz.jpeg",
         "brand": "allan peter",
         "description": "Men Regular Fit Printed Casual Shirt",
-        "new-price": "₹449",
-        "old-price": "₹1,379",
-        "discount": "67% off",
-        "delivery-type": "Free delivery"
+        "new_price": "449",
+        "old_price": "1379",
+        "discount": "67",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img2/m-pk19sh09g-surhi-original-imaft8vgvhmhbhsy.jpeg",
         "brand": "Surhi",
         "description": "Men Slim Fit Checkered Spread Collar Casual Shirt",
-        "new-price": "₹279",
-        "old-price": "₹1,999",
-        "discount": "86% off",
-        "delivery-type": "Free delivery"
+        "new_price": "279",
+        "old_price": "1999",
+        "discount": "86",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img2/s-black-5-jai-textiles-original-imag42m5hcfue7np.jpeg",
         "brand": "Jai Textiles",
         "description": "Men Slim Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹386",
-        "old-price": "₹1,899",
-        "discount": "79% off",
-        "delivery-type": "Free delivery"
+        "new_price": "386",
+        "old_price": "1899",
+        "discount": "79",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img2/xxl-st2-vebnor-original-imagcsujaggmjyux.jpeg",
         "brand": "VeBNoR",
         "description": "Men Regular Fit Solid Button Down Collar Casual Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,849",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1849",
+        "discount": "81",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img2/m-st2-vebnor-original-imagdbvtz3bwk642.jpeg",
         "brand": "VeBNoR",
         "description": "Men Regular Fit Solid Button Down Collar Casual Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,849",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1849",
+        "discount": "81",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img2/m-c1276-gespo-original-imafw2gqdztqdkyu.jpeg",
         "brand": "GESPO",
         "description": "Men Regular Fit Solid Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹899",
-        "discount": "72% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "899",
+        "discount": "72",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img2/40-dlm484-deelmo-original-imafn969rxheeent.jpeg",
         "brand": "DEELMO",
         "description": "Men Regular Fit Solid Button Down Collar Casual Shirt",
-        "new-price": "₹449",
-        "old-price": "₹1,399",
-        "discount": "67% off",
-        "delivery-type": "Free delivery"
+        "new_price": "449",
+        "old_price": "1399",
+        "discount": "67",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img2/xl-pz-db-black-pepzo-original-imafwjh9zg6yvd97.jpeg",
         "brand": "Pepzo",
         "description": "Men Regular Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹1,999",
-        "discount": "87% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "1999",
+        "discount": "87",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img2/4-5-years-kbs-try-this-original-imafx5qx9aatphw7.jpeg",
         "brand": "Try This",
         "description": "Men Slim Fit Color Block Spread Collar Casual Shirt",
-        "new-price": "₹309",
-        "old-price": "₹999",
-        "discount": "69% off",
-        "delivery-type": "Free delivery"
+        "new_price": "39",
+        "old_price": "999",
+        "discount": "69",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img2/xxl-tblwtshirtful-sh4-tripr-original-imaf9ajwb3mfbhmh.jpeg",
         "brand": "TRIPR",
         "description": "Men Regular Fit Color Block Casual Shirt",
-        "new-price": "₹281",
-        "old-price": "₹1,399",
-        "discount": "79% off",
-        "delivery-type": "Free delivery"
+        "new_price": "281",
+        "old_price": "1399",
+        "discount": "79",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img2/xl-st408nb-majestic-man-original-imafzhwgfxqk9wkp.jpeg",
         "brand": "Majestic Man",
         "description": "Men Slim Fit Striped Spread Collar Casual Shirt",
-        "new-price": "₹400",
-        "old-price": "₹1,499",
-        "discount": "73% off",
-        "delivery-type": "Free delivery"
+        "new_price": "4",
+        "old_price": "1499",
+        "discount": "73",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.5"
     },
     {
         "image": "res/img2/xl-vx-db-red-voroxy-original-imagaa4yshwvnhsm.jpeg",
         "brand": "Pepzo",
         "description": "Men Regular Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹1,999",
-        "discount": "87% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "1999",
+        "discount": "87",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img2/l-pk19sh09n-surhi-original-imaft8ttegs2zxzh.jpeg",
         "brand": "Surhi",
         "description": "Men Slim Fit Checkered Casual Shirt",
-        "new-price": "₹329",
-        "old-price": "₹1,999",
-        "discount": "83% off",
-        "delivery-type": "Free delivery"
+        "new_price": "329",
+        "old_price": "1999",
+        "discount": "83",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img2/s-ts-shirt1029-tanip-original-imag38a3fen3wmv7.jpeg",
         "brand": "Tanip",
         "description": "Men Regular Fit Checkered Spread Collar Casual Shirt",
-        "new-price": "₹275",
-        "old-price": "₹1,399",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "275",
+        "old_price": "1399",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.5"
     },
     {
         "image": "res/img2/l-ts-shirt1112-tanip-original-imagaeejtfspzzhu.jpeg",
         "brand": "Tanip",
         "description": "Men Regular Fit Checkered Spread Collar Casual Shirt",
-        "new-price": "₹256",
-        "old-price": "₹1,399",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "256",
+        "old_price": "1399",
+        "discount": "81",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img2/s-c301-white-dennis-lingo-original-imafw2ggrk5epcfu.jpeg",
         "brand": "Dennis Lingo",
         "description": "Men Slim Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹450",
-        "old-price": "₹1,849",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "45",
+        "old_price": "1849",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img2/xl-men-regular-super-slim-fit-striped-casual-shirt-icome-original-imagf9q2epye5kks.jpeg",
         "brand": "icome",
         "description": "Men Regular Fit Striped Spread Collar Casual Shirt",
-        "new-price": "₹294",
-        "old-price": "₹899",
-        "discount": "67% off",
-        "delivery-type": "Free delivery"
+        "new_price": "294",
+        "old_price": "899",
+        "discount": "67",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img2/l-pk19sh09w-surhi-original-imaft8zwjzjfxvru.jpeg",
         "brand": "Surhi",
         "description": "Men Slim Fit Checkered Casual Shirt",
-        "new-price": "₹329",
-        "old-price": "₹1,999",
-        "discount": "83% off",
-        "delivery-type": "Free delivery"
+        "new_price": "329",
+        "old_price": "1999",
+        "discount": "83",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img2/l-db-royalblue-khaki-x-men-original-imafkfm3fudedjhr.jpeg",
         "brand": "VTEXX",
         "description": "Men Slim Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹299",
-        "old-price": "₹1,299",
-        "discount": "76% off",
-        "delivery-type": "Free delivery"
+        "new_price": "299",
+        "old_price": "1299",
+        "discount": "76",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img2/l-ts-shirt1083-tanip-original-imag9ugfzkdhprzn.jpeg",
         "brand": "Tanip",
         "description": "Men Slim Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹309",
-        "old-price": "₹1,399",
-        "discount": "77% off",
-        "delivery-type": "Free delivery"
+        "new_price": "39",
+        "old_price": "1399",
+        "discount": "77",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img2/m-pk19sh09b-surhi-original-imaft8w4sdbfhphu.jpeg",
         "brand": "Surhi",
         "description": "Men Slim Fit Checkered Casual Shirt",
-        "new-price": "₹279",
-        "old-price": "₹1,999",
-        "discount": "86% off",
-        "delivery-type": "Free delivery"
+        "new_price": "279",
+        "old_price": "1999",
+        "discount": "86",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img2/s-st2-vebnor-original-imagyhynxeezqumw.jpeg",
         "brand": "VeBNoR",
         "description": "Men Regular Fit Solid Button Down Collar Casual Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,849",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1849",
+        "discount": "81",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img2/l-st401crfswe-majestic-man-original-imafx3mfbtfmf2a4.jpeg",
         "brand": "Majestic Man",
         "description": "Men Slim Fit Striped Spread Collar Casual Shirt",
-        "new-price": "₹386",
-        "old-price": "₹1,499",
-        "discount": "74% off",
-        "delivery-type": "Free delivery"
+        "new_price": "386",
+        "old_price": "1499",
+        "discount": "74",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img2/l-az301-skyblue-dennis-lingo-original-imaf7588mxx5ger7.jpeg",
         "brand": "Dennis Lingo",
         "description": "Men Slim Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹450",
-        "old-price": "₹1,849",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "45",
+        "old_price": "1849",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img2/xl-pz-db-green-pepzo-original-imafwjh9cm3wfnym.jpeg",
         "brand": "Pepzo",
         "description": "Men Regular Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹1,999",
-        "discount": "87% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "1999",
+        "discount": "87",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img2/l-black-trending-shirt-qlonz-store-original-imafmktmchyzhjeq.jpeg",
         "brand": "Qlonz store",
         "description": "Men Regular Fit Solid Mandarin Collar Casual Shirt",
-        "new-price": "₹329",
-        "old-price": "₹1,999",
-        "discount": "83% off",
-        "delivery-type": "Free delivery"
+        "new_price": "329",
+        "old_price": "1999",
+        "discount": "83",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img2/40-dlm9o1-deelmo-original-imafzyd6esdgzg8m.jpeg",
         "brand": "DEELMO",
         "description": "Men Regular Fit Solid Club Collar Casual Shirt",
-        "new-price": "₹449",
-        "old-price": "₹1,399",
-        "discount": "67% off",
-        "delivery-type": "Free delivery"
+        "new_price": "449",
+        "old_price": "1399",
+        "discount": "67",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img2/l-frml-st2-vebnor-original-imag6apmphuh2ayu.jpeg",
         "brand": "VeBNoR",
         "description": "Men Regular Fit Solid Button Down Collar Formal Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,849",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1849",
+        "discount": "81",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img2/s-pz-db-rbluekhaki-pepzo-original-imafwjh9tvzezkfu.jpeg",
         "brand": "Pepzo",
         "description": "Men Regular Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹1,999",
-        "discount": "87% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "1999",
+        "discount": "87",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img2/m-c1273-gespo-original-imafw2gzupzfaqdg.jpeg",
         "brand": "GESPO",
         "description": "Men Regular Fit Solid Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹899",
-        "discount": "72% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "899",
+        "discount": "72",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img2/m-bb-scf-broken-blue-original-imagyjgkfhhmwqa2.jpeg",
         "brand": "Broken Blue",
         "description": "Men Slim Fit Solid Mandarin Collar Casual Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,499",
-        "discount": "76% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1499",
+        "discount": "76",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img2/xl-c301-b-green-dennis-lingo-original-imag42z8fxqvxgzu.jpeg",
         "brand": "Dennis Lingo",
         "description": "Men Slim Fit Solid Slim Collar Casual Shirt",
-        "new-price": "₹450",
-        "old-price": "₹1,849",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "45",
+        "old_price": "1849",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img2/l-c301-dustypink-dennis-lingo-original-imafjvx7b9jguhdv.jpeg",
         "brand": "Dennis Lingo",
         "description": "Men Slim Fit Solid Slim Collar Casual Shirt",
-        "new-price": "₹450",
-        "old-price": "₹1,849",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "45",
+        "old_price": "1849",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img2/l-c301-dustygreen-dennis-lingo-original-imafzvvr7q8zn9kh.jpeg",
         "brand": "Dennis Lingo",
         "description": "Men Slim Fit Solid Slim Collar Casual Shirt",
-        "new-price": "₹450",
-        "old-price": "₹1,849",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "45",
+        "old_price": "1849",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.5"
     },
     {
         "image": "res/img2/44-sh702-sky-blue-36-zombom-original-imag5hadzhphhhr6.jpeg",
         "brand": "ZOMBOM",
         "description": "Men Regular Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹425",
-        "old-price": "₹2,549",
-        "discount": "83% off",
-        "delivery-type": "Free delivery"
+        "new_price": "425",
+        "old_price": "2549",
+        "discount": "83",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img2/xl-new-vingo-white-eviqe-original-imag5hhz8xzakg4j.jpeg",
         "brand": "EVIQE",
         "description": "Men Regular Fit Solid Mandarin Collar Casual Shirt",
-        "new-price": "₹283",
-        "old-price": "₹1,999",
-        "discount": "85% off",
-        "delivery-type": "Free delivery"
+        "new_price": "283",
+        "old_price": "1999",
+        "discount": "85",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img2/s-gg370-gespo-original-imag3y46auhkghhh.jpeg",
         "brand": "GESPO",
         "description": "Men Regular Fit Solid Mandarin Collar Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹899",
-        "discount": "72% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "899",
+        "discount": "72",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img2/xl-white-trending-shirt-qlonz-store-original-imafh87megng23cb.jpeg",
         "brand": "Qlonz store",
         "description": "Men Regular Fit Solid Mandarin Collar Casual Shirt",
-        "new-price": "₹329",
-        "old-price": "₹1,999",
-        "discount": "83% off",
-        "delivery-type": "Free delivery"
+        "new_price": "329",
+        "old_price": "1999",
+        "discount": "83",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img2/l-st201crfswe-majestic-man-original-imafx3fd5grkc4eh.jpeg",
         "brand": "Majestic Man",
         "description": "Men Slim Fit Printed Spread Collar Casual Shirt",
-        "new-price": "₹377",
-        "old-price": "₹1,499",
-        "discount": "74% off",
-        "delivery-type": "Free delivery"
+        "new_price": "377",
+        "old_price": "1499",
+        "discount": "74",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img2/s-rs19stpw08-sb-rope-original-imafw2gt76ckj7st.jpeg",
         "brand": "Rope",
         "description": "Men Regular Fit Striped Spread Collar Casual Shirt",
-        "new-price": "₹376",
-        "old-price": "₹1,499",
-        "discount": "74% off",
-        "delivery-type": "Free delivery"
+        "new_price": "376",
+        "old_price": "1499",
+        "discount": "74",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img2/xxl-frml-st2-vebnor-original-imag6qduuh3efv3w.jpeg",
         "brand": "VeBNoR",
         "description": "Men Regular Fit Solid Button Down Collar Formal Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,849",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1849",
+        "discount": "81",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img2/l-frml-st2-vebnor-original-imag6qbcn8jbyzuf.jpeg",
         "brand": "VeBNoR",
         "description": "Men Regular Fit Solid Button Down Collar Formal Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,849",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1849",
+        "discount": "81",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img2/40-shrt-f-s-101-white-maleno-original-imagc98zbj3t67tq.jpeg",
         "brand": "Maleno",
         "description": "Men Slim Fit Solid Curved Collar Formal Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,899",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1899",
+        "discount": "81",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img2/s-pz-db-white-pepzo-original-imafwjh9twtdqwhf.jpeg",
         "brand": "Pepzo",
         "description": "Men Regular Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹1,999",
-        "discount": "87% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "1999",
+        "discount": "87",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img2/xl-st2-vebnor-original-imagdbfjtkvqcxuy.jpeg",
         "brand": "VeBNoR",
         "description": "Men Regular Fit Solid Button Down Collar Casual Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,849",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1849",
+        "discount": "81",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img2/xl-bss-try-this-original-imafvvadynndeegg.jpeg",
         "brand": "Try This",
         "description": "Men Slim Fit Color Block Spread Collar Casual Shirt",
-        "new-price": "₹315",
-        "old-price": "₹999",
-        "discount": "68% off",
-        "delivery-type": "Free delivery"
+        "new_price": "315",
+        "old_price": "999",
+        "discount": "68",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img2/38-life17-deelmo-original-imaga9yzrffrfjmx.jpeg",
         "brand": "DEELMO",
         "description": "Men Regular Fit Solid Built-up Collar Casual Shirt",
-        "new-price": "₹389",
-        "old-price": "₹1,399",
-        "discount": "72% off",
-        "delivery-type": "Free delivery"
+        "new_price": "389",
+        "old_price": "1399",
+        "discount": "72",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img2/l-skcsh-1106-mao-fubar-original-imafycz5hpfmhhyp.jpeg",
         "brand": "FUBAR",
         "description": "Men Slim Fit Striped Mandarin Collar Casual Shirt",
-        "new-price": "₹376",
-        "old-price": "₹1,499",
-        "discount": "74% off",
-        "delivery-type": "Free delivery"
+        "new_price": "376",
+        "old_price": "1499",
+        "discount": "74",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img2/xl-st2-vebnor-original-imagc7pmjzvszphf.jpeg",
         "brand": "VeBNoR",
         "description": "Men Regular Fit Solid Button Down Collar Casual Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,849",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1849",
+        "discount": "81",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img2/xl-pz-db-pista-pepzo-original-imafwjh9mmgkzfkf.jpeg",
         "brand": "Pepzo",
         "description": "Men Regular Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹1,999",
-        "discount": "87% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "1999",
+        "discount": "87",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img2/m-st256mn-majestic-man-original-imagabc8yfemfrez.jpeg",
         "brand": "Majestic Man",
         "description": "Men Slim Fit Polka Print Mandarin Collar Casual Shirt",
-        "new-price": "₹386",
-        "old-price": "₹1,499",
-        "discount": "74% off",
-        "delivery-type": "Free delivery"
+        "new_price": "386",
+        "old_price": "1499",
+        "discount": "74",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img2/s-0pz-db-orange-pepzo-original-imafy8h6axp4jzw9.jpeg",
         "brand": "Pepzo",
         "description": "Men Regular Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹1,999",
-        "discount": "87% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "1999",
+        "discount": "87",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img2/xxl-men-slim-fit-lining-away-collar-casual-shirt-icome-original-imag4kj8drnaeq5y.jpeg",
         "brand": "icome",
         "description": "Men Regular Fit Striped Cut Away Collar Casual Shirt",
-        "new-price": "₹294",
-        "old-price": "₹1,999",
-        "discount": "85% off",
-        "delivery-type": "Free delivery"
+        "new_price": "294",
+        "old_price": "1999",
+        "discount": "85",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img2/l-st2-vebnor-original-imagdfxye7fn92ts.jpeg",
         "brand": "VeBNoR",
         "description": "Men Regular Fit Solid Button Down Collar Casual Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,849",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1849",
+        "discount": "81",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img2/42-dlms-navy-chk-springberry-original-imagau3zryzjgfer.jpeg",
         "brand": "Springberry",
         "description": "Men Slim Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹386",
-        "old-price": "₹1,999",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "386",
+        "old_price": "1999",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img2/m-bchk-yellow-base-41-original-imag7fbukh8k5ffv.jpeg",
         "brand": "BASE 41",
         "description": "Men Regular Fit Checkered Spread Collar Casual Shirt",
-        "new-price": "₹300",
-        "old-price": "₹1,599",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "3",
+        "old_price": "1599",
+        "discount": "81",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img2/xl-vx-db-navyblue-voroxy-original-imagaa4y5jv7xmgd.jpeg",
         "brand": "Pepzo",
         "description": "Men Regular Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹1,999",
-        "discount": "87% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "1999",
+        "discount": "87",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img2/m-200-combraided-original-imagavxewfgzhbb6.jpeg",
         "brand": "COMBRAIDED",
         "description": "Men Slim Fit Striped Slim Collar Casual Shirt",
-        "new-price": "₹310",
-        "old-price": "₹1,499",
-        "discount": "79% off",
-        "delivery-type": "Free delivery"
+        "new_price": "31",
+        "old_price": "1499",
+        "discount": "79",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img2/m-st116crfsma-majestic-man-original-imafxmra46wgt8gz.jpeg",
         "brand": "Majestic Man",
         "description": "Men Slim Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹400",
-        "old-price": "₹1,499",
-        "discount": "73% off",
-        "delivery-type": "Free delivery"
+        "new_price": "4",
+        "old_price": "1499",
+        "discount": "73",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img2/l-hlsh010019-highlander-original-imafwyf2ywqhbhf8.jpeg",
         "brand": "HIGHLANDER",
         "description": "Men Slim Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹327",
-        "old-price": "₹1,349",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "327",
+        "old_price": "1349",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img2/l-u-147-vh-brother-original-imafvt49dmzzfcvc.jpeg",
         "brand": "COMBRAIDED",
         "description": "Men Regular Fit Floral Print Spread Collar Casual Shirt",
-        "new-price": "₹291",
-        "old-price": "₹1,499",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "291",
+        "old_price": "1499",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.5"
     },
     {
         "image": "res/img2/l-pz-db-darkpink-pepzo-original-imafwjh9svdugvjq.jpeg",
         "brand": "Pepzo",
         "description": "Men Regular Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹1,999",
-        "discount": "87% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "1999",
+        "discount": "87",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img2/l-st213gn-majestic-man-original-imagyhfxaadsmdf9.jpeg",
         "brand": "Majestic Man",
         "description": "Men Slim Fit Printed Spread Collar Casual Shirt",
-        "new-price": "₹400",
-        "old-price": "₹1,499",
-        "discount": "73% off",
-        "delivery-type": "Free delivery"
+        "new_price": "4",
+        "old_price": "1499",
+        "discount": "73",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img2/m-hct06-headzup-original-imafvqsrgbatzpnz.jpeg",
         "brand": "Try This",
         "description": "Men Slim Fit Color Block Spread Collar Casual Shirt",
-        "new-price": "₹315",
-        "old-price": "₹999",
-        "discount": "68% off",
-        "delivery-type": "Free delivery"
+        "new_price": "315",
+        "old_price": "999",
+        "discount": "68",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img2/38-dlm490-deelmo-original-imafn969hccxshnb.jpeg",
         "brand": "DEELMO",
         "description": "Men Regular Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹449",
-        "old-price": "₹1,399",
-        "discount": "67% off",
-        "delivery-type": "Free delivery"
+        "new_price": "449",
+        "old_price": "1399",
+        "discount": "67",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img2/s-d-1274-gespo-original-imag3fggahnrxyf4.jpeg",
         "brand": "GESPO",
         "description": "Men Regular Fit Solid Mandarin Collar Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹899",
-        "discount": "72% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "899",
+        "discount": "72",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.5"
     },
     {
         "image": "res/img2/l-horizontalstripes-little-man-original-imafwzfqchpvdcup.jpeg",
         "brand": "Prag",
         "description": "Men Regular Fit Printed Cut Away Collar Casual Shirt",
-        "new-price": "₹339",
-        "old-price": "₹1,399",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "339",
+        "old_price": "1399",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img2/m-ges2084-gespo-original-imag4g63tgagwdth.jpeg",
         "brand": "GESPO",
         "description": "Men Regular Fit Color Block Button Down Collar Casual S...",
-        "new-price": "₹249",
-        "old-price": "₹1,199",
-        "discount": "79% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "1199",
+        "discount": "79",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img2/40-dlm484-deelmo-original-imafn969rxheeent.jpeg",
         "brand": "DEELMO",
         "description": "Men Regular Fit Solid Button Down Collar Casual Shirt",
-        "new-price": "₹449",
-        "old-price": "₹1,399",
-        "discount": "67% off",
-        "delivery-type": "Free delivery"
+        "new_price": "449",
+        "old_price": "1399",
+        "discount": "67",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img2/l-sws5101-allan-peter-original-imagak5hggw3zzyk.jpeg",
         "brand": "allan peter",
         "description": "Men Regular Fit Printed Casual Shirt",
-        "new-price": "₹449",
-        "old-price": "₹1,379",
-        "discount": "67% off",
-        "delivery-type": "Free delivery"
+        "new_price": "449",
+        "old_price": "1379",
+        "discount": "67",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img2/xl-st232gb-majestic-man-original-imagabaqm7xuz4rz.jpeg",
         "brand": "Majestic Man",
         "description": "Men Slim Fit Polka Print Spread Collar Casual Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,499",
-        "discount": "76% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1499",
+        "discount": "76",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img2/l-khsh000064-ketch-original-imag5zqyhfpszghh.jpeg",
         "brand": "KETCH",
         "description": "Men Slim Fit Checkered Cut Away Collar Casual Shirt",
-        "new-price": "₹179",
-        "old-price": "₹899",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "179",
+        "old_price": "899",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img2/xl-pk19sh09r-surhi-original-imaft953scfuvus8.jpeg",
         "brand": "Surhi",
         "description": "Men Slim Fit Checkered Casual Shirt",
-        "new-price": "₹329",
-        "old-price": "₹1,999",
-        "discount": "83% off",
-        "delivery-type": "Free delivery"
+        "new_price": "329",
+        "old_price": "1999",
+        "discount": "83",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.5"
     },
     {
         "image": "res/img2/xxl-c301-purple-dennis-lingo-original-imagdtnmbksjbgjz.jpeg",
         "brand": "Dennis Lingo",
         "description": "Men Slim Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹450",
-        "old-price": "₹1,849",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "45",
+        "old_price": "1849",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img2/l-st407bk-majestic-man-original-imafzhw9eudfhzx5.jpeg",
         "brand": "Majestic Man",
         "description": "Men Slim Fit Striped Spread Collar Casual Shirt",
-        "new-price": "₹400",
-        "old-price": "₹1,499",
-        "discount": "73% off",
-        "delivery-type": "Free delivery"
+        "new_price": "4",
+        "old_price": "1499",
+        "discount": "73",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img2/xxl-frml-st2-vebnor-original-imag6bkegkwmqv75.jpeg",
         "brand": "VeBNoR",
         "description": "Men Regular Fit Solid Button Down Collar Formal Shirt",
-        "new-price": "₹389",
-        "old-price": "₹1,849",
-        "discount": "78% off",
-        "delivery-type": "Free delivery"
+        "new_price": "389",
+        "old_price": "1849",
+        "discount": "78",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img2/xxl-frml-st2-vebnor-original-imag6at4hgjrvyun.jpeg",
         "brand": "VeBNoR",
         "description": "Men Regular Fit Solid Button Down Collar Formal Shirt",
-        "new-price": "₹389",
-        "old-price": "₹1,849",
-        "discount": "78% off",
-        "delivery-type": "Free delivery"
+        "new_price": "389",
+        "old_price": "1849",
+        "discount": "78",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img2/l-st2-vebnor-original-imagd7b7aeybhxvs.jpeg",
         "brand": "VeBNoR",
         "description": "Men Regular Fit Solid Button Down Collar Casual Shirt",
-        "new-price": "₹369",
-        "old-price": "₹1,849",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "369",
+        "old_price": "1849",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img2/l-001-life-roads-original-imafv7dqff6yuug6.jpeg",
         "brand": "Life Roads",
         "description": "Men Slim Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹386",
-        "old-price": "₹1,999",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "386",
+        "old_price": "1999",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img2/38-dlm035-deelmo-original-imafsh9xgtdhtzwf.jpeg",
         "brand": "DIGIMI",
         "description": "Men Regular Fit Solid Button Down Collar Casual Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,399",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1399",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img2/m-sws5103-allan-peter-original-imagak5h27gdtzxz.jpeg",
         "brand": "allan peter",
         "description": "Men Regular Fit Printed Casual Shirt",
-        "new-price": "₹449",
-        "old-price": "₹1,379",
-        "discount": "67% off",
-        "delivery-type": "Free delivery"
+        "new_price": "449",
+        "old_price": "1379",
+        "discount": "67",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.5"
     },
     {
         "image": "res/img2/m-pk19sh09g-surhi-original-imaft8vgvhmhbhsy.jpeg",
         "brand": "Surhi",
         "description": "Men Slim Fit Checkered Spread Collar Casual Shirt",
-        "new-price": "₹279",
-        "old-price": "₹1,999",
-        "discount": "86% off",
-        "delivery-type": "Free delivery"
+        "new_price": "279",
+        "old_price": "1999",
+        "discount": "86",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img2/s-black-5-jai-textiles-original-imag42m5hcfue7np.jpeg",
         "brand": "Jai Textiles",
         "description": "Men Slim Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹386",
-        "old-price": "₹1,899",
-        "discount": "79% off",
-        "delivery-type": "Free delivery"
+        "new_price": "386",
+        "old_price": "1899",
+        "discount": "79",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img2/xxl-st2-vebnor-original-imagcsujaggmjyux.jpeg",
         "brand": "VeBNoR",
         "description": "Men Regular Fit Solid Button Down Collar Casual Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,849",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1849",
+        "discount": "81",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img2/m-st2-vebnor-original-imagdbvtz3bwk642.jpeg",
         "brand": "VeBNoR",
         "description": "Men Regular Fit Solid Button Down Collar Casual Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,849",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1849",
+        "discount": "81",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img2/m-c1276-gespo-original-imafw2gqdztqdkyu.jpeg",
         "brand": "GESPO",
         "description": "Men Regular Fit Solid Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹899",
-        "discount": "72% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "899",
+        "discount": "72",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img2/xl-st408nb-majestic-man-original-imafzhwgfxqk9wkp.jpeg",
         "brand": "Majestic Man",
         "description": "Men Slim Fit Striped Spread Collar Casual Shirt",
-        "new-price": "₹400",
-        "old-price": "₹1,499",
-        "discount": "73% off",
-        "delivery-type": "Free delivery"
+        "new_price": "4",
+        "old_price": "1499",
+        "discount": "73",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img2/xl-pz-db-black-pepzo-original-imafwjh9zg6yvd97.jpeg",
         "brand": "Pepzo",
         "description": "Men Regular Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹1,999",
-        "discount": "87% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "1999",
+        "discount": "87",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img2/4-5-years-kbs-try-this-original-imafx5qx9aatphw7.jpeg",
         "brand": "Try This",
         "description": "Men Slim Fit Color Block Spread Collar Casual Shirt",
-        "new-price": "₹309",
-        "old-price": "₹999",
-        "discount": "69% off",
-        "delivery-type": "Free delivery"
+        "new_price": "39",
+        "old_price": "999",
+        "discount": "69",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img2/xxl-tblwtshirtful-sh4-tripr-original-imaf9ajwb3mfbhmh.jpeg",
         "brand": "TRIPR",
         "description": "Men Regular Fit Color Block Casual Shirt",
-        "new-price": "₹281",
-        "old-price": "₹1,399",
-        "discount": "79% off",
-        "delivery-type": "Free delivery"
+        "new_price": "281",
+        "old_price": "1399",
+        "discount": "79",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img2/l-ts-shirt1112-tanip-original-imagaeejtfspzzhu.jpeg",
         "brand": "Tanip",
         "description": "Men Regular Fit Checkered Spread Collar Casual Shirt",
-        "new-price": "₹256",
-        "old-price": "₹1,399",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "256",
+        "old_price": "1399",
+        "discount": "81",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img2/xl-vx-db-red-voroxy-original-imagaa4yshwvnhsm.jpeg",
         "brand": "Pepzo",
         "description": "Men Regular Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹1,999",
-        "discount": "87% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "1999",
+        "discount": "87",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img2/l-pk19sh09n-surhi-original-imaft8ttegs2zxzh.jpeg",
         "brand": "Surhi",
         "description": "Men Slim Fit Checkered Casual Shirt",
-        "new-price": "₹329",
-        "old-price": "₹1,999",
-        "discount": "83% off",
-        "delivery-type": "Free delivery"
+        "new_price": "329",
+        "old_price": "1999",
+        "discount": "83",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img2/s-ts-shirt1029-tanip-original-imag38a3fen3wmv7.jpeg",
         "brand": "Tanip",
         "description": "Men Regular Fit Checkered Spread Collar Casual Shirt",
-        "new-price": "₹275",
-        "old-price": "₹1,399",
-        "discount": "80% off",
-        "delivery-type": "Free delivery"
+        "new_price": "275",
+        "old_price": "1399",
+        "discount": "80",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img2/l-db-royalblue-khaki-x-men-original-imafkfm3fudedjhr.jpeg",
         "brand": "VTEXX",
         "description": "Men Slim Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹299",
-        "old-price": "₹1,299",
-        "discount": "76% off",
-        "delivery-type": "Free delivery"
+        "new_price": "299",
+        "old_price": "1299",
+        "discount": "76",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img2/s-c301-white-dennis-lingo-original-imafw2ggrk5epcfu.jpeg",
         "brand": "Dennis Lingo",
         "description": "Men Slim Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹450",
-        "old-price": "₹1,849",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "45",
+        "old_price": "1849",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img2/xl-men-regular-super-slim-fit-striped-casual-shirt-icome-original-imagf9q2epye5kks.jpeg",
         "brand": "icome",
         "description": "Men Regular Fit Striped Spread Collar Casual Shirt",
-        "new-price": "₹294",
-        "old-price": "₹899",
-        "discount": "67% off",
-        "delivery-type": "Free delivery"
+        "new_price": "294",
+        "old_price": "899",
+        "discount": "67",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img2/l-pk19sh09w-surhi-original-imaft8zwjzjfxvru.jpeg",
         "brand": "Surhi",
         "description": "Men Slim Fit Checkered Casual Shirt",
-        "new-price": "₹329",
-        "old-price": "₹1,999",
-        "discount": "83% off",
-        "delivery-type": "Free delivery"
+        "new_price": "329",
+        "old_price": "1999",
+        "discount": "83",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img2/l-st401crfswe-majestic-man-original-imafx3mfbtfmf2a4.jpeg",
         "brand": "Majestic Man",
         "description": "Men Slim Fit Striped Spread Collar Casual Shirt",
-        "new-price": "₹386",
-        "old-price": "₹1,499",
-        "discount": "74% off",
-        "delivery-type": "Free delivery"
+        "new_price": "386",
+        "old_price": "1499",
+        "discount": "74",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img2/l-ts-shirt1083-tanip-original-imag9ugfzkdhprzn.jpeg",
         "brand": "Tanip",
         "description": "Men Slim Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹309",
-        "old-price": "₹1,399",
-        "discount": "77% off",
-        "delivery-type": "Free delivery"
+        "new_price": "39",
+        "old_price": "1399",
+        "discount": "77",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img2/m-pk19sh09b-surhi-original-imaft8w4sdbfhphu.jpeg",
         "brand": "Surhi",
         "description": "Men Slim Fit Checkered Casual Shirt",
-        "new-price": "₹279",
-        "old-price": "₹1,999",
-        "discount": "86% off",
-        "delivery-type": "Free delivery"
+        "new_price": "279",
+        "old_price": "1999",
+        "discount": "86",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img2/s-st2-vebnor-original-imagyhynxeezqumw.jpeg",
         "brand": "VeBNoR",
         "description": "Men Regular Fit Solid Button Down Collar Casual Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,849",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1849",
+        "discount": "81",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img2/40-dlm9o1-deelmo-original-imafzyd6esdgzg8m.jpeg",
         "brand": "DEELMO",
         "description": "Men Regular Fit Solid Club Collar Casual Shirt",
-        "new-price": "₹449",
-        "old-price": "₹1,399",
-        "discount": "67% off",
-        "delivery-type": "Free delivery"
+        "new_price": "449",
+        "old_price": "1399",
+        "discount": "67",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img2/l-az301-skyblue-dennis-lingo-original-imaf7588mxx5ger7.jpeg",
         "brand": "Dennis Lingo",
         "description": "Men Slim Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹450",
-        "old-price": "₹1,849",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "45",
+        "old_price": "1849",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.5"
     },
     {
         "image": "res/img2/xl-pz-db-green-pepzo-original-imafwjh9cm3wfnym.jpeg",
         "brand": "Pepzo",
         "description": "Men Regular Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹1,999",
-        "discount": "87% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "1999",
+        "discount": "87",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.5"
     },
     {
         "image": "res/img2/l-black-trending-shirt-qlonz-store-original-imafmktmchyzhjeq.jpeg",
         "brand": "Qlonz store",
         "description": "Men Regular Fit Solid Mandarin Collar Casual Shirt",
-        "new-price": "₹329",
-        "old-price": "₹1,999",
-        "discount": "83% off",
-        "delivery-type": "Free delivery"
+        "new_price": "329",
+        "old_price": "1999",
+        "discount": "83",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.5"
     },
     {
         "image": "res/img2/44-sh702-sky-blue-36-zombom-original-imag5hadzhphhhr6.jpeg",
         "brand": "ZOMBOM",
         "description": "Men Regular Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹425",
-        "old-price": "₹2,549",
-        "discount": "83% off",
-        "delivery-type": "Free delivery"
+        "new_price": "425",
+        "old_price": "2549",
+        "discount": "83",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img2/l-frml-st2-vebnor-original-imag6apmphuh2ayu.jpeg",
         "brand": "VeBNoR",
         "description": "Men Regular Fit Solid Button Down Collar Formal Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,849",
-        "discount": "81% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1849",
+        "discount": "81",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img2/s-pz-db-rbluekhaki-pepzo-original-imafwjh9tvzezkfu.jpeg",
         "brand": "Pepzo",
         "description": "Men Regular Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹1,999",
-        "discount": "87% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "1999",
+        "discount": "87",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img2/m-c1273-gespo-original-imafw2gzupzfaqdg.jpeg",
         "brand": "GESPO",
         "description": "Men Regular Fit Solid Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹899",
-        "discount": "72% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "899",
+        "discount": "72",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img2/38-dlm490-deelmo-original-imafn969hccxshnb.jpeg",
         "brand": "DEELMO",
         "description": "Men Regular Fit Solid Spread Collar Casual Shirt",
-        "new-price": "₹449",
-        "old-price": "₹1,399",
-        "discount": "67% off",
-        "delivery-type": "Free delivery"
+        "new_price": "449",
+        "old_price": "1399",
+        "discount": "67",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img2/xl-c301-b-green-dennis-lingo-original-imag42z8fxqvxgzu.jpeg",
         "brand": "Dennis Lingo",
         "description": "Men Slim Fit Solid Slim Collar Casual Shirt",
-        "new-price": "₹450",
-        "old-price": "₹1,849",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "45",
+        "old_price": "1849",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img2/l-c301-dustypink-dennis-lingo-original-imafjvx7b9jguhdv.jpeg",
         "brand": "Dennis Lingo",
         "description": "Men Slim Fit Solid Slim Collar Casual Shirt",
-        "new-price": "₹450",
-        "old-price": "₹1,849",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "45",
+        "old_price": "1849",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img2/l-c301-dustygreen-dennis-lingo-original-imafzvvr7q8zn9kh.jpeg",
         "brand": "Dennis Lingo",
         "description": "Men Slim Fit Solid Slim Collar Casual Shirt",
-        "new-price": "₹450",
-        "old-price": "₹1,849",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "45",
+        "old_price": "1849",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img2/l-st201crfswe-majestic-man-original-imafx3fd5grkc4eh.jpeg",
         "brand": "Majestic Man",
         "description": "Men Slim Fit Printed Spread Collar Casual Shirt",
-        "new-price": "₹377",
-        "old-price": "₹1,499",
-        "discount": "74% off",
-        "delivery-type": "Free delivery"
+        "new_price": "377",
+        "old_price": "1499",
+        "discount": "74",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img2/xl-new-vingo-white-eviqe-original-imag5hhz8xzakg4j.jpeg",
         "brand": "EVIQE",
         "description": "Men Regular Fit Solid Mandarin Collar Casual Shirt",
-        "new-price": "₹283",
-        "old-price": "₹1,999",
-        "discount": "85% off",
-        "delivery-type": "Free delivery"
+        "new_price": "283",
+        "old_price": "1999",
+        "discount": "85",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img2/s-gg370-gespo-original-imag3y46auhkghhh.jpeg",
         "brand": "GESPO",
         "description": "Men Regular Fit Solid Mandarin Collar Casual Shirt",
-        "new-price": "₹249",
-        "old-price": "₹899",
-        "discount": "72% off",
-        "delivery-type": "Free delivery"
+        "new_price": "249",
+        "old_price": "899",
+        "discount": "72",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img2/xl-white-trending-shirt-qlonz-store-original-imafh87megng23cb.jpeg",
         "brand": "Qlonz store",
         "description": "Men Regular Fit Solid Mandarin Collar Casual Shirt",
-        "new-price": "₹329",
-        "old-price": "₹1,999",
-        "discount": "83% off",
-        "delivery-type": "Free delivery"
+        "new_price": "329",
+        "old_price": "1999",
+        "discount": "83",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img2/40-dlm032-deelmo-original-imafsbcgqdp5grvm.jpeg",
         "brand": "DEELMO",
         "description": "Men Regular Fit Solid Double Collar Casual Shirt",
-        "new-price": "₹349",
-        "old-price": "₹1,399",
-        "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "new_price": "349",
+        "old_price": "1399",
+        "discount": "75",
+        "delivery_type": "Free delivery",
+        "hidden_stars": "3.7"
     }
 ]
