@@ -3,7 +3,7 @@
     width: 100%;
     height: auto;
     display: inline-block;
-}
+} 
 .filters {
     margin-top: 10px;
     width: 18%;
@@ -127,6 +127,7 @@
 .card-img-width {
     width: 62% !important;
     margin: auto;
+    margin-left: 20%;
 }
 .custom-card-anchor {
     text-decoration: none;
