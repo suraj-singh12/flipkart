@@ -7,7 +7,8 @@
         "old_price": "1999",
         "discount": "60",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.9"
+        "hidden_stars": "3.9",
+        "item_id": 1
     },
     {
         "image": "res/img0/stylish-light-weight-backpack-fvnbbp-backpack-isparro-35-original-imag24xjbghehyzp.jpeg",
@@ -17,7 +18,8 @@
         "old_price": "17",
         "discount": "69",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.1"
+        "hidden_stars": "4.1",
+        "item_id": 2
     },
     {
         "image": "res/img0/48-simna-1555-5-navy-blue-yellow-spacy-comfortable-4th-to-10th-original-imag9xzz2cfqkmjv.jpeg",
@@ -27,7 +29,8 @@
         "old_price": "1599",
         "discount": "66",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.6"
+        "hidden_stars": "3.6",
+        "item_id": 3
     },
     {
         "image": "res/img0/fizz-sch-bag-ff9-0-08-001-backpack-american-tourister-original-imagyw68gn23d7v6.jpeg",
@@ -37,7 +40,8 @@
         "old_price": "23",
         "discount": "52",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.4"
+        "hidden_stars": "4.4",
+        "item_id": 4
     },
     {
         "image": "res/img0/orthzone-unisex-15-6-inch-25-l-casual-waterproof-laptop-travel-original-imagyx2dhukvztrb.jpeg",
@@ -47,7 +51,8 @@
         "old_price": "1999",
         "discount": "68",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.3"
+        "hidden_stars": "4.3",
+        "item_id": 5
     },
     {
         "image": "res/img0/19-casual-backpack-blue-19cbblu-backpack-safari-original-imagyw6zfxrge7um.jpeg",
@@ -57,7 +62,8 @@
         "old_price": "2348",
         "discount": "64",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.6"
+        "hidden_stars": "3.6",
+        "item_id": 6
     },
     {
         "image": "res/img0/daypack-daypackneo15cbseb-backpack-safari-original-imaff26pfe3ezhf2.jpeg",
@@ -67,7 +73,8 @@
         "old_price": "799",
         "discount": "54",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.6"
+        "hidden_stars": "3.6",
+        "item_id": 7
     },
     {
         "image": "res/img0/30-l-casual-waterproof-laptop-backpack-office-bag-school-bag-original-imagfy74prp8nfqc.jpeg",
@@ -76,7 +83,8 @@
         "old_price": "1999",
         "discount": "81",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.0"
+        "hidden_stars": "4.0",
+        "item_id": 8
     },
     {
         "image": "res/img0/15401-red-15401-red-laptop-backpack-flycraft-25-original-imagf5grgjghgxdr.jpeg",
@@ -86,7 +94,8 @@
         "old_price": "1199",
         "discount": "56",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.3"
+        "hidden_stars": "4.3",
+        "item_id": 9
     },
     {
         "image": "res/img0/crossbody-messenger-bag-bb14-sling-bag-blowzy-original-imagypn66zzpszbr.jpeg",
@@ -96,7 +105,8 @@
         "old_price": "1999",
         "discount": "78",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.2"
+        "hidden_stars": "4.2",
+        "item_id": 10
     },
     {
         "image": "res/img0/mod-gs-2777-brown-sling-bag-gold-sky-original-imag678ta3khgsr8.jpeg",
@@ -106,7 +116,8 @@
         "old_price": "2299",
         "discount": "79",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.4"
+        "hidden_stars": "4.4",
+        "item_id": 11
     },
     {
         "image": "res/img0/30-l-casual-waterproof-laptop-backpack-office-bag-school-bag-original-imagfy74sr5gxarj.jpeg",
@@ -116,7 +127,8 @@
         "old_price": "1999",
         "discount": "75",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.4"
+        "hidden_stars": "4.4",
+        "item_id": 12
     },
     {
         "image": "res/img0/cross-body-messenger-sling-bag-for-men-women-messenger-bag-1-18-original-imag6nyy8s64nr8x.jpeg",
@@ -125,7 +137,8 @@
         "new_price": "199",
         "old_price": "799",
         "discount": "75",
-        "hidden_stars": "3.9"
+        "hidden_stars": "3.9",
+        "item_id": 13
     },
     {
         "image": "res/img0/sling-bag-for-men-and-women-1-24-unisex-sling-bag-borahae-18-5-original-imag87fxmavcptty.jpeg",
@@ -135,7 +148,8 @@
         "old_price": "85",
         "discount": "64",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.9"
+        "hidden_stars": "3.9",
+        "item_id": 14
     },
     {
         "image": "res/img0/brown-men-sling-bag-vcal-ms-559-sling-bag-venture-crafts-original-imagf4gfypgp6gyx.jpeg",
@@ -145,7 +159,8 @@
         "old_price": "1899",
         "discount": "79",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.9"
+        "hidden_stars": "3.9",
+        "item_id": 15
     },
     {
         "image": "res/img0/medium-30-l-laptop-backpack-30-l-casual-waterproof-laptop-original-imag8c4askht5ebq.jpeg",
@@ -155,7 +170,8 @@
         "old_price": "1999",
         "discount": "75",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.0"
+        "hidden_stars": "4.0",
+        "item_id": 16
     },
     {
         "image": "res/img0/4-medium-25-l-laptop-backpack-laptop-backpack-laptop-backpack-original-imag9qgwqdmbyewg.jpeg",
@@ -165,7 +181,8 @@
         "old_price": "1999",
         "discount": "80",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.9"
+        "hidden_stars": "3.9",
+        "item_id": 17
     },
     {
         "image": "res/img0/sports-duffel-bg-05-shoe-comptt-gym-bag-sfane-original-imafkf4k3vshvytd.jpeg",
@@ -175,7 +192,8 @@
         "old_price": "1149",
         "discount": "66",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.7"
+        "hidden_stars": "3.7",
+        "item_id": 18
     },
     {
         "image": "res/img0/sam-17-brw-pln-alb-samtroh-original-imafgf56fvf6aybb.jpeg",
@@ -185,7 +203,8 @@
         "old_price": "999",
         "discount": "78",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.2"
+        "hidden_stars": "4.2",
+        "item_id": 19
     },
     {
         "image": "res/img0/55l-travel-backpack-for-outdoor-sport-hiking-blue-rucksack-afn-original-imafp23eykfxxzv3.jpeg",
@@ -195,7 +214,8 @@
         "old_price": "1999",
         "discount": "66",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.0"
+        "hidden_stars": "4.0",
+        "item_id": 20
     },
     {
         "image": "res/img0/step-out-12-liters-water-repellent-backpack-black-25740-backpack-original-imafu7y5r94s5zyx.jpeg",
@@ -205,7 +225,8 @@
         "old_price": "499",
         "discount": "30",
         "delivery_type": "Buy 2 items, save extra 5%",
-        "hidden_stars": "4.2"
+        "hidden_stars": "4.2",
+        "item_id": 21
     },
     {
         "image": "res/img0/black-drawstring-bag-ftebpkmulw109015black-backpack-arctic-fox-original-imafwgr4tyhn8xhu.jpeg",
@@ -215,7 +236,8 @@
         "old_price": "349",
         "discount": "37",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.2"
+        "hidden_stars": "4.2",
+        "item_id": 22
     },
     {
         "image": "res/img0/durable-material-1004-laptop-backpack-drazo-original-imafmzsbvtryxkgz.jpeg",
@@ -224,7 +246,8 @@
         "new_price": "359",
         "old_price": "1299",
         "discount": "72",
-        "hidden_stars": "4.1"
+        "hidden_stars": "4.1",
+        "item_id": 23
     },
     {
         "image": "res/img0/rl-kaka-travel-trekking-stylish-travel-large-capacity-luggage-original-imag6wqts7zbffmt.jpeg",
@@ -234,7 +257,8 @@
         "old_price": "599",
         "discount": "66",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.8"
+        "hidden_stars": "3.8",
+        "item_id": 24
     },
     {
         "image": "res/img0/comet-35l-comet-35l-lunars-original-imafjfqtekrk3mng.jpeg",
@@ -244,7 +268,8 @@
         "old_price": "1699",
         "discount": "55",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.0"
+        "hidden_stars": "4.0",
+        "item_id": 25
     },
     {
         "image": "res/img0/8-simn-1552-1-orange-black-office-travel-laptop-backpack-14-simn-original-imag6r9gcyph8h9m.jpeg",
@@ -254,7 +279,8 @@
         "old_price": "2699",
         "discount": "74",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.9"
+        "hidden_stars": "3.9",
+        "item_id": 26
     },
     {
         "image": "res/img0/spreeusb-19-casual-backpack-blue-spreeusb19cbblu-backpack-safari-original-imagfh3gmcqja3xq.jpeg",
@@ -264,7 +290,8 @@
         "old_price": "2599",
         "discount": "66",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.0"
+        "hidden_stars": "4.0",
+        "item_id": 27
     },
     {
         "image": "res/img0/30-l-casual-waterproof-laptop-backpack-office-bag-school-bag-original-imagfursbqqfcpgf.jpeg",
@@ -274,7 +301,8 @@
         "old_price": "1999",
         "discount": "75",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.9"
+        "hidden_stars": "3.9",
+        "item_id": 28
     },
     {
         "image": "res/img0/h-stylish-nylon-sling-cross-body-travel-office-business-original-imag2mmezffzteez.jpeg",
@@ -284,7 +312,8 @@
         "old_price": "12",
         "discount": "74",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.4"
+        "hidden_stars": "4.4",
+        "item_id": 29
     },
     {
         "image": "res/img0/medium-travels-bags-asb-138139-sling-bag-adamson-original-imafzfzutuakjaea.jpeg",
@@ -294,7 +323,8 @@
         "old_price": "1199",
         "discount": "71",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.7"
+        "hidden_stars": "3.7",
+        "item_id": 30
     },
     {
         "image": "res/img0/12-laptop-sleeve-case-15-6-16-inch-waterproof-bag-tablet-handle-original-imagayhkwurgejzn.jpeg",
@@ -304,7 +334,8 @@
         "old_price": "799",
         "discount": "62",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.8"
+        "hidden_stars": "3.8",
+        "item_id": 31
     },
     {
         "image": "res/img0/medium-30-l-laptop-backpack-30-l-casual-waterproof-laptop-original-imag8c4ab6yamhvz.jpeg",
@@ -314,7 +345,8 @@
         "old_price": "1999",
         "discount": "75",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.2"
+        "hidden_stars": "4.2",
+        "item_id": 32
     },
     {
         "image": "res/img0/curves-adm-016020-sling-bag-adamson-original-imagyw7cka579qff.jpeg",
@@ -324,7 +356,8 @@
         "old_price": "1199",
         "discount": "73",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.1"
+        "hidden_stars": "4.1",
+        "item_id": 33
     },
     {
         "image": "res/img0/small-tourister-7-inch-sling-messenger-bag-for-men-women-sling-original-imaga2pkwcrh3a72.jpeg",
@@ -334,7 +367,8 @@
         "old_price": "1299",
         "discount": "66",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.6"
+        "hidden_stars": "3.6",
+        "item_id": 34
     },
     {
         "image": "res/img0/24-black-gym-bag-for-men-women-with-side-mesh-pocket-for-original-imag8ncuyxzy7gzh.jpeg",
@@ -344,7 +378,8 @@
         "old_price": "999",
         "discount": "74",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.5"
+        "hidden_stars": "3.5",
+        "item_id": 35
     },
     {
         "image": "res/img0/7-pr-7801-grey-multi-purpose-laptop-bag-with-rain-cover-for-men-original-imagbe5thb64jkmx.jpeg",
@@ -354,7 +389,8 @@
         "old_price": "49",
         "discount": "85",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.2"
+        "hidden_stars": "4.2",
+        "item_id": 36
     },
     {
         "image": "res/img0/medium-22-l-laptop-backpack-casual-college-tution-bag-11-asf-5-original-imag9qqpgm9x4mje.jpeg",
@@ -364,7 +400,8 @@
         "old_price": "1999",
         "discount": "80",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.3"
+        "hidden_stars": "4.3",
+        "item_id": 37
     },
     {
         "image": "res/img0/sld01-samtroh-beige-slide-original-imafdg9ymwdzfwea.jpeg",
@@ -374,7 +411,8 @@
         "old_price": "999",
         "discount": "78",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.8"
+        "hidden_stars": "3.8",
+        "item_id": 38
     },
     {
         "image": "res/img0/mist-sch-bag-fg1-0-01-003-backpack-american-tourister-32-5-original-imafwxxgcqa7ynus.jpeg",
@@ -384,7 +422,8 @@
         "old_price": "26",
         "discount": "68",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.0"
+        "hidden_stars": "4.0",
+        "item_id": 39
     },
     {
         "image": "res/img0/medium-28-l-laptop-backpack-28-l-duralite-casual-backpack-for-original-imag8bxyhhyucxgt.jpeg",
@@ -394,7 +433,8 @@
         "old_price": "1999",
         "discount": "76",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.7"
+        "hidden_stars": "3.7",
+        "item_id": 40
     },
     {
         "image": "res/img0/big-storage-hsflame-mx-backpack-zipline-original-imafkc5gghhsyyyy.jpeg",
@@ -404,7 +444,8 @@
         "old_price": "1899",
         "discount": "57",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.9"
+        "hidden_stars": "3.9",
+        "item_id": 41
     },
     {
         "image": "res/img0/simn-1366-1366-backpack-flycraft-30-original-imag2xzzuhgdfwyp.jpeg",
@@ -414,7 +455,8 @@
         "old_price": "199",
         "discount": "51",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.7"
+        "hidden_stars": "3.7",
+        "item_id": 42
     },
     {
         "image": "res/img0/8-simna-1378-large-35-l-airport-blue-spacy-unisex-laptop-original-imag6nekyshrqbpa.jpeg",
@@ -424,7 +466,8 @@
         "old_price": "2999",
         "discount": "76",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.7"
+        "hidden_stars": "3.7",
+        "item_id": 43
     },
     {
         "image": "res/img0/crxl5206-crxl5206-laptop-backpack-croma-20-original-imafy2x6mhgqpacv.jpeg",
@@ -434,7 +477,8 @@
         "old_price": "25",
         "discount": "8",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.6"
+        "hidden_stars": "3.6",
+        "item_id": 44
     },
     {
         "image": "res/img0/simna-1540-5-multi-grey-simna-1540-5-multi-grey-laptop-backpack-original-imagy9hyqcvq4hea.jpeg",
@@ -444,7 +488,8 @@
         "old_price": "1499",
         "discount": "64",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.4"
+        "hidden_stars": "4.4",
+        "item_id": 45
     },
     {
         "image": "res/img0/backpack-bkpjcqurd1401-backpack-gear-29-original-imafvh9srsr4q9hs.jpeg",
@@ -454,7 +499,8 @@
         "old_price": "1299",
         "discount": "44",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.2"
+        "hidden_stars": "4.2",
+        "item_id": 46
     },
     {
         "image": "res/img0/sling-bag-asb-096097-sling-bag-adamson-original-imafxzjz9zky9vh3.jpeg",
@@ -464,7 +510,8 @@
         "old_price": "1199",
         "discount": "73",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.1"
+        "hidden_stars": "4.1",
+        "item_id": 47
     },
     {
         "image": "res/img0/high-quality-50l-travel-laptop-bag-upto-17-3-laptop-with-rain-original-imafxk3zypecyjsx.jpeg",
@@ -474,7 +521,8 @@
         "old_price": "2999",
         "discount": "61",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.9"
+        "hidden_stars": "3.9",
+        "item_id": 48
     },
     {
         "image": "res/img0/side-bag-for-men-sling-bag-crossbody-tablet-messenger-bag-office-original-imagbyfm63pugfpz.jpeg",
@@ -484,7 +532,8 @@
         "old_price": "699",
         "discount": "42",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.0"
+        "hidden_stars": "4.0",
+        "item_id": 49
     },
     {
         "image": "res/img0/sling-bag-mbs02-sling-bag-modfrill-original-imafyrtkgyh7rhtz.jpeg",
@@ -494,7 +543,8 @@
         "old_price": "1999",
         "discount": "81",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.6"
+        "hidden_stars": "3.6",
+        "item_id": 50
     },
     {
         "image": "res/img0/men-sling-bag-dark-brown-02-synthetic-leather-bag-sling-bag-wm-original-imagyh6d3akcyv4k.jpeg",
@@ -504,7 +554,8 @@
         "old_price": "1999",
         "discount": "78",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.0"
+        "hidden_stars": "4.0",
+        "item_id": 51
     },
     {
         "image": "res/img0/stylish-light-weight-backpack-fvsbp-backpack-isparro-35-original-imag23qxg59vwypt.jpeg",
@@ -514,7 +565,8 @@
         "old_price": "15",
         "discount": "64",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.8"
+        "hidden_stars": "3.8",
+        "item_id": 52
     },
     {
         "image": "res/img0/stylish-shoulder-cross-body-office-business-messenger-bag-water-original-imagf6jrumggudfx.jpeg",
@@ -524,7 +576,8 @@
         "old_price": "1299",
         "discount": "69",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.3"
+        "hidden_stars": "4.3",
+        "item_id": 53
     },
     {
         "image": "res/img0/4-medium-25-l-backpack-college-bag-for-men-women-black-11-asb1-original-imag9pf83nr4buhe.jpeg",
@@ -534,7 +587,8 @@
         "old_price": "1999",
         "discount": "80",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.0"
+        "hidden_stars": "4.0",
+        "item_id": 54
     },
     {
         "image": "res/img0/clubsport-dufclbsrt0109-gym-duffel-bag-gear-original-imag5n8syh6vehcj.jpeg",
@@ -544,7 +598,8 @@
         "old_price": "2399",
         "discount": "72",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.4"
+        "hidden_stars": "4.4",
+        "item_id": 55
     },
     {
         "image": "res/img0/high-quality-50l-travel-laptop-bag-upto-17-3-laptop-with-rain-original-imafxk3ztfxmv7hc.jpeg",
@@ -554,7 +609,8 @@
         "old_price": "2999",
         "discount": "61",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.2"
+        "hidden_stars": "4.2",
+        "item_id": 56
     },
     {
         "image": "res/img0/fuzi001-solid-wallet-wild-edge-original-imafy7ryuhq4ajyy.jpeg",
@@ -564,7 +620,8 @@
         "old_price": "999",
         "discount": "76",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.3"
+        "hidden_stars": "4.3",
+        "item_id": 57
     },
     {
         "image": "res/img0/popin-casual-backpack-02-magneta-fu4-0-50-002-backpack-american-original-imafghyhgvghxybu.jpeg",
@@ -574,7 +631,8 @@
         "old_price": "259",
         "discount": "69",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.2"
+        "hidden_stars": "4.2",
+        "item_id": 58
     },
     {
         "image": "res/img0/unisex-military-design-louis-caron-35-original-imafdcgdq2vdrvtt.jpeg",
@@ -584,7 +642,8 @@
         "old_price": "1699",
         "discount": "69",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.1"
+        "hidden_stars": "4.1",
+        "item_id": 59
     },
     {
         "image": "res/img0/medium-30-l-laptop-backpack-school-bag-college-bag-unisex-travel-original-imagc8yhdxjtbta9.jpeg",
@@ -594,7 +653,8 @@
         "old_price": "2999",
         "discount": "84",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.2"
+        "hidden_stars": "4.2",
+        "item_id": 60
     },
     {
         "image": "res/img0/spacy-mel-12144-backpack-wildcraft-original-imaffdnvpbuewbaf.jpeg",
@@ -604,7 +664,8 @@
         "old_price": "2699",
         "discount": "58",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.2"
+        "hidden_stars": "4.2",
+        "item_id": 61
     },
     {
         "image": "res/img0/comet-comet-35l-backpack-lunar-original-imafzzpqxrk4wug6.jpeg",
@@ -614,7 +675,8 @@
         "old_price": "1699",
         "discount": "55",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.6"
+        "hidden_stars": "3.6",
+        "item_id": 62
     },
     {
         "image": "res/img0/comet-35l-comet-35l-lunars-original-imafjfqt8wfwwapf.jpeg",
@@ -624,7 +686,8 @@
         "old_price": "1699",
         "discount": "55",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.6"
+        "hidden_stars": "3.6",
+        "item_id": 63
     },
     {
         "image": "res/img0/comet-3-compartment-premium-quality-office-college-school-travel-original-imag85fqpsmpghdk.jpeg",
@@ -634,7 +697,8 @@
         "old_price": "1999",
         "discount": "58",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.8"
+        "hidden_stars": "3.8",
+        "item_id": 64
     },
     {
         "image": "res/img0/small-backpack-perfect-for-hiking-trip-and-daily-use-original-imagbb3mr2gyvtfp.jpeg",
@@ -644,7 +708,8 @@
         "old_price": "999",
         "discount": "64",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.3"
+        "hidden_stars": "4.3",
+        "item_id": 65
     },
     {
         "image": "res/img0/stylish-shoulder-cross-body-office-business-messenger-bag-water-original-imagf6jrkx9bzqch.jpeg",
@@ -654,7 +719,8 @@
         "old_price": "1299",
         "discount": "69",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.5"
+        "hidden_stars": "3.5",
+        "item_id": 66
     },
     {
         "image": "res/img0/laptop-executive-bag-asb-147149-messenger-bag-adamson-original-imafnbqy3cne54ry.jpeg",
@@ -664,7 +730,8 @@
         "old_price": "1299",
         "discount": "69",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.3"
+        "hidden_stars": "4.3",
+        "item_id": 67
     },
     {
         "image": "res/img0/hammer-057-laptop-backpack-heroz-original-imagyw6hpf4x9pf3.jpeg",
@@ -674,7 +741,8 @@
         "old_price": "32",
         "discount": "62",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.0"
+        "hidden_stars": "4.0",
+        "item_id": 68
     },
     {
         "image": "res/img0/cross-body-sling-kit-messenger-bag-side-bag-extra-spacious-men-original-imagangt6y8yq8tz.jpeg",
@@ -684,7 +752,8 @@
         "old_price": "999",
         "discount": "66",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.7"
+        "hidden_stars": "3.7",
+        "item_id": 69
     },
     {
         "image": "res/img0/topgrain-faux-leather-sling-bag-for-men-women-glossy-leather-original-imag7chzdahysejw.jpeg",
@@ -694,7 +763,8 @@
         "old_price": "1499",
         "discount": "74",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.8"
+        "hidden_stars": "3.8",
+        "item_id": 70
     },
     {
         "image": "res/img0/cross-body-mens-sling-bag-fanto-140-sling-bag-blowzy-bags-original-imafzbzbkageaypv.jpeg",
@@ -704,7 +774,8 @@
         "old_price": "1699",
         "discount": "74",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.0"
+        "hidden_stars": "4.0",
+        "item_id": 71
     },
     {
         "image": "res/img0/bingo-3-compartment-premium-quality-office-college-school-laptop-original-imagf4yxshnxgv9r.jpeg",
@@ -714,7 +785,8 @@
         "old_price": "1999",
         "discount": "59",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.7"
+        "hidden_stars": "3.7",
+        "item_id": 72
     },
     {
         "image": "res/img0/10-stylish-gym-and-best-moving-travel-bag-side-cross-body-for-original-imagaa5kc6dmjqep.jpeg",
@@ -724,7 +796,8 @@
         "old_price": "1299",
         "discount": "69",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.7"
+        "hidden_stars": "3.7",
+        "item_id": 73
     },
     {
         "image": "res/img0/gym-duffel-bag-for-fitness-sports-and-travel-men-boys-girls-original-imagb438sjzyrpm4.jpeg",
@@ -734,7 +807,8 @@
         "old_price": "1499",
         "discount": "82",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.8"
+        "hidden_stars": "3.8",
+        "item_id": 74
     },
     {
         "image": "res/img0/sam-17-brw-pln-alb-samtroh-original-imafgf56fvf6aybb.jpeg",
@@ -744,7 +818,8 @@
         "old_price": "999",
         "discount": "78",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.0"
+        "hidden_stars": "4.0",
+        "item_id": 75
     },
     {
         "image": "res/img0/rl-ep40usb15-bk-na-laptop-backpack-red-lemon-original-imafkkp3gdt9hutb.jpeg",
@@ -754,7 +829,8 @@
         "old_price": "4999",
         "discount": "46",
         "delivery_type": "Free delivery",
-        "hidden_stars": "3.5"
+        "hidden_stars": "3.5",
+        "item_id": 76
     },
     {
         "image": "res/img0/stroke-stroke19cbblk-backpack-safari-original-imag662mr2gqgdsz.jpeg",
@@ -764,7 +840,8 @@
         "old_price": "2599",
         "discount": "73",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.1"
+        "hidden_stars": "4.1",
+        "item_id": 77
     },
     {
         "image": "res/img0/bkpecobp4-gear-backpack-eco-backpack-4-orange-black-original-imaehzjfbz8tkfcp.jpeg",
@@ -774,7 +851,8 @@
         "old_price": "198",
         "discount": "67",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.0"
+        "hidden_stars": "4.0",
+        "item_id": 78
     },
     {
         "image": "res/img0/16-brute-32-brute19cbblk-backpack-safari-26-46-original-imag783grykeh3rd.jpeg",
@@ -784,7 +862,8 @@
         "old_price": "2599",
         "discount": "73",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.5"
+        "hidden_stars": "4.5",
+        "item_id": 79
     },
     {
         "image": "res/img0/comet-35l-comet-35l-lunars-original-imafjfqtekrk3mng.jpeg",
@@ -794,6 +873,7 @@
         "old_price": "1699",
         "discount": "55",
         "delivery_type": "Free delivery",
-        "hidden_stars": "4.3"
+        "hidden_stars": "4.3",
+        "item_id": 80
     }
 ]

@@ -9,7 +9,9 @@
         "old_price": "326",
         "discount": "21",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.3",
+        "item_id": 1
     },
     {
         "image": "res/img3/esteem-table-fan-400-mm-50-1-0-table-fan-bajaj-original-imafy2z9gevznkfm.jpeg",
@@ -21,7 +23,9 @@
         "old_price": "2399",
         "discount": "4",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4",
+        "item_id": 2
     },
     {
         "image": "res/img3/400-mm-desk-25-table-fan-orient-electric-original-imag4fehjwhgqws8.jpeg",
@@ -33,7 +37,9 @@
         "old_price": "245",
         "discount": "25",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Upto "
+        "delivery_type1": "Upto ",
+        "hidden_stars": "4.2",
+        "item_id": 3
     },
     {
         "image": "res/img3/usb-table-fans-folding-rechargeable-fan-led-light-and-original-image2nwezwfqbhg.jpeg",
@@ -45,7 +51,9 @@
         "old_price": "4499",
         "discount": "77",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.8",
+        "item_id": 4
     },
     {
         "image": "res/img3/tiktik-quiet-portable-45-1-table-fan-300-zigma-original-imag9gdphfntuht5.jpeg",
@@ -57,7 +65,9 @@
         "old_price": "249",
         "discount": "47",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.2",
+        "item_id": 5
     },
     {
         "image": "res/img3/mr-5912-1-year-home-service-warranty-ac-dc-12-oscillating-original-imag6fgh8kgrmzmt.jpeg",
@@ -69,7 +79,9 @@
         "old_price": "3999",
         "discount": "17",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4",
+        "item_id": 6
     },
     {
         "image": "res/img3/htfan04-45-1-225-table-fan-home-tree-original-imafy35hccfdw3rg.jpeg",
@@ -81,7 +93,9 @@
         "old_price": "1545",
         "discount": "35",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.1",
+        "item_id": 7
     },
     {
         "image": "res/img3/solar-rechargeable-fan-breeze-d3-with-led-light-3-speed-mode-24-original-imag3urkzx4yfkmj.jpeg",
@@ -92,7 +106,9 @@
         "new_price": "5589",
         "old_price": "56",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.9",
+        "item_id": 8
     },
     {
         "image": "res/img3/hm110-60-1-table-fan-120-is-laurels-original-imag9zbzyu6f4dht.jpeg",
@@ -104,7 +120,9 @@
         "old_price": "15",
         "discount": "36",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.1",
+        "item_id": 9
     },
     {
         "image": "res/img3/jh-2018-table-desk-fan-with-led-light-for-home-office-desk-original-imagd3dmhzebj6hp.jpeg",
@@ -116,7 +134,9 @@
         "old_price": "1899",
         "discount": "52",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.5",
+        "item_id": 10
     },
     {
         "image": "res/img3/-original-imagaqtx7zey4jzs.jpeg",
@@ -128,7 +148,9 @@
         "old_price": "23",
         "discount": "21",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Upto "
+        "delivery_type1": "Upto ",
+        "hidden_stars": "4.3",
+        "item_id": 11
     },
     {
         "image": "res/img3/solar-rechargeable-fan-breeze-d1-with-led-light-dual-speed-mode-original-imag3tt5vrvvzwdr.jpeg",
@@ -139,7 +161,9 @@
         "new_price": "1999",
         "old_price": "225",
         "discount": "11",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.6",
+        "item_id": 12
     },
     {
         "image": "res/img3/high-speed-rechargeable-mini-table-fan-60-1-table-fan-3-powernri-original-imagedumcp4ympwm.jpeg",
@@ -150,7 +174,8 @@
         "discount": "52",
         "delivery_type": "Free delivery",
         "delivery_type1": "Bank Offer",
-        "hidden_stars": "4.0"
+        "hidden_stars": "4.0",
+        "item_id": 13
     },
     {
         "image": "res/img3/tiktik-quiet-portable-table-fan-zigma-original-imafzg7ftzuckpad.jpeg",
@@ -162,7 +187,9 @@
         "old_price": "225",
         "discount": "40",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.2",
+        "item_id": 14
     },
     {
         "image": "res/img3/wall-mounted-3-speed-fan-40-1-wall-fan-400-kinger-original-imagejdygytbewcc.jpeg",
@@ -174,7 +201,9 @@
         "old_price": "1999",
         "discount": "35",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.2",
+        "item_id": 15
     },
     {
         "image": "res/img3/summer-cool-portable-high-speed-40-1-table-fan-300-ultrawell-original-imagdw2eg546egpg.jpeg",
@@ -186,7 +215,9 @@
         "old_price": "2499",
         "discount": "48",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.5",
+        "item_id": 16
     },
     {
         "image": "res/img3/is-laurels-mini-pedestal-fan-isi-approved-copper-motor-1-year-original-imafzuj2pve4dxcx.jpeg",
@@ -198,7 +229,9 @@
         "old_price": "259",
         "discount": "38",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "5",
+        "item_id": 17
     },
     {
         "image": "res/img3/2004-65-1-wall-fan-225-is-laurels-original-imag9z79hry63fre.jpeg",
@@ -210,7 +243,9 @@
         "old_price": "16",
         "discount": "40",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.2",
+        "item_id": 18
     },
     {
         "image": "res/img3/bajaj-elite-neo-400mm-original-imaeaf2u3zecp28v.jpeg",
@@ -222,7 +257,9 @@
         "old_price": "194",
         "discount": "12",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Upto "
+        "delivery_type1": "Upto ",
+        "hidden_stars": "4.2",
+        "item_id": 19
     },
     {
         "image": "res/img3/bolt-sapf02-65-1-table-fan-300-superlex-original-imagchsufczz3cag.jpeg",
@@ -234,7 +271,9 @@
         "old_price": "179",
         "discount": "39",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.1",
+        "item_id": 20
     },
     {
         "image": "res/img3/brio-65-1-300-table-fan-air-duck-original-imagyuuhymt5uk5w.jpeg",
@@ -246,7 +285,9 @@
         "old_price": "265",
         "discount": "58",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.8",
+        "item_id": 21
     },
     {
         "image": "res/img3/rechargeable-table-fan-50-1-table-fan-400-globex-original-imafsgeyume63wyx.jpeg",
@@ -258,7 +299,9 @@
         "old_price": "1999",
         "discount": "25",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.8",
+        "item_id": 22
     },
     {
         "image": "res/img3/rechargeable-table-fan-50-1-table-fan-400-globex-original-imafsgfdnbngft2r.jpeg",
@@ -270,7 +313,9 @@
         "old_price": "1999",
         "discount": "25",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.8",
+        "item_id": 23
     },
     {
         "image": "res/img3/plastic-material-fan-for-office-home-kids-kitchen-with-high-original-imagbtkqwp9rhm5u.jpeg",
@@ -282,7 +327,9 @@
         "old_price": "1999",
         "discount": "35",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4",
+        "item_id": 24
     },
     {
         "image": "res/img3/sameera-400-mm-table-fan-400-havells-original-imafp8j9mkghf4bk.jpeg",
@@ -294,7 +341,9 @@
         "old_price": "257",
         "discount": "10",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4",
+        "item_id": 25
     },
     {
         "image": "res/img3/usha-mist-air-duos-original-imaegue9gwv9jghn.jpeg",
@@ -304,7 +353,9 @@
         "reviews": "(280)",
         "new_price": "25",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.2",
+        "item_id": 26
     },
     {
         "image": "res/img3/table-fan-powerful-rechargeable-1-5-watts-table-fan-with-21-smd-original-imagded3ehyknhhn.jpeg",
@@ -316,7 +367,9 @@
         "old_price": "1999",
         "discount": "55",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.7",
+        "item_id": 27
     },
     {
         "image": "res/img3/3-nob-setting-wall-fan-40-1-wall-fan-400-kinger-original-imagdyfyjchbztdg.jpeg",
@@ -328,7 +381,9 @@
         "old_price": "1999",
         "discount": "35",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.2",
+        "item_id": 28
     },
     {
         "image": "res/img3/dp-7605-ac-dc-battery-rechargeable-table-usb-mini-portable-air-original-imagasgtjnkqcpnz.jpeg",
@@ -340,7 +395,9 @@
         "old_price": "1899",
         "discount": "36",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.1",
+        "item_id": 29
     },
     {
         "image": "res/img3/htfan04-45-1-225-table-fan-home-tree-original-imafy35hpbckbzpp.jpeg",
@@ -352,7 +409,9 @@
         "old_price": "1599",
         "discount": "37",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4",
+        "item_id": 30
     },
     {
         "image": "res/img3/fan-for-home-living-area-kitchen-study-area-balcony-office-40-1-original-imagbtgwzj7jd5eg.jpeg",
@@ -364,7 +423,9 @@
         "old_price": "1999",
         "discount": "35",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4",
+        "item_id": 31
     },
     {
         "image": "res/img3/hyper-speed-wall-cum-table-fan-12-inch-table-fan-300-hm-original-imafzyfsytufjtaj.jpeg",
@@ -376,7 +437,9 @@
         "old_price": "1535",
         "discount": "23",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.8",
+        "item_id": 32
     },
     {
         "image": "res/img3/high-speed-mark-2-bullet-farata-fan-pedestal-fan-400-digismart-original-imafzs4yarjqkjrs.jpeg",
@@ -388,7 +451,9 @@
         "old_price": "329",
         "discount": "36",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.6",
+        "item_id": 33
     },
     {
         "image": "res/img3/victor-60-1-pedestal-fan-400-candes-original-imagbmrwzpfzgkrg.jpeg",
@@ -400,7 +465,9 @@
         "old_price": "3699",
         "discount": "29",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.9",
+        "item_id": 34
     },
     {
         "image": "res/img3/finesta-sts-plus-yb-55-pedestal-fan-400-v-guard-original-imafrtpvqtqpbehp.jpeg",
@@ -412,7 +479,9 @@
         "old_price": "3475",
         "discount": "5",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.8",
+        "item_id": 35
     },
     {
         "image": "res/img3/table-fan-2-speed-settings-40-1-wall-fan-400-kinger-original-imagefyubnaavqzz.jpeg",
@@ -424,7 +493,9 @@
         "old_price": "1999",
         "discount": "35",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.3",
+        "item_id": 36
     },
     {
         "image": "res/img3/fangdgaufg2vmdrd-table-fan-sampri-original-imagdw38y73hygjf.jpeg",
@@ -436,7 +507,9 @@
         "old_price": "1299",
         "discount": "53",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.3",
+        "item_id": 37
     },
     {
         "image": "res/img3/dp-7605-battery-operated-desk-fan-4000mah-usb-rechargeable-original-imag2vmbgmnatjgs.jpeg",
@@ -448,7 +521,9 @@
         "old_price": "1699",
         "discount": "35",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4",
+        "item_id": 38
     },
     {
         "image": "res/img3/instabreeze-multipurpose-fan-table-wall-fan-50-1-table-fan-230-original-imagd7t4pbxgpwbm.jpeg",
@@ -460,7 +535,9 @@
         "old_price": "293",
         "discount": "33",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.5",
+        "item_id": 39
     },
     {
         "image": "res/img3/wall-cum-table-fan-with-powerful-high-3-speed-motor-9-inch-table-original-imafhg5yvysehtkg.jpeg",
@@ -472,7 +549,9 @@
         "old_price": "1545",
         "discount": "36",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4",
+        "item_id": 40
     },
     {
         "image": "res/img3/havells-swing-lx-original-imaekavybrtnxggd.jpeg",
@@ -484,7 +563,9 @@
         "old_price": "26",
         "discount": "5",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4",
+        "item_id": 41
     },
     {
         "image": "res/img3/mini-ac-dc-rechargeable-battery-operated-table-fan-200-cell-original-imaffk5gthhhqyna.jpeg",
@@ -495,7 +576,9 @@
         "new_price": "1275",
         "old_price": "25",
         "discount": "49",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.7",
+        "item_id": 42
     },
     {
         "image": "res/img3/tiktik-quiet-portable-45-0-1-300-table-fan-zigma-original-imafznmjkgkueqkh.jpeg",
@@ -507,7 +590,9 @@
         "old_price": "225",
         "discount": "40",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.2",
+        "item_id": 43
     },
     {
         "image": "res/img3/aire-5-inch-turbo-fan-with-mist-24-9-1-table-fan-700-geek-original-imafwqfxf4nxxywh.jpeg",
@@ -519,7 +604,9 @@
         "old_price": "2499",
         "discount": "28",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "2",
+        "item_id": 44
     },
     {
         "image": "res/img3/rechargeable-table-fan-50-1-table-fan-400-globex-original-imafsgejhhbj7jsx.jpeg",
@@ -531,7 +618,9 @@
         "old_price": "1999",
         "discount": "25",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.8",
+        "item_id": 45
     },
     {
         "image": "res/img3/desk-60-wind-pro-table-fan-orient-electric-original-imag4fehsdxzsekd.jpeg",
@@ -543,7 +632,9 @@
         "old_price": "268",
         "discount": "25",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Upto "
+        "delivery_type1": "Upto ",
+        "hidden_stars": "4.1",
+        "item_id": 46
     },
     {
         "image": "res/img3/diamond-stf04-65-1-table-fan-300-superlex-original-imagcznuxzh2cgcg.jpeg",
@@ -555,7 +646,9 @@
         "old_price": "219",
         "discount": "40",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.1",
+        "item_id": 47
     },
     {
         "image": "res/img3/table-fan-3-speed-settings-40-1-table-fan-400-kinger-original-imagegdudjytmyv4.jpeg",
@@ -567,7 +660,9 @@
         "old_price": "1799",
         "discount": "27",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4",
+        "item_id": 48
     },
     {
         "image": "res/img3/rechargeable-folding-fan-with-led-light-fan-usb-fan-led-light-original-imagbtgzqvyyrkkm.jpeg",
@@ -579,7 +674,9 @@
         "old_price": "4599",
         "discount": "77",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4",
+        "item_id": 49
     },
     {
         "image": "res/img3/mini-12-inch-pedestal-fan-100-copper-motor-1-year-warranty-l-8-original-imagczsyezyur8th.jpeg",
@@ -591,7 +688,9 @@
         "old_price": "259",
         "discount": "40",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.7",
+        "item_id": 50
     },
     {
         "image": "res/img3/12-inch-pedestal-fan-copper-motor-1-year-warranty-sweep-300-mm-original-imagyhv6f7hyfrte.jpeg",
@@ -603,7 +702,9 @@
         "old_price": "29",
         "discount": "22",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.8",
+        "item_id": 51
     },
     {
         "image": "res/img3/table-fan-cum-wall-fan-with-powerful-high-3-speed-motor-9-inch-original-imafsk98swzew7q3.jpeg",
@@ -615,7 +716,9 @@
         "old_price": "1545",
         "discount": "36",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.8",
+        "item_id": 52
     },
     {
         "image": "res/img3/3-nob-setting-wall-fan-40-1-wall-fan-400-kinger-original-imageg4zpznfyrh2.jpeg",
@@ -626,7 +729,8 @@
         "discount": "25",
         "delivery_type": "Free delivery",
         "delivery_type1": "Bank Offer",
-        "hidden_stars": "4.1"
+        "hidden_stars": "4.1",
+        "item_id": 53
     },
     {
         "image": "res/img3/hi-speed-pedestal-fan-pedestal-fan-akshat-original-imag5by9gh9ghxyw.jpeg",
@@ -637,7 +741,8 @@
         "discount": "36",
         "delivery_type": "Free delivery",
         "delivery_type1": "Bank Offer",
-        "hidden_stars": "4.4"
+        "hidden_stars": "4.4",
+        "item_id": 54
     },
     {
         "image": "res/img3/dp-7605-battery-operated-desk-fan-4000mah-usb-rechargeable-original-imag2wf3byueqznf.jpeg",
@@ -649,7 +754,9 @@
         "old_price": "15",
         "discount": "28",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4",
+        "item_id": 55
     },
     {
         "image": "res/img3/hyper-blue-high-speed-wall-cum-table-fan-12-inch-45-1-table-fan-original-imafsk98kgzvv3jx.jpeg",
@@ -661,7 +768,9 @@
         "old_price": "1535",
         "discount": "23",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.8",
+        "item_id": 56
     },
     {
         "image": "res/img3/mini-portable-fan-for-office-home-work-place-re-chargeable-fan-original-imagegycrhae7ynx.jpeg",
@@ -671,7 +780,8 @@
         "old_price": "999",
         "discount": "70",
         "delivery_type1": "Bank Offer",
-        "hidden_stars": "3.7"
+        "hidden_stars": "3.7",
+        "item_id": 57
     },
     {
         "image": "res/img3/bolt-sapf02-65-1-table-fan-300-superlex-original-imagchsufczz3cag.jpeg",
@@ -683,7 +793,9 @@
         "old_price": "179",
         "discount": "39",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.1",
+        "item_id": 58
     },
     {
         "image": "res/img3/swtbrw-60-1-table-fan-1200-is-laurels-original-imagbyy5x7zprgys.jpeg",
@@ -695,7 +807,9 @@
         "old_price": "1899",
         "discount": "55",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4",
+        "item_id": 59
     },
     {
         "image": "res/img3/stylo-12-inch-300mm-powerful-high-speed-wall-cum-table-fan-3-original-imagygs9ygabhy6e.jpeg",
@@ -707,7 +821,9 @@
         "old_price": "2999",
         "discount": "64",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.4",
+        "item_id": 60
     },
     {
         "image": "res/img3/-original-imagdrh45jyxj5uz.jpeg",
@@ -719,7 +835,9 @@
         "old_price": "326",
         "discount": "21",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.3",
+        "item_id": 61
     },
     {
         "image": "res/img3/table-fan-powerful-rechargeable-1-5-watts-table-fan-with-21-smd-original-imagdw2rnmbyzbtn.jpeg",
@@ -731,7 +849,9 @@
         "old_price": "1299",
         "discount": "53",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.3",
+        "item_id": 62
     },
     {
         "image": "res/img3/powerful-rechargeable-table-fan-with-led-light-table-fan-for-original-imag8tuhhkshhaks.jpeg",
@@ -743,7 +863,9 @@
         "old_price": "2",
         "discount": "55",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4",
+        "item_id": 63
     },
     {
         "image": "res/img3/stylo-12-inch-300mm-powerful-high-speed-wall-cum-table-fan-3-original-imagyh7jtfardmss.jpeg",
@@ -755,7 +877,9 @@
         "old_price": "2999",
         "discount": "64",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.2",
+        "item_id": 64
     },
     {
         "image": "res/img3/summer-cool-portable-high-speed-40-1-table-fan-300-ultrawell-original-imagdw2eg546egpg.jpeg",
@@ -767,7 +891,9 @@
         "old_price": "2499",
         "discount": "48",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.5",
+        "item_id": 65
     },
     {
         "image": "res/img3/midea-bt-07-400-table-fan-bajaj-original-imaffzbtgzumegat.jpeg",
@@ -779,7 +905,9 @@
         "old_price": "259",
         "discount": "3",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.4",
+        "item_id": 66
     },
     {
         "image": "res/img3/high-speed-mark-2-bullet-farata-fan-220-pedestal-fan-400-original-imafpthbbsvpcyuz.jpeg",
@@ -791,7 +919,9 @@
         "old_price": "329",
         "discount": "36",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.9",
+        "item_id": 67
     },
     {
         "image": "res/img3/9-inch-high-speed-table-fan-black-45-1-table-fan-225-hm-original-imafsgugrrydgv9z.jpeg",
@@ -803,7 +933,9 @@
         "old_price": "1545",
         "discount": "36",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.9",
+        "item_id": 68
     },
     {
         "image": "res/img3/wall-fan-multi-purpose-fan-high-speed-100-copper-winding-12-inch-original-imagczh62dh8yrsu.jpeg",
@@ -814,7 +946,8 @@
         "discount": "27",
         "delivery_type": "Free delivery",
         "delivery_type1": "Bank Offer",
-        "hidden_stars": "3.5"
+        "hidden_stars": "3.5",
+        "item_id": 69
     },
     {
         "image": "res/img3/3-nob-setting-wall-fan-40-1-wall-fan-400-kinger-original-imagdyfyjchbztdg.jpeg",
@@ -826,7 +959,9 @@
         "old_price": "1999",
         "discount": "35",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.2",
+        "item_id": 70
     },
     {
         "image": "res/img3/5-inch-rechargeable-strong-air-flow-with-3-speed-setting-with-original-imagcnjzvxtudswq.jpeg",
@@ -837,7 +972,8 @@
         "discount": "50",
         "delivery_type": "Free delivery",
         "delivery_type1": "Bank Offer",
-        "hidden_stars": "4.0"
+        "hidden_stars": "4.0",
+        "item_id": 71
     },
     {
         "image": "res/img3/wall-cum-table-fan-with-powerful-high-3-speed-motor-12-inch-original-imafhg5n6kbxbb8t.jpeg",
@@ -849,7 +985,9 @@
         "old_price": "2499",
         "discount": "60",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.3",
+        "item_id": 72
     },
     {
         "image": "res/img3/ultic-13-12in-wht-gry-wall-60-1-table-fan-300-ultica-original-imagbtpvddajf2zm.jpeg",
@@ -860,7 +998,8 @@
         "discount": "43",
         "delivery_type": "Free delivery",
         "delivery_type1": "Bank Offer",
-        "hidden_stars": "4.1"
+        "hidden_stars": "4.1",
+        "item_id": 73
     },
     {
         "image": "res/img3/9-inch-high-speed-table-fan-black-45-1-table-fan-225-hm-original-imafsgugeda8hmb7.jpeg",
@@ -872,7 +1011,9 @@
         "old_price": "1545",
         "discount": "36",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.9",
+        "item_id": 74
     },
     {
         "image": "res/img3/table-fan-powerful-rechargeable-1-5-watts-table-fan-with-21-smd-original-imagdw2rhzcg9ygv.jpeg",
@@ -884,7 +1025,9 @@
         "old_price": "1299",
         "discount": "53",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.3",
+        "item_id": 75
     },
     {
         "image": "res/img3/stylo-12-inch-300mm-powerful-high-speed-wall-cum-table-fan-3-original-imagyh7dgy4wkqbd.jpeg",
@@ -896,7 +1039,9 @@
         "old_price": "2999",
         "discount": "64",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.4",
+        "item_id": 76
     },
     {
         "image": "res/img3/mini-hand-free-portable-neckband-fan-usb-rechargeable-lazy-neck-original-imagdgbfg9ykhevv.jpeg",
@@ -908,7 +1053,9 @@
         "old_price": "3199",
         "discount": "68",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.1",
+        "item_id": 77
     },
     {
         "image": "res/img3/powerful-rechargeable-high-speed-table-fan-with-led-light-for-original-imag8tuhnzfzph3h.jpeg",
@@ -920,7 +1067,9 @@
         "old_price": "1999",
         "discount": "55",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "3.8",
+        "item_id": 78
     },
     {
         "image": "res/img3/tfhstor16blk-125-1-400-table-fan-crompton-original-imafyxkkh3ywfzqn.jpeg",
@@ -932,7 +1081,9 @@
         "old_price": "339",
         "discount": "10",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4.3",
+        "item_id": 79
     },
     {
         "image": "res/img3/aire-gf6-8-inch-24-9-1-table-fan-700-geek-original-imafwq5y432rhhtz.jpeg",
@@ -944,6 +1095,8 @@
         "old_price": "3999",
         "discount": "20",
         "delivery_type": "Free delivery",
-        "delivery_type1": "Bank Offer"
+        "delivery_type1": "Bank Offer",
+        "hidden_stars": "4",
+        "item_id": 80
     }
 ]
