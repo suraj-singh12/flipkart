@@ -118,6 +118,7 @@
 .card-img-width {
     width: 62% !important;
     margin: auto;
+    margin-left: 20%;
 }
 .custom-card-anchor {
     text-decoration: none;
