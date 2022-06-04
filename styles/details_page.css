@@ -1,5 +1,5 @@
 .item-card {
-    width: 30%;
+    width: 27%;
     height: auto;
     margin: 2%;
     margin-left: 3%;
@@ -40,7 +40,7 @@
 }
 /* content style */
 .content {
-    font-size: 1.3em;
+    font-size: 1.1em;
     width: 65%;
     float: left;
     margin-top: 1.9%;
