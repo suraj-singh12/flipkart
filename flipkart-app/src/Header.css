@@ -1,0 +1,135 @@
+header {
+    background-color: rgb(40, 116, 240);
+    display: inline-block;
+    width: 100%;
+    margin: 0;
+}
+
+.logo {
+    width: 9rem;
+    /* display: inline-block; */
+    margin-left: 7%;
+    margin-top: 0.5rem;
+    float: left;
+}
+
+.logo>img {
+    height: 17px;
+    width: auto;
+}
+
+.logo>a {
+    display: inline-block;
+    /* float: left; */
+    margin: 0;
+    padding: 0;
+    line-height: 0;
+    margin-left: 6%;
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+}
+.logo>a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.logo>a img {
+    height: 14px;
+    margin-bottom: 20px;
+}
+
+/* search bar css */
+.search-bar {
+    display: inline-block;
+    width: auto;
+    margin: 0;
+    
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px; */
+}
+
+#search {
+    float: left;
+    margin-top: 1rem;
+    margin-left: 4%;
+    width: 42rem;
+}
+
+.search-bar input {
+    /* width: 90%;
+    border-color:transparent; */
+    padding: 0 16px;
+    border-radius: 2px 0 0 2px;
+    border: 0;
+    outline: 0 none;
+    font-size: 14px;
+    height: 36px;
+    width: 90%;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 23%);
+}
+.search-bar button {
+    border-color:transparent;
+    position: relative;
+    right: 33px;
+    background-color: transparent;
+}
+
+/* login sign-up buttons */
+.login-signup {
+    float: right;
+    margin-top: 0.9rem;
+    margin-right: 1rem;
+    color: rgb(40, 116, 240);
+}
+.login-button, .signup-button {
+    color: inherit !important;
+    margin-left: 1.5rem;
+    background-color: white !important;
+    font-weight: bold !important;
+    border: none;
+    border-radius: 2px !important;
+    padding: 5px 40px !important;
+}
+.login-dropdown {
+    float: left;
+}
+/* this makes dropdown to pop up on hover */
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; /* remove the gap so it doesn't close */
+}
+.dropdown-menu-center {
+    left: 50% !important;
+    right: auto !important;
+    /* text-align: center !important; */
+    min-width: 240px;
+    font-size: 14px;
+    transform: translate(-50%, 0) !important;
+}
+.dropdown-menu-center li {
+    border: none;
+    border-bottom: 1px solid #f0f0f0;
+    padding: 4px;
+}
+.drop-icons {
+    color: rgb(77, 77, 243);
+}
+.drop-icon-text {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.cart {
+    border: none;
+    margin-left: 1.5rem;
+    margin-right: 1.4rem;
+    color: white !important;
+    font-weight:bold !important;
+    border: none !important;
+}
+.cart > i {
+    margin-right: 5px;
+}
+.cart:hover {
+    border: none !important;
+}
