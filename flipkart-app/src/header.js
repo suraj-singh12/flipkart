@@ -26,33 +26,33 @@ class Header extends Component {
                 <div className="search-bar">
                     <form id="search" action="#">
                         <input type="text" name="searchbar" placeholder="Search for products, brands and more" />
-                        <button type="submit"><i class="bi bi-search"></i></button>
+                        <button type="submit"><i className="bi bi-search"></i></button>
                     </form>
                 </div>
 
                 <div className="login-signup">
                     <div className="login-dropdown dropdown">
                         <button className="btn login-button" data-bs-toggle="dropdown">Login</button>
-                        <ul class="dropdown-menu dropdown-menu-center">
-                            <li><a class="dropdown-item" href="#"><i class="drop-icons bi bi-person-circle"></i>
-                                <p class="drop-icon-text">My Profile</p>
-                            </a></li>
-                            <li><a class="dropdown-item" href="#"><i class="drop-icons bi bi-plus-lg"></i>
-                                <p class="drop-icon-text">Flipkart Plus Zone</p>
-                            </a></li>
-                            <li><a class="dropdown-item" href="#"><i class="drop-icons bi bi-box-arrow-in-up"></i>
-                                <p class="drop-icon-text">Orders</p>
-                            </a></li>
-                            <li><a class="dropdown-item" href="#"><i class="drop-icons bi bi-suit-heart-fill"></i>
-                                <p class="drop-icon-text">Wishlist</p>
-                            </a></li>
-                            <li><a class="dropdown-item" href="#"><i class="drop-icons bi bi-hdd-stack-fill"></i>
-                                <p class="drop-icon-text">Rewards</p>
-                            </a></li>
+                        <ul className="dropdown-menu dropdown-menu-center">
+                            <li><Link to={'/'} className="dropdown-item"><i className="drop-icons bi bi-person-circle"></i>
+                                <p className="drop-icon-text">My Profile</p>
+                            </Link></li>
+                            <li><Link to={'/'} className="dropdown-item"><i className="drop-icons bi bi-plus-lg"></i>
+                                <p className="drop-icon-text">Flipkart Plus Zone</p>
+                            </Link></li>
+                            <li><Link to={'/'} className="dropdown-item"><i className="drop-icons bi bi-box-arrow-in-up"></i>
+                                <p className="drop-icon-text">Orders</p>
+                            </Link></li>
+                            <li><Link to={'/'} className="dropdown-item" href="#"><i className="drop-icons bi bi-suit-heart-fill"></i>
+                                <p className="drop-icon-text">Wishlist</p>
+                            </Link></li>
+                            <li><Link to={'/'} className="dropdown-item" href="#"><i className="drop-icons bi bi-hdd-stack-fill"></i>
+                                <p className="drop-icon-text">Rewards</p>
+                            </Link></li>
                         </ul>
                     </div>
                     <button className="btn signup-button">Sign-up</button>
-                    <button className="btn cart"><i class="bi bi-cart-fill"></i>Cart</button>
+                    <button className="btn cart"><i className="bi bi-cart-fill"></i>Cart</button>
                 </div>
             </header>
         )
