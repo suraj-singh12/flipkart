@@ -4,6 +4,7 @@ import Strip from './top_strip';
 import './Home.css';
 import { Link } from 'react-router-dom';
 import axios from 'axios';
+import Footer from './Footer';
 
 // owl carousel
 import OwlCarousel from 'react-owl-carousel';
@@ -29,16 +30,32 @@ class Home extends React.Component {
         }
     }
 
-    RenderItems = (data) => {
+    shuffle = (arr) => {
+        let tmp;
+        for (let i = arr.length - 1; i > 0; i--) {
+            // Generate random number
+            let j = Math.floor(Math.random() * (i + 1));
+                        
+            tmp = arr[i];
+            arr[i] = arr[j];
+            arr[j] = tmp;
+        }
+            
+        return arr;
+    }
+    RenderItems = (data, noOfItems) => {
+        // noOfItems defines how many items to display in carousel
         if (!data) return;
-        console.log(data);
+        // shuffle the array items
+        this.shuffle(data);
+        // console.log(data);
         let itemDesc = '';
 
         let cards = data.map((item) => {
             itemDesc = item.description.substr(0, 18) + '...';
             return (
                 //  myCard 1 
-                <Link to={'/'} id={item._id}>
+                <Link to={'/'} key={item._id}>
                     <div className="myCard card">
                         <div className="img">
                             <img className="card-img-top" src={item.image} alt={item.brand} />
@@ -46,8 +63,7 @@ class Home extends React.Component {
 
                         <div className="content card-text">
                             <p>{itemDesc}</p>
-                            <p className="price">From &#8377;{item.new_price}</p>
-                            <p className="brief">Top Selling</p>
+                            <p className="discount">Min {item.discount} % OFF</p>
                         </div>
                     </div>
                 </Link>
@@ -55,7 +71,7 @@ class Home extends React.Component {
         })
 
         return (
-            <OwlCarousel className='items-strip owl-theme' loop margin={1} items={7} dotsContainer="false" navContainer="false" nav>
+            <OwlCarousel className='items-strip' loop margin={1} items={noOfItems} dotsContainer="false" navContainer="false" nav>
                 {cards}
             </OwlCarousel>
         )
@@ -93,16 +109,34 @@ class Home extends React.Component {
                 </div>
                 {/* items */}
                 {/* // <!-- --------------------------------- holder 1 ---------------------------------- --> */}
-                <div id="deals-of-day" className="cards-holder container-fluid">
+                <div id="deals_of_day" className="cards-holder container-fluid">
                     <h3 className="cards-heading">Deals of the Day</h3>
                     <hr />
-                    {this.RenderItems(this.state.clothes)}
+                    {this.RenderItems(this.state.clothes, 7)}
                 </div>
 
-                {/* {this.RenderItems(this.state.mobiles)}
-                {this.RenderItems(this.state.watches)}
-                {this.RenderItems(this.state.formals)}
-                {this.RenderItems(this.state.gaming_mouses)} */}
+                <div className="cards-holder container-fluid">
+                    <h3 className="cards-heading">Attractive Deals</h3>
+                    <hr />
+                    {this.RenderItems(this.state.mobiles, 7)}
+                </div>
+                <div className="cards-holder container-fluid">
+                    <h3 className="cards-heading">Items You May Like</h3>
+                    <hr />
+                    {this.RenderItems(this.state.watches, 7)}
+                </div>
+                <div className="cards-holder container-fluid">
+                    <h3 className="cards-heading">Attire</h3>
+                    <hr />
+                    {this.RenderItems(this.state.formals, 7)}
+                </div>
+                <div className="cards-holder container-fluid">
+                    <h3 className="cards-heading">Gaming Category</h3>
+                    <hr />
+                    {this.RenderItems(this.state.gaming_mouses, 7)}
+                </div>
+
+                <Footer />
             </>
         )
     }

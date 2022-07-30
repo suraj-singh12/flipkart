@@ -111,6 +111,6 @@ https://flickity.metafizzy.co
   opacity: 0.25;
   cursor: pointer;
 }
-.flickity-page-dots .dot.is-selected {
+.flickity-page-dots .dot.is-defaultValue {
   opacity: 1;
 }

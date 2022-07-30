@@ -1,0 +1,82 @@
+.main {
+    width: 100%;
+    height: auto;
+    display: inline-block;
+} 
+.custom-card {
+    border: none;
+    padding: 16px;
+    position: relative;
+    transition: box-shadow .2s ease-in-out;
+    width: 24%;
+    margin: 5px;
+    flex-grow: 1;
+    /* max-height: 366px; */
+    height: auto;   
+    text-align: center;
+}
+.custom-card:hover {
+    /* box-shadow: 0 3px 16px 0 rgb(0 0 0 / 11%); */
+    box-shadow: 1px 1px 12px lightgrey, 2px 2px 2px lightgreen;
+}
+
+.custom-card-anchor {
+    text-decoration: none;
+    color: black !important;
+}
+.custom-card-anchor:hover {
+    color: black !important;
+}
+.listing-card-image {
+    width: 100%;
+    height: 162px;
+}
+.listing-card-image img {
+    max-width: 100%;
+    width: auto !important;                /* you know, set the height, and let the width automatically get set, so aspect ratio of image will not distort */
+    height: 80%;
+    margin: auto;
+    text-align: center;
+}   
+.color {
+    margin-bottom: 1rem;
+}
+
+.blue {
+    color: blue;
+}
+
+.ratings {
+    color: grey;
+    padding: 2px;
+}
+
+.stars-star {
+    color: white;
+}
+
+.ratings,
+.reviews,
+.old-price {
+    color: grey;
+}
+
+.discount {
+    color: #388e3c;
+}
+
+.offer {
+    color: rgb(38, 165, 65);
+    font-size: 12px;
+    font-weight: 700;
+}
+/* strip above card CSS */
+.results-strip, .results-strip p, .results-strip .strip-of-sort-by {
+    margin: 0;
+}
+.results-strip {
+    padding-left: 10px;
+}
+.results-strip > p {
+    margin-left: 10px;
+}
