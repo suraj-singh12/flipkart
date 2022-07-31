@@ -59,27 +59,27 @@ const Filters = () => {
             <hr />
             <p>Discount</p>
             <div className="form-check">
-                <label htmlFor="50plus">50 &percnt; or more</label>
+                <label htmlFor="50plus">50 &#37; or more</label>
                 <input type="checkbox" className="form-check-input" id="50plus" />
             </div>
             <div className="form-check">
-                <label htmlFor="40plus">40 &percnt; or more</label>
+                <label htmlFor="40plus">40 &#37; or more</label>
                 <input type="checkbox" className="form-check-input" id="40plus" />
             </div>
             <div className="form-check">
-                <label htmlFor="30plus">30 &percnt; or more</label>
+                <label htmlFor="30plus">30 &#37; or more</label>
                 <input type="checkbox" className="form-check-input" id="30plus" />
             </div>
             <div className="form-check">
-                <label htmlFor="20plus">20 &percnt; or more</label>
+                <label htmlFor="20plus">20 &#37; or more</label>
                 <input type="checkbox" className="form-check-input" id="20plus" />
             </div>
             <div className="form-check">
-                <label htmlFor="10plus">10 &percnt; or more</label>
+                <label htmlFor="10plus">10 &#37; or more</label>
                 <input type="checkbox" className="form-check-input" id="10plus" />
             </div>
             <div className="form-check">
-                <label htmlFor="10minus">10 &percnt; and below</label>
+                <label htmlFor="10minus">10 &#37; and below</label>
                 <input type="checkbox" className="form-check-input" id="10minus" />
             </div>
         </div>

@@ -34,6 +34,10 @@
 
 .filters {
     padding-left: 20px;
+    padding-left: 20px;
+    border: 1px solid #d2d2d2;
+    margin-top: 1.1%;
+    border-radius: 1%;
 }
 
 .filters>p {
