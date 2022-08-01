@@ -44,11 +44,14 @@ class Listing extends React.Component {
     }
 
     sortByPopularity = () => {
+        console.log(this.props.match.params.id);
+
         axios.get(popularityUrl + this.props.match.params.id)
             .then(res => {
                 this.shuffle(res.data);
                 this.setState({
-                    items: res.data
+                    items: res.data,
+                    currentPage: 1
                 })
             }).catch(err => {
                 console.log('err', err);
@@ -74,10 +77,11 @@ class Listing extends React.Component {
 
             let item = this.state.items;
             let reviews;
-            let currentItemIndex = (this.state.todosPerPage - 1) * this.state.currentPage ;
+            let currentItemIndex = (this.state.todosPerPage) * this.state.currentPage - this.state.todosPerPage;
 
             return currentData.map((todo, index) => {
                 // itemDesc = item[currentItemIndex + index].description.substr(0, 18) + '...';
+                console.log(currentItemIndex, index);
                 itemDesc = item[currentItemIndex + index].description;
                 reviews = item[currentItemIndex + index].reviews ? item[currentItemIndex + index].reviews : '500';
                 if (!reviews.toLowerCase().includes('reviews')) {
