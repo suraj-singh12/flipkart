@@ -8,6 +8,8 @@ import Footer from '../../Footer';
 
 const url = 'https://app2fkartapi.herokuapp.com/item/';
 const popularityUrl = 'https://app2fkartapi.herokuapp.com/filter/popularity/';
+const priceUrl = 'https://app2fkartapi.herokuapp.com/filter/price/';
+// https://app2fkartapi.herokuapp.com/filter/price/bags?sort=-1
 
 class Listing extends React.Component {
 
@@ -51,6 +53,23 @@ class Listing extends React.Component {
         axios.get(popularityUrl + itemName)
             .then(res => {
                 this.shuffle(res.data);
+                this.setState({
+                    items: res.data,
+                    currentPage: 1
+                })
+            }).catch(err => {
+                console.log('err', err);
+            })
+    }
+
+    sortByPrice = (sortOrder) => {
+        console.log('in sortyByPrice')
+        let itemName = this.props.match.params.id;
+        if (this.props.match.params.id === 'top_offers') {
+            itemName = 'all_items'
+        }
+        axios.get(priceUrl + itemName + '?sort=' + sortOrder)
+            .then(res => {
                 this.setState({
                     items: res.data,
                     currentPage: 1
@@ -167,8 +186,8 @@ class Listing extends React.Component {
                                 <button className="btn btn-sm" >Sort By</button>
                                 <button className="btn btn-sm" onClick={() => { this.setState({ items: this.shuffle(this.state.items) }) }}>Relevance</button>
                                 <button className="popularity btn btn-sm" onClick={() => { this.sortByPopularity() }}>Popularity</button>
-                                <button className="btn btn-sm">Price -- Low to High</button>
-                                <button className="btn btn-sm">Price -- High to Low</button>
+                                <button className="btn btn-sm" onClick={() => { this.sortByPrice(1)}}>Price -- Low to High</button>
+                                <button className="btn btn-sm" onClick={() => { this.sortByPrice(-1)}}>Price -- High to Low</button>
                             </div>
                         </div>
                         <div className="d-inline-flex mt-0 flex-wrap flex-box" style={{ borderBottom: '1px solid #d2d1d1', marginBottom: '1rem' }}>
