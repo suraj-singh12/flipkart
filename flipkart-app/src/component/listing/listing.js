@@ -6,7 +6,6 @@ import { Link } from 'react-router-dom';
 import './listing.css';
 import Footer from '../../Footer';
 
-const urlTopItems = 'https://app2fkartapi.herokuapp.com/filter/popularity/all_items';
 const url = 'https://app2fkartapi.herokuapp.com/item/';
 const popularityUrl = 'https://app2fkartapi.herokuapp.com/filter/popularity/';
 
@@ -45,8 +44,11 @@ class Listing extends React.Component {
 
     sortByPopularity = () => {
         console.log(this.props.match.params.id);
-
-        axios.get(popularityUrl + this.props.match.params.id)
+        let itemName = this.props.match.params.id;
+        if (this.props.match.params.id === 'top_offers') {
+            itemName = 'all_items'
+        }
+        axios.get(popularityUrl + itemName)
             .then(res => {
                 this.shuffle(res.data);
                 this.setState({
@@ -81,7 +83,6 @@ class Listing extends React.Component {
 
             return currentData.map((todo, index) => {
                 // itemDesc = item[currentItemIndex + index].description.substr(0, 18) + '...';
-                console.log(currentItemIndex, index);
                 itemDesc = item[currentItemIndex + index].description;
                 reviews = item[currentItemIndex + index].reviews ? item[currentItemIndex + index].reviews : '500';
                 if (!reviews.toLowerCase().includes('reviews')) {
@@ -164,16 +165,16 @@ class Listing extends React.Component {
                             <p>Showing {(this.state.currentPage - 1) * this.state.todosPerPage} - {this.state.currentPage * this.state.todosPerPage} of {this.state.items.length} results for "{getItemName.toUpperCase()}"</p>
                             <div className="strip-of-sort-by">
                                 <button className="btn btn-sm" >Sort By</button>
-                                <button className="btn btn-sm" onClick={() => {this.setState({items: this.shuffle(this.state.items)})}}>Relevance</button>
-                                <button className="popularity btn btn-sm" onClick={() => {this.sortByPopularity()}}>Popularity</button>
+                                <button className="btn btn-sm" onClick={() => { this.setState({ items: this.shuffle(this.state.items) }) }}>Relevance</button>
+                                <button className="popularity btn btn-sm" onClick={() => { this.sortByPopularity() }}>Popularity</button>
                                 <button className="btn btn-sm">Price -- Low to High</button>
                                 <button className="btn btn-sm">Price -- High to Low</button>
                             </div>
                         </div>
-                        <div className="d-inline-flex mt-0 flex-wrap flex-box" style={{ borderBottom: '1px solid #d2d1d1', marginBottom:'1rem'}}>
+                        <div className="d-inline-flex mt-0 flex-wrap flex-box" style={{ borderBottom: '1px solid #d2d1d1', marginBottom: '1rem' }}>
                             {this.getContent(currentTodos)}
                         </div>
-                        <div className="d-inline-flex mt-0 flex-wrap flex-box" style={{marginLeft:'42%'}}>
+                        <div className="d-inline-flex mt-0 flex-wrap flex-box" style={{ marginLeft: '42%' }}>
                             {renderPageNumbers}
                         </div>
                     </div >
@@ -186,35 +187,24 @@ class Listing extends React.Component {
     componentDidMount() {
         console.log('listing >>>>', this.props);
 
+        let itemName = this.props.match.params.id;
         if (this.props.match.params.id === 'top_offers') {
-            axios.get(urlTopItems)
-                .then(res => {
-                    console.log('res', res.data);
-                    this.shuffle(res.data);
-                    this.setState({
-                        items: res.data
-                    })
-                })
-                .catch(err => {
-                    console.log('err', err);
-                })
-        } else if(this.props.match.params.id){
-            axios.get(url + this.props.match.params.id)
-                .then(res => {
-                    console.log('res', res.data);
-                    this.shuffle(res.data);
-                    this.setState({
-                        items: res.data
-                    })
-                }).catch(err => {
-                    console.log('err', err);
-                }).finally(() => {
-                    console.log('finally');
-                }
-                )
-        } else {
-            console.log('no id found')
+            itemName = 'all_items';
         }
+
+        axios.get(url + itemName)
+            .then(res => {
+                console.log('res', res.data);
+                this.shuffle(res.data);
+                this.setState({
+                    items: res.data
+                })
+            }).catch(err => {
+                console.log('err', err);
+            }).finally(() => {
+                console.log('finally');
+            }
+            )
     }
 }
 
