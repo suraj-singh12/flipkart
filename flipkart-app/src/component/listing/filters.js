@@ -15,8 +15,7 @@ const Filters = () => {
                 </select>
                 <span>to</span>
                 <select className="form-select upper" aria-label="upper-price-select">
-                    <option value="min">Min</option>
-                    <option value="200">&#8377;200</option>
+                    <option value="max">max</option>
                     <option value="500">&#8377;500</option>
                     <option value="1000">&#8377;1000</option>
                     <option value="5000">&#8377;500</option>

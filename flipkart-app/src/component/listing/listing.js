@@ -1,5 +1,6 @@
 import React from 'react';
-import Filters from './filters';
+// import Filters from './filters';
+import './filters.css';
 import axios from 'axios';
 import Header from '../../header';
 import { Link } from 'react-router-dom';
@@ -22,6 +23,7 @@ class Listing extends React.Component {
             todosPerPage: 24
         }
         this.handleClick = this.handleClick.bind(this);
+        this.filterByPrice= this.filterByPrice.bind(this);
     }
     // change page numbers on clicking
     handleClick(event) {
@@ -78,10 +80,134 @@ class Listing extends React.Component {
                 console.log('err', err);
             })
     }
+
+    filterByPrice = (event) => {
+        // console.log('inside filterByPrice', event.target);
+        console.log(event);
+        console.log(event.target);
+
+        let lcost ='', hcost = '';
+        if(event.target.id === 'lower-price') {
+            lcost = Number(event.target.value);
+            sessionStorage.setItem('lcost', lcost);
+            if(sessionStorage.getItem('hcost'))
+                hcost = Number(sessionStorage.getItem('hcost'));
+        }
+        else {
+            hcost = Number(event.target.value);
+            sessionStorage.setItem('hcost', hcost);
+            if(sessionStorage.getItem('lcost'))
+                lcost = Number(sessionStorage.getItem('lcost'))
+        }
+        if (lcost && hcost && lcost > hcost) return;
+        console.log(lcost, hcost);
+
+        // save in session storage, lcost / hcost once you get them
+        let itemName = this.props.match.params.id;
+        console.log('itemName', itemName);
+
+        let url = priceUrl + itemName + '?lcost=' + lcost + '&hcost=' + hcost;
+        console.log('url: ', url);
+
+        if (this.props.match.params.id === 'top_offers') {
+            itemName = 'all_items'
+        }
+        axios.get(url)
+            .then(res => {
+                this.setState({
+                    items: res.data,
+                    currentPage: 1
+                })
+            }).catch(err => {
+                console.log('err', err);
+            })
+    }
+
+    getFilters = () => {
+        return (
+            <div className="filters">
+                <p>Price</p>
+                <div className="price-select">
+                    <select className="form-select lower" id="lower-price" aria-label="lower-price-select" onChange={(event) => {this.filterByPrice(event)}}>
+                        <option value="min" defaultValue>Min</option>
+                        <option value="200">&#8377;200</option>
+                        <option value="500">&#8377;500</option>
+                        <option value="1000">&#8377;1000</option>
+                        <option value="5000">&#8377;500</option>
+                        <option value="10000">&#8377;10000</option>
+                    </select>
+                    <span>to</span>
+                    <select className="form-select upper" aria-label="upper-price-select" onChange={(event) => {this.filterByPrice(event)}}>
+                        <option value="max">Max</option>
+                        <option value="500">&#8377;500</option>
+                        <option value="1000">&#8377;1000</option>
+                        <option value="5000">&#8377;5000</option>
+                        <option value="10000">&#8377;10000</option>
+                        <option value="50000" defaultValue>&#8377;10000+</option>
+                    </select>
+                </div>
+                <hr />
+                <p>Customer Ratings</p>
+                <div className="form-check">
+                    <label htmlFor="4star">4 <i className="bi bi-star-fill"></i> & above</label>
+                    <input type="checkbox" className="form-check-input" id="4star" value="4-star+" />
+                </div>
+                <div className="form-check">
+                    <label htmlFor="3star">3 <i className="bi bi-star-fill"></i> & above</label>
+                    <input type="checkbox" className="form-check-input" id="3star" value="4-star+" />
+                </div>
+                <div className="form-check">
+                    <label htmlFor="2star">2 <i className="bi bi-star-fill"></i> & above</label>
+                    <input type="checkbox" className="form-check-input" id="2star" value="4-star+" />
+                </div>
+                <div className="form-check">
+                    <label htmlFor="1star">1 <i className="bi bi-star-fill"></i> & above</label>
+                    <input type="checkbox" className="form-check-input" id="1star" value="4-star+" />
+                </div>
+                <hr />
+                <p>Offers</p>
+                <div className="form-check">
+                    <label htmlFor="buymore">Buy More, Save More</label>
+                    <input type="checkbox" className="form-check-input" id="buymore" />
+                </div>
+                <div className="form-check">
+                    <label htmlFor="nocostemi">No Cost EMI</label>
+                    <input type="checkbox" className="form-check-input" id="nocostemi" />
+                </div>
+                <div className="form-check">
+                    <label htmlFor="specialprice">Special Price</label>
+                    <input type="checkbox" className="form-check-input" id="specialprice" />
+                </div>
+                <hr />
+                <p>Discount</p>
+                <div className="form-check">
+                    <label htmlFor="50plus">50 &#37; or more</label>
+                    <input type="checkbox" className="form-check-input" id="50plus" />
+                </div>
+                <div className="form-check">
+                    <label htmlFor="40plus">40 &#37; or more</label>
+                    <input type="checkbox" className="form-check-input" id="40plus" />
+                </div>
+                <div className="form-check">
+                    <label htmlFor="30plus">30 &#37; or more</label>
+                    <input type="checkbox" className="form-check-input" id="30plus" />
+                </div>
+                <div className="form-check">
+                    <label htmlFor="20plus">20 &#37; or more</label>
+                    <input type="checkbox" className="form-check-input" id="20plus" />
+                </div>
+                <div className="form-check">
+                    <label htmlFor="10plus">10 &#37; or more</label>
+                    <input type="checkbox" className="form-check-input" id="10plus" />
+                </div>
+                <div className="form-check">
+                    <label htmlFor="10minus">10 &#37; and below</label>
+                    <input type="checkbox" className="form-check-input" id="10minus" />
+                </div>
+            </div>
+        )
+    }
     getContent = (currentData) => {
-        // alter here ============================================================>>>>>>>>>xxxxxxxxxxxxxxxxxx
-
-
         if (!currentData || currentData.length === 0 || this.state.items.length === 0) {
             console.log('inside this')
             console.log('currentData', currentData)
@@ -178,7 +304,7 @@ class Listing extends React.Component {
             <>
                 <Header />
                 <div className="main">
-                    <Filters />
+                    {this.getFilters()}
                     <div className="content">
                         <div className="results-strip">
                             <p>Showing {(this.state.currentPage - 1) * this.state.todosPerPage} - {this.state.currentPage * this.state.todosPerPage} of {this.state.items.length} results for "{getItemName.toUpperCase()}"</p>
@@ -186,8 +312,8 @@ class Listing extends React.Component {
                                 <button className="btn btn-sm" >Sort By</button>
                                 <button className="btn btn-sm" onClick={() => { this.setState({ items: this.shuffle(this.state.items) }) }}>Relevance</button>
                                 <button className="popularity btn btn-sm" onClick={() => { this.sortByPopularity() }}>Popularity</button>
-                                <button className="btn btn-sm" onClick={() => { this.sortByPrice(1)}}>Price -- Low to High</button>
-                                <button className="btn btn-sm" onClick={() => { this.sortByPrice(-1)}}>Price -- High to Low</button>
+                                <button className="btn btn-sm" onClick={() => { this.sortByPrice(1) }}>Price -- Low to High</button>
+                                <button className="btn btn-sm" onClick={() => { this.sortByPrice(-1) }}>Price -- High to Low</button>
                             </div>
                         </div>
                         <div className="d-inline-flex mt-0 flex-wrap flex-box" style={{ borderBottom: '1px solid #d2d1d1', marginBottom: '1rem' }}>
