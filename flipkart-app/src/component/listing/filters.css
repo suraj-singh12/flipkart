@@ -10,6 +10,7 @@
     background: #fff;
     box-shadow: 0 1px 8px 0 rgb(0 0 0 / 6%);
     float: left;
+    margin-bottom: 3%;
 }
 
 .price-select select {

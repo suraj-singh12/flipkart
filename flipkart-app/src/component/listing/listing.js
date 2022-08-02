@@ -18,7 +18,7 @@ class Listing extends React.Component {
         super(props);
 
         this.state = {
-            items: [],
+            items: '',
             currentPage: 1,
             todosPerPage: 24
         }
@@ -208,7 +208,7 @@ class Listing extends React.Component {
         )
     }
     getContent = (currentData) => {
-        if (!currentData || currentData.length === 0 || this.state.items.length === 0) {
+        if (!currentData) {
             console.log('inside this')
             console.log('currentData', currentData)
             return (
@@ -216,6 +216,11 @@ class Listing extends React.Component {
                     <img src={require("./images/loader.gif")} style={{ height: 'inherit', width: 'auto' }} alt="loader" />
                     <h2>Loading...</h2>
                 </div>
+            )
+        } else if(currentData.length === 0) {
+            console.log('NO data for this filter');
+            return (
+                <h1 style={{margin: '15%', fontStyle: 'italic'}}>No Data found for this filter.</h1>
             )
         }
         else {
@@ -316,7 +321,7 @@ class Listing extends React.Component {
                                 <button className="btn btn-sm" onClick={() => { this.sortByPrice(-1) }}>Price -- High to Low</button>
                             </div>
                         </div>
-                        <div className="d-inline-flex mt-0 flex-wrap flex-box" style={{ borderBottom: '1px solid #d2d1d1', marginBottom: '1rem' }}>
+                        <div className="d-inline-flex mt-0 flex-wrap flex-box" style={{marginBottom: '1rem' }}>
                             {this.getContent(currentTodos)}
                         </div>
                         <div className="d-inline-flex mt-0 flex-wrap flex-box" style={{ marginLeft: '42%' }}>
