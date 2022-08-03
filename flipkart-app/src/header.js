@@ -19,7 +19,7 @@ class Header extends Component {
     render() {
         return (
             <header style={{ backgroundColor: '#2874f0' }}>
-                <div className="logo">
+                <div className="logo" onClick={() => this.props.history.push('/')} style={{cursor: 'pointer'}}>
                     <img src={Icons.flipkart} alt="flipkart" />
                     <Link to={'/'}>Explore <span className="plus">Plus <img src={Icons['flipkart-logo-last-part']} alt="plus" /></span></Link>
                 </div>

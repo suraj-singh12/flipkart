@@ -11,6 +11,12 @@ const url = 'https://app2fkartapi.herokuapp.com/item/';
 const popularityUrl = 'https://app2fkartapi.herokuapp.com/filter/popularity/';
 const priceUrl = 'https://app2fkartapi.herokuapp.com/filter/price/';
 // https://app2fkartapi.herokuapp.com/filter/price/bags?sort=-1
+const ratingUrl = 'https://app2fkartapi.herokuapp.com/filter/rating/';
+// https://app2fkartapi.herokuapp.com/filter/rating/pillows/3
+const offerUrl = 'https://app2fkartapi.herokuapp.com/filter/offers/';
+// https://app2fkartapi.herokuapp.com/filter/offers/mouses
+const discountUrl = 'https://app2fkartapi.herokuapp.com/filter/discount/';
+// https://app2fkartapi.herokuapp.com/filter/discount/powerbanks/50
 
 class Listing extends React.Component {
 
@@ -20,10 +26,10 @@ class Listing extends React.Component {
         this.state = {
             items: '',
             currentPage: 1,
-            todosPerPage: 24
+            todosPerPage: 20
         }
         this.handleClick = this.handleClick.bind(this);
-        this.filterByPrice= this.filterByPrice.bind(this);
+        this.filterByPrice = this.filterByPrice.bind(this);
     }
     // change page numbers on clicking
     handleClick(event) {
@@ -86,17 +92,17 @@ class Listing extends React.Component {
         console.log(event);
         console.log(event.target);
 
-        let lcost ='', hcost = '';
-        if(event.target.id === 'lower-price') {
+        let lcost = '', hcost = '';
+        if (event.target.id === 'lower-price') {
             lcost = Number(event.target.value);
             sessionStorage.setItem('lcost', lcost);
-            if(sessionStorage.getItem('hcost'))
+            if (sessionStorage.getItem('hcost'))
                 hcost = Number(sessionStorage.getItem('hcost'));
         }
         else {
             hcost = Number(event.target.value);
             sessionStorage.setItem('hcost', hcost);
-            if(sessionStorage.getItem('lcost'))
+            if (sessionStorage.getItem('lcost'))
                 lcost = Number(sessionStorage.getItem('lcost'))
         }
         if (lcost && hcost && lcost > hcost) return;
@@ -123,12 +129,61 @@ class Listing extends React.Component {
             })
     }
 
+    filterByStars = (event) => {
+        console.log('filterByStars', event.target);
+
+        if (event.target.checked === true) {
+            axios.get(ratingUrl + this.props.match.params.id + '/' + event.target.value)
+                .then((res) => {
+                    this.setState({
+                        items: res.data,
+                        currentPage: 1
+                    })
+                }).catch(err => {
+                    console.log('err', err);
+                })
+        }
+    }
+
+    filterByOffer = (event) => {
+        console.log('filterByOffer', event.target);
+        console.log('isChecked?', event.target.checked);
+
+        if (event.target.checked === true) {
+            axios.get(offerUrl + this.props.match.params.id)
+                .then((res) => {
+                    this.setState({
+                        items: res.data,
+                        currentPage: 1
+                    })
+                }).catch(err => {
+                    console.log('err', err);
+                })
+        }
+    }
+
+    filterByDiscount = (event) => {
+        console.log('filterByDiscount', event.target);  
+
+        if (event.target.checked === true) {
+            axios.get(discountUrl + this.props.match.params.id + '/' + event.target.value)
+                .then((res) => {
+                    this.setState({
+                        items: res.data,
+                        currentPage: 1
+                    })
+                }).catch(err => {
+                    console.log('err', err);
+                })
+        }
+    }
+
     getFilters = () => {
         return (
             <div className="filters">
                 <p>Price</p>
                 <div className="price-select">
-                    <select className="form-select lower" id="lower-price" aria-label="lower-price-select" onChange={(event) => {this.filterByPrice(event)}}>
+                    <select className="form-select lower" id="lower-price" aria-label="lower-price-select" onChange={(event) => { this.filterByPrice(event) }}>
                         <option value="min" defaultValue>Min</option>
                         <option value="200">&#8377;200</option>
                         <option value="500">&#8377;500</option>
@@ -137,7 +192,7 @@ class Listing extends React.Component {
                         <option value="10000">&#8377;10000</option>
                     </select>
                     <span>to</span>
-                    <select className="form-select upper" aria-label="upper-price-select" onChange={(event) => {this.filterByPrice(event)}}>
+                    <select className="form-select upper" aria-label="upper-price-select" onChange={(event) => { this.filterByPrice(event) }}>
                         <option value="max">Max</option>
                         <option value="500">&#8377;500</option>
                         <option value="1000">&#8377;1000</option>
@@ -150,59 +205,43 @@ class Listing extends React.Component {
                 <p>Customer Ratings</p>
                 <div className="form-check">
                     <label htmlFor="4star">4 <i className="bi bi-star-fill"></i> & above</label>
-                    <input type="checkbox" className="form-check-input" id="4star" value="4-star+" />
+                    <input type="checkbox" className="form-check-input" id="4star" value="4" onClick={(event) => { this.filterByStars(event) }} />
                 </div>
                 <div className="form-check">
                     <label htmlFor="3star">3 <i className="bi bi-star-fill"></i> & above</label>
-                    <input type="checkbox" className="form-check-input" id="3star" value="4-star+" />
+                    <input type="checkbox" className="form-check-input" id="3star" value="3" onClick={(event) => { this.filterByStars(event) }} />
                 </div>
                 <div className="form-check">
                     <label htmlFor="2star">2 <i className="bi bi-star-fill"></i> & above</label>
-                    <input type="checkbox" className="form-check-input" id="2star" value="4-star+" />
-                </div>
-                <div className="form-check">
-                    <label htmlFor="1star">1 <i className="bi bi-star-fill"></i> & above</label>
-                    <input type="checkbox" className="form-check-input" id="1star" value="4-star+" />
+                    <input type="checkbox" className="form-check-input" id="2star" value="2" onClick={(event) => { this.filterByStars(event) }} />
                 </div>
                 <hr />
                 <p>Offers</p>
                 <div className="form-check">
-                    <label htmlFor="buymore">Buy More, Save More</label>
-                    <input type="checkbox" className="form-check-input" id="buymore" />
-                </div>
-                <div className="form-check">
-                    <label htmlFor="nocostemi">No Cost EMI</label>
-                    <input type="checkbox" className="form-check-input" id="nocostemi" />
-                </div>
-                <div className="form-check">
                     <label htmlFor="specialprice">Special Price</label>
-                    <input type="checkbox" className="form-check-input" id="specialprice" />
+                    <input type="checkbox" className="form-check-input" id="specialprice" onClick={(event) => { this.filterByOffer(event) }} />
                 </div>
                 <hr />
                 <p>Discount</p>
                 <div className="form-check">
                     <label htmlFor="50plus">50 &#37; or more</label>
-                    <input type="checkbox" className="form-check-input" id="50plus" />
+                    <input type="checkbox" className="form-check-input" id="50plus" value="50" onClick={(event) => { this.filterByDiscount(event) }} />
                 </div>
                 <div className="form-check">
                     <label htmlFor="40plus">40 &#37; or more</label>
-                    <input type="checkbox" className="form-check-input" id="40plus" />
+                    <input type="checkbox" className="form-check-input" id="40plus" value="40" onClick={(event) => { this.filterByDiscount(event) }} />
                 </div>
                 <div className="form-check">
                     <label htmlFor="30plus">30 &#37; or more</label>
-                    <input type="checkbox" className="form-check-input" id="30plus" />
+                    <input type="checkbox" className="form-check-input" id="30plus" value="30" onClick={(event) => { this.filterByDiscount(event) }} />
                 </div>
                 <div className="form-check">
                     <label htmlFor="20plus">20 &#37; or more</label>
-                    <input type="checkbox" className="form-check-input" id="20plus" />
+                    <input type="checkbox" className="form-check-input" id="20plus" value="20" onClick={(event) => { this.filterByDiscount(event) }} />
                 </div>
                 <div className="form-check">
                     <label htmlFor="10plus">10 &#37; or more</label>
-                    <input type="checkbox" className="form-check-input" id="10plus" />
-                </div>
-                <div className="form-check">
-                    <label htmlFor="10minus">10 &#37; and below</label>
-                    <input type="checkbox" className="form-check-input" id="10minus" />
+                    <input type="checkbox" className="form-check-input" id="10plus" value="10" onClick={(event) => { this.filterByDiscount(event) }} />
                 </div>
             </div>
         )
@@ -217,10 +256,10 @@ class Listing extends React.Component {
                     <h2>Loading...</h2>
                 </div>
             )
-        } else if(currentData.length === 0) {
+        } else if (currentData.length === 0) {
             console.log('NO data for this filter');
             return (
-                <h1 style={{margin: '15%', fontStyle: 'italic'}}>No Data found for this filter.</h1>
+                <h1 style={{ margin: '15%', fontStyle: 'italic' }}>No Data found for this filter.</h1>
             )
         }
         else {
@@ -250,7 +289,7 @@ class Listing extends React.Component {
                                     <div className="brand">{item[currentItemIndex + index].brand}</div>
                                     <div className="color">{item[currentItemIndex + index].color}</div>
                                     <span className="rating">
-                                        <button className="stars_btn"><span className="stars">{item[currentItemIndex + index].stars ? item[currentItemIndex + index].stars : 3.4}</span> <i className="bi bi-star-fill stars-star"></i></button>
+                                        <button className="stars_btn"><span className="stars">{item[currentItemIndex + index].stars ? item[currentItemIndex + index].stars : item[currentItemIndex + index].hidden_stars}</span> <i className="bi bi-star-fill stars-star"></i></button>
                                         {/* <span className="ratings">{item[currentItemIndex + index].ratings}</span> */}
                                         <span className="reviews">{reviews}</span>
                                         <span className="badge rounded-pill bg-primary">FAssured</span>
@@ -321,7 +360,7 @@ class Listing extends React.Component {
                                 <button className="btn btn-sm" onClick={() => { this.sortByPrice(-1) }}>Price -- High to Low</button>
                             </div>
                         </div>
-                        <div className="d-inline-flex mt-0 flex-wrap flex-box" style={{marginBottom: '1rem' }}>
+                        <div className="d-inline-flex mt-0 flex-wrap flex-box" style={{ marginBottom: '1rem' }}>
                             {this.getContent(currentTodos)}
                         </div>
                         <div className="d-inline-flex mt-0 flex-wrap flex-box" style={{ marginLeft: '42%' }}>

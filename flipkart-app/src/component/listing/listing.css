@@ -23,6 +23,7 @@
 .custom-card-anchor {
     text-decoration: none;
     color: black !important;
+    margin: auto;
 }
 .custom-card-anchor:hover {
     color: black !important;
