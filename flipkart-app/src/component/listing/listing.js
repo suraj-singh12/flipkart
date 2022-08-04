@@ -53,11 +53,7 @@ class Listing extends React.Component {
     }
 
     sortByPopularity = () => {
-        console.log(this.props.match.params.id);
         let itemName = this.props.match.params.id;
-        if (this.props.match.params.id === 'top_offers') {
-            itemName = 'all_items'
-        }
         axios.get(popularityUrl + itemName)
             .then(res => {
                 this.shuffle(res.data);
@@ -73,9 +69,6 @@ class Listing extends React.Component {
     sortByPrice = (sortOrder) => {
         console.log('in sortyByPrice')
         let itemName = this.props.match.params.id;
-        if (this.props.match.params.id === 'top_offers') {
-            itemName = 'all_items'
-        }
         axios.get(priceUrl + itemName + '?sort=' + sortOrder)
             .then(res => {
                 this.setState({
@@ -115,9 +108,6 @@ class Listing extends React.Component {
         let url = priceUrl + itemName + '?lcost=' + lcost + '&hcost=' + hcost;
         console.log('url: ', url);
 
-        if (this.props.match.params.id === 'top_offers') {
-            itemName = 'all_items'
-        }
         axios.get(url)
             .then(res => {
                 this.setState({
@@ -163,7 +153,7 @@ class Listing extends React.Component {
     }
 
     filterByDiscount = (event) => {
-        console.log('filterByDiscount', event.target);  
+        console.log('filterByDiscount', event.target);
 
         if (event.target.checked === true) {
             axios.get(discountUrl + this.props.match.params.id + '/' + event.target.value)
@@ -377,9 +367,6 @@ class Listing extends React.Component {
         console.log('listing >>>>', this.props);
 
         let itemName = this.props.match.params.id;
-        if (this.props.match.params.id === 'top_offers') {
-            itemName = 'all_items';
-        }
 
         axios.get(url + itemName)
             .then(res => {
