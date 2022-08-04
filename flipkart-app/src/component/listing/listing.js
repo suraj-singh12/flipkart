@@ -314,8 +314,32 @@ class Listing extends React.Component {
         }
     }
 
+    updateAgain = () => {
+        console.log('updateAgain')
+        let itemName = this.props.match.params.id;
+
+        axios.get(url + itemName)
+            .then(res => {
+                console.log('res', res.data);
+                this.shuffle(res.data);
+                this.setState({
+                    items: res.data
+                })
+            }).catch(err => {
+                console.log('err', err);
+            }).finally(() => {
+                console.log('finally');
+            }
+            )
+    }
 
     render() {
+        if(sessionStorage.getItem('prevItemId') && this.props.match.params.id !== sessionStorage.getItem('prevItemId')){ 
+            sessionStorage.setItem('prevItemId', this.props.match.params.id);
+            this.updateAgain();
+        } else {
+            sessionStorage.setItem('prevItemId', this.props.match.params.id);
+        }
         const { items, currentPage, todosPerPage } = this.state;
         console.log(this.state);
 
