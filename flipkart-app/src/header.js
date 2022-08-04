@@ -1,3 +1,4 @@
+import axios from 'axios';
 import React, { Component } from 'react';
 import { Link, withRouter } from 'react-router-dom';
 import './Header.css';
@@ -15,6 +16,26 @@ class Header extends Component {
     toggleNightMode() {
         return;
     }
+    loadDetailsPage = (event) => {
+        event.preventDefault();
+        // console.log(event);
+        // console.log(event.target);
+        console.log(event.target.searchbar.value);
+        
+        let items = '';
+        // list all items that api has
+        axios.get('https://app2fkartapi.herokuapp.com/list-apis')
+        .then(response => {
+            items = response.data;
+        })
+        .then(() => {
+            // exact search
+            if(items.includes(event.target.searchbar.value)) {
+                this.props.history.push('/listing/' + event.target.searchbar.value);
+            }
+            // fuzzy search (yet to be implemented)
+        })
+    }
 
     render() {
         return (
@@ -24,7 +45,7 @@ class Header extends Component {
                     <Link to={'/'}>Explore <span className="plus">Plus <img src={Icons['flipkart-logo-last-part']} alt="plus" /></span></Link>
                 </div>
                 <div className="search-bar">
-                    <form id="search" action="#">
+                    <form id="search" action="#" onSubmit={(event) => this.loadDetailsPage(event)}>
                         <input type="text" name="searchbar" placeholder="Search for products, brands and more" />
                         <button type="submit"><i className="bi bi-search"></i></button>
                     </form>
