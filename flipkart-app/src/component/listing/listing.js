@@ -26,7 +26,8 @@ class Listing extends React.Component {
         this.state = {
             items: '',
             currentPage: 1,
-            todosPerPage: 20
+            todosPerPage: 20,
+            idReceived: true
         }
         this.handleClick = this.handleClick.bind(this);
         this.filterByPrice = this.filterByPrice.bind(this);
@@ -37,6 +38,18 @@ class Listing extends React.Component {
             currentPage: Number(event.target.id)
         })
     }
+
+    // hasHistoryChanged = () => {
+    //     if (sessionStorage.getItem('itemsHistory')) {
+    //         if (sessionStorage.getItem('itemsHistory') !== this.props.history.location.pathname) {
+    //             console.log('history changed');
+    //             sessionStorage.setItem('itemsHistory', this.props.history.location.pathname);
+    //             this.setState({ idReceived: this.state.idReceived ? false : true });
+    //         }
+    //     } else {
+    //         sessionStorage.setItem('itemsHistory', this.props.history.location.pathname);
+    //     }
+    // }
 
     shuffle = (arr) => {
         let tmp;
@@ -304,6 +317,7 @@ class Listing extends React.Component {
 
     render() {
         const { items, currentPage, todosPerPage } = this.state;
+        console.log(this.state);
 
         // Logic for displaying current todos
         const indexOfLastTodo = currentPage * todosPerPage;
@@ -316,7 +330,7 @@ class Listing extends React.Component {
             pageNumbers.push(i);
         }
 
-        let pages = pageNumbers.slice(0, (pageNumbers.length < 5) ? pageNumbers.length - 1 : 5);
+        let pages = pageNumbers.slice(0, (pageNumbers.length < 5) ? pageNumbers.length : 5);
 
         const renderPageNumbers = pages.map(number => {
             return (
@@ -365,7 +379,7 @@ class Listing extends React.Component {
 
     componentDidMount() {
         console.log('listing >>>>', this.props);
-
+        // this.setState({idReceived: this.props.match.params.id});
         let itemName = this.props.match.params.id;
 
         axios.get(url + itemName)
@@ -382,6 +396,22 @@ class Listing extends React.Component {
             }
             )
     }
+    // static getDerivedStateFromProps(nextProps, prevState) {
+    //     console.log('nextProps', nextProps);
+    //     let itemName = nextProps.match.params.id;
+
+    //     axios.get(url + itemName)
+    //         .then(res => {
+    //             console.log('res', res.data);
+    //             return { items: res.data };
+    //             // console.log('data updated')
+    //         }).catch(err => {
+    //             console.log('err', err);
+    //         }).finally(() => {
+    //             console.log('finally');
+    //         }
+    //         )
+    // }
 }
 
 export default Listing;

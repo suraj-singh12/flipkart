@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import { Link, withRouter } from 'react-router-dom';
 import './Header.css';
 import Icons from './icons.json';
+import Listing from './component/listing/listing';
 
 
 class Header extends Component {
@@ -21,26 +22,38 @@ class Header extends Component {
         // console.log(event);
         // console.log(event.target);
         console.log(event.target.searchbar.value);
-        
+
         let items = '';
         // list all items that api has
         axios.get('https://app2fkartapi.herokuapp.com/list-apis')
-        .then(response => {
-            items = response.data;
-        })
-        .then(() => {
-            // exact search
-            if(items.includes(event.target.searchbar.value)) {
-                this.props.history.push('/listing/' + event.target.searchbar.value);
-            }
-            // fuzzy search (yet to be implemented)
-        })
+            .then(response => {
+                items = response.data;
+            })
+            .then(() => {
+                console.log(this.props);
+                // exact search
+                let isPresent = false;
+                if (items.includes(event.target.searchbar.value)) {
+                    this.props.history.push('/listing/' + event.target.searchbar.value);
+                } else {
+                    // fuzzy search
+                    for (let i = 0; i < items.length; ++i) {
+                        if (items[i].includes(event.target.searchbar.value)) {
+                            isPresent = true;
+                            this.props.history.push('/listing/' + items[i]);
+                        }
+                    }
+                }
+                if(!isPresent) {
+                    this.props.history.push('/listing/' + event.target.searchbar.value);
+                }
+            })
     }
 
     render() {
         return (
             <header style={{ backgroundColor: '#2874f0' }}>
-                <div className="logo" onClick={() => this.props.history.push('/')} style={{cursor: 'pointer'}}>
+                <div className="logo" onClick={() => this.props.history.push('/')} style={{ cursor: 'pointer' }}>
                     <img src={Icons.flipkart} alt="flipkart" />
                     <Link to={'/'}>Explore <span className="plus">Plus <img src={Icons['flipkart-logo-last-part']} alt="plus" /></span></Link>
                 </div>

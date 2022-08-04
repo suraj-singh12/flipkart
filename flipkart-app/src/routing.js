@@ -3,7 +3,7 @@ import { BrowserRouter, Route } from 'react-router-dom';
 import Home from './Home';
 import Listing from './component/listing/listing';
 
-const Router = () => {
+const Router = ({location}) => {
     return (
         <BrowserRouter>
             <Route exact path="/" component={Home} />
