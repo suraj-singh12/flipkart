@@ -1,0 +1,177 @@
+.item-card {
+    /* font-family: Roboto,Arial,sans-serif; */
+    font-family:Arial, Helvetica, sans-serif;
+    width: 27%;
+    /* height: 350px; */
+    max-height: 570px;
+    margin: 2%;
+    margin-left: 3%;
+    float: left;
+    position: sticky !important;
+    top: 0;
+}
+
+.item-card:hover {
+    box-shadow: 1px 1px 28px lightgrey;
+}
+
+.item-card-img {
+    margin: auto;
+    height: 400px;
+    width: 80%;
+    margin: auto;
+    margin-top: 6%;
+}
+.item-card-img > img {
+    width: auto;
+    height: inherit;
+}
+.item-card-body {
+    margin: 2% 9% 0% 7%;
+    color: white;
+}
+
+.item-card-btn1 {
+    width: auto;
+    float: left;
+    color: inherit;
+}
+
+.item-card-btn2 {
+    width: auto;
+    /* margin-left: 19%; */
+    float:right;
+    color: inherit;
+}
+
+.item-card-btn1:hover {
+    box-shadow: 1px 1px 3px orange;
+}
+.item-card-btn2:hover {
+    box-shadow: 0px 0px 4px red;
+}
+.item-main {
+    display: inline-block;
+    width: 98%;
+    background-color: #f1f3f6;
+}
+/* content style */
+.item-content {
+    font-size: 1.1em;
+    width: 65%;
+    float: left;
+    margin-top: 1.9%;
+    line-height: 2;
+    background-color: white;
+    padding-left: 25px;
+    padding-top: 5px;
+    box-shadow:1px 1px 28px lightgrey;
+}
+.item-description {
+    font-size: 29px;
+}
+.item-span {
+    margin-right: 5px;
+}
+.item-stars {
+    color: white;
+    background: blue;
+    padding: 3px;
+    border-radius: 4px;
+}
+.item_details_ratings, .item_details_reviews {
+    background-color: #fbf4cf;
+    padding: 5px;
+    border-radius: 4px;
+    color: #332a5e;
+}
+.item-new-price {
+    font-size: 27px;
+}
+.item-old-price {
+    text-decoration: line-through;
+}
+.item-discount {
+    color: green;
+    font-weight: bold;
+    letter-spacing: 1;
+}
+.item-offer {
+    margin-top: 1%;
+}
+.item-offer1 {
+    font-size: 1.7em;
+}
+.delivery-bar {
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+.delivery-bar > label {
+    margin-right: 1%;
+}
+.delivery-bar > input {
+    width: 25%;
+    display: inline;
+    border: none;
+    border-bottom: 1px solid #dedede;
+    border-left: 1px solid #ede8e8;
+    margin-right: 1%;
+    box-shadow: none !important;
+}
+.delivery-bar > button {
+    color: green;
+    border: 1px solid green;
+    box-shadow: none !important;
+}
+.delivery-bar > button:hover {
+    background: #61c261;
+    color: white;
+}
+.size > span {
+    margin-right: 32px;
+}
+.size > label {
+    height: 26px;
+    width: 28px;
+    font-size: 16px;
+    padding: 0;
+}
+.size > label:focus {
+    background-color: lightblue;
+    color: white;
+}
+.highlight-services {
+    display: inline-block;
+    width: 100%;
+}
+.highlights {
+    margin-top: 1%;
+    width: 70%;
+    float: left;
+}
+.features > span, .services > span{
+    font-weight: 500;
+    color: #2874f0;
+}
+.services {
+    float: right;
+    margin-top: 2%;
+    margin-right: 4%;
+}
+.highlights > span {
+    font-size: 1.7em;
+}
+.summary > div {
+    font-size: 1.7em;
+}
+.summary > p {
+    line-height: 1.5;
+    margin-bottom: 0.5%;
+}
+.summary {
+    margin-bottom: 50px;
+}
+.tags-color {
+    color: green;
+    margin-right: 3px;
+}

@@ -285,7 +285,7 @@ class Listing extends React.Component {
                         <div className="listing-card-image">
                             <img src={item[currentItemIndex + index].image} alt={item[currentItemIndex + index].brand} className="card-img-top" />
                         </div>
-                        <Link className="custom-card-anchor" to={'/'}>
+                        <Link className="custom-card-anchor" to={`/details/${this.props.match.params.id}?${item[currentItemIndex + index].item_id}`}>
                             <div className="card-body">
                                 <div className="card-title description">{itemDesc}</div>
                                 <div className="card-text">
@@ -354,7 +354,7 @@ class Listing extends React.Component {
             pageNumbers.push(i);
         }
 
-        let pages = pageNumbers.slice(0, (pageNumbers.length < 5) ? pageNumbers.length : 5);
+        let pages = pageNumbers.slice(0, (pageNumbers.length < 5) ? pageNumbers.length : 7);
 
         const renderPageNumbers = pages.map(number => {
             return (
