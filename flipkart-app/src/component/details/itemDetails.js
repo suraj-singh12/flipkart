@@ -58,10 +58,73 @@ class ItemDetails extends Component {
             </ul>
         )
     }
+
+    // itemCardCss = {
+    //     itemCard: {
+    //         fontFamily:'Arial, Helvetica, sans-serif',
+    //         width: '27%',
+    //         maxHeight: '570px',
+    //         margin: '2%',
+    //         marginLeft: '3%',
+    //         float: 'left',
+    //         position: 'sticky !important',
+    //         top: '0'
+    //     },
+
+    //     itemCardImgDiv: {
+    //         margin: 'auto',
+    //         height: '400px',
+    //         // width: '80%',
+    //         // width: 'auto',
+    //         marginTop: '6%'
+    //     },
+
+    //     itemCardImage: {
+    //         // width: 'auto',
+    //         // height: 'inherit'
+    //         maxHeight: '100%',
+    //         maxWidth: '100%'
+    //     }
+    // }
     render() {
         let item = this.state.item[0];
         if (!item || item.length === 0)
             return;
+
+
+        // let type1 = ['clothes', 'bags', 'gowns', 'jackets', 'jeans', 'lehngas', 'pants', 'powerbanks', 'sarees', 'shirts',  'suits', 'sweaters', 'fans', 'tracks', 'mobile_phones', 'refrigerators']
+        // let type2 = ['washing_machines', 'telivision_tvs', 'monitors', 'laptops', 'dslr', 'camera', 'airconditioners_ac']
+        // let upcoming = this.props.location.pathname.split('/');
+        // upcoming = upcoming[upcoming.length -1];
+
+        // let isThereType1 = false;
+        // for(let itm of type1) {
+        //     if(itm.includes(upcoming)) {
+        //         console.log('contains');
+        //         isThereType1 = true; 
+        //         break;
+        //     }
+        // }
+
+        // let isThereType2 = false;
+        // for(let itm of type2) {
+        //     if(itm.includes(upcoming)) {
+        //         console.log('contains2');
+        //         isThereType2 = true;
+        //         break;
+        //     }
+        // }
+        // if(!isThereType1 && isThereType2) {
+        //     // here will set the css
+        //     console.log('changing the css');
+        //     let imageDiv = this.itemCardCss.itemCardImgDiv;
+        //     imageDiv.height = 'auto';
+        //     imageDiv.width = 'auto';
+
+        //     let image = this.itemCardCss.itemCardImage;
+        //     image.height = 'auto';
+        //     image.width = 'auto';
+        // }
 
         console.log('itemDetails Props: ',this.props);
 
@@ -79,7 +142,7 @@ class ItemDetails extends Component {
 
                     {/* <!-- (left) item-card: is a custom class --> */}
                     <div className="card item-card">
-                        <div className="item-card-img">
+                        <div className="item-card-img-div">
                             <img src={item.image} alt={item.brand} />
                         </div>
                         <div className="card-body item-card-body">
