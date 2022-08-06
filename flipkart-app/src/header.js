@@ -38,7 +38,7 @@ class Header extends Component {
                 } else {
                     // fuzzy search
                     for (let i = 0; i < items.length; ++i) {
-                        if (items[i].includes(event.target.searchbar.value)) {
+                        if (items[i].includes(event.target.searchbar.value) || items[i].includes(event.target.searchbar.value.split(' ')[0])) {
                             isPresent = true;
                             this.props.history.push('/listing/' + items[i]);
                         }
