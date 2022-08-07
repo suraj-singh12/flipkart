@@ -43,7 +43,7 @@ class Home extends React.Component {
             
         return arr;
     }
-    RenderItems = (data, noOfItems) => {
+    RenderItems = (itemName, data, noOfItems) => {
         // noOfItems defines how many items to display in carousel
         if (!data) return;
         // shuffle the array items
@@ -55,7 +55,7 @@ class Home extends React.Component {
             itemDesc = item.description.substr(0, 18) + '...';
             return (
                 //  myCard 1 
-                <Link to={'/'} key={item._id}>
+                <Link to={`/details/${itemName}?${item.item_id}`} key={item._id}>
                     <div className="myCard card">
                         <div className="img">
                             <img className="card-img-top" src={item.image} alt={item.brand} />
@@ -112,28 +112,28 @@ class Home extends React.Component {
                 <div id="deals_of_day" className="cards-holder container-fluid">
                     <h3 className="cards-heading">Deals of the Day</h3>
                     <hr />
-                    {this.RenderItems(this.state.clothes, 7)}
+                    {this.RenderItems('clothes', this.state.clothes, 7)}
                 </div>
 
                 <div className="cards-holder container-fluid">
                     <h3 className="cards-heading">Attractive Deals</h3>
                     <hr />
-                    {this.RenderItems(this.state.mobiles, 7)}
+                    {this.RenderItems('mobile_phones', this.state.mobiles, 7)}
                 </div>
                 <div className="cards-holder container-fluid">
                     <h3 className="cards-heading">Items You May Like</h3>
                     <hr />
-                    {this.RenderItems(this.state.watches, 7)}
+                    {this.RenderItems('watches', this.state.watches, 7)}
                 </div>
                 <div className="cards-holder container-fluid">
                     <h3 className="cards-heading">Attire</h3>
                     <hr />
-                    {this.RenderItems(this.state.formals, 7)}
+                    {this.RenderItems('formals', this.state.formals, 7)}
                 </div>
                 <div className="cards-holder container-fluid">
                     <h3 className="cards-heading">Gaming Category</h3>
                     <hr />
-                    {this.RenderItems(this.state.gaming_mouses, 7)}
+                    {this.RenderItems('gaming_mouses', this.state.gaming_mouses, 7)}
                 </div>
 
                 <Footer />

@@ -44,7 +44,7 @@ class Header extends Component {
                         }
                     }
                 }
-                if(!isPresent) {
+                if (!isPresent) {
                     this.props.history.push('/listing/' + event.target.searchbar.value);
                 }
             })
@@ -68,7 +68,7 @@ class Header extends Component {
                     <div className="login-dropdown dropdown">
                         <button className="btn login-button" data-bs-toggle="dropdown">Login</button>
                         <ul className="dropdown-menu dropdown-menu-center">
-                            <li><Link to={'/'} className="dropdown-item"><i className="drop-icons bi bi-person-circle"></i>
+                            <li><Link to={'/login'} className="dropdown-item"><i className="drop-icons bi bi-person-circle"></i>
                                 <p className="drop-icon-text">My Profile</p>
                             </Link></li>
                             <li><Link to={'/'} className="dropdown-item"><i className="drop-icons bi bi-plus-lg"></i>
@@ -85,7 +85,9 @@ class Header extends Component {
                             </Link></li>
                         </ul>
                     </div>
-                    <button className="btn signup-button">Sign-up</button>
+                    <Link to="/signup">
+                        <button className="btn signup-button">Sign-up</button>
+                    </Link>
                     <button className="btn cart"><i className="bi bi-cart-fill"></i>Cart</button>
                 </div>
             </header>
