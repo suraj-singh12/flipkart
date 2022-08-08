@@ -7,6 +7,10 @@ import './itemDetails.css';
 
 const url = 'https://app2fkartapi.herokuapp.com/item/';
 // 'https://app2fkartapi.herokuapp.com/item/clothes?itemId=12';
+const wishlistUrl = 'https://app2fkartapi.herokuapp.com/wishlist/add';
+const wishlistCheckUrl = 'https://app2fkartapi.herokuapp.com/wishlist/getItemById/';
+// https://app2fkartapi.herokuapp.com/wishlist/getItemById/suraj@gmail.com/clothes/45
+const addToCartUrl = 'https://app2fkartapi.herokuapp.com/cart/add'
 
 class ItemDetails extends Component {
     constructor(props) {
@@ -59,6 +63,78 @@ class ItemDetails extends Component {
         )
     }
 
+    addToWishlist = () => {
+        // add to favorites, 
+        // this.props.search.pathname.split('/')[2] is the item type.
+        // this.props.search.search.split('?')[1] is the item id.
+
+        if (!sessionStorage.getItem('userInfo')) {
+            alert('Login first to add to Wishlist !!');
+            this.props.history.push('/login');
+        } else {
+            let itemState = {
+                item_id: this.props.location.search.split('?')[1],
+                item_type: this.props.location.pathname.split('/')[2],
+                name: sessionStorage.getItem('userInfo').split(',')[0],
+                email: sessionStorage.getItem('userInfo').split(',')[1],
+            }
+
+            let checkUrl = wishlistCheckUrl + `${itemState.email}/${itemState.item_type}/${itemState.item_id}`;
+            axios.get(checkUrl)
+                .then(res => {
+                    if (res.data.length === 0) {
+                        console.log('adding to wishlist');
+                        console.log('itemType, itemId:', itemState.item_type, itemState.item_id)
+
+                        fetch(wishlistUrl, {
+                            method: 'POST',
+                            headers: {
+                                'accept': 'application/json',
+                                'Content-Type': 'application/json'
+                            },
+                            body: JSON.stringify(itemState)
+                        })
+                            .then((data) => {
+                                console.log('data', data);
+                            })
+                    } else {
+                        console.log('item already exists in wishlist'); 
+                    }
+                })
+
+
+
+
+        }
+    }
+
+    addToCart = () => {
+        if (!sessionStorage.getItem('userInfo')) {
+            alert('Login first to add to Wishlist !!');
+            this.props.history.push('/login');
+        } else {
+            let itemState = {
+                item_id: this.props.location.search.split('?')[1],
+                item_type: this.props.location.pathname.split('/')[2],
+                name: sessionStorage.getItem('userInfo').split(',')[0],
+                email: sessionStorage.getItem('userInfo').split(',')[1],
+            }
+
+            // if the item is added to cart already, it won't be added (api takes care of it internally)
+            fetch(addToCartUrl, {
+                method: 'POST',
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(itemState)
+            })
+            .then(() => {
+                console.log('item add to cart (if not exists)')
+            })
+
+        }
+    }
     // itemCardCss = {
     //     itemCard: {
     //         fontFamily:'Arial, Helvetica, sans-serif',
@@ -87,11 +163,13 @@ class ItemDetails extends Component {
     //     }
     // }
     render() {
+        // console.log('item_received: ', this.state.item);
         let item = this.state.item[0];
         if (!item || item.length === 0)
             return;
 
-
+        sessionStorage.setItem('last_page', this.props.location.pathname + this.props.location.search);
+        console.log('last page set');
         // let type1 = ['clothes', 'bags', 'gowns', 'jackets', 'jeans', 'lehngas', 'pants', 'powerbanks', 'sarees', 'shirts',  'suits', 'sweaters', 'fans', 'tracks', 'mobile_phones', 'refrigerators']
         // let type2 = ['washing_machines', 'telivision_tvs', 'monitors', 'laptops', 'dslr', 'camera', 'airconditioners_ac']
         // let upcoming = this.props.location.pathname.split('/');
@@ -126,7 +204,7 @@ class ItemDetails extends Component {
         //     image.width = 'auto';
         // }
 
-        console.log('itemDetails Props: ',this.props);
+        console.log('itemDetails Props: ', this.props);
 
         let rating = this.setRatingReviews(item.rating, 'rating');
         let reviews = this.setRatingReviews(item.reviews, 'reviews');
@@ -142,11 +220,12 @@ class ItemDetails extends Component {
 
                     {/* <!-- (left) item-card: is a custom class --> */}
                     <div className="card item-card">
+                        <i className="bi bi-heart heart-icon" onClick={() => { this.addToWishlist() }}></i>
                         <div className="item-card-img-div">
                             <img src={item.image} alt={item.brand} />
                         </div>
                         <div className="card-body item-card-body">
-                            <button className="btn btn-warning btn-lg item-card-btn1"><i style={{ color: 'white' }} className="bi bi-cart-fill"></i> Add To Cart</button>
+                            <button className="btn btn-warning btn-lg item-card-btn1" onClick={() => { this.addToCart() }}><i style={{ color: 'white' }} className="bi bi-cart-fill"></i> Add To Cart</button>
                             <button className="btn btn-danger btn-lg item-card-btn2"><i className="bi bi-lightning-fill"></i> Buy Now</button>
                         </div>
                     </div>

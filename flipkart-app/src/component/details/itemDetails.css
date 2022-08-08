@@ -172,3 +172,8 @@
     color: green;
     margin-right: 3px;
 }
+
+.heart-icon::before {
+    float: right;
+    margin: 2%;
+}

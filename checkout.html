@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+
+    <style>
+        body {
+            background-color: #f1f3f6;
+            /* font-family: Roboto, Arial, sans-serif;
+            letter-spacing: 0; */
+            font-size: 14px;
+            background-color: #f1f3f6;
+            color: #212121;
+            line-height: 1.4;
+            /* font-family: Roboto,Arial,sans-serif; */
+            letter-spacing: 0;
+        }
+
+        .checkout-page {
+            margin: auto;
+            width: 80%;
+            /* border: 3px solid green; */
+            height: auto;
+            margin-top: 3%;
+        }
+
+        .checkout-login-left,
+        .checkout-login-right,
+        .checkout-extreme-right {
+            float: left;
+            word-wrap: break-word;
+        }
+
+        .checkout-main,
+        .delivery-main,
+        .order-summary {
+            width: 69%;
+            padding: 1.7rem 1.3rem 1.1rem 3.1rem;
+            /* border: 1px solid red; */
+            display: inline-block;
+        }
+
+        .checkout-login-left,
+        .checkout-login-right {
+            width: 45%;
+            padding: 3%;
+        }
+
+        .checkout-extreme-right {
+            margin-top: 4%;
+            width: 30%;
+            float: right;
+            /* border: 1px solid blue; */
+        }
+
+        .img-icon {
+            display: inline-block;
+            width: auto;
+        }
+
+        .checkout-item-details {
+            display: inline-block;
+            margin-left: 5%;
+        }
+
+        .checkout-login-heading,
+        .delivery-address-heading,
+        .order-summary-heading {
+            width: 100%;
+            color: #fff;
+            background-color: #2874f0;
+            height: 3rem;
+            text-transform: uppercase;
+            font-size: 1rem;
+            font-weight: 500;
+            padding: 0.9rem 1.5rem;
+            border-radius: 2px 2px 0 0;
+        }
+
+        .checkout-login-heading>span,
+        .delivery-address-heading>span,
+        .order-summary-heading>span {
+            font-size: 0.8rem;
+            color: #2874f0;
+            border-radius: 2px;
+            padding: 3px 7px;
+            vertical-align: baseline;
+            margin-right: 1rem;
+            background-color: white;
+        }
+
+        .checkout-privacy-policy {
+            color: #878787;
+            font-size: 0.8rem;
+            font-weight: 400;
+            margin-top: 1rem;
+        }
+
+        .checkout-extreme-right>img {
+            width: 1.9rem;
+            height: 2.2rem;
+            margin-right: 1.2rem;
+            float: left;
+        }
+
+        .continue-after-login {
+            background: #fb641b;
+            box-shadow: 0 1px 2px 0 rgb(0 0 0 / 20%);
+            border: none;
+            color: #fff;
+            width: 100%;
+            margin-top: 1rem;
+            height: 3rem;
+        }
+
+        .checkout-extreme-right>p {
+            font-size: 0.9rem;
+            font-weight: 500;
+            line-height: 1.29;
+            display: block;
+            margin-left: 3rem;
+            color: #878787;
+        }
+
+        .login-email>input {
+            padding: 8px 10px 10px 0;
+            width: 100%;
+            color: #000;
+            font-size: inherit;
+            background: #fff;
+            border: none;
+            border-bottom: 1px solid #e0e0e0;
+            outline: 0;
+            border-bottom: 1px solid #2874f0;
+        }
+
+        .checkout-right-heading {
+            color: #878787;
+        }
+
+        .checkout-login-right ul,
+        .checkout-login-right li {
+            list-style-type: none;
+            margin: 16px 0;
+            color: #212121;
+            font-size: 14px;
+        }
+
+        .delivery-address {
+            margin-top: 2%;
+        }
+
+        .address-head>span {
+            font-weight: 500;
+        }
+
+        .address-type {
+            text-transform: uppercase;
+            font-size: 11px;
+            color: #878787;
+            vertical-align: middle;
+            padding: 4px 7px;
+            border-radius: 2px;
+            background-color: #f0f0f0;
+            font-weight: 500;
+        }
+
+        .current-address,
+        .other-addresses {
+            border-bottom: 1px solid #f0f0f0;
+            padding: 16px 24px 12px;
+            background-color: #f5faff;
+        }
+
+        .edit-address {
+            float: right;
+            font-size: 14px;
+            color: #2874f0;
+            border: 0;
+            background: none;
+            cursor: pointer;
+            outline: none;
+        }
+
+        .other-addresses button {
+            display: none;
+        }
+
+        .deliver-here {
+            background: #fb641b;
+            box-shadow: 0 1px 2px 0 rgb(0 0 0 / 20%);
+            border: none;
+            color: #fff;
+            font-size: 14px;
+            text-transform: uppercase;
+            width: 200px;
+            height: 48px;
+            margin-top: 12px;
+        }
+
+        .checkout-item-count {
+            margin-top: 3%;
+        }
+
+        .count-minus,
+        .count-plus {
+            width: 28px;
+            height: 28px;
+            background: linear-gradient(#fff, #f9f9f9);
+            display: inline-block;
+            border: 1px solid #c2c2c2;
+            cursor: pointer;
+            font-size: 16px;
+            border-radius: 50%;
+            padding-top: 1px;
+            line-height: 1;
+            text-align: center;
+        }
+
+        .count-minus {
+            color: #c2c2c2;
+            border-color: #e0e0e0;
+            cursor: auto;
+        }
+
+        .count {
+            display: inline-block;
+            padding: 3px 6px;
+            width: calc(100% - 60px);
+            height: 100%;
+            width: 46px;
+            height: 28px;
+            border-radius: 2px;
+            background-color: #fff;
+            border: 1px solid #c2c2c2;
+            margin: 0 5px;
+            text-align: center;
+        }
+
+        .remove-checkout-item {
+            display: inline-block;
+            text-transform: uppercase;
+            box-shadow: none;
+            outline: 0;
+            font-size: 16px;
+            font-weight: 500;
+            cursor: pointer;
+            margin-right: 25px;
+            border: 0;
+            margin-left: 1%;
+        }
+
+        .remove-checkout-item:hover {
+            color: #2874f0;
+        }
+
+        .order-summary {
+            margin-top: 2%;
+        }
+
+        .checkout-item {
+            margin-top: 2%;
+        }
+
+        .add-new-address {
+            font-size: 14px;
+            color: #2874f0;
+            font-weight: 500;
+            padding: 16px 0;
+            border-bottom: 1px solid #f0f0f0;
+            cursor: pointer;
+        }
+
+        .checkout-main, .delivery-main, .add-new-address, .order-summary {
+            box-shadow: 0 -1px 1px 0 rgb(0 0 0 / 20%);
+            background-color: #f1f3f6;
+            border: 1px solid #f0f0f0;
+            background-color: white;
+        }
+        .add-new-address {
+            margin-top: 3%;
+            width: 69%;
+            padding-left: 4%;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="checkout-page">
+
+        <!-- login component -->
+        <div class="checkout-login-signup">
+
+            <div class="checkout-main">
+                <p class="checkout-login-heading"><span>1</span>Login Or Signup</p>
+                <div class="checkout-login-left">
+                    <div class="login-email">
+                        <input type="email" placeholder="Enter your email" />
+                    </div>
+                    <div class="checkout-privacy-policy">By continuing, you agree to Flipkart's Terms of Use and Privacy
+                        Policy
+                    </div>
+                    <button class="continue-after-login">Continue</button>
+                    <!-- on pressing continue, another component will be loaded with email written and a button to change -->
+                </div>
+                <div class="checkout-login-right">
+                    <ul>
+                        <div class="checkout-right-heading">Advantages of Secure Login</div>
+                        <li><i class="bi bi-truck" style="color: blue"></i> Easily Track Orders, Hassle free Returns
+                        </li>
+                        <li><i class="bi bi-bell-fill" style="color: blue"></i> Get relevant alerts and recommendations
+                        </li>
+                        <li><i class="bi bi-star-fill" style="color: blue"></i> Wishlist, Reviews, Ratings and more.
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="checkout-extreme-right">
+                <img src="./shield.png" alt="shield">
+                <p>Safe and Secure Payments. Easy returns. 100% Authentic products.</p>
+            </div>
+        </div>
+
+        <!-- delivery address component -->
+        <div class="delivery-address">
+
+            <div class="delivery-main">
+                <div class="delivery-address-heading"><span>2</span>Delivery Address</div>
+                <div class="current-address">
+                    <div class="address-head"><span>Name</span> <span class="address-type">Work</span>
+                        <span>9999999999</span>
+                    </div>
+                    <button class="edit-address">Edit</button>
+                    <div class="address">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non saepe sed neque ab
+                        maxime molestiae vero inventore.</div>
+                    <button class="deliver-here">Deliver Here</button>
+                </div>
+                <div class="other-addresses">
+                    <!-- buttons of other addresses will be hidden, and onClick they will be shown and rest all buttons will be made hidden -->
+                    <div class="address-head"><span>Name</span> <span class="address-type">Work</span>
+                        <span>9999999999</span>
+                    </div>
+                    <button class="edit-address">Edit</button>
+                    <div class="address">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non saepe sed neque ab
+                        maxime molestiae vero inventore.</div>
+                    <button class="deliver-here">Deliver Here</button>
+                </div>
+
+            </div>
+            <div class="add-new-address">
+                + Add a new Address
+            </div>
+
+            <div class="delivery-extreme-right"></div>
+        </div>
+
+        <div class="order-summary">
+            <div class="order-summary-heading"><span>3</span> Order Summary</div>
+            <!-- item -->
+            <div class="checkout-item">
+                <div class="img-icon">
+                    <img src="./earbuds.jpeg" alt="item name">
+                </div>
+                <div class="checkout-item-details">
+                    <div class="checkout-item-description">Mytrack Low Latency Gaming Deep Bass With Micropho...</div>
+                    <div class="checkout-item-color">Black, True Wireless</div>
+                    <span class="checkout-old-price">₹2,995</span>
+                    <span class="checkout-new-price">₹949</span>
+                    <span class="checkout-discount">68% Off3</span>
+                    <span class="checkout-offers"> offers applied</span>
+                </div>
+            </div>
+            <!-- item count -->
+            <div class="checkout-item-count">
+                <button class="count-minus">-</button>
+                <span class="count">1</span>
+                <button class="count-plus">+</button>
+                <button class="remove-checkout-item">Remove</button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import {Link} from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import Header from '../../header';
 import Footer from '../../Footer';
 import './loginSignup.css';
@@ -51,11 +51,12 @@ class Login extends Component {
                     sessionStorage.setItem('ltk', data.token);
                     // ltk: login token
 
-                    console.log('login success !')
-                    this.props.history.push('/');
-                    
-                    // still needs implementation
-                    this.props.history.push(sessionStorage.getItem('last_page'));   // redirect user to his last visited page on website.
+                    console.log('login success !');
+                    if (sessionStorage.getItem('last_page')) {
+                        this.props.history.push(sessionStorage.getItem('last_page'));   // redirect user to his last visited page on website.
+                    } else {
+                        this.props.history.push('/');
+                    }   
                 }
             })
     }
@@ -72,10 +73,10 @@ class Login extends Component {
                         </div>
                         <div className="right-login">
                             <div>
-                                <input type="email" name="email" placeholder="Enter Email/Mobile Number" onChange={this.handleChange} required/>
+                                <input type="email" name="email" placeholder="Enter your Email" onChange={this.handleChange} required />
                             </div>
                             <div>
-                                <input type="password" name="password" placeholder="Enter Password" onChange={this.handleChange} required/>
+                                <input type="password" name="password" placeholder="Enter Password" onChange={this.handleChange} required />
                             </div>
                             <button className="login-btn" type="submit">Login</button>
                             <p className="divider-or">OR</p>
