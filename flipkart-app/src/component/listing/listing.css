@@ -10,8 +10,7 @@
     transition: box-shadow .2s ease-in-out;
     width: 24%;
     margin: 5px;
-    flex-grow: 1;
-    /* max-height: 366px; */
+    flex-grow: 1;               /* this ensures if on a page there are less than 4 cards, then their width will grow so that they fit the page*/
     height: auto;   
     text-align: center;
 }

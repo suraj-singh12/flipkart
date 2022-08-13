@@ -21,6 +21,11 @@ class Home extends React.Component {
         super(props);
         console.log('>>> Home: ', props);
 
+        // save the location of current page(except login/register/placeOrder/viewOrder pages, we do this on all pages[home, listing, details]) as last visited page; will use it to when non-logged in user logs in; will redirect him to his previous page (before login)
+        let last_page_address = props.match.url + props.location.search;
+        sessionStorage.setItem('last_page', last_page_address);
+        console.log('last visited page set to: ', sessionStorage.getItem('last_page'))
+
         this.state = {
             clothes: '',
             mobiles: '',
@@ -35,12 +40,12 @@ class Home extends React.Component {
         for (let i = arr.length - 1; i > 0; i--) {
             // Generate random number
             let j = Math.floor(Math.random() * (i + 1));
-                        
+
             tmp = arr[i];
             arr[i] = arr[j];
             arr[j] = tmp;
         }
-            
+
         return arr;
     }
     RenderItems = (itemName, data, noOfItems) => {
@@ -142,7 +147,6 @@ class Home extends React.Component {
     }
 
     componentDidMount() {
-        sessionStorage.setItem('last_page', '/');
         fetch(url + 'clothes')
             .then(res => res.json())
             .then(data => {

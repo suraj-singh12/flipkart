@@ -13,8 +13,14 @@ const placeOrderUrl = 'https://app2fkartapi.herokuapp.com/orders/add';
 
 class Checkout extends Component {
 
-    constructor() {
-        super();
+    constructor(props) {
+        super(props);
+
+        // save the location of current page(except login/register/placeOrder/viewOrder pages, we do this on all pages[home, listing, details]) as last visited page; will use it to when non-logged in user logs in; will redirect him to his previous page (before login)
+        let last_page_address = props.match.url + props.location.search;
+        sessionStorage.setItem('last_page', last_page_address);
+        console.log('last visited page set to: ', sessionStorage.getItem('last_page'))
+
         this.state = {
             item: '',
             address: '',
@@ -280,13 +286,13 @@ class Checkout extends Component {
     }
 
     conditionalContinueButton = () => {
-        if(this.state.userData.address !== 'NA'){
-            return(
+        if (this.state.userData.address !== 'NA') {
+            return (
                 <button className="continue-btn" type="submit" onClick={() => { this.PlaceOrder() }}>Continue</button>
             )
         } else {
             return (
-                <button className="continue-btn" type="submit" style={{backgroundColor: 'grey'}} disabled>Continue</button>
+                <button className="continue-btn" type="submit" style={{ backgroundColor: 'grey' }} disabled>Continue</button>
             )
         }
     }
@@ -370,7 +376,6 @@ class Checkout extends Component {
     }
 
     componentDidMount() {
-        sessionStorage.setItem('last_page', '/checkout')
         // get the user information using the login token (from sessionStorage)
         // it was saved when user logged in (in login.js)
         if (sessionStorage.getItem('ltk')) {

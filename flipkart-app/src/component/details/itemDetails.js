@@ -16,6 +16,11 @@ class ItemDetails extends Component {
     constructor(props) {
         super(props);
 
+        // save the location of current page(except login/register/placeOrder/viewOrder pages, we do this on all pages[home, listing, details]) as last visited page; will use it to when non-logged in user logs in; will redirect him to his previous page (before login)
+        let last_page_address = props.match.url + props.location.search;
+        sessionStorage.setItem('last_page', last_page_address);
+        console.log('last visited page set to: ', sessionStorage.getItem('last_page'))
+
         this.state = {
             item: {},
             id: ''
@@ -72,13 +77,19 @@ class ItemDetails extends Component {
             alert('Login first to add to Wishlist !!');
             this.props.history.push('/login');
         } else {
-            let itemState = {
-                item_id: this.props.location.search.split('?')[1],
-                item_type: this.props.location.pathname.split('/')[2],
-                name: sessionStorage.getItem('userInfo').split(',')[0],
-                email: sessionStorage.getItem('userInfo').split(',')[1],
-            }
+            // let itemState = {
+            //     item_id: this.props.location.search.split('?')[1],
+            //     item_type: this.props.location.pathname.split('/')[2],
+            //     name: sessionStorage.getItem('userInfo').split(',')[0],
+            //     email: sessionStorage.getItem('userInfo').split(',')[1],
+            // }
 
+            let itemState = this.state.item;
+            itemState.item_type = this.props.location.pathname.split('/')[2];
+            itemState.name = sessionStorage.getItem('userInfo').split(',')[0];
+            itemState.email = sessionStorage.getItem('userInfo').split(',')[1];
+
+            
             let checkUrl = wishlistCheckUrl + `${itemState.email}/${itemState.item_type}/${itemState.item_id}`;
             axios.get(checkUrl)
                 .then(res => {
@@ -98,7 +109,7 @@ class ItemDetails extends Component {
                                 console.log('data', data);
                             })
                     } else {
-                        console.log('item already exists in wishlist'); 
+                        console.log('item already exists in wishlist');
                     }
                 })
 
@@ -110,28 +121,34 @@ class ItemDetails extends Component {
 
     addToCart = () => {
         if (!sessionStorage.getItem('userInfo')) {
-            alert('Login first to add to Wishlist !!');
+            alert('Login first to add to Cart !!');
             this.props.history.push('/login');
         } else {
-            let itemState = {
-                item_id: this.props.location.search.split('?')[1],
-                item_type: this.props.location.pathname.split('/')[2],
-                name: sessionStorage.getItem('userInfo').split(',')[0],
-                email: sessionStorage.getItem('userInfo').split(',')[1],
-            }
+            // let itemState = {
+            //     item_id: this.props.location.search.split('?')[1],
+            //     item_type: this.props.location.pathname.split('/')[2],
+            //     name: sessionStorage.getItem('userInfo').split(',')[0],
+            //     email: sessionStorage.getItem('userInfo').split(',')[1],
+            // }
 
+            let itemState = this.state.item[0];
+            itemState.item_type = this.props.location.pathname.split('/')[2];
+            itemState.name = sessionStorage.getItem('userInfo').split(',')[0];
+            itemState.email = sessionStorage.getItem('userInfo').split(',')[1];
+
+            console.log('itemState', itemState);
             // if the item is added to cart already, it won't be added (api takes care of it internally)
             fetch(addToCartUrl, {
                 method: 'POST',
                 headers: {
                     'Accept': 'application/json',
                     'Content-Type': 'application/json'
-                    },
-                    body: JSON.stringify(itemState)
+                },
+                body: JSON.stringify(itemState)
             })
-            .then(() => {
-                console.log('item add to cart (if not exists)')
-            })
+                .then(() => {
+                    console.log('item add to cart (if not exists)')
+                })
 
         }
     }
@@ -145,33 +162,7 @@ class ItemDetails extends Component {
         console.log('item saved, redirecting')
         this.props.history.push(`/checkout`);
     }
-    // itemCardCss = {
-    //     itemCard: {
-    //         fontFamily:'Arial, Helvetica, sans-serif',
-    //         width: '27%',
-    //         maxHeight: '570px',
-    //         margin: '2%',
-    //         marginLeft: '3%',
-    //         float: 'left',
-    //         position: 'sticky !important',
-    //         top: '0'
-    //     },
-
-    //     itemCardImgDiv: {
-    //         margin: 'auto',
-    //         height: '400px',
-    //         // width: '80%',
-    //         // width: 'auto',
-    //         marginTop: '6%'
-    //     },
-
-    //     itemCardImage: {
-    //         // width: 'auto',
-    //         // height: 'inherit'
-    //         maxHeight: '100%',
-    //         maxWidth: '100%'
-    //     }
-    // }
+    
     render() {
         // console.log('item_received: ', this.state.item);
         let item = this.state.item[0];
@@ -180,40 +171,7 @@ class ItemDetails extends Component {
 
         sessionStorage.setItem('last_page', this.props.location.pathname + this.props.location.search);
         console.log('last page set');
-        // let type1 = ['clothes', 'bags', 'gowns', 'jackets', 'jeans', 'lehngas', 'pants', 'powerbanks', 'sarees', 'shirts',  'suits', 'sweaters', 'fans', 'tracks', 'mobile_phones', 'refrigerators']
-        // let type2 = ['washing_machines', 'telivision_tvs', 'monitors', 'laptops', 'dslr', 'camera', 'airconditioners_ac']
-        // let upcoming = this.props.location.pathname.split('/');
-        // upcoming = upcoming[upcoming.length -1];
-
-        // let isThereType1 = false;
-        // for(let itm of type1) {
-        //     if(itm.includes(upcoming)) {
-        //         console.log('contains');
-        //         isThereType1 = true; 
-        //         break;
-        //     }
-        // }
-
-        // let isThereType2 = false;
-        // for(let itm of type2) {
-        //     if(itm.includes(upcoming)) {
-        //         console.log('contains2');
-        //         isThereType2 = true;
-        //         break;
-        //     }
-        // }
-        // if(!isThereType1 && isThereType2) {
-        //     // here will set the css
-        //     console.log('changing the css');
-        //     let imageDiv = this.itemCardCss.itemCardImgDiv;
-        //     imageDiv.height = 'auto';
-        //     imageDiv.width = 'auto';
-
-        //     let image = this.itemCardCss.itemCardImage;
-        //     image.height = 'auto';
-        //     image.width = 'auto';
-        // }
-
+        
         console.log('itemDetails Props: ', this.props);
 
         let rating = this.setRatingReviews(item.rating, 'rating');
@@ -236,7 +194,7 @@ class ItemDetails extends Component {
                         </div>
                         <div className="card-body item-card-body">
                             <button className="btn btn-warning btn-lg item-card-btn1" onClick={() => { this.addToCart() }}><i style={{ color: 'white' }} className="bi bi-cart-fill"></i> Add To Cart</button>
-                            <button className="btn btn-danger btn-lg item-card-btn2" onClick={() => {this.buyNow()}}><i className="bi bi-lightning-fill"></i> Buy Now</button>
+                            <button className="btn btn-danger btn-lg item-card-btn2" onClick={() => { this.buyNow() }}><i className="bi bi-lightning-fill"></i> Buy Now</button>
                         </div>
                     </div>
 

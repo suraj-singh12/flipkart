@@ -63,6 +63,11 @@ class Header extends Component {
         this.props.history.push('/');       // ensure to export the header withRouter because it is a child component, to use default props we need to import withRouter,  & export too.
     }
 
+    loadCart = () => {
+        console.log('loading cart')
+        this.props.history.push('/cart');
+    }
+
 
     conditionalHeader = () => {
         if (sessionStorage.getItem('ltk')) {
@@ -104,7 +109,7 @@ class Header extends Component {
                     <Link to="/">
                         <button onClick={this.handleLogout} className="btn signup-button">Logout</button>
                     </Link>
-                    <button className="btn cart"><i className="bi bi-cart-fill"></i>Cart</button>
+                    <button className="btn cart" onClick={() => {this.loadCart()}}><i className="bi bi-cart-fill"></i>Cart</button>
                 </div>
             )
         } else {
@@ -133,7 +138,7 @@ class Header extends Component {
                     <Link to="/signup">
                         <button className="btn signup-button">Sign-up</button>
                     </Link>
-                    <button className="btn cart"><i className="bi bi-cart-fill"></i>Cart</button>
+                    <button className="btn cart" onClick={() => {this.loadCart()}}><i className="bi bi-cart-fill"></i>Cart</button>
                 </div>
             )
         }
