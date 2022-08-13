@@ -5,7 +5,8 @@ import Listing from './component/listing/listing';
 import Details from './component/details/itemDetails';
 import Login from './component/login-signup/login';
 import Signup from './component/login-signup/signup';
-
+import Checkout from './component/checkout/checkout';
+import ViewBooking from './component/viewOrder/viewOrder';
 
 const Router = ({location}) => {
     return (
@@ -16,6 +17,8 @@ const Router = ({location}) => {
             <Route path="/details" component={Details} />
             <Route path="/login" component={Login} />
             <Route path="/signup" component={Signup} />
+            <Route path="/checkout" component={Checkout} />
+            <Route path='/viewBooking' component={ViewBooking} />
         </BrowserRouter>
     )
 }

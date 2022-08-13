@@ -12,9 +12,9 @@ class Signup extends Component {
 
         this.state = {
             name: '',
+            phone: '',
             email: '',
             password: '',
-            phone: ''
         }
     }
 
@@ -70,10 +70,10 @@ class Signup extends Component {
                                 <input type="text" name="name" placeholder="Enter your name" onChange={this.handleChange} required/>
                             </div>
                             <div>
-                                <input type="text" name="email" placeholder="Enter your Email" onChange={this.handleChange} required/>
+                                <input type="tel" name="phone" pattern="[0-9]{3}[0-9]{3}[0-9]{4}" maxLength="10" placeholder="Enter your Mobile Number" onChange={this.handleChange} required/>
                             </div>
                             <div>
-                                <input type="tel" name="phone" pattern="[0-9]{3}[0-9]{3}[0-9]{4}" maxlength="10" placeholder="Enter your Mobile Number" onChange={this.handleChange} required/>
+                                <input type="text" name="email" placeholder="Enter your Email" onChange={this.handleChange} required/>
                             </div>
                             <div>
                                 <input type="password" name="password" placeholder="Enter Password" onChange={this.handleChange} required/>

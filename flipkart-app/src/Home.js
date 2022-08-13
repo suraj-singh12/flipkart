@@ -142,6 +142,7 @@ class Home extends React.Component {
     }
 
     componentDidMount() {
+        sessionStorage.setItem('last_page', '/');
         fetch(url + 'clothes')
             .then(res => res.json())
             .then(data => {

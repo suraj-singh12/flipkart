@@ -135,6 +135,16 @@ class ItemDetails extends Component {
 
         }
     }
+
+    buyNow = () => {
+        let buyNow = {
+            itemType: this.props.location.pathname.split('/')[2],
+            itemId: this.props.location.search.split('?')[1]
+        }
+        sessionStorage.setItem('buyNow', JSON.stringify(buyNow));
+        console.log('item saved, redirecting')
+        this.props.history.push(`/checkout`);
+    }
     // itemCardCss = {
     //     itemCard: {
     //         fontFamily:'Arial, Helvetica, sans-serif',
@@ -226,7 +236,7 @@ class ItemDetails extends Component {
                         </div>
                         <div className="card-body item-card-body">
                             <button className="btn btn-warning btn-lg item-card-btn1" onClick={() => { this.addToCart() }}><i style={{ color: 'white' }} className="bi bi-cart-fill"></i> Add To Cart</button>
-                            <button className="btn btn-danger btn-lg item-card-btn2"><i className="bi bi-lightning-fill"></i> Buy Now</button>
+                            <button className="btn btn-danger btn-lg item-card-btn2" onClick={() => {this.buyNow()}}><i className="bi bi-lightning-fill"></i> Buy Now</button>
                         </div>
                     </div>
 

@@ -402,6 +402,9 @@ class Listing extends React.Component {
     }
 
     componentDidMount() {
+        sessionStorage.setItem('last_page', '/listing');
+        //set it wisely in a particular function 
+
         console.log('listing >>>>', this.props);
         // this.setState({idReceived: this.props.match.params.id});
         let itemName = this.props.match.params.id;
@@ -420,22 +423,6 @@ class Listing extends React.Component {
             }
             )
     }
-    // static getDerivedStateFromProps(nextProps, prevState) {
-    //     console.log('nextProps', nextProps);
-    //     let itemName = nextProps.match.params.id;
-
-    //     axios.get(url + itemName)
-    //         .then(res => {
-    //             console.log('res', res.data);
-    //             return { items: res.data };
-    //             // console.log('data updated')
-    //         }).catch(err => {
-    //             console.log('err', err);
-    //         }).finally(() => {
-    //             console.log('finally');
-    //         }
-    //         )
-    // }
 }
 
 export default Listing;
