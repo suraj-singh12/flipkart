@@ -8,8 +8,6 @@ import './itemDetails.css';
 const url = 'https://app2fkartapi.herokuapp.com/item/';
 // 'https://app2fkartapi.herokuapp.com/item/clothes?itemId=12';
 const wishlistUrl = 'https://app2fkartapi.herokuapp.com/wishlist/add';
-const wishlistCheckUrl = 'https://app2fkartapi.herokuapp.com/wishlist/getItemById/';
-// https://app2fkartapi.herokuapp.com/wishlist/getItemById/suraj@gmail.com/clothes/45
 const addToCartUrl = 'https://app2fkartapi.herokuapp.com/cart/add'
 
 class ItemDetails extends Component {
@@ -84,38 +82,25 @@ class ItemDetails extends Component {
             //     email: sessionStorage.getItem('userInfo').split(',')[1],
             // }
 
-            let itemState = this.state.item;
-            itemState.item_type = this.props.location.pathname.split('/')[2];
+            let itemState = this.state.item[0];                                // item details as usual
+            itemState.item_type = this.props.location.pathname.split('/')[2];           // additional added (will be helpful when making orders)
             itemState.name = sessionStorage.getItem('userInfo').split(',')[0];
             itemState.email = sessionStorage.getItem('userInfo').split(',')[1];
 
-            
-            let checkUrl = wishlistCheckUrl + `${itemState.email}/${itemState.item_type}/${itemState.item_id}`;
-            axios.get(checkUrl)
-                .then(res => {
-                    if (res.data.length === 0) {
-                        console.log('adding to wishlist');
-                        console.log('itemType, itemId:', itemState.item_type, itemState.item_id)
-
-                        fetch(wishlistUrl, {
-                            method: 'POST',
-                            headers: {
-                                'accept': 'application/json',
-                                'Content-Type': 'application/json'
-                            },
-                            body: JSON.stringify(itemState)
-                        })
-                            .then((data) => {
-                                console.log('data', data);
-                            })
-                    } else {
-                        console.log('item already exists in wishlist');
-                    }
+            console.log('adding to wishlist (if not present)');
+            console.log('itemType, itemId:', itemState.item_type, itemState.item_id)
+            console.log('itemState: ',itemState)
+            fetch(wishlistUrl, {
+                method: 'POST',
+                headers: {
+                    'accept': 'application/json',
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(itemState)
+            })
+                .then((data) => {
+                    console.log('data', data);
                 })
-
-
-
-
         }
     }
 
@@ -162,7 +147,7 @@ class ItemDetails extends Component {
         console.log('item saved, redirecting')
         this.props.history.push(`/checkout`);
     }
-    
+
     render() {
         // console.log('item_received: ', this.state.item);
         let item = this.state.item[0];
@@ -171,7 +156,7 @@ class ItemDetails extends Component {
 
         sessionStorage.setItem('last_page', this.props.location.pathname + this.props.location.search);
         console.log('last page set');
-        
+
         console.log('itemDetails Props: ', this.props);
 
         let rating = this.setRatingReviews(item.rating, 'rating');

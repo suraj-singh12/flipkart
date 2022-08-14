@@ -6,8 +6,9 @@ import Details from './component/details/itemDetails';
 import Login from './component/login-signup/login';
 import Signup from './component/login-signup/signup';
 import Checkout from './component/checkout/checkout';
-import ViewBooking from './component/viewOrder/viewOrder';
+import ViewOrders from './component/viewOrder/viewOrder';
 import Cart from './component/cart/cart';
+import WishList from './component/wishlist/wishlist';
 
 
 const Router = ({location}) => {
@@ -20,8 +21,9 @@ const Router = ({location}) => {
             <Route path="/login" component={Login} />
             <Route path="/signup" component={Signup} />
             <Route path="/checkout" component={Checkout} />
-            <Route path='/viewBooking' component={ViewBooking} />
+            <Route path='/orders' component={ViewOrders} />
 
+            <Route path='/wishlist' component={WishList} />
             <Route path='/cart' component={Cart} />
         </BrowserRouter>
     )

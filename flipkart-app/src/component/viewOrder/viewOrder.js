@@ -68,13 +68,12 @@ class ViewOrder extends Component {
             // if user is not logged in then nothing to fetch from api
             return;
         }
-
+        console.log(this.props);
         if (this.props.location) {
             // in the url of viewOrder, we get the data of payment (we are redirected from there to this page with that data), 
             // that data can be accessed via queryparams (from this.props.location.search)
             let queryp = this.props.location.search;
             if (queryp) {
-
                 // fetch the status, date, & bank_name from queryparams data
                 let data = {
                     "transaction_state": queryp.split('&')[0].split('=')[1],
@@ -108,6 +107,18 @@ class ViewOrder extends Component {
                             .then((res) => {
                                 this.setState({ orders: res.data });
                             })
+                    })
+            }
+
+            // else if user has directly come to checkout his orders, then make an api call to fetch all orders of current user
+            else {
+                let email = sessionStorage.getItem('userInfo').split(',')[1];
+                console.log('info: ', sessionStorage.getItem('userInfo'));
+                console.log(`${url}/${email}`);
+
+                axios.get(`${url}/${email}`)
+                    .then((res) => {
+                        this.setState({ orders: res.data });
                     })
             }
         }

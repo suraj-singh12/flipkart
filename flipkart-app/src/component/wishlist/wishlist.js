@@ -4,16 +4,16 @@ import { Link } from 'react-router-dom';
 import Header from '../../header';
 import Footer from '../../Footer';
 
-const cartUrl = 'https://app2fkartapi.herokuapp.com/cart/get/';
-// https://app2fkartapi.herokuapp.com/cart/get/alpha1@alpha.com
-const cartRemoveUrl = ' https://app2fkartapi.herokuapp.com/cart/delete/';
-//  https://app2fkartapi.herokuapp.com/cart/delete/alpha14@alpha.com/keyboard/18
+const wishlistUrl = 'https://app2fkartapi.herokuapp.com/wishlist/get/';
+// https://app2fkartapi.herokuapp.com/wishlist/get/alpha1@alpha.com
+const wishlistRemoveUrl = ' https://app2fkartapi.herokuapp.com/wishlist/delete/';
+//  https://app2fkartapi.herokuapp.com/wishlist/delete/alpha14@alpha.com/keyboard/18
 const placeOrderUrl = 'https://app2fkartapi.herokuapp.com/orders/add';
 
-class Cart extends React.Component {
+class Wishlist extends React.Component {
     constructor(props) {
         super(props);
-        console.log('>>> Cart: ', props);
+        console.log('>>> Wishlist: ', props);
 
         // save the location of current page(except login/register/placeOrder/viewOrder pages, we do this on all pages[home, listing, details]) as last visited page; will use it to when non-logged in user logs in; will redirect him to his previous page (before login)
         let last_page_address = props.match.url + props.location.search;
@@ -21,7 +21,7 @@ class Cart extends React.Component {
         console.log('last visited page set to: ', sessionStorage.getItem('last_page'))
 
         this.state = {
-            cartItems: {},
+            wishlistItems: {},
             dummyOrderItmCount: 1,   // instead of this, each item is allotted this count, and this one is a dummy, used for just re-rendering the page when count changes
             orderId: (Math.random() * 10000).toFixed(0)
         }
@@ -71,29 +71,29 @@ class Cart extends React.Component {
         )
     }
 
-    removeItemFromCart = (item) => {
+    removeItemFromWishlist = (item) => {
         console.log('removing item: ', item);
 
-        axios.delete(cartRemoveUrl + item.email + '/' + item.item_type + '/' + item.item_id)
+        axios.delete(wishlistRemoveUrl + item.email + '/' + item.item_type + '/' + item.item_id)
             .then((res) => {
                 console.log('item removed: ', res);
             })
             .then(() => {
-                // fetch the updated cart items
+                // fetch the updated wishlist items
                 let email = sessionStorage.getItem('userInfo').split(',')[1];
-                axios.get(cartUrl + email)
+                axios.get(wishlistUrl + email)
                     .then((res) => {
-                        this.setState({ cartItems: res.data });
+                        this.setState({ wishlistItems: res.data });
                         return res.data;
                     })
                     .then((data) => {
-                        console.log('cart items fetched: ', data)
+                        console.log('wishlist items fetched: ', data)
                     })
             })
     }
 
     style = {
-        removeFromCartBtn: {
+        removeFromWishlistBtn: {
             display: 'inline-block',
             textTransform: 'uppercase',
             boxShadow: 'none',
@@ -144,20 +144,20 @@ class Cart extends React.Component {
             })
     }
 
-    renderCartItems = () => {
+    renderWishlistItems = () => {
         if (!sessionStorage.getItem('ltk')) {
             return (
                 <div style={{ textAlign: 'center', marginTop: '2%', marginBottom: '2%' }}>
-                    <h1>Login first to See Cart Items !</h1>
+                    <h1>Login first to See Wishlist Items !</h1>
                     <Link to={'/login'} className="btn btn-primary btn-lg">Login</Link>
                 </div>
             )
-        } else if (this.state.cartItems.length > 0) {
-            let items = this.state.cartItems;
+        } else if (this.state.wishlistItems.length > 0) {
+            let items = this.state.wishlistItems;
             let userData = sessionStorage.getItem('userInfo').split(',');
 
             return items.map((item) => {
-                item.orderItmCount = item.orderItmCount ? item.orderItmCount : 1;     // item count for individual item in cart
+                item.orderItmCount = item.orderItmCount ? item.orderItmCount : 1;     // item count for individual item in wishlist
                 let itemDesc = item.description.length > 35 ? item.description.substring(0, 35) + '...' : item.description;
                 return (
                     <div className="order-summary" key={item._id} style={{ margin: 'auto', display: 'block' }}>
@@ -190,7 +190,7 @@ class Cart extends React.Component {
                                 <button type="button" className="count-minus" onClick={() => { this.handleItemCount('-', item) }}>-</button>
                                 <span className="count">{this.getOrderItmCount(item)}</span>
                                 <button type="button" className="count-plus" onClick={() => { this.handleItemCount('+', item) }}>+</button>
-                                <button type="button" className="remove-from-cart-btn" style={this.style.removeFromCartBtn} onClick={() => { this.removeItemFromCart(item) }}>Remove</button>
+                                <button type="button" className="remove-from-wishlist-btn" style={this.style.removeFromWishlistBtn} onClick={() => { this.removeItemFromWishlist(item) }}>Remove</button>
                                 <button type="submit" className="continue-btn" style={{ float: 'none' }} onClick={(event) => { this.placeOrder(item,event) }}>Place Order</button>
                             </div>
                         </form>
@@ -205,15 +205,15 @@ class Cart extends React.Component {
         return (
             <>
                 <Header />
-                <div className="order-summary-heading" style={{ width: '69%', margin: 'auto', marginTop: '2%' }}><span>#</span>Your Cart Items</div>
-                {this.renderCartItems()}
+                <div className="order-summary-heading" style={{ width: '69%', margin: 'auto', marginTop: '2%' }}><span>#</span>Your Wishlist Items</div>
+                {this.renderWishlistItems()}
                 <Footer />
             </>
         )
     }
 
     componentDidMount() {
-        // fetch the cart items 
+        // fetch the wishlist items 
 
         if (!sessionStorage.getItem('ltk')) {
             console.log('not logged in');
@@ -223,15 +223,15 @@ class Cart extends React.Component {
         let email = sessionStorage.getItem('userInfo').split(',')[1];
         console.log('email: ', email);
 
-        axios.get(cartUrl + email)
+        axios.get(wishlistUrl + email)
             .then((res) => {
-                this.setState({ cartItems: res.data });
+                this.setState({ wishlistItems: res.data });
                 return res.data;
             })
             .then((data) => {
-                console.log('cart items fetched: ', data)
+                console.log('wishlist items fetched: ', data)
             })
     }
 }
 
-export default Cart;
+export default Wishlist;
