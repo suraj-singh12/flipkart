@@ -42,7 +42,7 @@ const OrderDisplay = (props) => {
     }
 
     return (
-        <div className="container view-booking-info">
+        <div className="container view-booking-info" style={{marginTop: '1%'}}>
             <center><h2>Orders</h2></center>
             {renderItems(props)}
         </div >
