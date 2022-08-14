@@ -56,9 +56,55 @@ class Login extends Component {
                         this.props.history.push(sessionStorage.getItem('last_page'));   // redirect user to his last visited page on website.
                     } else {
                         this.props.history.push('/');
-                    }   
+                    }
                 }
             })
+    }
+
+    conditionalLogin = () => {
+        if (sessionStorage.getItem('loginStatus') === 'true') {
+            // if already logged In
+            return (
+                <div className="login-container" >
+                    <div className="left-login">
+                        <p style={{ fontSize: '1.5rem', fontWeight: '500' }}>Login</p>
+                        <p className="left-login-desc">Get access to your Orders, Wishlist and Recommendations</p>
+                    </div>
+                    <div className="right-login" style={{color:'grey'}}>
+                        <div>
+                            <input type="email" name="email" value={sessionStorage.getItem('userInfo').split(',')[1]} disabled />
+                        </div>
+                        <div>
+                            <input type="password" name="password" value="********" disabled />
+                        </div>
+                        <button className="login-btn" type="button" style={{backgroundColor: 'grey'}}>Already Logged In !</button>
+                    </div>
+                </div>
+            )
+        }
+        else {
+            return (
+                <div className="login-container" >
+                    <div className="left-login">
+                        <p style={{ fontSize: '1.5rem', fontWeight: '500' }}>Login</p>
+                        <p className="left-login-desc">Get access to your Orders, Wishlist and Recommendations</p>
+                    </div>
+                    <div className="right-login" style={{color: 'inherit'}}>
+                        <div>
+                            <input type="email" name="email" placeholder="Enter your Email" onChange={this.handleChange} required />
+                        </div>
+                        <div>
+                            <input type="password" name="password" placeholder="Enter Password" onChange={this.handleChange} required />
+                        </div>
+                        <button className="login-btn" type="submit">Login</button>
+                        <p className="divider-or">OR</p>
+                        <Link to="/signup">
+                            <button className="signup-btn">Sign Up</button>
+                        </Link>
+                    </div>
+                </div>
+            )
+        }
     }
 
     render() {
@@ -66,25 +112,7 @@ class Login extends Component {
             <>
                 <Header />
                 <form onSubmit={this.handleSubmit}>
-                    <div className="login-container" >
-                        <div className="left-login">
-                            <p style={{ fontSize: '1.5rem', fontWeight: '500' }}>Login</p>
-                            <p className="left-login-desc">Get access to your Orders, Wishlist and Recommendations</p>
-                        </div>
-                        <div className="right-login">
-                            <div>
-                                <input type="email" name="email" placeholder="Enter your Email" onChange={this.handleChange} required />
-                            </div>
-                            <div>
-                                <input type="password" name="password" placeholder="Enter Password" onChange={this.handleChange} required />
-                            </div>
-                            <button className="login-btn" type="submit">Login</button>
-                            <p className="divider-or">OR</p>
-                            <Link to="/signup">
-                                <button className="signup-btn">Sign Up</button>
-                            </Link>
-                        </div>
-                    </div>
+                    {this.conditionalLogin()}
                 </form>
                 <Footer />
             </>
