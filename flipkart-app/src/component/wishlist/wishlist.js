@@ -7,8 +7,6 @@ import Footer from '../../Footer';
 const wishlistUrl = 'https://app2fkartapi.herokuapp.com/wishlist/get/';
 // https://app2fkartapi.herokuapp.com/wishlist/get/alpha1@alpha.com
 const wishlistRemoveUrl = ' https://app2fkartapi.herokuapp.com/wishlist/delete/';
-//  https://app2fkartapi.herokuapp.com/wishlist/delete/alpha14@alpha.com/keyboard/18
-const placeOrderUrl = 'https://app2fkartapi.herokuapp.com/orders/add';
 
 class Wishlist extends React.Component {
     constructor(props) {
@@ -22,27 +20,9 @@ class Wishlist extends React.Component {
 
         this.state = {
             wishlistItems: {},
-            dummyOrderItmCount: 1,   // instead of this, each item is allotted this count, and this one is a dummy, used for just re-rendering the page when count changes
             orderId: (Math.random() * 10000).toFixed(0)
         }
     }
-
-    handleItemCount = (sign, item) => {
-        console.log('item: ', item);
-        console.log('button pressed')
-        if (sign === '+') {
-            item.orderItmCount++;
-        } else if (item.orderItmCount > 1) {
-            item.orderItmCount--;
-        }
-        console.log(item.orderItmCount);
-        this.setState({ dummyOrderItmCount: item.orderItmCount });
-    }
-
-    getOrderItmCount = (item) => {
-        return item.orderItmCount;
-    }
-
 
     features = (item) => {
         let data = [];
@@ -94,55 +74,11 @@ class Wishlist extends React.Component {
 
     style = {
         removeFromWishlistBtn: {
-            display: 'inline-block',
-            textTransform: 'uppercase',
-            boxShadow: 'none',
-            outline: '0',
-            fontSize: '16px',
-            fontWeight: '500',
-            cursor: 'pointer',
-            marginRight: '25px',
-            border: '0',
-            marginLeft: '10px',
-            background: 'transparent'
+            float: 'right',
+            border: 'none',
         }
     }
 
-
-    placeOrder = (item, event) => {
-        // event.preventDefault();
-        console.log('placing order: ', item);
-        let userData = sessionStorage.getItem('userInfo').split(',');
-
-        let orderDetails = {
-            order_id: this.state.orderId,
-            item_id: item.item_id,
-            item_type: item.item_type.replace('_', ' '),
-            amount: item.new_price,
-            quantity: this.getOrderItmCount(item),
-            total_amount: this.getOrderItmCount(item) * item.new_price,
-
-            name: userData[0],
-            email: userData[1],
-            phone: userData[2]
-        }
-        console.log('orderDetails: ', orderDetails);
-
-        // place the order
-        fetch(placeOrderUrl, {
-            method: 'POST',
-            headers: {
-                'accept': 'application/json',
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(orderDetails)
-            // pushed the details of order by this user, into database.
-        })
-            .then((response) => {
-                if (response.status === 200)
-                    console.log('order placed')
-            })
-    }
 
     renderWishlistItems = () => {
         if (!sessionStorage.getItem('ltk')) {
@@ -154,22 +90,12 @@ class Wishlist extends React.Component {
             )
         } else if (this.state.wishlistItems.length > 0) {
             let items = this.state.wishlistItems;
-            let userData = sessionStorage.getItem('userInfo').split(',');
 
             return items.map((item) => {
-                item.orderItmCount = item.orderItmCount ? item.orderItmCount : 1;     // item count for individual item in wishlist
                 let itemDesc = item.description.length > 35 ? item.description.substring(0, 35) + '...' : item.description;
                 return (
-                    <div className="order-summary" key={item._id} style={{ margin: 'auto', display: 'block' }}>
-                        <form action="https://pay-with-paytm2.herokuapp.com/paynow" method="POST">
-                            {/* all input type="hidden" is the actual data that is passed to paynow api */}
-                            {/* <input type="hidden" name="order_id" value={this.state.id} /> */}
-                            <input type="hidden" name="id" value={this.state.orderId} />
-                            <input type="hidden" name="name" value={userData[0] ? userData[0] : ''} />
-                            <input type="hidden" name="email" value={userData[1] ? userData[1] : ''} />
-                            <input type="hidden" name="phone" value={userData[2] ? userData[2] : ''} />
-                            <input type="hidden" name="total_amount" value={item.new_price * this.getOrderItmCount(item)} />
-
+                    <div className="order-summary" style={{ margin: 'auto', display: 'block', height: 'auto', paddingBottom:'3%' }} key={item._id}>
+                        <Link to={`/details/${item.item_type}?${item.item_id}`}>
                             {/* <!-- item --> */}
                             <div className="checkout-item">
                                 <div className="img-icon" style={{ height: '80px', width: 'auto' }}>
@@ -181,19 +107,11 @@ class Wishlist extends React.Component {
                                     <span className="checkout-old-price">₹{item.old_price}</span>
                                     <span className="checkout-new-price">₹{item.new_price}</span>
                                     <span className="checkout-discount">{item.discount} &#x00025; off</span>
-                                    {/* <span className="checkout-offers">{item.offers}</span> */}
                                     {this.features(item)}
                                 </div>
                             </div>
-                            {/* <!-- item count --> */}
-                            <div className="checkout-item-count">
-                                <button type="button" className="count-minus" onClick={() => { this.handleItemCount('-', item) }}>-</button>
-                                <span className="count">{this.getOrderItmCount(item)}</span>
-                                <button type="button" className="count-plus" onClick={() => { this.handleItemCount('+', item) }}>+</button>
-                                <button type="button" className="remove-from-wishlist-btn" style={this.style.removeFromWishlistBtn} onClick={() => { this.removeItemFromWishlist(item) }}>Remove</button>
-                                <button type="submit" className="continue-btn" style={{ float: 'none' }} onClick={(event) => { this.placeOrder(item,event) }}>Place Order</button>
-                            </div>
-                        </form>
+                        </Link>
+                        <button style={this.style.removeFromWishlistBtn} type="button" onClick={() => { this.removeItemFromWishlist(item) }}><i class="bi bi-trash"></i></button>
                     </div>
                 )
             })
