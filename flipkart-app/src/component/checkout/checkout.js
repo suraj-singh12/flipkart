@@ -50,18 +50,29 @@ class Checkout extends Component {
         let item = this.state.item[0];
         console.log('item: ', item);
 
-        let orderDetails = {
-            order_id: this.state.orderId,
-            item_id: item.item_id,
-            item_type: JSON.parse(sessionStorage.getItem('buyNow')).itemType,
-            amount: item.new_price,
-            quantity: this.state.orderItmCount,
-            total_amount: this.state.orderItmCount * item.new_price,
+        let orderDetails = item;
+        orderDetails.order_id = this.state.orderId;
+        orderDetails.item_type = JSON.parse(sessionStorage.getItem('buyNow')).itemType;
+        orderDetails.amount = item.new_price;
+        orderDetails.quantity = this.state.orderItmCount;
+        orderDetails.total_amount = this.state.orderItmCount * item.new_price;
+        orderDetails.name = this.state.userData.name;
+        orderDetails.email = this.state.userData.email;
+        orderDetails.phone = this.state.userData.phone;
 
-            name: this.state.userData.name,
-            email: this.state.userData.email,
-            phone: this.state.userData.phone
-        }
+
+        // let orderDetails = {
+        //     order_id: this.state.orderId,
+        //     item_id: item.item_id,
+        //     item_type: JSON.parse(sessionStorage.getItem('buyNow')).itemType,
+        //     amount: item.new_price,
+        //     quantity: this.state.orderItmCount,
+        //     total_amount: this.state.orderItmCount * item.new_price,
+
+        //     name: this.state.userData.name,
+        //     email: this.state.userData.email,
+        //     phone: this.state.userData.phone
+        // }
         console.log(orderDetails);
 
         // place the order

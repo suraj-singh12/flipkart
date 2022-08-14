@@ -23,13 +23,6 @@ class ViewOrder extends Component {
     }
 
     render() {
-        // in sessionStorage everything is stored in the form of string, so even we set boolean false when user is not logged in, 
-        // but in sessionStorage it is stored as a string. So compare with string false.
-
-        // for loginStatus to be present in sessionStorage, atleast one user must have logged in and then logged out before.
-        // so if no user has logged in & we come on this page, then sessionStorage.getItem('loginStatus') will be null.
-        // !sessionStorage.getItem('loginStatus') will take care of this case.
-        // and sessionStorage.getItem('loginStatus') === 'false' will take care of other normal cases.
 
         console.log('loginStatus: ', sessionStorage.getItem('loginStatus'));
         if (!sessionStorage.getItem('loginStatus') || sessionStorage.getItem('loginStatus') === 'false') {
@@ -55,11 +48,6 @@ class ViewOrder extends Component {
                 </>
             )
         }
-    }
-
-    // wait function
-    timeout = (delay) => {
-        return new Promise(res => setTimeout(res, delay));
     }
 
     // calling api to get all orders information

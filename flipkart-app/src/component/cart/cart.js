@@ -114,18 +114,28 @@ class Cart extends React.Component {
         console.log('placing order: ', item);
         let userData = sessionStorage.getItem('userInfo').split(',');
 
-        let orderDetails = {
-            order_id: this.state.orderId,
-            item_id: item.item_id,
-            item_type: item.item_type.replace('_', ' '),
-            amount: item.new_price,
-            quantity: this.getOrderItmCount(item),
-            total_amount: this.getOrderItmCount(item) * item.new_price,
+        let orderDetails = item;
+        orderDetails.order_id = this.state.orderId;
+        orderDetails.item_type = item.item_type.replace('_', ' ');
+        orderDetails.amount = item.new_price;
+        orderDetails.quantity = this.getOrderItmCount(item);
+        orderDetails.total_amount = this.getOrderItmCount(item) * item.new_price;
+        orderDetails.name = userData[0];
+        orderDetails.email = userData[1];
+        orderDetails.phone = userData[2];
 
-            name: userData[0],
-            email: userData[1],
-            phone: userData[2]
-        }
+        // let orderDetails = {
+        //     order_id: this.state.orderId,
+        //     item_id: item.item_id,
+        //     item_type: item.item_type.replace('_', ' '),
+        //     amount: item.new_price,
+        //     quantity: this.getOrderItmCount(item),
+        //     total_amount: this.getOrderItmCount(item) * item.new_price,
+
+        //     name: userData[0],
+        //     email: userData[1],
+        //     phone: userData[2]
+        // }
         console.log('orderDetails: ', orderDetails);
 
         // place the order

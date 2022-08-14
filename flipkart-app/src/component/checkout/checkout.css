@@ -56,9 +56,13 @@
     width: auto;
 }
 
-.checkout-item-details {
+.checkout-item-details, .delivered  {
     display: inline-block;
     margin-left: 5%;
+}
+.delivered {
+    color: inherit;
+    float:right;
 }
 
 .order-details>span {
