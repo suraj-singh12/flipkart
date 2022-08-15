@@ -220,6 +220,11 @@ header {
         width: 7rem;
     }
 }
+@media screen and (max-width: 600px) {
+    #home {
+        display: none;
+    }
+}
 @media screen and (max-width: 550px) {
     .logo {
         width: 6rem;
