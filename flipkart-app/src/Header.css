@@ -14,7 +14,7 @@ header {
 }
 
 .logo>img {
-    height: 17px;
+    height: 1rem;
     width: auto;
 }
 
@@ -27,15 +27,16 @@ header {
     margin-left: 6%;
     color: white;
     text-decoration: none;
-    font-size: 12px;
+    font-size: 0.8rem;
 }
+
 .logo>a:hover {
     text-decoration: underline;
     color: white;
 }
 
 .logo>a img {
-    height: 14px;
+    height: 0.9rem;
     margin-bottom: 20px;
 }
 
@@ -44,7 +45,7 @@ header {
     display: inline-block;
     width: auto;
     margin: 0;
-    
+
     /* box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px; */
 }
 
@@ -62,13 +63,14 @@ header {
     border-radius: 2px 0 0 2px;
     border: 0;
     outline: 0 none;
-    font-size: 14px;
+    font-size: 0.9rem;
     height: 36px;
     width: 90%;
     box-shadow: 0 2px 4px 0 rgb(0 0 0 / 23%);
 }
+
 .search-bar button {
-    border-color:transparent;
+    border-color: transparent;
     position: relative;
     right: 33px;
     background-color: transparent;
@@ -81,7 +83,9 @@ header {
     margin-right: 1rem;
     color: rgb(40, 116, 240);
 }
-.login-button, .signup-button {
+
+.login-button,
+.signup-button {
     color: inherit !important;
     margin-left: 1.5rem;
     background-color: white !important;
@@ -90,14 +94,18 @@ header {
     border-radius: 2px !important;
     padding: 5px 40px !important;
 }
+
 .login-dropdown {
     float: left;
 }
+
 /* this makes dropdown to pop up on hover */
 .dropdown:hover .dropdown-menu {
     display: block;
-    margin-top: 0; /* remove the gap so it doesn't close */
+    margin-top: 0;
+    /* remove the gap so it doesn't close */
 }
+
 .dropdown-menu-center {
     left: 50% !important;
     right: auto !important;
@@ -106,14 +114,17 @@ header {
     font-size: 14px;
     transform: translate(-50%, 0) !important;
 }
+
 .dropdown-menu-center li {
     border: none;
     border-bottom: 1px solid #f0f0f0;
     padding: 4px;
 }
+
 .drop-icons {
     color: rgb(77, 77, 243);
 }
+
 .drop-icon-text {
     display: inline-block;
     margin-left: 5px;
@@ -124,12 +135,93 @@ header {
     margin-left: 1.5rem;
     margin-right: 1.4rem;
     color: white !important;
-    font-weight:bold !important;
+    font-weight: bold !important;
     border: none !important;
 }
-.cart > i {
+
+.cart>i {
     margin-right: 5px;
 }
+
 .cart:hover {
     border: none !important;
+}
+
+@media screen and (max-width: 1390px) {
+    #search {
+        width: 29rem;
+    }
+
+    #beauty {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    #search {
+        width: 21rem;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    html {
+        font-size: 0.9rem;
+    }
+
+    button.cart {
+        display: none;
+    }
+
+    .login-button>span,
+    .signup-button>span {
+        font-size: inherit;
+    }
+
+    .login-signup>a {
+        float: right;
+    }
+
+    #search > button{
+        position: relative;;
+        left: 16.5rem;
+        bottom: 2.2rem;
+    }
+}
+
+@media screen and (max-width: 930px) {
+    #travel {
+        display: none;
+    }
+}
+@media screen and (max-width: 840px) {
+    .logo {
+        margin-left: 2%;
+    }
+    .login-button, .signup-button {
+        padding: 5px !important;
+    }
+    .login-signup {
+        margin-top: 1.1rem;
+    }
+}
+@media screen and (max-width: 750px) {
+    #appliances {
+        display: none;
+    }
+}
+@media screen and (max-width: 660px) {
+    #search {
+        width: 14rem;
+    }
+    #search > button {
+        left: 10.7rem;
+    }
+    .logo {
+        width: 7rem;
+    }
+}
+@media screen and (max-width: 550px) {
+    .logo {
+        width: 6rem;
+    }
 }

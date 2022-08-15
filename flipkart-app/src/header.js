@@ -87,7 +87,7 @@ class Header extends Component {
             return (
                 <div className="login-signup">
                     <div className="login-dropdown dropdown">
-                        <button className="btn login-button" data-bs-toggle="dropdown">Hi {data.name}</button>
+                        <button className="btn login-button" data-bs-toggle="dropdown"><span>Hi {data.name}</span></button>
                         <ul className="dropdown-menu dropdown-menu-center">
                             <li><Link to={'/login'} className="dropdown-item"><i className="drop-icons bi bi-person-circle"></i>
                                 <p className="drop-icon-text">My Profile</p>
@@ -95,15 +95,15 @@ class Header extends Component {
                             <li><Link to={'/'} className="dropdown-item"><i className="drop-icons bi bi-plus-lg"></i>
                                 <p className="drop-icon-text">Flipkart Plus Zone</p>
                             </Link></li>
+                            <li><Link to={'/cart'} className="dropdown-item"><i className="drop-icons bi bi-cart"></i>
+                                <p className="drop-icon-text">Cart</p>
+                            </Link></li>
                             <li><Link to={'/orders'} className="dropdown-item"><i className="drop-icons bi bi-box-arrow-in-up"></i>
                                 <p className="drop-icon-text">Orders</p>
                             </Link></li>
                             <li><Link to={'/wishlist'} className="dropdown-item" href="#"><i className="drop-icons bi bi-suit-heart-fill"></i>
                                 <p className="drop-icon-text">Wishlist</p>
-                            </Link></li>
-                            <li><Link to={'/'} className="dropdown-item" href="#"><i className="drop-icons bi bi-hdd-stack-fill"></i>
-                                <p className="drop-icon-text">Rewards</p>
-                            </Link></li>
+                            </Link></li>    
                         </ul>
                     </div>
                     <Link to="/">
