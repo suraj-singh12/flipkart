@@ -427,3 +427,24 @@
 .checkout-main {
     margin-top: 2%;
 }
+
+@media screen and (max-width: 1250px) {
+    .checkout-main, .delivery-main, .delivery-address-done, .item-summary-nologin, .order-summary {
+        width: 85%;
+    }
+} 
+
+@media screen and (max-width: 740px) {
+    .checkout-main, .delivery-main, .delivery-address-done, .item-summary-nologin, .order-summary {
+        width: 95%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .checkout-page {
+        width: 92%;
+    }
+    .checkout-main, .delivery-main, .delivery-address-done, .item-summary-nologin, .order-summary {
+        width: 100%;
+    }
+}
