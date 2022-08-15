@@ -31,9 +31,16 @@ class Home extends React.Component {
             mobiles: '',
             watches: '',
             formals: '',
-            gaming_mouses: ''
+            gaming_mouses: '',
+            windowWidth: '',
+            windowHeight: ''
         }
     }
+
+    // to update the size of screen on resize
+    updateDimensions = () => {
+        this.setState({ windowWidth: window.innerWidth, windowHeight: window.innerHeight });
+    };
 
     shuffle = (arr) => {
         let tmp;
@@ -49,7 +56,16 @@ class Home extends React.Component {
         return arr;
     }
     RenderItems = (itemName, data, noOfItems) => {
-        // noOfItems defines how many items to display in carousel
+        // noOfItems defines how many items to display in carousel; by default I send it 7
+        // setting no of items according to screen size
+        if (this.state.windowWidth < 700) {
+            noOfItems = 3;
+        } else if (this.state.windowWidth > 700 && this.state.windowWidth < 992) {
+            noOfItems = 4;
+        } else {
+            noOfItems = 7;
+        }
+
         if (!data) return;
         // shuffle the array items
         this.shuffle(data);
@@ -147,6 +163,9 @@ class Home extends React.Component {
     }
 
     componentDidMount() {
+        // attaching; on every resize updateDimensions will be called
+        window.addEventListener('resize', this.updateDimensions);
+
         fetch(url + 'clothes')
             .then(res => res.json())
             .then(data => {
@@ -175,6 +194,10 @@ class Home extends React.Component {
             .then(res => {
                 this.setState({ gaming_mouses: res.data });
             })
+    }
+    componentWillUnmount() {
+        // removing event listener
+        window.removeEventListener('resize', this.updateDimensions);
     }
 }
 
