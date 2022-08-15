@@ -2,7 +2,8 @@
     width: 100%;
     height: auto;
     display: inline-block;
-} 
+}
+
 .custom-card {
     border: none;
     padding: 16px;
@@ -10,10 +11,12 @@
     transition: box-shadow .2s ease-in-out;
     width: 24%;
     margin: 5px;
-    flex-grow: 1;               /* this ensures if on a page there are less than 4 cards, then their width will grow so that they fit the page*/
-    height: auto;   
+    flex-grow: 1;
+    /* this ensures if on a page there are less than 4 cards, then their width will grow so that they fit the page*/
+    height: auto;
     text-align: center;
 }
+
 .custom-card:hover {
     /* box-shadow: 0 3px 16px 0 rgb(0 0 0 / 11%); */
     box-shadow: 1px 1px 12px lightgrey, 2px 2px 2px lightgreen;
@@ -24,20 +27,25 @@
     color: black !important;
     margin: auto;
 }
+
 .custom-card-anchor:hover {
     color: black !important;
 }
+
 .listing-card-image {
     width: 100%;
     height: 162px;
 }
+
 .listing-card-image img {
     max-width: 100%;
-    width: auto !important;                /* you know, set the height, and let the width automatically get set, so aspect ratio of image will not distort */
+    width: auto !important;
+    /* you know, set the height, and let the width automatically get set, so aspect ratio of image will not distort */
     height: 80%;
     margin: auto;
     text-align: center;
-}   
+}
+
 .color {
     margin-bottom: 1rem;
 }
@@ -62,9 +70,12 @@
 .color {
     color: grey;
 }
-.brand, .color {
+
+.brand,
+.color {
     font-size: 1rem;
 }
+
 .discount {
     color: #388e3c;
 }
@@ -74,14 +85,19 @@
     font-size: 12px;
     font-weight: 700;
 }
+
 /* strip above card CSS */
-.results-strip, .results-strip p, .results-strip .strip-of-sort-by {
+.results-strip,
+.results-strip p,
+.results-strip .strip-of-sort-by {
     margin: 0;
 }
+
 .results-strip {
     padding-left: 10px;
 }
-.results-strip > p {
+
+.results-strip>p {
     margin-left: 10px;
 }
 
@@ -91,25 +107,31 @@
     text-align: center;
     margin-top: 5rem;
 }
+
 .loader-img img {
     margin: auto;
     width: auto;
 }
+
 .card-title {
     padding-bottom: 5px;
     overflow: hidden;
     display: block;
 }
+
 .card-body {
     text-align: left;
 }
-.rating, .reviews {
+
+.rating,
+.reviews {
     margin-top: 0;
     display: inline-block;
     padding-right: 10px;
     font-size: 0.9rem;
     margin-left: 4px;
 }
+
 .stars {
     line-height: normal;
     display: inline-block;
@@ -121,49 +143,104 @@
     vertical-align: middle;
     background-color: #388e3c;
 }
+
 .new_price {
     display: inline-block;
     font-size: 16px;
     font-weight: 500;
     color: #212121;
 }
+
 .old_price {
     margin-left: 4px;
     text-decoration: line-through;
     font-size: 14px;
     color: #878787;
 }
+
 .discount {
     color: #388e3c;
     font-size: 13px;
     letter-spacing: -.2px;
     font-weight: 500;
 }
+
 .delivery_type {
     color: rgb(0, 0, 0);
     font-size: 12px;
     font-weight: 400;
 }
+
 .offer {
     color: rgb(38, 165, 65);
     font-size: 14px;
     font-weight: 700;
 }
+
 .stars_btn {
     background-color: #198754;
     margin: 0;
     border: 0;
     border-radius: 4px;
 }
+
 .strip-of-sort-by button {
-    background-color:rgb(143 181 244) !important;
+    background-color: rgb(143 181 244) !important;
     margin-right: 1%;
 }
-.strip-of-sort-by button:first-child{
+
+.strip-of-sort-by button:first-child {
     background-color: #86c486 !important;
 }
-.results-strip > p {
+
+.results-strip>p {
     padding-left: 1%;
     margin: 0 !important;
     font-style: italic;
+}
+
+@media screen and (max-width: 1000px) {
+    .custom-card {
+        width: 45%;
+    }
+
+}
+@media screen and (max-width: 860px) {
+    .filters {
+        width: 26%;
+    }
+    .content {
+        width: 70%;
+    }
+}
+@media screen and (max-width: 710px) {
+    .custom-card {
+        width: 90%;
+    }
+    .content {
+        width: 65%;
+    }
+    .filters {
+        width: 30%;
+        margin-top: 7.6%;
+    }
+    .strip-of-sort-by > button {
+        margin-top: 0.5rem;
+    }
+}
+
+@media screen and (max-width: 628px) {
+    .filters {
+        width: 35%;
+        margin-top: 8.5%;
+    }
+    .content {
+        width: 60%;
+    }
+}
+
+@media screen and (max-width: 568px) {
+    .filters {
+        margin-top: 10%;
+    }
 }

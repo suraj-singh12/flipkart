@@ -53,3 +53,11 @@
     padding: 4px;
 }
 
+@media screen and (max-width: 1130px) {
+    .filters {
+        width: 22%;
+    }
+    .content {
+        width: 75%;
+    }
+}

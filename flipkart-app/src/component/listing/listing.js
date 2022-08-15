@@ -44,17 +44,6 @@ class Listing extends React.Component {
         })
     }
 
-    // hasHistoryChanged = () => {
-    //     if (sessionStorage.getItem('itemsHistory')) {
-    //         if (sessionStorage.getItem('itemsHistory') !== this.props.history.location.pathname) {
-    //             console.log('history changed');
-    //             sessionStorage.setItem('itemsHistory', this.props.history.location.pathname);
-    //             this.setState({ idReceived: this.state.idReceived ? false : true });
-    //         }
-    //     } else {
-    //         sessionStorage.setItem('itemsHistory', this.props.history.location.pathname);
-    //     }
-    // }
 
     shuffle = (arr) => {
         let tmp;
