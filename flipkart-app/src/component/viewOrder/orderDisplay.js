@@ -44,7 +44,7 @@ const OrderDisplay = (props) => {
 
     return (
         <div className="container view-booking-info" style={{marginTop: '1%'}}>
-            <center><h2>Orders</h2></center>
+            <div className="order-summary-heading" style={{ width: '69%', margin: 'auto', marginTop: '2%' }}><span>#</span>Your Orders</div>
             {renderItems(props)}
         </div >
     )
