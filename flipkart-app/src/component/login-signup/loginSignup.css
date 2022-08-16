@@ -72,3 +72,17 @@
     color: #878787;
     margin-top: 4%;
 }
+
+@media screen and (max-width: 960px) {
+    .left-login {
+        width: 45%;
+    }
+    .login-container {
+        width: 70%;
+    }
+}
+@media screen and (max-width: 660px) {
+    .login-container {
+        width: 90%;
+    }
+}
