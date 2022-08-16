@@ -8,36 +8,36 @@ const Footer = () => {
                 <div className="row">
                     <div className="col">
                         <p className="footer-headings">ABOUT</p>
-                        <a href="#">Contact Us</a>
-                        <a href="#">About Us</a>
-                        <a href="#">Careers</a>
-                        <a href="#">Flipkart Stories</a>
-                        <a href="#">Press</a>
-                        <a href="#">Flipkart Wholesale</a>
-                        <a href="#">Cooperate Information</a>
+                        <a href="/">Contact Us</a>
+                        <a href="/">About Us</a>
+                        <a href="/">Careers</a>
+                        <a href="/">Flipkart Stories</a>
+                        <a href="/">Press</a>
+                        <a href="/">Flipkart Wholesale</a>
+                        <a href="/">Cooperate Information</a>
                     </div>
                     <div className="col">
                         <p className="footer-headings">HELP</p>
-                        <a href="#">Payment</a>
-                        <a href="#">Shipping</a>
-                        <a href="#">Cancellation &amp; Returns</a>
-                        <a href="#">FAQ</a>
-                        <a href="#">Report Infringement</a>
+                        <a href="/">Payment</a>
+                        <a href="/">Shipping</a>
+                        <a href="/">Cancellation &amp; Returns</a>
+                        <a href="/">FAQ</a>
+                        <a href="/">Report Infringement</a>
                     </div>
                     <div className="col">
                         <p className="footer-headings">POLICY</p>
-                        <a href="#">Return Policy</a>
-                        <a href="#">Terms Of Use</a>
-                        <a href="#">Security</a>
-                        <a href="#">Privacy</a>
-                        <a href="#">Sitemap</a>
-                        <a href="#">EPR Compliance</a>
+                        <a href="/">Return Policy</a>
+                        <a href="/">Terms Of Use</a>
+                        <a href="/">Security</a>
+                        <a href="/">Privacy</a>
+                        <a href="/">Sitemap</a>
+                        <a href="/">EPR Compliance</a>
                     </div>
                     <div className="col">
                         <p className="footer-headings">SOCIAL</p>
-                        <a href="#">Facebook</a>
-                        <a href="#">Twitter</a>
-                        <a href="#">Youtube</a>
+                        <a href="/">Facebook</a>
+                        <a href="/">Twitter</a>
+                        <a href="/">Youtube</a>
                     </div>
                     <div className="col normal-line-height">
                         <p className="footer-headings">Mail Us:</p>

@@ -101,7 +101,7 @@ class Header extends Component {
                             <li><Link to={'/orders'} className="dropdown-item"><i className="drop-icons bi bi-box-arrow-in-up"></i>
                                 <p className="drop-icon-text">Orders</p>
                             </Link></li>
-                            <li><Link to={'/wishlist'} className="dropdown-item" href="#"><i className="drop-icons bi bi-suit-heart-fill"></i>
+                            <li><Link to={'/wishlist'} className="dropdown-item" href="/"><i className="drop-icons bi bi-suit-heart-fill"></i>
                                 <p className="drop-icon-text">Wishlist</p>
                             </Link></li>    
                         </ul>
@@ -127,10 +127,10 @@ class Header extends Component {
                             <li><Link to={'/'} className="dropdown-item"><i className="drop-icons bi bi-box-arrow-in-up"></i>
                                 <p className="drop-icon-text">Orders</p>
                             </Link></li>
-                            <li><Link to={'/'} className="dropdown-item" href="#"><i className="drop-icons bi bi-suit-heart-fill"></i>
+                            <li><Link to={'/'} className="dropdown-item" href="/"><i className="drop-icons bi bi-suit-heart-fill"></i>
                                 <p className="drop-icon-text">Wishlist</p>
                             </Link></li>
-                            <li><Link to={'/'} className="dropdown-item" href="#"><i className="drop-icons bi bi-hdd-stack-fill"></i>
+                            <li><Link to={'/'} className="dropdown-item" href="/"><i className="drop-icons bi bi-hdd-stack-fill"></i>
                                 <p className="drop-icon-text">Rewards</p>
                             </Link></li>
                         </ul>
