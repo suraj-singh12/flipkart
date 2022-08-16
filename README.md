@@ -11,12 +11,12 @@ git clone https://github.com/suraj-singh12/flipkart-project/
 ```
 
 ```git  
-cd flipkart-project/
+cd flipkart-project/flipkart-app
 ```
 
 ## Dependencies 
 ```git
-npm install express
+npm install
 ```
 
 ## Run the project
@@ -30,5 +30,3 @@ http://localhost:port-number
 ```
 
 ## Paste the link in browser and done !
-
-
