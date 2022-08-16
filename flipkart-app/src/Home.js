@@ -32,8 +32,8 @@ class Home extends React.Component {
             watches: '',
             formals: '',
             gaming_mouses: '',
-            windowWidth: '',
-            windowHeight: ''
+            windowWidth: window.innerWidth,
+            windowHeight: window.innerHeight
         }
     }
 
