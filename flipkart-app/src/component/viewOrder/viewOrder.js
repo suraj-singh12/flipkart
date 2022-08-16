@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import axios from 'axios';
 import OrderDisplay from './orderDisplay';
 import Header from '../../header';
+import Footer from '../../Footer';
 
 const url = 'https://app2fkartapi.herokuapp.com/orders/get';
 // https://app2fkartapi.herokuapp.com/orders/get/alpha1@alpha.com
@@ -45,6 +46,7 @@ class ViewOrder extends Component {
                 <>
                     <Header />
                     <OrderDisplay orderData={this.state.orders} />
+                    <Footer />
                 </>
             )
         }
