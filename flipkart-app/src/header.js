@@ -124,14 +124,14 @@ class Header extends Component {
                             <li><Link to={'/'} className="dropdown-item"><i className="drop-icons bi bi-plus-lg"></i>
                                 <p className="drop-icon-text">Flipkart Plus Zone</p>
                             </Link></li>
-                            <li><Link to={'/'} className="dropdown-item"><i className="drop-icons bi bi-box-arrow-in-up"></i>
+                            <li><Link to={'/login'} className="dropdown-item"><i className="drop-icons bi bi-cart"></i>
+                                <p className="drop-icon-text">Cart</p>
+                            </Link></li>
+                            <li><Link to={'/login'} className="dropdown-item"><i className="drop-icons bi bi-box-arrow-in-up"></i>
                                 <p className="drop-icon-text">Orders</p>
                             </Link></li>
-                            <li><Link to={'/'} className="dropdown-item" href="/"><i className="drop-icons bi bi-suit-heart-fill"></i>
+                            <li><Link to={'/login'} className="dropdown-item" href="/"><i className="drop-icons bi bi-suit-heart-fill"></i>
                                 <p className="drop-icon-text">Wishlist</p>
-                            </Link></li>
-                            <li><Link to={'/'} className="dropdown-item" href="/"><i className="drop-icons bi bi-hdd-stack-fill"></i>
-                                <p className="drop-icon-text">Rewards</p>
                             </Link></li>
                         </ul>
                     </div>
