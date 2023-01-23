@@ -30,3 +30,12 @@ http://localhost:port-number
 ```
 
 ## Paste the link in browser and done !
+
+# Live Demo
+Due to the heroku platform not being free anymore, the site's APIs are not working. I will be working on it or may be paying if required. 
+
+# Live Demo
+
+https://user-images.githubusercontent.com/71935307/213960585-96fbd67a-5b18-4059-a347-f6c30600f705.mp4
+
+
