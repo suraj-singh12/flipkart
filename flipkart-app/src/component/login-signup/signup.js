@@ -4,7 +4,7 @@ import Header from '../../header';
 import Footer from '../../Footer';
 import './loginSignup.css';
 
-const url = "https://loginappfkart.herokuapp.com/api/auth/register";
+const url = "https://zany-dog-tank-top.cyclic.app/api/auth/register";
 
 class Signup extends Component {
     constructor(props) {
@@ -44,15 +44,15 @@ class Signup extends Component {
                 // api sends status 500, if user is already registered else 200.
                 if (data.status === 500) {
                     // user already exists
-                    // Response {type: 'cors', url: 'https://loginappapi.herokuapp.com/api/auth/register', redirected: false, status: 500, ok: false, …}
+                    // Response {type: 'cors', url: 'https://zany-dog-tank-top.cyclic.app/api/auth/register', redirected: false, status: 500, ok: false, …}
                     message = "User Already Exists!! Please Login";
                 }
                 // user registered
-                // Response {type: 'cors', url: 'https://loginappapi.herokuapp.com/api/auth/register', redirected: false, status: 200, ok: true, …}
+                // Response {type: 'cors', url: 'https://zany-dog-tank-top.cyclic.app/api/auth/register', redirected: false, status: 200, ok: true, …}
                 alert(message);
                 this.props.history.push('/login');
             }); // redirecting to login, after user is registered.
-        // for dev purpose, all registered users can be seen here: https://loginappapi.herokuapp.com/api/auth/users 
+        // for dev purpose, all registered users can be seen here: https://zany-dog-tank-top.cyclic.app/api/auth/users 
     }
 
     render() {

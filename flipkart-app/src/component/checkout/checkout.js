@@ -4,12 +4,12 @@ import Header from '../../header';
 import Footer from '../../Footer';
 import axios from 'axios';
 
-const url = "https://loginappfkart.herokuapp.com/api/auth/login";
-const userDataUrl = "https://loginappfkart.herokuapp.com/api/auth/userInfo";
-const addressChangeUrl = 'https://app2fkartapi.herokuapp.com/updateAddress/';
-const itemUrl = 'https://app2fkartapi.herokuapp.com/item/';
-// https://app2fkartapi.herokuapp.com/updateAddress/suraj@gmail.com?address=new-address-added
-const placeOrderUrl = 'https://app2fkartapi.herokuapp.com/orders/add';
+const url = "https://zany-dog-tank-top.cyclic.app/api/auth/login";
+const userDataUrl = "https://zany-dog-tank-top.cyclic.app/api/auth/userInfo";
+const addressChangeUrl = 'https://crazy-dove-yoke.cyclic.app/updateAddress/';
+const itemUrl = 'https://crazy-dove-yoke.cyclic.app/item/';     // item fatching api
+// https://crazy-dove-yoke.cyclic.app/updateAddress/suraj@gmail.com?address=new-address-added
+const placeOrderUrl = 'https://crazy-dove-yoke.cyclic.app/orders/add';
 
 class Checkout extends Component {
 
@@ -93,7 +93,7 @@ class Checkout extends Component {
     }
 
     changeAddress = (event) => {
-        // https://app2fkartapi.herokuapp.com/updateAddress/suraj@gmail.com?address=new-address-added
+        // https://crazy-dove-yoke.cyclic.app/updateAddress/suraj@gmail.com?address=new-address-added
         event.preventDefault();
 
         console.log('in change address')
@@ -331,7 +331,7 @@ class Checkout extends Component {
                 // console.log('item before return: ', item);
                 // console.log('img: ', item.image);
                 return (
-                    <form action="https://pay-with-paytm2.herokuapp.com/paynow" method="POST">
+                    <form action="https://proud-erin-trout.cyclic.app/paynow" method="POST">
                         {/* all input type="hidden" is the actual data that is passed to paynow api */}
                         {/* <input type="hidden" name="order_id" value={this.state.id} /> */}
                         <input type="hidden" name="id" value={this.state.orderId} />

@@ -4,11 +4,11 @@ import { Link } from 'react-router-dom';
 import Header from '../../header';
 import Footer from '../../Footer';
 
-const cartUrl = 'https://app2fkartapi.herokuapp.com/cart/get/';
-// https://app2fkartapi.herokuapp.com/cart/get/alpha1@alpha.com
-const cartRemoveUrl = ' https://app2fkartapi.herokuapp.com/cart/delete/';
-//  https://app2fkartapi.herokuapp.com/cart/delete/alpha14@alpha.com/keyboard/18
-const placeOrderUrl = 'https://app2fkartapi.herokuapp.com/orders/add';
+const cartUrl = 'https://crazy-dove-yoke.cyclic.app/cart/get/';
+// https://crazy-dove-yoke.cyclic.app/cart/get/alpha1@alpha.com
+const cartRemoveUrl = ' https://crazy-dove-yoke.cyclic.app/cart/delete/';
+//  https://crazy-dove-yoke.cyclic.app/cart/delete/alpha14@alpha.com/keyboard/18
+const placeOrderUrl = 'https://crazy-dove-yoke.cyclic.app/orders/add';
 
 class Cart extends React.Component {
     constructor(props) {
@@ -171,7 +171,7 @@ class Cart extends React.Component {
                 let itemDesc = item.description.length > 35 ? item.description.substring(0, 35) + '...' : item.description;
                 return (
                     <div className="order-summary" key={item._id} style={{ margin: 'auto', display: 'block' }}>
-                        <form action="https://pay-with-paytm2.herokuapp.com/paynow" method="POST">
+                        <form action="https://proud-erin-trout.cyclic.app/paynow" method="POST">
                             {/* all input type="hidden" is the actual data that is passed to paynow api */}
                             {/* <input type="hidden" name="order_id" value={this.state.id} /> */}
                             <input type="hidden" name="id" value={this.state.orderId} />

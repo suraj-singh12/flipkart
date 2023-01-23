@@ -4,10 +4,10 @@ import OrderDisplay from './orderDisplay';
 import Header from '../../header';
 import Footer from '../../Footer';
 
-const url = 'https://app2fkartapi.herokuapp.com/orders/get';
-// https://app2fkartapi.herokuapp.com/orders/get/alpha1@alpha.com
-const updateUrl = 'https://app2fkartapi.herokuapp.com/orders/update';
-// https://app2fkartapi.herokuapp.com/orders/update/2575
+const url = 'https://crazy-dove-yoke.cyclic.app/orders/get';
+// https://crazy-dove-yoke.cyclic.app/orders/get/alpha1@alpha.com
+const updateUrl = 'https://crazy-dove-yoke.cyclic.app/orders/update';
+// https://crazy-dove-yoke.cyclic.app/orders/update/2575
 
 class ViewOrder extends Component {
     constructor(props) {

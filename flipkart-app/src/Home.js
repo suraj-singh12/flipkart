@@ -11,9 +11,9 @@ import OwlCarousel from 'react-owl-carousel';
 import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
 
-
-const url = 'https://app2fkartapi.herokuapp.com/item/';
-// https://app2fkartapi.herokuapp.com/item/clothes
+// item fetching api
+const url = 'https://crazy-dove-yoke.cyclic.app/item/';
+// https://crazy-dove-yoke.cyclic.app/item/clothes
 
 class Home extends React.Component {
 

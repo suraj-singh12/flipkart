@@ -5,7 +5,7 @@ import './Header.css';
 import Icons from './icons.json';
 
 
-const url = 'https://loginappfkart.herokuapp.com/api/auth/userInfo';
+const url = 'https://zany-dog-tank-top.cyclic.app/api/auth/userInfo';
 
 class Header extends Component {
     constructor(props) {
@@ -28,7 +28,7 @@ class Header extends Component {
 
         let items = '';
         // list all items that api has
-        axios.get('https://app2fkartapi.herokuapp.com/list-apis')
+        axios.get('https://crazy-dove-yoke.cyclic.app/list-apis')
             .then(response => {
                 items = response.data;
             })

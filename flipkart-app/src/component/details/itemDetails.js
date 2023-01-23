@@ -5,10 +5,10 @@ import Footer from '../../Footer';
 
 import './itemDetails.css';
 
-const url = 'https://app2fkartapi.herokuapp.com/item/';
-// 'https://app2fkartapi.herokuapp.com/item/clothes?itemId=12';
-const wishlistUrl = 'https://app2fkartapi.herokuapp.com/wishlist/add';
-const addToCartUrl = 'https://app2fkartapi.herokuapp.com/cart/add'
+const url = 'https://crazy-dove-yoke.cyclic.app/item/';     // item fetching api
+// 'https://crazy-dove-yoke.cyclic.app/item/clothes?itemId=12';
+const wishlistUrl = 'https://crazy-dove-yoke.cyclic.app/wishlist/add';
+const addToCartUrl = 'https://crazy-dove-yoke.cyclic.app/cart/add'
 
 class ItemDetails extends Component {
     constructor(props) {

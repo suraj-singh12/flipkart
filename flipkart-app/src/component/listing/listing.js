@@ -7,16 +7,16 @@ import { Link } from 'react-router-dom';
 import './listing.css';
 import Footer from '../../Footer';
 
-const url = 'https://app2fkartapi.herokuapp.com/item/';
-const popularityUrl = 'https://app2fkartapi.herokuapp.com/filter/popularity/';
-const priceUrl = 'https://app2fkartapi.herokuapp.com/filter/price/';
-// https://app2fkartapi.herokuapp.com/filter/price/bags?sort=-1
-const ratingUrl = 'https://app2fkartapi.herokuapp.com/filter/rating/';
-// https://app2fkartapi.herokuapp.com/filter/rating/pillows/3
-const offerUrl = 'https://app2fkartapi.herokuapp.com/filter/offers/';
-// https://app2fkartapi.herokuapp.com/filter/offers/mouses
-const discountUrl = 'https://app2fkartapi.herokuapp.com/filter/discount/';
-// https://app2fkartapi.herokuapp.com/filter/discount/powerbanks/50
+const url = 'https://crazy-dove-yoke.cyclic.app/item/';     // item fetching api
+const popularityUrl = 'https://crazy-dove-yoke.cyclic.app/filter/popularity/';
+const priceUrl = 'https://crazy-dove-yoke.cyclic.app/filter/price/';
+// https://crazy-dove-yoke.cyclic.app/filter/price/bags?sort=-1
+const ratingUrl = 'https://crazy-dove-yoke.cyclic.app/filter/rating/';
+// https://crazy-dove-yoke.cyclic.app/filter/rating/pillows/3
+const offerUrl = 'https://crazy-dove-yoke.cyclic.app/filter/offers/';
+// https://crazy-dove-yoke.cyclic.app/filter/offers/mouses
+const discountUrl = 'https://crazy-dove-yoke.cyclic.app/filter/discount/';
+// https://crazy-dove-yoke.cyclic.app/filter/discount/powerbanks/50
 
 class Listing extends React.Component {
 
