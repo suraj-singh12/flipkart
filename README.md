@@ -4,8 +4,8 @@ This is a flipkart like e-commerce website.
 
 It uses all the MERN stack technologies to make it an actually functioning site like the real flipkart site.
 
-## To get started
-### Clone the repo
+# To get started
+## Clone the repo
 ```git
 git clone https://github.com/suraj-singh12/flipkart-project/
 ```
@@ -14,28 +14,32 @@ git clone https://github.com/suraj-singh12/flipkart-project/
 cd flipkart-project/flipkart-app
 ```
 
-## Dependencies 
+# Dependencies 
 ```git
 npm install
 ```
 
-### Run the project
+## Run the project
 ```npm 
 npm start
 ```
 
-### Check the terminal window for connected port number and link like below: 
+## Check the terminal window for connected port number and link like below: 
 ```
 http://localhost:port-number
 ```
 
-### Paste the link in browser and done !
+## Paste the link in browser and done !
 
-## Additional repositories that make it functional :
+# Additional repositories that make it functional :
 
-Data Repo: Contains tools and scripts that I wrote to filter out and modify scrapped data [here](https://github.com/suraj-singh12/flipkart-data)
+Data Repo
 
-APIs Repo: Contains the REST APIs that this app consumes [here](https://github.com/suraj-singh12/flipkart-api)
+Contains tools and scripts that I wrote to filter out and modify scrapped data [here](https://github.com/suraj-singh12/flipkart-data)
+
+APIs Repo
+
+Contains the REST APIs that this app consumes [here](https://github.com/suraj-singh12/flipkart-api)
 
 
 ## Live Demo
