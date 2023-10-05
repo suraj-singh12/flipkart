@@ -2,7 +2,7 @@
 
 This is a flipkart like e-commerce website. 
 
-It uses all the MERN stack technologies to make it an actually functioning site like the real flipkart site.
+It uses all the MERN (Mongodb, Express, React, Node) stack technologies to make it an actually functioning site like the real flipkart site.
 
 # To get started
 ## Clone the repo
