@@ -4,7 +4,7 @@ import Header from '../../header';
 import Footer from '../../Footer';
 import './loginSignup.css';
 
-const url = "https://zany-dog-tank-top.cyclic.app/api/auth/login";
+const url = "https://login-auth-k7a7.onrender.com/api/auth/login";
 
 class Login extends Component {
     constructor(props) {

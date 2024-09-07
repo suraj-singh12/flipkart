@@ -4,9 +4,9 @@ import { Link } from 'react-router-dom';
 import Header from '../../header';
 import Footer from '../../Footer';
 
-const wishlistUrl = 'https://crazy-dove-yoke.cyclic.app/wishlist/get/';
-// https://crazy-dove-yoke.cyclic.app/wishlist/get/alpha1@alpha.com
-const wishlistRemoveUrl = ' https://crazy-dove-yoke.cyclic.app/wishlist/delete/';
+const wishlistUrl = 'https://flipkart-api-f8gv.onrender.com/wishlist/get/';
+// https://flipkart-api-f8gv.onrender.com/wishlist/get/alpha1@alpha.com
+const wishlistRemoveUrl = ' https://flipkart-api-f8gv.onrender.com/wishlist/delete/';
 
 class Wishlist extends React.Component {
     constructor(props) {

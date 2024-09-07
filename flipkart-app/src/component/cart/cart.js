@@ -4,11 +4,11 @@ import { Link } from 'react-router-dom';
 import Header from '../../header';
 import Footer from '../../Footer';
 
-const cartUrl = 'https://crazy-dove-yoke.cyclic.app/cart/get/';
-// https://crazy-dove-yoke.cyclic.app/cart/get/alpha1@alpha.com
-const cartRemoveUrl = ' https://crazy-dove-yoke.cyclic.app/cart/delete/';
-//  https://crazy-dove-yoke.cyclic.app/cart/delete/alpha14@alpha.com/keyboard/18
-const placeOrderUrl = 'https://crazy-dove-yoke.cyclic.app/orders/add';
+const cartUrl = 'https://flipkart-api-f8gv.onrender.com/cart/get/';
+// https://flipkart-api-f8gv.onrender.com/cart/get/alpha1@alpha.com
+const cartRemoveUrl = ' https://flipkart-api-f8gv.onrender.com/cart/delete/';
+//  https://flipkart-api-f8gv.onrender.com/cart/delete/alpha14@alpha.com/keyboard/18
+const placeOrderUrl = 'https://flipkart-api-f8gv.onrender.com/orders/add';
 
 class Cart extends React.Component {
     constructor(props) {

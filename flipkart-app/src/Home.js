@@ -12,8 +12,8 @@ import 'owl.carousel/dist/assets/owl.carousel.css';
 import 'owl.carousel/dist/assets/owl.theme.default.css';
 
 // item fetching api
-const url = 'https://crazy-dove-yoke.cyclic.app/item/';
-// https://crazy-dove-yoke.cyclic.app/item/clothes
+const url = 'https://flipkart-api-f8gv.onrender.com/item/';
+// https://flipkart-api-f8gv.onrender.com/item/clothes
 
 class Home extends React.Component {
 

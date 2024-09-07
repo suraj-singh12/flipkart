@@ -4,12 +4,12 @@ import Header from '../../header';
 import Footer from '../../Footer';
 import axios from 'axios';
 
-const url = "https://zany-dog-tank-top.cyclic.app/api/auth/login";
-const userDataUrl = "https://zany-dog-tank-top.cyclic.app/api/auth/userInfo";
-const addressChangeUrl = 'https://crazy-dove-yoke.cyclic.app/updateAddress/';
-const itemUrl = 'https://crazy-dove-yoke.cyclic.app/item/';     // item fatching api
-// https://crazy-dove-yoke.cyclic.app/updateAddress/suraj@gmail.com?address=new-address-added
-const placeOrderUrl = 'https://crazy-dove-yoke.cyclic.app/orders/add';
+const url = "https://login-auth-k7a7.onrender.com/api/auth/login";
+const userDataUrl = "https://login-auth-k7a7.onrender.com/api/auth/userInfo";
+const addressChangeUrl = 'https://flipkart-api-f8gv.onrender.com/updateAddress/';
+const itemUrl = 'https://flipkart-api-f8gv.onrender.com/item/';     // item fatching api
+// https://flipkart-api-f8gv.onrender.com/updateAddress/suraj@gmail.com?address=new-address-added
+const placeOrderUrl = 'https://flipkart-api-f8gv.onrender.com/orders/add';
 
 class Checkout extends Component {
 
@@ -93,7 +93,7 @@ class Checkout extends Component {
     }
 
     changeAddress = (event) => {
-        // https://crazy-dove-yoke.cyclic.app/updateAddress/suraj@gmail.com?address=new-address-added
+        // https://flipkart-api-f8gv.onrender.com/updateAddress/suraj@gmail.com?address=new-address-added
         event.preventDefault();
 
         console.log('in change address')

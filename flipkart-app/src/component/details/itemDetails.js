@@ -5,10 +5,10 @@ import Footer from '../../Footer';
 
 import './itemDetails.css';
 
-const url = 'https://crazy-dove-yoke.cyclic.app/item/';     // item fetching api
-// 'https://crazy-dove-yoke.cyclic.app/item/clothes?itemId=12';
-const wishlistUrl = 'https://crazy-dove-yoke.cyclic.app/wishlist/add';
-const addToCartUrl = 'https://crazy-dove-yoke.cyclic.app/cart/add'
+const url = 'https://flipkart-api-f8gv.onrender.com/item/';     // item fetching api
+// 'https://flipkart-api-f8gv.onrender.com/item/clothes?itemId=12';
+const wishlistUrl = 'https://flipkart-api-f8gv.onrender.com/wishlist/add';
+const addToCartUrl = 'https://flipkart-api-f8gv.onrender.com/cart/add'
 
 class ItemDetails extends Component {
     constructor(props) {
